@@ -158,7 +158,6 @@ The purposes of educational assessment 163 Table 1. An illustration of the varie
 
 | 
 **TABLE 1.**
-
 |Category of purpose/use | Typical user group | Decision, action or process supported by  |Illustrative comment on characteristics of assessment results| 
 |________________________|____________________|__________assessment results _____________ | (assessment design implications)_____________________________|
 | Social Evaluation      | Students, peers,   | Individual results are used to evaluate   | Entirely norm-referenced reporting systems can be            |

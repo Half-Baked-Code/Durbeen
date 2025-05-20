@@ -1,5 +1,3 @@
-
-
 **Page 2**
 # Criteria, comparison and past experiences: how do teachers make judgements when marking coursework? 
 Victoria Crisp* Research Division, Cambridge Assessment, Cambridge, UK ( Received 4 November 2011; ﬁ nal version received 5 October 2012 ) 

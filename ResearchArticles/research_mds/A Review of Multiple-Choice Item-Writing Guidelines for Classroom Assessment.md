@@ -1,5 +1,3 @@
-
-
 **Page 1**
 
 Applied Measurement in Education
@@ -8,7 +6,7 @@ ISSN: 0895-7347 (Print) 1532-4818 (Online) Journal homepage: www.tandfonline.com
 # A Review of Multiple-Choice Item-Writing Guidelines for Classroom Assessment
 Thomas M. Haladyna, Steven M. Downing & Michael C. Rodriguez To cite this article: Thomas M. Haladyna, Steven M. Downing & Michael C. Rodriguez (2002) A Review of Multiple-Choice Item-Writing Guidelines for Classroom Assessment, Applied Measurement in Education, 15:3, 309-333, DOI: 10.1207/S15324818AME1503_5 To link to this article: https://doi.org/10.1207/S15324818AME1503_5 Published online: 07 Jun 2010. Submit your article to this journal Article views: 8177 View related articles Citing articles: 85 View citing articles Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=hame20 
 
- **Page 2**
+**Page 2**
 
 
 # A Review of Multiple-Choice Item-Writing Guidelines for Classroom Assessment
@@ -100,7 +98,7 @@ Each of the 31 item-writing guidelines was subjected to the same validation proc
 Table 2 presents a summary of our tabulations for 31 guidelines. Guideline 10, which deals with the validity of various MC item formats, was omitted because it is treated separately in another section.   
 
 
-** Page 7**
+**Page 7**
 **TABLE 2**
 | Frequency of Citation for Each Item-Writing Guideline|    For (%)| Uncited (%) | Against (%) |
 | 1. Singe content and behavior                        |        74 |     26      |           0 |
