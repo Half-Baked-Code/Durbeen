@@ -1,4 +1,4 @@
-# **STANDARDS** *f o r E d u c a t i o n a l a n d Psyc h o l o gic a l Tes t i n g*
+# **STANDARDS for Educational and Psychological Testing
 
 American Educational Research Association American Psychological Association National Council on Measurement in Education Copyright © 2014 by the American Educational Research Association, the American Psychological Association, and the National Council on Measurement in Education. All rights reserved. No part of this publication may be reproduced or distributed in any form or by any means now known or later developed, including, but not limited to, photocopying or the process of scanning and digitization, transmitted, or stored in a database or retrieval system, without the prior written permission of the publisher.
 
@@ -6,7 +6,7 @@ Published by the American Educational Research Association 1430 K St., NW, Suite
 
 Printed in the United States of America
 
-### Prepared by the
+ Prepared by the
 
 Joint Committee on the *Standards for Educational and Psychological Testing* of the American Educational Research Association, the American Psychological Association, and the National Council on Measurement in Education
 
@@ -96,7 +96,7 @@ LB3051.A693 2014
 | Cluster  4.  Safeguards  Against  Inappropriate  Score  Interpretations  for  Intended       | Uses70 |
 |                                                                                                              |        |
 
-### **PART II [OPERATIONS](#page-83-0)**
+### **PART II OPERATIONS**
 
 | 4.  Test  Design  and  Development75                                                              |  |
 |-----------------------------------------------------------------------------------------------------------|--|
