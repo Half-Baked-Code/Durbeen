@@ -1,0 +1,63 @@
+[
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\canapicture_page6_image1.jpeg",
+    "description": "This image displays two versions of a question about insect populations in a woodland area. Both versions feature a table titled `Name of Insect Species present in Woodland Area` with rows for Greenfly, Wasp, Ladybird, and Dung Beetle, and columns for May, June, July, and August, showing numbers in thousands. The specific question asked is `What was the average number of greenfly present per 10 km² in July?`. This image is useful for queries related to data tables, insect population statistics, or specific questions about greenfly numbers`"
+  },
+  {
+    "url": "ResearchArticles\\research_mds\\extracted_images\\canapicture_page7_image1.jpeg",
+    "description": "This image shows a drawing of a statue made of sandstone in a park-like setting. The accompanying question asks to `Describe two ways in which the statue will look different because of weathering.` This image is suitable for queries about weathering, erosion, changes to materials over time, or descriptive questions about a statue."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\canapicture_page9_image1.jpeg",
+    "description": "This image presents two versions of a question about a children's meal. Both versions include a table detailing the ingredients for Chicken nuggets, French Fries, and Milkshake. The question posed is `Give two reasons why it would not be advisable for a child to eat this meal every day.` This image is relevant for queries about nutrition, healthy eating, food ingredients, or reasons to limit certain foods."
+  },
+   {
+    "url": "ResearchArticles\research_mds\\extracted_images\\canapicture_page10_image1.jpeg",
+    "description": "This image has two distinct versions. Version 1 discusses the acidity in the mouth after eating and the use of toothpaste to neutralize it, showing an image of various bathroom products. It asks to identify three products made when sodium carbonate reacts with hydrochloric acid. Version 2 discusses acid in paper and its slow decay, showing a bookshelf, and asks to identify three products made when sodium carbonate reacts with hydrochloric acid in the context of neutralizing acid in books. This image is useful for queries related to acids and bases, chemical reactions, sodium carbonate, toothpaste, or paper preservation"
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\canapicture_page11_image1.jpeg",
+    "description": "This image also has two versions related to diet. Version 1 shows a can of `Corned Beef` and states it's rich in protein, then asks to name two other major components of a balanced diet. Version 2 directly states that protein is a major component of a balanced diet and asks to name the other two major components. This image is relevant for queries about balanced diets, nutrition, macronutrients, and food components."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\canapicture_page12_image1.jpeg",
+    "description": "This image presents two versions of a physics question about a uniform beam balanced on a pivot with two weights, W1 and W2, hung at equal distances. Both versions show a diagram of the beam and weights, with Version 2 depicting the beam tilting downwards at end B. The question asks to tick the correct statement regarding the weights (W1 weighs the same as W2, W1 is heavier than W2, or W1 is heavier than W2). This image is useful for queries related to levers, balance, moments, weights, and forces in physics."
+  },
+   {
+    "url": "ResearchArticles\research_mds\\extracted_images\\criteria_image_1.jpeg",
+    "description": "This image is a stacked bar chart titled `Figure 1. 'When marking coursework, how often do you make comparisons between pieces of work from different students within your class?'- Responses by subject.` The x-axis lists various academic subjects (Business Studies/Economics, Design & Technology, English/English Literature, Health & Social Care, History, IT/Computing, Music, Physical Education, Sciences). The y-axis represents percentage (%). The legend indicates categories: 'always', 'usually', 'sometimes', 'occasionally', and 'never'. This image is suitable for queries about educational practices, assessment methods, student work comparison, and teaching methodologies across different subjects."
+  },
+  {
+    "url": "ResearchArticles\\research_mds\\extracted_images\\criteria_image_2.jpeg",
+    "description": "This image is a stacked bar chart titled `Figure 2. 'When marking coursework, how often do you compare the work of the student with actual examples of coursework from previous students?' - Responses by subject.` Similar to criteria_image_1.jpeg, the x-axis lists academic subjects, and the y-axis represents percentage. The legend also indicates 'always', 'usually', 'sometimes', 'occasionally', and 'never'. This image is relevant for queries about educational assessment, use of exemplars, student progress tracking, and marking criteria."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\criteria_image_3.jpeg",
+    "description": "This image is a stacked bar chart with the title cut off, but it appears to be another chart related to assessment practices based on its visual similarity to the previous two. The x-axis lists academic subjects (Business Studies / Economics, Design & Technology, English / English Literature, Health & Social Care, History, IT / Computing, Music, Physical Education, Sciences). The y-axis represents percentage (%). The legend indicates 'always', 'usually', 'sometimes', 'occasionally', and 'never'. This image is useful for queries concerning assessment, subject-specific marking, and teaching methodologies"
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\criteria_image_4.jpeg",
+    "description": "This image is a stacked bar chart showing the percentage of children taught by their parents, categorized by `Years in teaching` (0-5, 6-10, 11-20, 21+). The y-axis represents percentage (%). The legend shows categories: 'Yes', 'Partly', and 'No'. This image is relevant for queries about homeschooling, parental involvement in education, teaching experience, and educational demographics."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\criteria_image_5.jpeg",
+    "description": "This image is a stacked bar chart titled `Teacher rankings of the importance of different experiences to their understanding of standards.` The x-axis lists various `Experiences` such as `Internal moderation meetings,` `External moderation meetings,` `Reviewing student work (alone),` `Developing mark schemes,` and `Reviewing mark schemes`, among others. The y-axis represents the percentage (%). The legend indicates categories for ranking: `Ranked 1st`, `Ranked 2nd`, `Ranked 3rd`,`Ranked 6th`, `Ranked 7th`, and `Ranked 8th`. This image is useful for queries related to teacher professional development, understanding educational standards, assessment practices, moderation, and the perceived value of different learning experiences for educators."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\deficiency_page2_image1.jpeg",
+    "description": "This image displays a circular chain diagram labeled `Figure 1. The Signal Processing Metaphor`. The chain links are labeled with terms like `Student`, `Administration`,`Task Performances`,`Scoring`,`Combined Scores`,`Aggregation`, `Generalization`,`Assessed Domain Scores`,`Extrapolation`, `Evaluation`,`Target Domain Scores`,`Actions`, and `Impact`. It visually represents a cyclical process related to student assessment and educational administration. This image is suitable for queries about educational models, assessment frameworks, signal processing metaphors in education, or the relationship between different stages of learning and evaluation."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\languageeffects_page16_image1.jpeg",
+    "description": "This image presents a set of moon phases, titled `Figure 2. Lunar phases and exemplar test items in different languages (age 12-13)`. It shows eight phases of the moon: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, and waning crescent, depicted visually with their names in English, French, and Arabic. Below the moon phases are example test questions in English, French, and Arabic, asking to identify specific moon phases from photos. This image is valuable for queries related to lunar phases, astronomy education, multilingual test items, cross-cultural assessment, or language effects on learning"
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\languageeffects_page20_image1.jpeg",
+    "description": "This image displays two line graphs side-by-side, labeled `Figure 3. English and Arabic versions of graphs in PISA unit S114 (age 15)`. Both graphs show `Carbon dioxide emission (thousand millions of tonnes)` on the y-axis against `years` on the x-axis, depicting an increasing trend. Below each graph is an `Excerpt of Unit S114`, with the English version on the left and the Arabic version on the right, both describing a student named André interested in the relationship between Earth's temperature and carbon dioxide emission. This image is highly relevant for queries about cross-cultural graphical representation, language in science education, PISA assessments, carbon dioxide trends, climate change data visualization, or English and Arabic educational materials."
+  },
+  {
+    "url": "ResearchArticles\research_mds\\extracted_images\\macromicro_page8_image1.jpeg",
+    "description": "This image displays a diagram showing a `MICRO-VALIDATION LENS` and a `MACRO-VALIDATION LENS` positioned on a `MICRO-MACRO VALIDATION CONTINUUM`. The Micro-Validation Lens is described as `underpinning validity claims`, `narrow, targeted evaluation`, and `most diagnostic information`. The Macro-Validation Lens is described as `overarching validity claim`,`broad, holistic evaluation`, and `least diagnostic information`. Below the continuum, there are several boxes connected by arrows representing different validation processes, such as `candidate authentication process evaluation`,`marker standardisation process evaluation`,`inter-marker comparison`,`test-criterion correlation analysis`, and `test-criterion correlation analysis`. This image is useful for queries related to validation, evaluation frameworks, assessment validity, micro and macro analysis, educational research methodology, or quality assurance in testing."
+  }
+
+]
