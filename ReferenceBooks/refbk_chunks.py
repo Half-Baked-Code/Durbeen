@@ -160,14 +160,14 @@
 # print(f"✅ {len(chunks)} chunks saved to southeast_missouri_chunks.json.")
 
 
-# ----------------------- STANDARDS FOR EDUCATIONAL AND PSYCHOLOGICAL TESTING -----------------------
+# ----------------------- STANDARDS FOR EDUCATIONAL AND PSYCHOLOGICAL TESTING, scoring rubrics, clay and root -----------------------
 import re
 import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # Load the Markdown content
 with open(
-    r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\ReferenceBooks\classroom_assessment\Classroom Assessment for Student Learning_ Doing It Right - Using It Well by Jan Chappuis.md",
+    r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\ReferenceBooks\clay_and_root\Clay and Root (2001) Is this a trick question - A short guide to writing effective test questions.md",
     "r",
     encoding="utf-8",
 ) as f:
@@ -326,9 +326,7 @@ while i < len(lines):
 flush_current_text()
 
 # Save to JSON
-with open(
-    "classroom_assessment_for_student_learning_chunks.json", "w", encoding="utf-8"
-) as f:
+with open("clay_and_root_chunks.json", "w", encoding="utf-8") as f:
     json.dump(chunks, f, indent=2, ensure_ascii=False)
 
 print(f"✅ {len(chunks)} chunks saved to standards_for_edu_psysch_testing_chunks.json.")
