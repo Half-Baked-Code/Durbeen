@@ -1,6 +1,7 @@
+# Classroom Assessment for Student Learning Jan Chappuis et al. Second Edition
+
 ![](_page_0_Picture_1.jpeg)
 
-Classroom Assessment for Student Learning Jan Chappuis et al. Second Edition
 
 ![](_page_0_Picture_3.jpeg)
 
@@ -14,7 +15,7 @@ Classroom Assessment for Student Learning Jan Chappuis et al. Second Edition
 
 ![](_page_1_Picture_2.jpeg)
 
-#### **Pearson Education Limited**
+ **Pearson Education Limited**
 
 ISBN 10: 1-292-02120-9 ISBN 13: 978-1-292-02120-1
 
@@ -32,12 +33,11 @@ All trademarks used herein are the property of their respective owners. The use 
 
 ISBN 10: 1-292-02120-9 ISBN 13: 978-1-292-02120-1
 
-### **British Library Cataloguing-in-Publication Data**
+**British Library Cataloguing-in-Publication Data**
 
 A catalogue record for this book is available from the British Library
 
-# Table of Contents
-
+**TABLE-Table of Contents**
 | 1. Classroom Assessment: Every Student a Learner Jan Chappius            | 1   |
 |-----------------------------------------------------------------------------|-----|
 | 2. Clear Purpose: Assessment for and of Learning Jan Chappius            | 21  |
@@ -53,7 +53,7 @@ A catalogue record for this book is available from the British Library
 | 12. Portfolios Jan Chappius                                              | 403 |
 | References Jan Chappius                                                  | 427 |
 
-# Chapter 1: Classroom Assessment: Every Student a Learner
+## Chapter 1: Classroom Assessment: Every Student a Learner
 
 *Used with skill, assessment can motivate the reluctant, revive the discouraged, and thereby increase, not simply measure, achievement.* 
 
@@ -72,14 +72,14 @@ Without a foundation of what we call *classroom assessment literacy* , few if an
 
 We have framed these components of assessment literacy, derived from the expertise of the measurement community, in terms of five keys to assessment quality. Each chapter will focus on one or more of these keys to quality. Each chapter includes activities you can complete individually, with a partner, or with a team to put the principles of assessment literacy into action in your classroom. By the end of your study, you will have the expertise needed to handle any classroom assessment challenge.
 
-## **Chapter 1 Learning Targets**
+### **Chapter 1 Learning Targets**
 
 At the end of this chapter, you will know the following:
 
 - What the five keys to classroom assessment quality are
 - Why they are important to assessment accuracy and effective use of assessment information
 
-## **CLASSROOM ASSESSMENT LITERACY**
+### **CLASSROOM ASSESSMENT LITERACY**
 
 We define *classroom assessment literacy* as the knowledge and skills needed to do two things: (1) gather *accurate* information about student achievement, and (2) use the assessment process and its results *effectively* to improve achievement ( Figure 1.1 ).
 
@@ -104,7 +104,7 @@ You may be surprised to know that teachers can spend up to 30 percent or more of
 
 When viewed as a larger picture, we see that the accuracy of assessment items, tasks, and scoring rubrics is only one slice of the pie. Prerequisites must be in place to ensure accuracy of results. In addition, classroom assessment quality requires that we use the assessment process and its results effectively. If our assessment practices don't result in higher achievement, we would say a component of quality is missing. And, because accurate assessment skillfully used benefits learning, this expanded definition of classroom assessment literacy must become part of our understanding of what it means to teach well. Figure 1.2 shows the expanded definition as an "Assessment Literacy Pie."
 
-## **KEYS TO QUALITY CLASSROOM ASSESSMENT**
+### **KEYS TO QUALITY CLASSROOM ASSESSMENT**
 
 All of the pieces contributing to sound classroom assessment instruments and practices are built on a foundation of the following five keys to quality:
 
@@ -122,7 +122,7 @@ Effective use
 
 Figure 1.3 shows a graphic representation of the five keys to quality. We will use this figure as our "mall map" throughout the book to indicate which key or keys to quality each chapter addresses.
 
-### **Key 1: Clear Purpose**
+#### **Key 1: Clear Purpose**
 
 We assess, in part, to gather information about student learning that will inform instructional decisions. Teachers and students make decisions every day that drive learning they need regular information about what each student has and has not yet learned. We make some decisions frequently, such as when we decide what comes next in student learning within lessons or when we diagnose problems. Typically, these decisions, made day to day in the classroom based on evidence gathered from classroom activities and assessments, are intended to support student learning—to help students learn more. These are known collectively as *formative assessment* practices: formal and informal processes teachers and students use to gather evidence for the purpose of improving learning.
 
@@ -149,13 +149,13 @@ summative. In any assessment context, whether informing decisions along the way 
 
 Chapter 2 describes the key users of classroom assessment information and their information needs. It also explains differences between formative and summative assessment (assessment *for* and *of* learning), the reasons for engaging in assessment *for* learning, and when to use each.
 
-### **Key 2: Clear Targets**
+#### **Key 2: Clear Targets**
 
 Besides beginning with intended use in mind, we must also start the assessment process with a clear sense of the learning to be assessed—the achievement expectations we hold for our students, the content standards at the focus of instruction. We call these *learning targets* . When our learning targets are clear to us as teachers, the next step is to ensure they are also clear to students. We know that students' chances of success improve when they start out with a vision of where they are headed.
 
 Chapter 3 defines kinds of learning targets, explains how to turn broad statements of content standards into classroom-level targets, and shows ways to make them clear to students.
 
-#### **From the Field 1.1**
+##### **From the Field 1.1**
 **Jim Lloyd**
 
 They say that "what gets measured gets done." While I believe there is some merit to this, I believe that a better way of phrasing this work is to say that "what is worthwhile, practical, and useful endures." Assessment *for* learning passes the worthwhile, practical, and usefulness tests.
@@ -170,7 +170,7 @@ We believe that in order for systemic change to occur and endure it must be embr
 
 > **Jim Lloyd, Ed.D.,** *Assistant Superintendent*  **Olmsted Falls City Schools, Olmsted, OH January 2011**
 
-### **Key 3: Sound Assessment Design**
+#### **Key 3: Sound Assessment Design**
 
 Assessments can accurately or inaccurately reflect the current level of student learning. Obviously, our goal always is to generate accurate information. The previous two keys, *clear purpose* and *clear targets* , lay the foundation for quality assessment by telling us what needs to be assessed and what kind of results are needed. Next comes the challenge of creating an assessment that will deliver those results. This requires an assessment method capable of reflecting the intended target. Will it be selected response, written
 
@@ -182,19 +182,19 @@ After we have chosen a method, we develop it with attention to three other quali
 
 Chapters 5 through 8 expand on these accuracy requirements for each individual assessment method: selected response ( Chapter 5 ), written response ( Chapter 6 ), performance assessment ( Chapter 7 ), and personal communication ( Chapter 8 ).
 
-### **Key 4: Effective Communication**
+#### **Key 4: Effective Communication**
 
 Once the information needs are clear, the learning targets are clear, and the information gathered is accurate, an assessment's results must be communicated to the intended user(s) in a timely and understandable way. When we do this well, we keep track of both formative and summative assessment results, and devise sharing options suited to the needs of whoever will act on the results. Communication of formative assessment information provides the kind of descriptive feedback learners need to grow. Communication in a summative assessment context leaves all recipients understanding the sufficiency of student learning such as when we convert summative assessment information into grades that accurately reflect achievement at a point in time.
 
 Chapters 9 through 12 describe formative and summative record-keeping procedures, sound grading practices, and uses of portfolios and student-involved conferences to expand our communication options.
 
-### **Key 5: Student Involvement**
+#### **Key 5: Student Involvement**
 
 Student involvement is the central shift needed in our traditional view of assessment's role in teaching and learning. The decisions that contribute the most to student learning success are made, not by adults working in the system, *but by students themselves* . *Students* decide whether the learning is worth the effort required to attain it. *Students* decide whether they believe they are capable of reaching the learning targets. *Students* decide whether to keep learning or to quit working. It is only when students make these decisions in the affirmative that our instruction can benefit their learning. So an essential part of our  classroom assessment job is to keep students in touch with their progress as learners in ways that keep them believing in themselves as learners so they will keep trying.
 
 Techniques for involving students are woven throughout the chapters. Chapter 2 describes the research on the positive impact of student involvement on motivation and achievement. Chapter 3 provides specific ways to make learning targets clear to students. Chapters 5 through 8 include method-specific suggestions for involving students in self-assessment and goal setting. Chapters 9 , 11 , and 12 offer techniques for involving students in keeping track of and communicating about their own learning.
 
-#### **From the Field 1.2**
+##### **From the Field 1.2**
 **Janna Smith**
 
 I used to think of assessment as an "ending" to a learning event. When preparing to teach a unit, my planning primarily consisted of looking at the objectives and crafting activities that would engage all students. The word *assessment* was a noun that referred only to a task generally used at the end to determine a grade. The things students were asked to do as part of an endpoint assessment task may—or may not—have been aligned to the key objectives. Items on an end-of-unit test were usually selected response or short-answer/essay, but for the most part that was just for variety's sake.
@@ -209,7 +209,7 @@ Making assessment *for* learning come to life in my own classroom has renewed my
 
 > **Janna Smith,** *classroom teacher*  **Far Hills Country Day School, Far Hills, NJ January 2011**
 
-## **CLASSROOM ASSESSMENT COMPETENCIES**
+### **CLASSROOM ASSESSMENT COMPETENCIES**
 
 Our mission with this book is to help improve the classroom assessment practices of all teachers wanting to do so. If we are successful, together we'll move assessment practices in the classroom from a collection of less-effective practices to a model that is grounded in the research of how to use classroom assessment to improve student learning. Figure 1.5 illustrates key shifts in thought and practice that are hallmarks of classroom assessment competency.
 
@@ -225,7 +225,7 @@ The teacher competencies listed in Figure 1.6 represent the big picture of what 
 | "Mystery" assessments, where students don't         | Transparency in assessments, where students know   |  |  |
 | know in advance what they are accountable for       | in advance what they will be held accountable for  |  |  |
 | learning                                            | learning                                           |  |  |
-| All assessments and assignments, including       | Some assessments and assignments "count" toward    |  |  |
+| All assessments and assignments, including          | Some assessments and assignments "count" toward    |  |  |
 | practice, "count" toward the grade                  | the grade; others are for practice or other        |  |  |
 |                                                     | formative use                                      |  |  |
 | Students as passive participants in the             | Students as active users of assessments as learning|  |  |
@@ -233,9 +233,7 @@ The teacher competencies listed in Figure 1.6 represent the big picture of what 
 | Students not finding out until the graded event what| Students being able to identify their strengths and|  |  |
 | they are good at and what they need to work on      | areas for further study during learning            |  |  |
 
-### Classroom Assessment: Every Student a Learner
-
-| FIGURE 1.6 Classroom Assessment Competencies                                                                                                                                         
+| FIGURE 1.6 Classroom Assessment Competencies                                                                                                                          
 | 1.Clear Purpose
 |Assessment processes and results serve clear and appropriate purposes.| a. Identify the key users of classroom assessment information and know    |
 |                                                                      |    what their information needs are.                                      |
@@ -250,7 +248,7 @@ The teacher competencies listed in Figure 1.6 represent the big picture of what 
 |  Learning targets are translated into assessments                    | b. Select assessment methods to match intended learning targets.          |
 |  that yield accurate results.                                        | c. Understand and apply principles of sampling learning appropriately.    |
 |                                                                      | d. Write and/or select assessment items, tasks, scoring guides, and       |
-|                                                                      |    rubrics that meet standards of quality. e. Know and avoid sources of|
+|                                                                      |    rubrics that meet standards of quality. e. Know and avoid sources of   |
 |                                                                      |    bias that distort results.                                             |
 | 4.Effective Communication                                            | a. Use assessment information to plan instruction.                        |
 |  Assessment results function to increase student achievement.        | b. Offer effective feedback to students during the learning.              |
@@ -267,7 +265,7 @@ They can be thought of as the *content standards* for this program of study. Wit
 
 We understand that these classroom assessment competencies are not entirely new. Effective teachers already know a considerable amount about assessment; these practices have always been a part of good teaching. We offer our standards of good assessment practice to provide a cognitive structure for defining the domain, and to permit you to determine where you want to deepen your own assessment expertise.
 
-## **Summary**
+### **Summary**
 
 Quality classroom assessment produces *accurate information* that is *used effectively* to increase student learning. This is the "do it right" and "use it well" of the book's title.
 
@@ -277,13 +275,13 @@ Quality classroom assessment produces *accurate information* that is *used effec
 
 These two overarching aspects of quality, *accuracy* and *effective use* , form the focus of the succeeding chapters of this book. Through the study and application of ideas in each chapter, you will learn to select, create, and use assessments that are of high quality and that engender student success.
 
-## **CHAPTER 1ACTIVITIES**
+### **CHAPTER 1 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms and materials for completing each activity appear in editable Microsoft Word format in the Chapter 1 CD file. Documents on the CD are marked with this symbol:
 
-#### **Chapter 1 Learning Targets**
+##### **Chapter 1 Learning Targets**
 
 - **1.** Know what the five keys to classroom assessment quality are
 - **2.** Know why they are important to assessment accuracy and effective use of assessment information
@@ -302,13 +300,13 @@ Activity 1.6 Reflect on Your Own Learning
 
 Activity 1.7 Set up a Growth Portfolio
 
-### **Activity 1.1 Keep a Reflective Journal**
+#### **Activity 1.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 1 .
 
 Reflective Journal Form
 
-### **Activity 1.2**Connect Your Own Experiences to the Keys to Quality**
+#### **Activity 1.2**Connect Your Own Experiences to the Keys to Quality**
 
 After reading Chapter 1 , complete this activity independently, with a partner, or with your team to understand the impact on students of sound and unsound assessment practices.
 
@@ -322,7 +320,7 @@ After reading Chapter 1 , complete this activity independently, with a partner, 
 
 Connect Own Experiences to Keys to Quality
 
-### **Activity 1. 3 Complete the Assessment Practices Inventory**
+#### **Activity 1. 3 Complete the Assessment Practices Inventory**
 
 In this independent activity, you conduct an ongoing self-assessment of your current understanding of classroom assessment practices.
 
@@ -335,7 +333,7 @@ This will provide you with an opportunity to look back and reflect on changes in
 
 Assessment Practices Inventory
 
-### **Activity 1.4 Survey Students**
+#### **Activity 1.4 Survey Students**
 
 On the CD in the Chapter 1file, you will find two sets of surveys—an elementary version and a secondary version—designed to elicit students' responses to important aspects of assessment. Each set has a pre-survey and a post-survey. The only difference between the pre- and post-surveys is the instructions; otherwise they are the same instrument. The surveys are anonymous—the information is intended to be examined and compared as a classroom set of data.
 
@@ -345,7 +343,7 @@ On the CD in the Chapter 1file, you will find two sets of surveys—an elementar
 
 ![](_page_20_FActivity 1.5igure_7.jpeg)
 
-### **Activity 1.5 Collect Samples of Student Work**
+#### **Activity 1.5 Collect Samples of Student Work**
 
 - **1.** To document students' changes in achievement throughout the course of your study, collect samples of their work from the beginning. If you teach a large number of students or a number of subjects, you may want to focus on a handful of students—one or more typical strong learners, midrange learners, and struggling learners.
 - **2.** Collect samples periodically throughout the year.
@@ -354,7 +352,7 @@ On the CD in the Chapter 1file, you will find two sets of surveys—an elementar
 
 ![](_page_20_Picture_14.jpeg)
 
-### **Activity 1.6 Reflect on Your Own Learning**
+#### **Activity 1.6 Reflect on Your Own Learning**
 
 Review the Chapter 1learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. Write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -362,7 +360,7 @@ Review the Chapter 1learning targets and select one or more that represented new
 
 Reflect on Chapter 1 Learning
 
-### **Activity 1.7 Set Up a Growth Portfolio**
+#### **Activity 1.7 Set Up a Growth Portfolio**
 
 Part A: Growth Portfolio Option
 
@@ -385,7 +383,7 @@ The portfolio entry cover sheet provided on the CD will prompt you to think abou
 
 ![](_page_22_Picture_13.jpeg)
 
-### **CD RESOURCES**
+#### **CD RESOURCES**
 
 - 1. Activity 1.1 Reflective Journal Form
 - 2. Activity 1.2 Connect Own Experiences to the Keys to Quality
@@ -397,7 +395,7 @@ The portfolio entry cover sheet provided on the CD will prompt you to think abou
 - 8. Activity 1.6 Reflect on Chapter 1 Learning
 - 9. Activity 1.7 Chapter 1 Portfolio Entry Cover Sheet
 
-# Chapter 2: Clear Purpose: Assessment *for* and *of* Learning
+## Chapter 2: Clear Purpose: Assessment *for* and *of* Learning
 
 *If we can do something with assessment information beyond using it to figure grades, we can improve learning.* 
 
@@ -407,7 +405,7 @@ Yet the reality is that most assessments in school remain summative—most "coun
 
 This chapter begins our focus on the five keys to quality with Key 1: Clear Purpose ( Figure 2.1 ). The questions of how to balance formative and summative assessments, when to use each, and why formative assessment is so important to student learning all trace back to the purpose for the assessment—who is going to use the information and how they intend to use it. This is the crux of Key 1.
 
-## **Chapter 2 Learning Targets**
+### **Chapter 2 Learning Targets**
 
 At the end of this chapter you will know the following:
 
@@ -423,10 +421,11 @@ From Chapter 2 of *Strategies Classroom Assessment for Student Learning: Doing I
 
 ![](_page_26_Figure_2.jpeg)
 
-## **A BALANCED ASSESSMENT SYSTEM**
+### **A BALANCED ASSESSMENT SYSTEM**
 
 Who uses assessment information? The first answer that may come to mind is "the teacher," followed perhaps by parents, students, administrators, and the public. They all need assessment information to make decisions, but they make different kinds of decisions. No one assessment can fill everyone's information needs; different assessments are required. In a *balanced assessment system,* the key players' formative and summative information needs are identified and assessments are planned to meet their needs. Local district assessment systems serve to promote student success when they serve both formative and summative information needs across all three levels of assessment use: classroom assessment, interim or benchmark assessment, and annual testing (Chappuis, Commodore, & Stiggins, 2010). Figure 2.2 identifies the purposes a balanced assessment system serves. Note in this figure that the different users at each level face different decisions and therefore need different kinds of information to do their jobs of (1) supporting and (2) certifying student learning.
 
+**TABLE-2.2 A Balanced Assessment System**
 | Level: Classroom Assessment  |                                                                                                                    
 | Key Issues                  | Formative Context                             | Summative Context                                              |
 | Key decision(s)             | What comes next in the student's learning?    | What standards has each student mastered? What grade does each |
@@ -450,13 +449,11 @@ Who uses assessment information? The first answer that may come to mind is "the 
 |                             | instruction next year?                        |                                                                |
 | Decision makers             | Curriculum and instructional leaders          | School and community leaders                                   |
 | Information needed          | Standards our students are struggling to      | Percent of students meeting each relevant standard             |
-|                             | master                                        |                                                                |
-
-**FIGURE 2.2** A Balanced Assessment System
+|                             | master                                        |                                                                |**FIGURE 2.2** A Balanced Assessment System
 
 *Source:* Adapted with permission from Chappuis, S., C. Commodore, & R. Stiggins, *Assessment Balance and Quality: An Action Guide for School Leaders, 3rd ed.* (Portland, OR: Pearson Assessment Training Institute, 2010), pp. 14–15 .
 
-## **IMPACT OF FORMATIVE ASSESSMENT ON ACHIEVEMENT**
+### **IMPACT OF FORMATIVE ASSESSMENT ON ACHIEVEMENT**
 
 Although Figure 2.2 balances information needs among the levels, of particular importance is how assessment information is used. Establishing a balance between formative and summative uses at the classroom and interim/benchmark levels is the most significant contributor to increased student achievement. In traditional classroom practice, most, if not all, of the assessments given have served summative purposes. And at the interim/benchmark level, even those assessments labeled as formative are often used only summatively, leading us to ask formative assessment expert Dylan Wiliam's question: "What's formative about it?"
 
@@ -482,7 +479,7 @@ Therefore, they suggest, the following practices are necessary to achieve the ga
 
  Unfortunately, none of these can be purchased as formative items or tests. They are all *practices* , not *instruments* . There is no magic test or tool—we cannot buy our way to achievement-through-assessment nirvana. Fortunately, the practices can all be learned. Even more fortunately, they are not new. Good teaching has included these components all along. However, in our accountability-saturated environment, we may have left more than children behind—we may have also left a few good teaching and assessment practices behind.
 
-### **My Classroom Then and Now 2.1**
+ **My Classroom Then and Now 2.1**
 **Kristen Gillespie**
 I used to . . .
 At the end of a class I would ask if there were any questions. I left it up to the individual to raise his or her hand to signal the level of understanding and ask questions.
@@ -499,7 +496,7 @@ Over the course of the school year, students realize that placing their sticky n
 
 *Source:* Used with permission from 6th-grade mathematics, reading, and English teacher Kristen Gillespie, Olmsted Falls City Schools, Olmsted Falls, OH, January 2011.
 
-### **Distinguishing Between Formative and Summative Assessment**
+#### **Distinguishing Between Formative and Summative Assessment**
 
 To further understand the distinction between formative and summative assessment, we come back to our definitions:
 
@@ -513,6 +510,7 @@ We also call formative assessment by another term, *assessment* for *learning.* 
 
 By the same token, we call summative assessment *assessment* of *learning.* If you prefer the terms "formative" and "summative," feel free to use them. We will use them throughout the book interchangeably with assessment *for* learning and assessment *of* learning. Just remember to include *descriptive feedback to students* and *student involvement in the assessment process* on the formative side. See Figure 2.3 for a summary of key differences.
 
+**TABLE-2.3 Assessment of and for Learning: Summary of Key Differences**
 | FIGURE 2.3 Assessment of and for Learning: Summary of Key Differences                      
                            | Assessment Learning for                               | Assessment Learning of                                     |
 | Reasons for Assessing    | Promote increases in achievementto help students meet | Document individual or group achievement or mastery of     |
@@ -532,7 +530,7 @@ By the same token, we call summative assessment *assessment* of *learning.* If y
 
 *Source:* Adapted from *Understanding School Assessment* (pp. 17–18), by J. Chappuis & S. Chappuis, 2002, Upper Saddle River, NJ: Pearson Education. Copyright © 2006, 2002 Pearson Education. Adapted by permission.
 
-### **Why the Distinction Is Important**
+#### **Why the Distinction Is Important**
 
 Understanding the distinction between assessment *for* learning (formative assessment) and assessment *of* learning (summative assessment) is pivotal to realizing gains in student achievement. The larger gains attributable to formative assessment practices will not materialize unless certain conditions are met:
 
@@ -544,7 +542,7 @@ Understanding the distinction between assessment *for* learning (formative asses
 
  If one or more of these conditions is missing, the assessment will not cause increased learning, no matter what it is called.
 
-### **What This Has to Do with Clear Purpose**
+#### **What This Has to Do with Clear Purpose**
 
 Establishing the purpose for an assessment is the first key to assessment quality. To ensure that our assessments and assessment practices are of high quality, we ask three questions at the planning stage:
 
@@ -558,7 +556,7 @@ Establishing the purpose for an assessment is the first key to assessment qualit
 
 **WHAT CLEAR PURPOSE HAS TO DO WITH ACHIEVEMENT.** Let's think about the student for a moment. From a student's point of view, most every assignment is an assessment. Students complete assessments to meet teachers' needs, their district's needs, their state's needs, and their country's needs. How often do they experience assessments that meet *their* needs—not indirectly through the decisions that others make on their behalf, but directly? How long are we going to hammer away at increased achievement through changing teacher actions alone? Until we acknowledge the student's crucial role—if they would only show up/try/do their work—we will continue to change everything but the student. Formative assessment practices work to increase achievement because they change *the student's* interaction with assessment.
 
-## **SEVEN STRATEGIES OF ASSESSMENT** *FOR* **LEARNING**
+### **SEVEN STRATEGIES OF ASSESSMENT** *FOR* **LEARNING**
 
 Effective formative assessment practices all lead to action on the part of the teacher *and the student* that improves learning. As Chappuis (2009, p. 4 ) states, "Well-known educational researchers emphasize this point when they describe what is at the heart of formative assessment:"
 
@@ -574,8 +572,8 @@ The indispensable conditions for improvement are that the *student* comes to hol
 
 Many teachers offer feedback regularly, as suggested by the research. Many teachers have engaged students in self-assessment and goal setting. These are good ideas that have been a part of effective teaching all along. Yet sometimes these practices work and sometimes they don't. Some students are more willing and able to
 
+**TABLE-2.4 Seven Strategies of Assessment for Learning**
 | FIGURE 2.4 Seven Strategies of Assessment for Learning                                                  |
-
 | Where am I                                                                                              |
 | 1. Provide a clear and understandable vision of the learning target.                                    |
 | 2. Use examples and models of strong and weak work.                                                     |
@@ -596,17 +594,19 @@ The seven strategies, shown in Figure 2.4 , are structured around three formativ
 - Where am I now?
 - How can I close the gap?
 
-### **Where Am I Going?**
+#### **Where Am I Going?**
 
-**STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** Share with your students the learning target(s), objective(s), or goal(s), either at the outset of instruction or before they begin an independent practice activity. Use language students understand, and check to make sure they do understand. Ask, "Why are we doing this activity? What are we learning?"
+##### **STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** 
+Share with your students the learning target(s), objective(s), or goal(s), either at the outset of instruction or before they begin an independent practice activity. Use language students understand, and check to make sure they do understand. Ask, "Why are we doing this activity? What are we learning?"
 
 Convert learning targets into student-friendly language by defining key words in terms students understand. Ask students what they think constitutes quality in a product or performance learning target, then show how their thoughts match with the scoring guide or rubric you will use to define quality. Provide students with scoring guides written so they can understand them. For some learning targets, you can develop scoring criteria with them.
 
-**STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** Use models of strong and weak work—anonymous student work, work from life beyond school, and your own work. Begin with work that demonstrates strengths and weaknesses related to problems students commonly experience, especially the problems that most concern you. Ask students to analyze these samples for quality and then to justify their judgments. Use *only* anonymous work. If you have been engaging students in analyzing examples or models, they will be developing a vision of what the product or performance looks like when it's done well.
+##### **STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** 
+Use models of strong and weak work—anonymous student work, work from life beyond school, and your own work. Begin with work that demonstrates strengths and weaknesses related to problems students commonly experience, especially the problems that most concern you. Ask students to analyze these samples for quality and then to justify their judgments. Use *only* anonymous work. If you have been engaging students in analyzing examples or models, they will be developing a vision of what the product or performance looks like when it's done well.
 
  Model creating a product or performance yourself. Show students the true beginnings, the problems you run into, and how you think through decisions along the way. Don't hide the development and revision part, or students will think they are doing it wrong when it is messy for them at the beginning, and they won't know how to work through the rough patches.
 
-### **My Classroom Then and Now 2.2 Jessica Barylski, Audrey Eckert, & Robyn Eidam**
+ **My Classroom Then and Now 2.2 Jessica Barylski, Audrey Eckert, & Robyn Eidam**
 We used to . . .
 
 When concluding a writing lesson, we used to have students conduct a peer review of their work with a partner. We would provide them with checklists and tell them to use these checklists, assuming that they would know what to do. While students were giving each other feedback, we would monitor their conversations. We noticed that students simply read their writing pieces to each other and gave very few suggestions to improve their writing because they believed that was what peer review was.
@@ -625,9 +625,10 @@ First and foremost, the skills the students acquired from this activity were abo
 
 *Source:* Used with permission from 4th-grade language arts team teachers Jessica Barylski, Audrey Eckert, and Robyn Eidam, Olmsted Falls Intermediate School, Olmsted Falls, OH, January 2011.
 
-### Where Am I Now?
+#### Where Am I Now?
 
-**STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** *Effective feedback* can be defined as information provided to students that causes an improvement in learning as a result. In our current system, most of the work students do is graded and often, these grades are the only formal feedback they receive. However, grades do not function as effective feedback. They deliver a coded evaluation without specific information about what students did well or what their next steps in learning might be.
+##### **STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** 
+*Effective feedback* can be defined as information provided to students that causes an improvement in learning as a result. In our current system, most of the work students do is graded and often, these grades are the only formal feedback they receive. However, grades do not function as effective feedback. They deliver a coded evaluation without specific information about what students did well or what their next steps in learning might be.
 
  Researchers and those interpreting their work have examined what causes assessment information to function as effective feedback to students—what kind of feedback will cause the most improvement in student (Ames, 1992; Butler, 1988; Hattie & Timperley, 2007; Shepard, 2001). Their major findings include the following:
 
@@ -656,7 +657,8 @@ Remember that learners don't need to know everything that needs correcting all a
 
 Providing students with descriptive feedback is a crucial part of increasing achievement. Feedback helps students answer the question, "Where am I now?" with respect to "Where do I need to be?" You are also modeling the kind of thinking you want students to engage in when they self-assess.
 
-**STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** Teaching students to self-assess and set goals for learning is the second half of helping students answer the question, "Where am I now?" Self-assessment is a necessary part of learning, not an add-on that we do if we have the time or the "right" students. Struggling students are the right students, as much as any others. The research described previously tells us it is they who gain the most (cf. White & Frederiksen, 1998).
+##### **STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** 
+Teaching students to self-assess and set goals for learning is the second half of helping students answer the question, "Where am I now?" Self-assessment is a necessary part of learning, not an add-on that we do if we have the time or the "right" students. Struggling students are the right students, as much as any others. The research described previously tells us it is they who gain the most (cf. White & Frederiksen, 1998).
 
 Self-assessment includes having students do the following:
 
@@ -666,13 +668,14 @@ Self-assessment includes having students do the following:
 - Offer descriptive feedback to classmates.
 - Use your feedback, feedback from other students, or their own self-assessment to identify what they need to work on and set goals for future learning.
 
-### **How Can I Close the Gap?**
+#### **How Can I Close the Gap?**
 
-**STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.** When assessment information identifies a need, adjust instruction to target that need. This strategy scaffolds learning by narrowing the focus of a lesson to help students master a specific learning goal or to address specific misconceptions or problems. If you are working on a learning target having more than one aspect of quality, build competence one block at a time.
+##### **STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.**
+When assessment information identifies a need, adjust instruction to target that need. This strategy scaffolds learning by narrowing the focus of a lesson to help students master a specific learning goal or to address specific misconceptions or problems. If you are working on a learning target having more than one aspect of quality, build competence one block at a time.
 
 For example, mathematics problem solving requires choosing a workable strategy as one component. A science experiment lab report requires a statement of the hypothesis as one component. Writing requires an introduction as one component. Look at the components of quality and then teach them one part at a time, making sure that students understand that all of the parts ultimately must come together.
 
-### **My Classroom Then and Now 2.3**
+ **My Classroom Then and Now 2.3**
 **Jeff Overbay** 
 
 I used to . . .
@@ -700,7 +703,8 @@ This assessment is not given a score. This allows students to self-assess and ta
 
 *Source:* Used with permission from 7th & 8th grade science teacher Jeff Overbay, Bell County School District, Pineville, KY, 2011.
 
-**STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** This is a companion to Strategy 5. After focusing on an area of need, instead of retesting and grading, let students practice it in small segments and offer feedback focused just on that segment. This narrows the volume of feedback students need to act on at a given time and raises their chances of success in doing so, again especially for struggling learners—a time saver for you, and more instructionally powerful for students.
+##### **STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** 
+This is a companion to Strategy 5. After focusing on an area of need, instead of retesting and grading, let students practice it in small segments and offer feedback focused just on that segment. This narrows the volume of feedback students need to act on at a given time and raises their chances of success in doing so, again especially for struggling learners—a time saver for you, and more instructionally powerful for students.
 
 Some ways to help students practice revision include the following:
 
@@ -710,7 +714,8 @@ Some ways to help students practice revision include the following:
 
  These exercises will prepare students to work on a current product or performance of their own, revising for the aspect of quality being studied. You can then give feedback on just that aspect.
 
-**STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION, AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** Engage students in tracking, reflecting on, and communicating about their own progress. Any activity that requires students to reflect on what they are learning and to share their progress both reinforces the learning and helps them develop insights into themselves as learners. These kinds of activities give students the opportunity to notice their own strengths, to see how far they have come, and to feel in control of the conditions of their success. By reflecting on their learning, they deepen their understanding, and will remember it longer. In addition, it is the learner, not the teacher, who is doing the work.
+##### **STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION, AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** 
+Engage students in tracking, reflecting on, and communicating about their own progress. Any activity that requires students to reflect on what they are learning and to share their progress both reinforces the learning and helps them develop insights into themselves as learners. These kinds of activities give students the opportunity to notice their own strengths, to see how far they have come, and to feel in control of the conditions of their success. By reflecting on their learning, they deepen their understanding, and will remember it longer. In addition, it is the learner, not the teacher, who is doing the work.
 
 Here are some examples of Strategy 7 activities:
 
@@ -720,7 +725,7 @@ Here are some examples of Strategy 7 activities:
 - Students reflect on their growth. "I have become a better reader this year. I used to . . . , but now I . . . "
 - Students help plan and participate in conferences with parents and/or teachers to share their learning.
 
-### **The Seven Strategies as a Progression**
+#### **The Seven Strategies as a Progression**
 
 These seven strategies reflect a progression that unfolds in the classroom over time. Students have trouble engaging in later steps (such as self-assessment) if they have not had experience with earlier steps (understanding learning targets and reliably assessing work). Likewise, it is much harder for students to communicate their progress if the learning targets are not clear, if they are not adept at assessing their work, and if they don't know what they need to do to improve.
 
@@ -728,7 +733,7 @@ Assessment *for* learning can have a powerful impact on student achievement if c
 
 We give suggestions throughout this book for how to implement each of the seven strategies. For a more in-depth treatment, see Chappuis, 2009.
 
-## **Summary**
+### **Summary**
 
 In this chapter we have described the characteristics of a balanced assessment system—one that is designed to meet the information needs of all key instructional decision makers. All levels of the system—district, school, and classroom—have a role to play; however, the foundation of a truly effective assessment system is in the classroom—the one level that has shown that it can deliver improved achievement. We reviewed the impact of formative assessment noted by researchers, looking at the achievement gains and the high-impact practices associated with the gains.
 
@@ -736,13 +741,13 @@ We equated formative assessment with assessment *for* learning and summative ass
 
 We drew a clear distinction between assessment *for* and *of* learning to make the point that if we want to attain significant gains through formative assessment practices, certain conditions must be in place. Finally we provided an overview of the Seven Strategies of Assessment *for* Learning, a framework of practices structured to implement assessment *for* learning on a day-to-day basis in the classroom.
 
-## **CHAPTER 2ACTIVITIES**
+### **CHAPTER 2ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms and materials for completing each activity appear in editable Microsoft Word format in the Chapter 2 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 2 Learning Targets**
+#### **Chapter 2 Learning Targets**
 
 - **1.** Know how formative and summative assessment fit into a balanced assessment system.
 - **2.** Understand the impact of formative assessment on student achievement.
@@ -758,13 +763,13 @@ Activity 2.1 Keep a Reflective Journal Activity
 2.6 Reflect on Your Own Learning Activity 
 2.7 Select Portfolio Artifacts
 
-### ** Activity 2.1 Keep a Reflective Journal**
+#### ** Activity 2.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 2 .
 
 Reflective Journal Form
 
-### **Activity 2.2 Audit Your Assessments for Balance**
+#### **Activity 2.2 Audit Your Assessments for Balance**
 
 Use your grade book, a printout of one student's assessment data to date, or any other records you keep for assessment results to complete this activity.
 
@@ -782,7 +787,7 @@ Use your grade book, a printout of one student's assessment data to date, or any
 
 Audit Your Assessments for Balance
 
-### ** Activity 2.3 Conduct a Team Self-evaluation**
+#### ** Activity 2.3 Conduct a Team Self-evaluation**
 
 This group activity offers you and your team or school staff an opportunity to assess where you are now with respect to key assessment *for* learning practices.
 
@@ -804,7 +809,7 @@ For this activity, you will need the following:
 
 Self-evaluation Survey Survey Data Graphing Chart
 
-### ** Activity 2.4 Assess Your Feedback Practices**
+#### ** Activity 2.4 Assess Your Feedback Practices**
 
 After reading through the Seven Strategies of Assessment *for* Learning, think about the extent to which each of the characteristics of effective feedback is part of your regular classroom practice. Complete this personal inventory. If you are working with a partner or a team, discuss your results.
 
@@ -831,7 +836,7 @@ After reading through the Seven Strategies of Assessment *for* Learning, think a
 
 My Feedback Practices
 
-### ** Activity 2.5 Assess Prerequisites for Self-assessment and Goal Setting**
+#### ** Activity 2.5 Assess Prerequisites for Self-assessment and Goal Setting**
 
 After reading through the Seven Strategies of Assessment *for* Learning, think about the extent to which Strategies 1 through 3 are in place currently in your classroom. Complete this personal inventory. If you are working with a partner or a team, discuss your results.
 
@@ -850,13 +855,13 @@ After reading through the Seven Strategies of Assessment *for* Learning, think a
 
 Prerequisites for Self-assessment and Goal Setting
 
-### **Activity 2.6 Reflect on Your Own Learning**
+#### **Activity 2.6 Reflect on Your Own Learning**
 
 Review the Chapter 2learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
 Reflect on Chapter 2 Learning
 
-### **Select Portfolio Artifacts**
+#### **Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select activities you have completed or artifacts you have created that will illustrate your competence at the Chapter 2learning targets:
 
@@ -872,7 +877,7 @@ If you are keeping a reflective journal, you may want to include Chapter 2 's en
 
 Chapter 2 Portfolio Entry Cover Sheet
 
-### **CD RESOURCES**
+#### **CD RESOURCES**
 
 - 1. Activity 2.1 Reflective Journal Form
 - 2. Activity 2.2 Audit Your Assessments for Balance
@@ -885,7 +890,7 @@ Chapter 2 Portfolio Entry Cover Sheet
 
 From Chapter 3 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
-# Chaprer 3: Clear Targets
+## Chaprer 3: Clear Targets
  *Students can hit any target they can see and that holds still for them.* 
 
 *What do we want students to know and be able to do?* In standards-based schools, what students are to learn drives all planning, instruction, and assessment. The curriculum documents are the roadmap we use and assessment is the global positioning system that guides us to our destination. Just as the GPS we use in our cars relies on an accurate map to accomplish its task, effective formative and summative assessment depend on the clear roadmap to important learning that a good curriculum provides.
@@ -900,7 +905,7 @@ effective roadmaps for instruction and assessment won't help us reach our destin
 
 In this chapter, we explain the different kinds of learning targets; how to make them clear to everyone, including students; the importance of clear learning targets to teaching and learning; and how clear targets are a necessary foundation for classroom assessment quality. It focuses on the shaded portion of Figure 3.1 .
 
-## **Chapter 3 Learning Targets**
+### **Chapter 3 Learning Targets**
 
 At the end of this chapter, you will know how to do the following:
 
@@ -931,7 +936,7 @@ Do grades communicate achievement accurately?
 
 Do assessment practices meet students' information needs? Are learning targets clear to students? Will the assessment yield information that students can use to self-assess and set goals? Are students tracking and communicating their evolving learning?
 
-## **TYPES OF LEARNING TARGETS**
+### **TYPES OF LEARNING TARGETS**
 
 One way you will know that your targets are clear and usable is if you can determine what kind of learning is being called for. The accuracy of the assessments you develop will depend in part on your ability to classify learning targets in any written curriculum in a way that helps ensure a dependable assessment. We offer a categorization framework that identifies five kinds of learning targets: knowledge, reasoning,
 
@@ -939,7 +944,7 @@ One way you will know that your targets are clear and usable is if you can deter
 
 skill, product, and disposition, summarized in Figure 3.2 . Our purpose in categorizing learning targets is threefold. First, the process will be useful when examining the targets in your own curriculum to determine if they are clear enough. Second, if you need to deconstruct a content standard into smaller teachable parts, knowing the target type will help with identifying the enabling learning targets. Third, it is essential knowledge for selecting the appropriate assessment method, which is explained in Chapter 4 .
 
-### **Knowledge Targets**
+#### **Knowledge Targets**
 
  Knowledge targets include the factual information, procedural knowledge, and conceptual understandings that underpin each academic discipline. They are important because they form the foundation for each of the other types of targets—there is no
 
@@ -977,6 +982,7 @@ Some learning targets call for *procedural knowledge* : knowing how to do someth
 
 Sometimes a target that looks like procedural knowledge may not be. Consider the target "Knows how to narrow or broaden inquiry when appropriate." There is procedural knowledge involved, but figuring out when a topic is too broad or too narrow requires reasoning. And if the target's intent is that students actually broaden or narrow a topic, that is also reasoning. So while at first glance this may look like a knowledge target, it is in fact a reasoning target.
 
+**TABLE-3.3 Examples of Knowledge Targets**
 |   FIGURE 3.3 Examples of Knowledge Targets   |
 |------------------------------|--------------------------------------------------------------------------------------------------------|
 | Subject                      | Learning Target                                                                                        |
@@ -1006,7 +1012,7 @@ When a learning target begins with the word *understands* , it can either be a k
 
  *Although looking to the verb often results in an accurate classification of a knowledge target, it's important to verify that knowledge is its intent.* 
 
-### **Reasoning Targets**
+#### **Reasoning Targets**
 
 Reasoning targets specify thought processes students are to learn to apply effectively (do well) within a range of subjects; e.g., solve problems, make inferences, draw conclusions, form and defend judgments. Mastering content knowledge, while necessary, is not the sole aim of education today; more importantly, we want our students to develop the ability to *apply* knowledge in authentic contexts—that is, in contexts that transfer to work and life beyond school. This requires that they engage in reasoning using their knowledge.
 
@@ -1081,6 +1087,7 @@ Also, the patterns are not necessarily mutually exclusive. For example, classify
 
 to be compared to detect commonalities (induction) or using the categories to identify examples (deduction). We present inference, comparison, classification, and evaluation as separate patterns here because they are commonly referred to separately in standards documents and they can be taught and assessed separately.
 
+**TABLE-3.5 Examples of Reasoning Targets**
 | FIGURE 3.5 Examples of Reasoning Targets                |    
 | Subject                                                 | Learning Target                    |  
 | Mathematics                                             | 1. Identifies shapes as two-dimensional or three dimensional. 
@@ -1119,7 +1126,7 @@ When there is a question about target type, we recommend using this guideline, d
 
 Look at how the state is measuring the target. For example, is the target "Understands the scientific method" a knowledge target or a reasoning target? To answer this question, first, look to see how the state measures it. If that information isn't available, then go for the more advanced target, which in this case is reasoning. We are preparing our students for their future life and work, not a state test. Application is what will be required of these students in real life, so when possible, teach it as the more advanced application.
 
-### **FAQ 3.1 Identifying Target Types**
+ **FAQ 3.1 Identifying Target Types**
 Question
 
 *What kinds of targets are in the following language arts standard for grade 3?* 
@@ -1148,7 +1155,7 @@ Couldn't it be a **product target** ?
 
 Even though the words "when writing" are in the standard, we would not classify this standard as a product target, either, since the intent is not about the creation of some specific product itself, but rather that students apply—or as the standard says, *demonstrate*—the underlying knowledge whenever they write. Some of the components of this standard can be assessed through selected response methodology, some can be assessed through students editing text with embedded errors, and some are best assessed through students producing a sample of writing. In this last case, their writing becomes the *context* in which we assess their *knowledge.* So, even though we use a product as evidence of the learning, the learning itself is at the knowledge level.
 
-### **Skill Targets**
+#### **Skill Targets**
 
 When we speak of skill targets, we are referring to those learning targets where a real-time demonstration or physical performance is at the heart of the learning. As defined, this is a somewhat narrow category. Subjects such as physical education, fine arts, performing arts, and world languages, have skill development as a central core of their discipline, and therefore have many skill targets in their curricula. Other subjects may have few or none. Examples of skill targets include oral fluency in reading, serving a volleyball, conversing in a second language, giving an oral presentation, directing scenes and productions, demonstrating movement skills in dance, and playing a musical instrument.
 
@@ -1156,10 +1163,11 @@ When we speak of skill targets, we are referring to those learning targets where
 
 Additionally, the line between procedural knowledge and skill targets blurs when the target in question is a measurement skill requiring a certain level of manual dexterity and fine motor control, such as those often encountered in science and mathematics. For the purpose of explaining how to classify targets in preparation for assessing them, we will classify these as skill targets, even though they involve, for the most part, procedural knowledge—knowing how to use the tool correctly.
 
-### **Product Targets**
+#### **Product Targets**
 
  Some content standards specify the creation of a product. For product targets, the specifications for qualities of a good product are the focus of teaching and assessment.
 
+**TABLE-3.6 Examples of Skill Targets**
 | FIGURE 3.6 Examples of Skill Targets                                                      |  
 | Subject                         | Learning Target                                                                                              |
 | Mathematics                     | 1. Measures the length of an object twice, using length units of different lengths for the two measurements. | 
@@ -1185,7 +1193,7 @@ Item 7 is from Ohio Science Academic Content Standards, p. 84 , http://ode.state
 
 Items 11 and 12 are from North Thurston Public Schools K–12 Arts Curriculum
 
-### **FAQ 3.2**
+ **FAQ 3.2**
 Procedural Knowledge or Skill?
 Question
 *How do I know if a target is calling for procedural knowledge or the demonstration of a skill?* 
@@ -1207,7 +1215,7 @@ Term papers, research reports, and lab reports are product targets when the curr
 
  Teaching to learning as specified in the written curriculum rather than teaching to an activity is sometimes a difficult transition to make. Confusing the activity with the learning target can cause difficulties when classifying product targets. If the learning target doesn't call for the creation of a product, but you want to classify it as a product target, it's possible that you are including the task or activity you will use to teach the target. The ability to distinguish between the *assignment* —the task or activity students will engage in—and the *learning target* —what they are to learn by doing the work—is crucial to classifying targets and therefore to creating an accurate assessment. The key question in classifying targets is "What is the intended learning?," not "How will students demonstrate it?"
 
-### **Disposition Targets**
+#### **Disposition Targets**
 
  Our last category of targets for students is one that may not be found in your written curriculum. Disposition targets reflect attitudes and feeling states, such as, "I look forward to coming to school each day," "Music is worth studying," or "I like reading." They represent important *affective* goals we hold for students as byproducts of their educational experience, and as such, are not assessed for the purpose of grading. Sometimes they are the overarching goals of schooling, often found in mission statements. The Common Core State Standards Initiative includes *productive disposition* in their summary of the Standards for Mathematics and defines it as "habitual inclination to see mathematics as sensible, useful, and worthwhile, coupled with a belief in diligence and one's own efficacy" (CCSSI, 2010c, p. 6 ).
 
@@ -1215,6 +1223,7 @@ Term papers, research reports, and lab reports are product targets when the curr
 
  We can think about disposition targets in terms of three characteristics (Stiggins & Chappuis, 2011). They have (1) a specific object as their focus, (2) a positive or negative
 
+**TABLE-3.7 Examples of Product Targets**
 | FIGURE 3.7 Examples of Product Targets   
 | Subject                       | Learning                                                                                    |
 | Mathematics                   | 1. Draws a bar graph to represent a data set with up to four categories. 
@@ -1233,6 +1242,7 @@ Term papers, research reports, and lab reports are product targets when the curr
 
 direction, and (3) varied levels of intensity, from strong to weak. When we assess them, we are looking for information about both the direction and level of intensity of feeling toward the specific focus. For example, we might offer a series of statements such as, "I am good at reading," I like reading," and "I read for enjoyment in my spare time." After each statement, students would mark one answer choice from the following options: "strongly agree," "somewhat agree," "neutral or no opinion," "somewhat disagree," or "strongly disagree." In this case, students' attitude about reading is the focus; they are asked whether they feel positively or negatively about each statement, and how strongly. Examples of disposition learning targets appear in Figure 3.8 .
 
+**TABLE-3.8 Examples of Disposition Targets**
 | FIGURE 3.8 Examples of Disposition Targets                                       | 
 | Subject                        | Learning Target                                                                               |
 | English Language Arts          | 1. Chooses to read to learn more about something.                                             |
@@ -1249,7 +1259,7 @@ direction, and (3) varied levels of intensity, from strong to weak. When we asse
 |                                | 12. Wants to participate in community theater.                                                |
 | Source: Items 5 and 6 are from http://www.civiced.org/index.php?page=912erica#15                                               |
 
-### **FAQ 3.3 *Balance Among Target Types**
+ **FAQ 3.3 *Balance Among Target Types**
 Question
 
 *Should each subject's curriculum have all four types of targets in it?*
@@ -1258,7 +1268,7 @@ Answer
 
 No. Target type is entirely a function of the nature of the subject. Academic subjects generally have far more knowledge and reasoning targets than skill or product targets. Reading, for example, has no product targets. Performance-based disciplines, such as music, physical education, and other performing arts, have quite a few skill targets. Product-based disciplines such as fine arts have quite a few skill and product targets. They all have knowledge and reasoning targets as well, but the balance shifts more to the skill and product levels in some subjects.
 
-## **WE NEED GOOD CURRICULUM GUIDES**
+### **WE NEED GOOD CURRICULUM GUIDES**
 
 We believe every teacher should have access to a practical curriculum guide, one that provides a clear vision of the intended learning and points the way for teaching and assessing. A good curriculum will link each year's learning targets to the previous
 
@@ -1270,7 +1280,7 @@ Articulation between grade levels and alignment with accountability measures are
 
 Lastly, we recommend that the learning targets in your curriculum be stated so that everyone who teaches a subject interprets them the same way. Is it clear to everyone what to teach from the statements in your curriculum?
 
-#### **DECONSTRUCTING COMPLEX CONTENT STANDARDS**
+### **DECONSTRUCTING COMPLEX CONTENT STANDARDS**
 
 Even if your curriculum is comprised of clearly stated content standards, some of them may be complex. Others may require further refinement or translation in order to know exactly what to teach and assess. When you encounter a complex or unclear standard, we recommend the process of *deconstructing standards* . Often and ideally, this is work done by curriculum staff at the state or district level. But even when that is the case, engaging in the process with colleagues at the school level builds ownership for the expectations we hold in common for students, and helps ensure
 
@@ -1282,13 +1292,13 @@ Once you have found a standard that needs deconstructing, follow these three ste
 
 *Deconstructing standards is the process of breaking a broad standard, goal, or benchmark into smaller, more explicit learning targets that can be used to guide daily classroom instruction.* 
 
-### **1. Determine the Target Type**
+#### **1. Determine the Target Type**
 
 Is the content standard, as written, a knowledge, reasoning, skill, or product target? To determine this, consider whether the content standard's ultimate goal is the acquisition of knowledge, the development of reasoning capabilities, the demonstration of a physical skill, or the creation of a product. For Example 3.2 and For Example 3.3 show content standards deconstructed following this process.
 
 When the standard includes several discrete learning targets, list each separately and identify the target type for each. Then proceed with steps 2 and 3 for each separate learning target. For Example 3.4 shows how you might carry out step 1 with a writing standard that is comprised of several separate learning targets. (Steps 2 and 3 are not completed in the example.)
 
-### **2. Identify the Prerequisite or Underlying Knowledge, Reasoning, and/or Skills**
+#### **2. Identify the Prerequisite or Underlying Knowledge, Reasoning, and/or Skills**
 
 At this step, answer the following four questions:
 
@@ -1307,44 +1317,40 @@ At this step, answer the following four questions:
 
 *Source:* Reprinted with permission from Kentucky Department of Education, Frankfort, KY. Downloaded May 20, 2011 from: http://www.education.ky.gov/users/otl/KLN/DeconstructingStandards.pdf
 
-### **Deconstructing a Mathematics Standard**
-
-Grade Level/ Course: Algebra 1 Unit 4
-
-| Standard with code:   A. REI.4a Solve quadratic equations in one variable.   | a. Use the method of completing the square to transform any 
-|                                                                              | quadratic equation in x into an equation of the form (x p)2 q that 
-|                                                                              | has the same solutions. Derive the quadratic formula from this 
-|                                                                              | form.                               
-| Domain:                                                                      | Reasoning with Equations and Inequalities       |
-| Cluster:                                                                     | Solve equations and inequalities in one variable. 
-|______________________________________________________________________________|_________________________________________________________________
-| Type: ______Knowledge               | X Reasoning                | Performance Skill           | Product              
-| Knowledge Targets                   | Reasoning Targets              | Performance Skills Targets      | Product Targets                      |
-| Use the method of completing the    | Derive the quadratic formula by|                                 |
-| square to transform any quadratic   | completing the square on a     |                                 |
-| equation in x into an equation of   | quadratic equation in x.       |                                 |
-| the form (x p)2  q that has the same|                                |                                 |
-| solutions.                          |                                |                                 |
-| Solve quadratic equations in one    |                                |                                 |
-| variable.                           |                                |                                 |
-| Notes from Appendix A: Students     |                                |                                 |
-| should learn of the existence of the|                                |                                 |
-| complex number system, but will not |                                |                                 |
-|solve quadratics with complex        |                                |                                 |
-|solutions until Algebra II.          |                                |                                 |           
+**TABLE-Deconstructing a Mathematics Standard**
+|Grade Level/ Course: Algebra 1 Unit 4                                                                                                              |
+| Standard with code:   A. REI.4a Solve quadratic equations in one variable.   | a. Use the method of completing the square to transform any        |
+|                                                                              | quadratic equation in x into an equation of the form (x p)2 q that | 
+|                                                                              | has the same solutions. Derive the quadratic formula from this     |
+|                                                                              | form.                                                              |
+| Domain:                                                                      | Reasoning with Equations and Inequalities                          |
+| Cluster:                                                                     | Solve equations and inequalities in one variable.                  |
+|______________________________________________________________________________|____________________________________________________________________|
+| Type: ______Knowledge               | X Reasoning                | Performance Skill           | Product                                          |
+| Knowledge Targets                   | Reasoning Targets              | Performance Skills Targets      | Product Targets                          |
+| Use the method of completing the    | Derive the quadratic formula by|                                 |                                          |
+| square to transform any quadratic   | completing the square on a     |                                 |                                          |
+| equation in x into an equation of   | quadratic equation in x.       |                                 |                                          |
+| the form (x p)2  q that has the same|                                |                                 |                                          |
+| solutions.                          |                                |                                 |                                          |
+| Solve quadratic equations in one    |                                |                                 |                                          |
+| variable.                           |                                |                                 |                                          |
+| Notes from Appendix A: Students     |                                |                                 |                                          |
+| should learn of the existence of the|                                |                                 |                                          |
+| complex number system, but will not |                                |                                 |                                          |
+|solve quadratics with complex        |                                |                                 |                                          |
+|solutions until Algebra II.          |                                |                                 |                                          |
 
 *Source:* Reprinted from Kentucky Department of Education, Frankfort, KY. Reprinted by permission. Downloaded May 20, 2011 from http://www.education.ky.gov/NR/rdonlyres/C5603F9A-57F3-437E-AE0B-74A0CB5FDC07/0/ HighSchoolAlgebra1.pdf
 
-**Deconstructing a Reading Standard**
-
- CCR: Analyze how and why individuals, events, and ideas develop and interact over the course of a text.
-
+**TABLE-Deconstructing a Reading Standard**
+| CCR: Analyze how and why individuals, events, and ideas develop and interact over the course of a text.|
 | Strand: Reading | Cluster: Key Ideas | Grade: 5 | Standard #: 3 |
 |-----------------|--------------------|----------|---------------|
 | Literature      | and Details        |          |               |
-
- *Standard: Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details in the text (e.g., how characters interact).* 
-
+|                                                                 |
+| *Standard: Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details in the text (e.g., how characters interact).* |
+|                                                                        |
 | Type: | Knowledge | X | Reasoning | Performance Skill ______Product |  |
 |-------|-----------|---|-----------|---------------------------------|--|
 |       |           |   |           |                                 |  |
@@ -1366,14 +1372,14 @@ Learning Targets
 
 *Source:* Reprinted with permission from Kentucky Department of Education. Downloaded May 20, 2011 from http://www.education.ky.gov/NR/rdonlyres/F1E712E1-9083-4947-9493-F813B1830690/0/FifthGradeELA.pdf
 
-### **Deconstructing a Writing Standard Comprised of Several Separate Learning Targets**
+ **Deconstructing a Writing Standard Comprised of Several Separate Learning Targets**
 
 Writing Standard 8, Grade 6 (CCSSI, 2010a, p. 44 )
 
 "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources."
 
 This standard has multiple learning targets stated, so the first step is to separate them and classify each component:
-
+**TABLE-Deconstructing a Writing Standard Comprised of Several Separate Learning Targets**
 | Learning Target           | Target Type & Rationale                                |
 |---------------------------|--------------------------------------------------------|
 | Gather relevant           | Evaluative reasoning: Gathering relevant information   |
@@ -1394,22 +1400,19 @@ This standard has multiple learning targets stated, so the first step is to sepa
 The second step is to deconstruct each target.
 
 TARGET: Gather relevant information from multiple print and digital sources.
-
 Knowledge:
-
 Reasoning:
 
 TARGET: Assess the credibility of each source.
-
-Knowledge: Reasoning:
-
-TARGET: Quote or paraphrase the data and conclusions of others while avoiding plagiarism.
-
-Knowledge:
-
+Knowledge: 
 Reasoning:
 
-TARGET: Provide basic bibliographic information for sources. Knowledge:
+TARGET: Quote or paraphrase the data and conclusions of others while avoiding plagiarism.
+Knowledge:
+Reasoning:
+
+TARGET: Provide basic bibliographic information for sources. 
+Knowledge:
 
 While engaged in this step, take the following into account:
 
@@ -1424,7 +1427,7 @@ Checking for alignment means checking to be sure that all of the enabling learni
 
 Checking for reasonableness means paying attention to how many enabling targets you have listed. The deconstructing process always runs the risk of taking the ultimate target back to learning taught years before. This can helpful for diagnosing specific problems when students have difficulty, but it makes for a crazy-complicated curriculum if you take it too far and include all possibilities. Your deconstructed content standard then represents a multiyear curriculum, a progression spanning several years' worth of learning. When deconstructing, check to make sure you have not listed more learning targets than necessary for students *at your level* to achieve mastery of the ultimate content standard being deconstructed. If your K–12 curriculum is well thought out, the basic prerequisite knowledge from previous years will be represented in those years' content standards.
 
-### **FAQ 3.4 Deconstructing Product Targets**
+**FAQ 3.4 Deconstructing Product Targets**
 Question
 
 *If an overall standard is a product learning target, will you have all four types of targets leading up to it?* 
@@ -1443,7 +1446,7 @@ When the answer is no:
 
 Let's look at a cross-subject product target: "Writes arguments focused on disciplinespecific content." This target has knowledge and reasoning underpinnings such as knowing how to write a claim, identifying alternate or opposing views, evaluating sources to be used to support the claim for accuracy and credibility, and so forth. No skill targets are needed to accomplish it successfully (beyond handwriting or keyboarding, which we will assume are considered prerequisite and have already been taught).
 
-### **My Classroom Then and Now 3.1**
+ **My Classroom Then and Now 3.1**
 **Jessica Cynkar**
 What we did . . .
 
@@ -1457,7 +1460,7 @@ These tips have been invaluable when I've started to plan a unit or concept to t
 
 *Source :* Used with permission from Jessica Cynkar, 6th-grade language arts teacher, Olentangy Local School District, Lewis Center, OH, 2011
 
-## **COMMUNICATING LEARNING TARGETS TO STUDENTS**
+### **COMMUNICATING LEARNING TARGETS TO STUDENTS**
 
 Once our learning targets are clear to us, we need to make sure they will be clear to students ( Figure 3.10 ). If you think back to the research on the effects of assessment *for*
 
@@ -1471,13 +1474,13 @@ Sharing learning targets with students can play out in several ways depending on
 
 to be stated to students in their original form—"Today, we're learning how to prepare microscope slides." Other targets, while clear to you, may not be clear to students, so you may want to translate them into student-friendly terms (Chappuis, 2009). This works especially well for reasoning targets—"We're learning to summarize text. This means we're learning to make a short statement of the central ideas of what we read." For reasoning, skill, and product targets that will be assessed with a rubric, you will need to find or create a student-friendly version of the rubric, which we will address in Chapters 6 and 7 .
 
-### **Converting Knowledge and Reasoning Learning Targets to Student-friendly Language**
+#### **Converting Knowledge and Reasoning Learning Targets to Student-friendly Language**
 
  The process for converting learning targets into student-friendly language is especially useful with patterns of reasoning. Let us say we want students to learn to summarize text. How might we explain to fourth graders what that means? Here is a process you can use (Chappuis, 2009):
 
 - **1.** Define the word or words representing the pattern of reasoning. Use a dictionary, your textbook, your state content standards document, or other reference materials specific to your subject. If you are working with a colleague, come to agreement on definitions.
 - **2.** Convert the definition into language your students are likely to understand.
-- **3.** Rewrite the definition as an "I" or a "We" statement: "I am learning to \_\_\_\_\_"; "I can \_\_\_\_\_\_\_"; "We are learning to \_\_\_\_\_"; or "We can \_\_\_\_\_\_\_."
+- **3.** Rewrite the definition as an "I" or a "We" statement: "I am learning to _____________"; "I can _____________\_"; "We are learning to _____________"; or "We can _____________\_."
 - **4.** Try the definition out with students. Note their response and refine as required.
 - **5.** Let students try this process occasionally, using learning targets you think they could successfully define and paraphrase. Make sure their definition is congruent with your vision of the target.
 
@@ -1501,7 +1504,7 @@ I can summarize. This means I can make a short statement of the big ideas or mai
 **Determining Main Idea and Supporting Details**
 I can determine main ideas and identify supporting details. This means I can find important ideas in the text and point out which facts or information help to make (or contribute to) that main idea.
 
-### **My Classroom Then and Now 3.2**
+ **My Classroom Then and Now 3.2**
 **Elizabeth Schoo**
 I used to . . .
 I used to teach my physical science class by following district objectives derived from state standards. These objectives were easy for me to understand and my lessons were based on these, but nowhere in my teaching was I telling my students what the goal for their learning of that day was to be. I just assumed it was obvious.
@@ -1518,11 +1521,11 @@ My assessments are more accurate now because I create questions that match the "
 
 *Source :* Used with permission from Elizabeth Schoo, 8th-grade science teacher, Community Unit School District 95, Lake Zurich, IL, 2011
 
-## **WHEN THE WRITTEN CURRICULUM IS NOT THE TAUGHT CURRICULUM**
+### **WHEN THE WRITTEN CURRICULUM IS NOT THE TAUGHT CURRICULUM**
 
 Your curriculum is your first assessment guide. Problems arise when the written curriculum merely sits on the shelf. Absent an easily understood curriculum guide, teachers often rely on the textbook, a list of units or activities, or a series of projects to fill its role. Let's take a look at what happens in each of these cases.
 
-### **Using the Textbook in Place of the Curriculum**
+#### **Using the Textbook in Place of the Curriculum**
 
 If we rely on the textbook to stand in as our curriculum, we may think we have solved the problem of articulation between grade levels, and perhaps alignment with state or provincial standards. However, when textbooks serve as the curriculum, we face several problems.
 
@@ -1536,23 +1539,22 @@ Note that they attribute use of textbooks as the curriculum to a curriculum vacu
 
 Although U.S. mathematics textbooks attempt to address 175 percent more topics than do German textbooks and 350 percent more topics than do Japanese textbooks, both German and Japanese students significantly outperform U.S. students in mathematics. Similarly, although U.S. science textbooks attempt to cover 930 percent more topics than do German textbooks, and 433 percent more topics than do Japanese textbooks, both German and Japanese students significantly outperform U.S. students in science achievement as well (Schmidt, McKnight, & Raizen, 1996). (n.p.)
 
-### **Using Units, Activities, or Projects in Place of the Curriculum**
+#### **Using Units, Activities, or Projects in Place of the Curriculum**
 
 When used as our curriculum, a series of units, activities, or projects may well keep students busy and motivated. However, if activities are not consciously designed or selected with learning targets in mind, if we are not clear about the intended learning *in advance* , we may not be teaching what is most important to learn. If that is the case, we are also not adequately preparing students for the external high-stakes accountability tests they will encounter whose items are aligned to our written curriculum. And, if we do not begin with clear classroom learning targets, assessments cannot be counted on to provide accurate information about the learning.
 
 In addition, without the unifying thread of underlying learning targets, we will not be able to build intentionally on previous learning, either from our own teaching or from the teaching in prior grades. Neither will subsequent teachers be able to build intentionally on what we have done with students. In essence, we are each in private practice, in our own teaching universe, unable to predict what our students will bring with them and unable to articulate what we send them off to the next grade with. As teachers come and go from a building, the instructional program changes course. Our scores on accountability measures are up or down, and we may have to rely on an outside program to straighten us out, imposing a "drop-in" remedial mini-curriculum. Although such practices were common when many of us were students, today none of this is in the best interest of students or teachers.
 
-## **THE BENEFITS OF CLEAR LEARNING TARGETS**
+### **THE BENEFITS OF CLEAR LEARNING TARGETS**
 
 Few educators would disagree that defining expectations for student behavior or conduct up front will head off discipline problems down the road. We can expect the same outcome when we clearly define what students are responsible for learning we solve a number of problems before they surface. With the advent of the Common Core State Standards has come a renewed focus on academic rigor and on a *clear, teachable and assessable* curriculum at the state and district levels. This has also served to spark a renewed dialogue about what constitutes a clear learning target. Most certainly, teachers need to understand curriculum documents to be able to use them. But the benefits of making sure our targets are clear extend beyond that, for teachers, students, and parents ( Figure 3.11 ).
 
-### **Benefits to Teachers**
+#### **Benefits to Teachers**
 
 **1. KNOWING WHAT TO TEACH.** First, begin with clear statements of the intended learning benefits instruction. Consider a reading curriculum that includes the content standard, "Students will comprehend fictional, informational, and task-oriented text."
 
-### **FIGURE 3.11** Benefits of Clear Targets
+**FIGURE 3.11** Benefits of Clear Targets
 **To Teachers**
-
 - **1.** Knowing what to teach
 - **2.** Knowing what to assess
 - **3.** Knowing what instructional activities to plan
@@ -1562,14 +1564,12 @@ Few educators would disagree that defining expectations for student behavior or 
 - **7.** Common ground for working collaboratively with other teachers
 
 **To Students**
-
 - **1.** Understanding what they are responsible for learning
 - **2.** Understanding and acting on feedback
 - **3.** Being prepared to self-assess and set goals
 - **4.** Being able to track, reflect on, and share their own progress
 
 **To Parents**
-
 - **1.** Helping children at home
 - **2.** Understanding the grade report
 - **3.** Focusing discussions at conferences
@@ -1580,7 +1580,7 @@ While it is clear that the ultimate goal is reading comprehension in a variety o
 
 **3. KNOWING WHAT INSTRUCTIONAL ACTIVITIES TO PLAN.** Once we know what our learning targets are and have defined how we will assess them, we are able to think clearly about what combination of instruction and learning experiences will prepare students both to learn what they need to know and to demonstrate their learning.
 
-### **My Classroom Then and Now 3.3**
+ **My Classroom Then and Now 3.3**
 **Jeff Overbay**
 **I used to . . .
 
@@ -1614,7 +1614,7 @@ before a local curriculum is finalized. Only then can you reliably use it to map
 
 The most enormous but peculiarly unsung benefit of common standards is that they provide the rich common context essential to focused, productive teacher collaboration, a sine qua non for improvement (Fullan 2000; Sparks 1998). Stated simply: If we want schools to improve, instruction—teaching lessons themselves —must improve (Stigler and Hiebert 1999). But there also must be a common set of standards. And there must be a commitment to reaching measurable achievement goals by making real adjustments to how we teach these common standards. There is no other way (Glickman 2002, 4–5).
 
-### **Benefits to Students**
+#### **Benefits to Students**
 
 **1. UNDERSTANDING WHAT THEY ARE RESPONSIBLE FOR LEARNING.**  Explaining the intended learning to students is the crucial first step in helping them know where they are going. As Stiggins (2008, p. 1 , emphasis added) states, "Students *can* hit any target they can see that holds still for them." However, if students have no idea what they are supposed to learn, if the only information they have is that we are
 
@@ -1626,13 +1626,13 @@ doing "science" or "page 121 " or "the odd-numbered problems," few of them are l
 
 **4. TRACKING, REFLECTING ON, AND SHARING THEIR PROGRESS.** With learning targets that are clear from the outset, students can track their own mastery of expectations by target or standard. Without a direct, visible connection to the specific learning target, grades only tell them how *well* they have learned something. Students need to see how their grades connect to the learning targets represented on each assignment and assessment in order to *connect their work and level of achievement to learning* . This helps them become clear about what they have mastered and what they still need to work on. With that information, they are able to reflect on their progress and to share their thoughts at conference time.
 
-### **Benefits to Parents**
+#### **Benefits to Parents**
 
 **1. HELPING CHILDREN AT HOME.** Understanding what the intended learning is helps parents focus their assistance with their children. It helps them know the intent of the assignment, which guides the assistance they provide. For instance, if you are teaching students how to edit their own papers and you communicate that learning to parents, you can ask that they not do the editing for their children. If you are working on map-reading skills and assistance at home would help, you can suggest that parents have their children practice using a map to give directions on a car trip. However, if you are asking students to complete a project and parents only have the project instructions to students to go by, they will be unlikely to know what they can and shouldn't do to support the intended learning, if and when their children need help.
 
 **2. UNDERSTANDING THE GRADE REPORT.** Additionally, being clear about the intended learning helps parents understand what grades mean in terms of what their children have and have not learned. Sending home or posting on your website a list of learning targets written in parent-friendly language can help communicate the depth
 
-### **My Classroom Then and Now 3.4**
+ **My Classroom Then and Now 3.4**
 **Sue Cho & Aaron Mukai**
 We used to . . .
 
@@ -1640,7 +1640,7 @@ We used to think we were doing great things with daily learning targets. Before 
 
 Now we . . .
 
-While we still do all of the things mentioned, we wanted to make these learning targets more meaningful to students. For starters, we revised our learning targets with quality indicators to make it clear to the students what they **should be able to do** and what they **need to do** to reach it. To do this, at the beginning of each lesson, we have the students write down the learning target with a fill in the blank option: "I can find equivalent fractions by \_\_\_\_\_\_\_\_\_\_." After we go through the lesson and before students work on the practice problems, we revisit the learning target and have the students fill in the blank: "I can find equivalent fractions by multiplying or dividing the numerator and the denominator by the same number ." The students are now able to make a connection with the learning target and the problems they are solving.
+While we still do all of the things mentioned, we wanted to make these learning targets more meaningful to students. For starters, we revised our learning targets with quality indicators to make it clear to the students what they **should be able to do** and what they **need to do** to reach it. To do this, at the beginning of each lesson, we have the students write down the learning target with a fill in the blank option: "I can find equivalent fractions by __________________________." After we go through the lesson and before students work on the practice problems, we revisit the learning target and have the students fill in the blank: "I can find equivalent fractions by multiplying or dividing the numerator and the denominator by the same number ." The students are now able to make a connection with the learning target and the problems they are solving.
 
 We started having our students use the learning targets to set goals for each chapter. Each pre-assessment is sectioned by the learning targets aligned with the same state standards. After a student has received their scored pre-assessment, the student is able to identify areas of improvement based on the learning target.
 
@@ -1662,7 +1662,7 @@ and breadth of the academic work their children are engaged in. When grades come
 
 **3. FOCUSING DISCUSSION AT CONFERENCES.** Similarly, having a set of clear and understandable learning targets focuses the discussions during conferences on what the student is learning and how well the student is learning it. Clear targets allow you to be specific about strengths and areas needing additional attention and to give specific advice about how the parent can best help the child.
 
-## **CONCLUDING THOUGHTS**
+### **CONCLUDING THOUGHTS**
 
  A good portion of this chapter has been devoted to the assessment benefits of a quality curriculum. It is not our purpose in this book to direct curriculum development, but to make as strong a case as we can for the necessity of framing clear and specific
 
@@ -1679,7 +1679,7 @@ We can't
 
 learning targets at the outset of teaching as an imperative to sound instruction and assessment ( Figure 3.12 ). We emphasize the practical necessity of each teacher understanding each learning target clearly, and the need to be in agreement with others who teach the same subjects. We also emphasize the learning gains that come from formative assessment practices require first that our learning targets be clear to students. No one benefits in the long run when the intended learning is obscure or hidden.
 
-## **Summary**
+### **Summary**
 
 Clear learning targets are essential for sound assessment. We can't assess accurately what is not clear. We began our exploration of clear targets by identifying five categories of learning targets, providing examples of each. Within those categories, we described a reasoning framework representing six patterns of reasoning that are commonly found in various taxonomies, content standards documents, and assessments. They also represent the kinds of reasoning occurring most frequently in subject area curricula as well as in life beyond school.
 
@@ -1694,13 +1694,13 @@ Beyond this, clear targets benefit teachers, students, and parents by clarifying
 - Facilitate assessment for learning when students understand the intended learning they are set up for productive self-assessment and goal setting.
 - Facilitate communication with parents.
 
-## **CHAPTER 3ACTIVITIES**
+### **CHAPTER 3 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms and materials for completing each activity appear in editable Microsoft Word format in the Chapter 3 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 3 Learning Targets**
+#### **Chapter 3 Learning Targets**
 
 - **1.** Explain the connection between clear targets and assessment quality.
 - **2.** Classify learning targets by type.
@@ -1717,19 +1717,19 @@ Activity 3.6 Create Student-friendly Learning Targets
 Activity 3.7 Reflect on Your Own Learning
 Activity 3.8 Select Portfolio Artifacts
 
-#### **Activity 3.1 Keep a Reflective Journal** 
+##### **Activity 3.1 Keep a Reflective Journal** 
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 3 .
 
 Reflective Journal Form
 
-## **Activity 3.2 Connect Clear Targets to Assessment Quality**
+##### **Activity 3.2 Connect Clear Targets to Assessment Quality**
 
 After reading Chapter 3 , explain three ways in which clear targets are a necessary precursor to assessment quality. Provide examples from your own experience to illustrate the connection between clear targets and assessment quality.
 
 None
 
-### **Activity 3.3 Classify Learning Targets**
+##### **Activity 3.3 Classify Learning Targets**
 
 Work independently, with a partner, or with a team to complete this activity. The activity works best if all participants are familiar with the unit.
 
@@ -1742,7 +1742,7 @@ Work independently, with a partner, or with a team to complete this activity. Th
 
 Template for Classifying Learning Targets
 
-### **Activity 3.4 Identify Clear Learning Targets**
+##### **Activity 3.4 Identify Clear Learning Targets**
 
 Work independently, with a partner, or with your learning team to complete this activity. The activity works best if all participants are familiar with the unit.
 
@@ -1753,7 +1753,7 @@ Work independently, with a partner, or with your learning team to complete this 
 
 Template for Identifying Clear Learning Targets
 
-### **Activity 3.5 Deconstruct a Content Standard**
+##### **Activity 3.5 Deconstruct a Content Standard**
 
 Work with a partner or your learning team to complete this activity.
 
@@ -1766,7 +1766,7 @@ What knowledge will students need to know to be successful? What patterns of rea
 
 Template for Deconstructing a Content Standard
 
-### **Activity 3.6 Create Student-friendly Learning Targets**
+##### **Activity 3.6 Create Student-friendly Learning Targets**
 
 Work independently, with a partner, or with your learning team to complete this activity.
 
@@ -1776,7 +1776,7 @@ Work independently, with a partner, or with your learning team to complete this 
 
 Template for Student-friendly Learning Targets
 
-### **Activity 3.7 Reflect on Your Learning**
+##### **Activity 3.7 Reflect on Your Learning**
 
 Review the Chapter 3learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -1784,7 +1784,7 @@ Review the Chapter 3learning targets and select one or more that represented new
 
 Reflect on Chapter 3 Learning
 
-### **Activity 3.8 Select Portfolio Artifacts**
+##### **Activity 3.8 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifact you have created that will illustrate your competence at the Chapter 3learning targets:
 
@@ -1800,7 +1800,7 @@ If you are keeping a reflective journal, you may want to include Chapter 3 's en
 
 Chapter 3 Portfolio Entry Cover Sheet
 
-### **CD RESOURCES**
+#### **CD RESOURCES**
 
 - 1. Activity 3.1 Reflective Journal Form
 - 2. Activity 3.3 Template for Classifying Learning Targets
@@ -1810,14 +1810,14 @@ Chapter 3 Portfolio Entry Cover Sheet
 - 6. Activity 3.7 Reflect on Chapter 3 Learning
 - 7. Activity 3.8 Chapter 3 Portfolio Entry Cover Sheet
 
-# Chapter 4: Sound Design
+## Chapter 4: Sound Design
 *Varying assessment methods to give students practice or to accommodate learning styles is a thoughtful consideration. However, assessment methods are not interchangeable. To ensure accurate assessment results, the overriding criterion for selection of method is consideration of the type of learning targets to be assessed.* 
 
 S o far, we have examined two keys to assessment quality, clear purpose and clear targets. The first key, *Clear Purpose* , asks that we identify at the outset who will use assessment results and how they will use them. The second key, *Clear Targets* , asks that we identify the knowledge, reasoning, skill, and product learning targets that will be the focus of instruction. Now we consider the third key to classroom assessment quality—how to design assessments that align with our targets and serve our purposes.
 
 In this chapter we describe four assessment methods, explain how to choose which method to use for any given learning target, and outline the steps in assessment planning and development. We explain each of the four assessment methods in depth in Chapters 5 through 8 ; in this chapter we offer an overview with an emphasis on selecting the proper method and on thoughtful assessment planning.
 
-## **Chapter 4 Learning Targets**
+### **Chapter 4 Learning Targets**
 
 At the end of this chapter you will know how to do the following:
 
@@ -1832,7 +1832,7 @@ From Chapter 4 of *Strategies Classroom Assessment for Student Learning: Doing I
 
 ![](_page_96_Figure_2.jpeg)
 
-## **ASSESSMENT METHODS—A SET OF FOUR OPTIONS**
+### **ASSESSMENT METHODS—A SET OF FOUR OPTIONS**
 
 Throughout your school career, both as a student and as a teacher, you have encountered thousands of different assessments. Although the variations are endless, all of the assessments you have experienced and give today fall into one of four basic categories of methods:
 
@@ -1843,7 +1843,7 @@ Throughout your school career, both as a student and as a teacher, you have enco
 
 All four methods are legitimate options, but only when their use is closely matched with the kind of learning target to be assessed and the intended use of the information.
 
-### **Selected Response**
+#### **Selected Response**
 
 *Selected response assessments* are those in which students select the correct or best response from a list provided. Formats include the following:
 
@@ -1882,7 +1882,7 @@ All four methods are legitimate options, but only when their use is closely matc
 - Oral exams
 - Student journals and logs
 
-### **Written Response**
+#### **Written Response**
 
 *Written response assessments* require students to construct an answer in response to a question or task rather than to select the answer from a list. They include *short answer* items and *extended written response* items. Short answer items call for a very brief response having one or a limited range of possible right answers. Extended written response items require a response that is at least several sentences in length. They generally have a greater number of possible correct or acceptable answers.
 
@@ -1913,7 +1913,7 @@ Example of the "rubric" approach: when students in an environmental science clas
 
 How to develop and use short answer and extended written response items and scoring procedures is the focus of Chapter 6 , "Written Response Assessment."
 
-### **Performance Assessment**
+#### **Performance Assessment**
 
 *Performance assessment* is assessment based on observation and judgment. Even though it is called *performance* assessment, this method is used to judge both
 
@@ -1942,7 +1942,7 @@ For more complex processes or products, you might have a scoring rubric for judg
 
 How to develop and use performance tasks and rubrics is the focus of Chapter 7 , "Performance Assessment."
 
-### **Personal Communication**
+#### **Personal Communication**
 
 Gathering information about students through *personal communication* is just what it sounds like—we find out what students have learned through structured and unstructured interactions with them. Examples include the following:
 
@@ -1956,7 +1956,7 @@ Because these kinds of classroom assessments lead to immediate insights about st
 
 Student responses in personal communication assessments are evaluated in one of two ways. Sometimes the questions we ask require students to provide a simple, short answer, and all we're looking for is whether the answer is correct or incorrect. This is parallel to scoring for short answer written response questions. Other times, our questions generate longer and more complex responses, which we can evaluate with scoring criteria. This is parallel to scoring for extended written response questions.
 
-### **FAQ 4.1 Assessment Methods**
+ **FAQ 4.1 Assessment Methods**
 
 Question
 
@@ -1974,7 +1974,7 @@ Answer
 
 All of these performances and artifacts can be classified within one of the four basic assessment methods described. Exhibitions of mastery and group projects usually take the form of extended written response, performance assessment, or personal communication depending on how they are carried out. Worksheets contain various types of items, most frequently selected response or written response questions. Posters and brochures are generally tasks assigned in the context of performance assessment. If a content standard calls for students to develop and use a PowerPoint® presentation, there are two separate learning targets at work—the creation of the slides themselves and the skillful use of them in a presentation. Both would be assessed using a performance assessment.
 
-## **MATCHING ASSESSMENT METHODS TO LEARNING TARGETS**
+### **MATCHING ASSESSMENT METHODS TO LEARNING TARGETS**
 
 The accuracy of any classroom assessment depends on selecting the appropriate assessment method that matches the achievement target to be assessed. Acceptable matches result in accurate information gathered as efficiently as possible. Mismatches occur when the assessment method is not capable of yielding *accurate* information about the learning target. Figure 4.3 summarizes when to use each assessment method. (Dispositional learning targets are not addressed because in this book, we focus our assessment information only on academic achievement targets.)
 
@@ -1988,12 +1988,12 @@ As you read through Figure 4.3 , note that the descriptions of the matches are d
 
 **Poor:** The method never works for learning targets of this type.
 
-### **Assessing Knowledge Targets**
+#### **Assessing Knowledge Targets**
 
 Knowledge targets represent the factual information, procedural knowledge, and conceptual understandings that underpin each discipline.
 
 **SELECTED RESPONSE.** This is labeled a **good match** in Figure 4.3 because selected response options do a good job of assessing mastery of discrete elements of knowledge,
-
+**TABLE-Target Method Match**
 |                | Selected Response        | Written Response           | Performance Assessment       | Personal Communication              
 | Knowledge      | Good                     | Strong                     | Partial                      | Strong       
 |                | Can assess isolated elem-| Can assess elements of     | Can assess elements of know- | Can assess elements of knowledge and
@@ -2037,7 +2037,7 @@ have to do some followup probing to find out if the prerequisite knowledge was t
 
 **PERSONAL COMMUNICATION.** Personal communication is a **strong match** with knowledge targets for most students at all grade levels. While for summative uses it tends to be inefficient if a lot of knowledge is to be assessed, recorded, and reported for lots of students, it works well in formative applications, such as real-time sampling of student understanding during instruction. Additionally, for some students such as those with special needs, English language learners, or younger students, it may be the only way to gather accurate information.
 
-### **Assessing Reasoning Targets**
+#### **Assessing Reasoning Targets**
 
 Reasoning targets specify thought processes students are to learn to do well within a range of subjects—solve problems, make inferences, draw conclusions, form judgments.
 
@@ -2064,7 +2064,7 @@ comprehension with a shoebox for the reason that it's fun. If the diorama projec
 
 **PERSONAL COMMUNICATION.** For gathering accurate information, personal communication is a **strong match** to reasoning targets. Teachers can ask students questions to probe more deeply into a response. Or, students can demonstrate their solution to a problem, explaining their reasoning out loud as they go. The drawbacks with using personal communication to assess reasoning proficiency are the amount of time it takes and the record-keeping challenge it poses.
 
-### **FAQ 4.2 Target–Method Match**
+ **FAQ 4.2 Target–Method Match**
 Question
 
 *To accommodate student learning styles, and/or to adhere to the call for " multiple measures," shouldn't I be using the widest variety of assessment methods possible?* 
@@ -2081,7 +2081,7 @@ Answer
 
 It is somewhat of a misnomer to label one assessment method as "authentic," and thereby imply that the others are "inauthentic" and therefore inferior. None of these methods is inherently superior to any other, and all are viable if used well. Good assessment means clearly knowing what it is you want to assess and then choosing the best method to get the job done, which depends foremost on the kinds of learning targets being assessed. That is the point of the target–method matrix, which is grounded in principles of sound measurement. We would never advocate giving up accuracy to achieve authenticity, which happens when performance is the only acceptable method to use. However, within performance assessment methodology, authenticity is to be desired. We discuss the attribute of authenticity of performance tasks in Chapter 7 .
 
-### **Assessing Skill Targets**
+#### **Assessing Skill Targets**
 
 Skill targets are those where a demonstration or physical skill-based performance is at the heart of the learning.
 
@@ -2095,7 +2095,7 @@ Beyond those limited cases, selected response is a poor match for skill targets.
 
 **PERSONAL COMMUNICATION.** Personal communication is a **partial match** for assessing skill targets. It is a good choice when the skills in question fall into the category of oral proficiency, such as speaking a foreign language or giving an oral presentation. In these instances, personal communication *is* the focus of the performance assessment. When the skill target in question is *not* related to oral proficiency, such as "dribbles a basketball to keep it away from an opponent," personal communication won't do.
 
-### **Assessing Product Targets**
+#### **Assessing Product Targets**
 
 Product targets describe learning in terms of artifacts where creation of a product is the focus of the learning target. With product targets, the specifications for quality of the product itself are the focus of teaching and assessment.
 
@@ -2112,8 +2112,7 @@ learning target specifies the creation of a written product, such as an essay or
 **PERSONAL COMMUNICATION.** Personal communication is a **poor match** for assessing product targets. We can use it only to determine if students possess the prerequisite knowledge required to create the product.
 
 **For Example 4.1**
-**Examples of Target–Method Match—English Language Arts**
-
+**TABLE-Examples of Target–Method Match—English Language Arts**
 | Learning Target                                                                        | Target Type | Assessment Method(s)                     |
 | Understand the meaning of the terms connotation (associations) and denotation          | Knowledge   | Selected Response, Written Response, or  |
 | (definitions). (KY 1)                                                                  |             | Personal Communication                   |
@@ -2133,8 +2132,8 @@ learning target specifies the creation of a written product, such as an essay or
 
 *Sources:* CCSSI, 2010a, pp. 23 , 45 , 50 , & 52KY 1 is from http://www.education.ky.gov/users/otl/KLN/ELA/Language%20 St5%20Grade%207.docKY 2 is from http://www.education.ky.gov/users/otl/KLN/ELA/Language%20St5%20 Grade%208.doc
 
-**For Example 4.2 Examples of Target–Method Match—Mathematics** 
-
+**For Example 4.2**
+**TABLE-Examples of Target–Method Match—Mathematics** 
 | Learning Target                   | Target Type | Assessment Method(s)       |
 |-----------------------------------|-------------|----------------------------|
 | Recognize that analog and         | Knowledge   | Selected Response, Written |
@@ -2145,7 +2144,6 @@ learning target specifies the creation of a written product, such as an essay or
 | that can be modeled with linear   |             | Response, or Personal      |
 | functions and with exponential    |             | Communication              |
 | functions. (CCSSI, 2010c, p. 70 ) |             |                            |
-
 | Learning Target                   | Target Type | Assessment Method(s)       |
 |-----------------------------------|-------------|----------------------------|
 | Use ratio and rate reasoning to   | Reasoning   | Selected Response, Written |
@@ -2181,7 +2179,7 @@ learning target specifies the creation of a written product, such as an essay or
 
 *Sources:* CCSSI, 2010c, pp. 16 , 42 , 50 , 70 , & 82KY 3 is from http://www.education.ky.gov/KDE/Instructional+Resources/ Curriculum+Documents+and+Resources/Mathematics+DRAFT+Deconstructed+Standards.htm
 
-## **ASSESSMENT DEVELOPMENT CYCLE**
+### **ASSESSMENT DEVELOPMENT CYCLE**
 
  All assessments, regardless of method selected, need to go through the same development steps to ensure quality. Although the list (also shown in Figure 4.4 ) may look imposing at first, it outlines a commonsense process with several familiar steps. With a bit of practice, the process will become second nature.
 
@@ -2230,7 +2228,7 @@ In Chapters 5 through 8 , we'll work by method through the steps of selecting or
 
 The Assessment Development Cycle applies to any type of assessment intended for classroom use: formative or summative; practice assessments, quizzes, tests, projects; short-cycle, common, interim, or end-of-course assessments; developed or selected by individual teachers or by grade-level teams, content area departments, or district subject area teams. All need to adhere to standards of quality—all should follow the steps of the assessment development cycle.
 
-### **Step 1: Determining Users and Uses**
+#### **Step 1: Determining Users and Uses**
 
 In a balanced classroom assessment system, each assessment represents a part of a long-term assessment map that parallels the curriculum map for the reporting period. Each assessment contributes to an accumulating body of evidence of each student's level of achievement. Some assessments will be used formatively—to guide further instruction and learning—while others will be used summatively to report level of achievement. Our first planning decision is to determine the purpose for each:
 
@@ -2240,7 +2238,7 @@ In a balanced classroom assessment system, each assessment represents a part of 
 
 The answers to these questions guide design decisions. Summative assessments can function formatively and formative assessments can function summatively, but not without carefully thought-out design.
 
-### **My Classroom Then and Now 4.1**
+ **My Classroom Then and Now 4.1**
 Amy James
 I used to . . .
 
@@ -2268,11 +2266,11 @@ I have found that by structuring instruction and assessment in this way, student
 - **4.** The results are available in time to take action with the students who generated them.
 - **5.** Teachers and students do indeed take action based on the results. (Chappuis, 2009, p. 6 )
 
-### **Step 2: Specifying the Intended Learning Targets**
+#### **Step 2: Specifying the Intended Learning Targets**
 
 List the learning targets to be assessed along with their classification (knowledge, reasoning, skill, or product). If the target is complex or unclear, clarify it or deconstruct it first, following the processes outlined in Chapter 3 . Specifying the intended learning targets is important because the breadth and depth of a learning target will affect how much coverage it will need on the assessment and in instruction. Classifying the targets is important because different target types require different assessment methods.
 
-### **My Classroom Then and Now 4.2**
+ **My Classroom Then and Now 4.2**
 **Christine Heilman** 
 I used to . . .
 
@@ -2288,11 +2286,11 @@ As a team, we are now very clear in what we are teaching, what we expect student
 
 *Source* : Used with permission from 2nd-grade classroom teacher Christine Heilman, ISD 196, Rosemount, MN, 2011.
 
-### **Step 3: Selecting the Appropriate Assessment Method(s)**
+#### **Step 3: Selecting the Appropriate Assessment Method(s)**
 
  This is fairly straightforward. Once you have classified learning targets by type, decide which assessment method or methods to select by referring to the guidelines described in the section "Matching Assessment Methods to Learning Targets" and summarized in Figure 4.3 .
 
-### **Step 4: Determining the Appropriate Sample Size**
+#### **Step 4: Determining the Appropriate Sample Size**
 
  Realistically, any test can include only a subset of all the questions we could have asked if testing time were unlimited. It never is unlimited, so we include a sam-
 
@@ -2310,7 +2308,7 @@ Sample size is in large part determined by teacher judgment. In all cases, the a
 
  Each assessment method brings with it specific rules of evidence for sampling within these guidelines. We will address those in more detail in Chapters 5 through 8 as we discuss assessment development with each method.
 
-## **FAQ 4.3 Sampling**
+ **FAQ 4.3 Sampling**
 
 Question
 
@@ -2358,10 +2356,9 @@ cover, which assessment method or methods to use, and how much weight each learn
 
  Figure 4.5 is an example of a blueprint for a test employing multiple assessment methods: in this case, selected response items, written response items, and a performance task. Figure 4.6 is an example of a blueprint for a test comprised solely of selected response items.
 
-### **FIGURE 4.5** Blueprint for a Unit Test with Multiple Assessment Methods
-
+**FIGURE 4.5** 
 **4th Grade Unit: The Physics of Sound (Selected Targets)** 
-
+**TABLE-Blueprint for a Unit Test with Multiple Assessment Methods**
 | Type of Target    | Assessment Method      | Percent Importance |
 |-------------------|---------------------------|-----------------------|
 | Knowledge         | Selected Response      | 20                    |
@@ -2373,6 +2370,7 @@ cover, which assessment method or methods to use, and how much weight each learn
 
 *Source:* Reprinted from the *FOSS* ® *Physics of Sound Teacher Guide* , © The Regents of the University of California, 2005, developed by Lawrence Hall of Science and published by Delta Education, LLC. Reprinted by permission.
 
+**TABLE-Blueprint for a Selected Response Quiz 5th Grade Reading**
 | FIGURE 4.6 Blueprint for a Selected Response Quiz 5th Grade Reading                         |          |              |
 |---------------------------------------------------------------------------------------------|----------|--------------|
 | Learning Target                                                                             | Problems | Total Points |
@@ -2380,7 +2378,7 @@ cover, which assessment method or methods to use, and how much weight each learn
 | Uses context to determine meaning of unfamiliar words                                       | 7–10     | 4            |
 | Summarizes text                                                                             | 11–15    | 5            |
 
-### **The Steps in Test Development**
+#### **The Steps in Test Development**
 
 So far, our planning has yielded an understanding of intended use, a list of learning targets or important concepts, a determination of appropriate method(s) to use, and an indication of each target's relative importance. At the *Development* stage, we adhere to guidelines for quality specific to each assessment method. This stage is comprised of Steps 5 and 6 of the Assessment Development Cycle.
 
@@ -2420,7 +2418,7 @@ Step 6 is to review and critique the assessment before using it. Regardless of h
 
 improper sampling, would be solved by adhering to the planning steps of the Assessment Development Cycle. Others are issues that can be hard to anticipate. Sources of bias and distortion specific to each method are discussed fully in Chapters 5 though 8 .
 
-### **Use and Refinement**
+#### **Use and Refinement**
 
 Step 7 is to administer and score the test. Even if you are using an already-developed test, we recommend that you review it with each of the first six steps in mind. When we rely on textbook test writers to do the planning and development, we may have high-quality items, but we may have a partial or poor match to what we taught or to the relative balance of importance of each learning target in our curriculum. In addition, the test may not give students specific and detailed feedback regarding their strengths and areas of need.
 
@@ -2434,7 +2432,7 @@ Did a source of bias or distortion creep in and affect the results? Were some qu
 
 Remember that our goal in the classroom is to get accurate information about student achievement, and if we know the information is not accurate, we have an obligation to discard it and to revise the assessment as needed before future use.
 
-**My Classroom Then and Now 4.3**
+ **My Classroom Then and Now 4.3**
 **Ken Mattingly** 
 I used to . . .
 
@@ -2475,7 +2473,7 @@ Assessment *for* learning and student involvement activities (formative applicat
 
  We will offer more ideas for using test blueprints as instructional tools in Chapter 5 and 6 .
 
-## **Summary**
+### **Summary**
 
 None of the available assessment methods is inherently superior to others. Each brings its own unique strengths and limitations. Selected response, written response, performance assessment, and personal communication are all viable options. To ensure accuracy of results, we first consider the kind of learning target to be assessed and then take into account any special student characteristics such as age, English language proficiency, or specific learning disabilities that might compromise accuracy.
 
@@ -2485,13 +2483,13 @@ and Use. There are eight steps in the cycle: (1) identify the purpose, (2) speci
 
  Complete these steps and you can have confidence that your formative and summative assessments are yielding accurate and usable results.
 
-## **CHAPTER 4ACTIVITIES**
+### **CHAPTER 4 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms and materials for completing each activity appear in editable Microsoft Word format in the Chapter 4 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 4 Learning Targets**
+#### **Chapter 4 Learning Targets**
 
 At the end of this chapter you will know how to do the following:
 
@@ -2509,7 +2507,7 @@ Activity 4.6 Try an Assessment *for* Learning Application
 Activity 4.7 Reflect on Your Own Learning
 Activity 4.8 Select Portfolio Artifacts
 
-###  **Activity 4.1 Keep a Reflective Journal** 
+#####  **Activity 4.1 Keep a Reflective Journal** 
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 4 .
 
@@ -2517,7 +2515,7 @@ Keep a record of your thoughts, questions, and any implementation activities you
 
 Reflective Journal Form
 
-### **Activity 4.2 Practice with Target–Method Match**
+##### **Activity 4.2 Practice with Target–Method Match**
 
 After reading the section, "Matching Assessment Methods to Learning Targets," work independently, with a partner, or with your learning team to carry out this activity.
 
@@ -2530,7 +2528,7 @@ After reading the section, "Matching Assessment Methods to Learning Targets," wo
 
 Target–method Match Template
 
-### **Activity 4.3 Audit an Assessment for Clear Purpose**
+##### **Activity 4.3 Audit an Assessment for Clear Purpose**
 
 After reading the section, "Step 1: Determining Users and Uses," work independently, with a partner, or with your learning team to complete the following activity.
 
@@ -2543,7 +2541,7 @@ After reading the section, "Step 1: Determining Users and Uses," work independen
 
 ![](_page_126_Picture_10.jpeg)
 
-### **Activity 4.4 Audit an Assessment for Clear Learning Targets**
+##### **Activity 4.4 Audit an Assessment for Clear Learning Targets**
 
 After reading the section, "Step 2: Specifying the Intended Learning Targets," work independently, with a partner, or with your learning team to carry out the following activity.
 
@@ -2572,7 +2570,7 @@ Identify and write down what learning each item or task assesses. Describe the l
 
 Audit an Assessment for Clear Learning Targets
 
-### ** Activity 4.5 Make a Test Blueprint**
+##### ** Activity 4.5 Make a Test Blueprint**
 
 After reading the sections titled "Step 3: Selecting the Appropriate Assessment Methods" and "Step 4: Determining the Appropriate Sample Size," work independently, with a partner, or with a team to carry out this activity.
 
@@ -2586,7 +2584,7 @@ After reading the sections titled "Step 3: Selecting the Appropriate Assessment 
 
 Test Blueprint Form A Test Blueprint Form B
 
-### **Activity 4.6 Try an Assessment** *for* **Learning Application**
+##### **Activity 4.6 Try an Assessment** *for* **Learning Application**
 
 After reading the section, "Assessment *for* Learning Using Assessment Blueprints," work independently, with a partner, or with your learning team to carry out this activity.
 
@@ -2600,7 +2598,7 @@ After reading the section, "Assessment *for* Learning Using Assessment Blueprint
 
 Debrief the AFL Application You Tried
 
-### **Activity 4.7 Reflect on Your Own Learning**
+##### **Activity 4.7 Reflect on Your Own Learning**
 
 Review the Chapter 4learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -2608,7 +2606,7 @@ Review the Chapter 4learning targets and select one or more that represented new
 
 Reflect on Chapter 4 Learning
 
-### **Activity 4.8 Select Portfolio Artifacts**
+##### **Activity 4.8 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifacts you have created that will illustrate your competence at the Chapter 4 learning targets:
 
@@ -2623,7 +2621,7 @@ If you are keeping a reflective journal, you may want to include Chapter 4 's en
 
 Chapter 4 Portfolio Entry Cover Sheet
 
-### **CD RESOURCES**
+#### **CD RESOURCES**
 
 - 1. Activity 4.1 Reflective Journal Form
 - 2. Activity 4.2 Target–Method Match Template
@@ -2635,7 +2633,7 @@ Chapter 4 Portfolio Entry Cover Sheet
 - 8. Activity 4.7 Reflect on Chapter 4 Learning
 - 9. Activity 4.8 Chapter 4 Portfolio Entry Cover Sheet
 
-# Chapter 5:  Selected Response Assessment
+## Chapter 5:  Selected Response Assessment
 
 From Chapter 5 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
@@ -2648,7 +2646,7 @@ However, as we have seen in Chapter 4 , if we use only selected response assessm
 
 Selected response assessments can include one or more of four different item types: multiple choice, true/false, matching, and fill in the blank. In this chapter, we examine formative and summative uses for selected response assessments, how to choose from among selected response formats, how to create quality items, and how to use selected response assessments formatively, as assessment *for* learning.
 
-## **Chapter 5 Learning Targets**
+### **Chapter 5 Learning Targets**
 
 At the end of this chapter you will know how to do the following:
 
@@ -2681,7 +2679,7 @@ Do assessment practices meet students' information needs? Are learning targets c
 
 ![](_page_134_Picture_1.jpeg)
 
-## **WHEN TO USE SELECTED RESPONSE ASSESSMENT**
+### **WHEN TO USE SELECTED RESPONSE ASSESSMENT**
 
 The first condition for using selected response is that it must be capable of reflecting the type of learning target to be assessed. Selected response formats are ideal for assessing knowledge-level learning targets, some patterns of reasoning, and a very few number of skill targets, as described in Chapter 4 .
 
@@ -2691,7 +2689,7 @@ Several other key conditions influence choosing the selected response method of 
 - You want to diagnose student misconceptions and flaws in reasoning.
 - Students can read English well enough to understand what each test item is asking of them.
 
-### **FAQ 5.1 Misconceptions about Selected Response Assessment**
+ **FAQ 5.1 Misconceptions about Selected Response Assessment**
 
 Question:
 
@@ -2713,7 +2711,7 @@ First, let's define "authentic." The *New American Oxford Dictionary* offers thi
 
 By that definition, selected response methodology is not "inauthentic." Life beyond school often calls for correct answers and solutions chosen from a variety of options. We believe it is more helpful to think of authenticity as a *dimension* of assessments, not as a label given to some forms rather than others. We can keep it as a consideration when writing assessments of any sort, as long as the application or context doesn't interfere with the accuracy of the item, task, or scoring guide.
 
-## **DEVELOPING A SELECTED RESPONSE TEST**
+### **DEVELOPING A SELECTED RESPONSE TEST**
 
 We will follow the steps in the Assessment Development Cycle described in Chapter 4 .
 
@@ -2730,11 +2728,11 @@ We will follow the steps in the Assessment Development Cycle described in Chapte
 - **7.** Conduct and score the assessment.
 - **8.** Revise as needed for future use.
 
-## **PLANNING STEPS**
+### **PLANNING STEPS**
 
 As we saw in Chapter 4 , careful attention to each of the four planning steps is essential to ensuring that the resulting assessment will do what you want it to.
 
-### **Step 1: Determine Users and Uses**
+#### **Step 1: Determine Users and Uses**
 
 We begin planning by answering these questions: How do we want to use the information? Who else will use it? What decisions will they make? Typically, we will use assessment information for one or more of the following purposes:
 
@@ -2745,15 +2743,15 @@ We begin planning by answering these questions: How do we want to use the inform
 
 Each one of these purposes can be accomplished with selected response formats, as long as we keep the intended use in mind while making further planning and design decisions.
 
-### **Step 2: Identify Learning Targets**
+#### **Step 2: Identify Learning Targets**
 
 At this step we simply list the specific learning targets we have identified for the assessment. If one or more targets on the list are complex or unclear, clarify them or deconstruct them first, following the processes outlined in Chapter 3 .
 
-### **Step 3: Select Assessment Method(s)**
+#### **Step 3: Select Assessment Method(s)**
 
 Although we have already determined that we will use selected response, we must make sure the list of clarified targets only includes knowledge and reasoning learning targets and also that those targets can be assessed well with selected response methodology. So, review the list of learning targets to verify that they are knowledge and reasoning targets and that selected response items can capture an accurate picture of achievement.
 
-### **Step 4: Determine Sample Size**
+#### **Step 4: Determine Sample Size**
 
 This step requires that we assign a relative importance to each learning target. One simple way to do this with selected response questions is to decide how many points the test will be worth and then divide the points according to relative importance
 
@@ -2768,7 +2766,7 @@ course deals with reading maps, then in most cases it would misrepresent learnin
 If, on the other hand, the results are to be reported by individual learning target, or if the test only measures one single target, the sample must be sufficient to defend an inference about mastery of that individual target.
 
 **COMBINING PLANNING DECISIONS INTO AN ASSESSMENT BLUEPRINT.** For selected response assessments, we offer two useful types of blueprints. One is a list of the learning targets and the other is a table crossing content with knowledge and
-
+**TABLE-Blueprints for Third-Grade Mathematics and Reading TestS**
 | FIGURE 5.2 Blueprints for Third-Grade Mathematics and Reading Tests              |                  |
 |----------------------------------------------------------------------------------|------------------|
 | Mathematics                                                                      |                  |
@@ -2797,7 +2795,6 @@ Figure 5.3 shows a list of learning targets for a fifth-grade social studies uni
 - **3.** Compare the lives of different Native American groups before and after westward expansion.
 - **4.** Identify significant individuals who took part in the westward expansion.
 - **5.** Explain how the westward migration led to conflict between Native Americans and settlers and between Mexicans and settlers.
-
 | Content Category                            | Knowledge | Compare/ Contrast | Totals |
 |---------------------------------------------|-----------|-------------------|--------|
 | 1. Manifest Destiny                         | 2         |                   | 2      |
@@ -2807,11 +2804,11 @@ Figure 5.3 shows a list of learning targets for a fifth-grade social studies uni
 | 5. Effects on Native Americans and Mexicans | 6         | 4                 | 10     |
 | TOTALS                                      | 28        | 8                 | 36     |
 
-## **DEVELOPMENT AND USE STEPS**
+### **DEVELOPMENT AND USE STEPS**
 
 The remaining four steps of the Assessment Development Cycle focus on developing the items and scoring procedures, critiquing the assessment for quality, administering the assessment, and revising it as needed.
 
-### **Step 5: Develop or Select Items, Exercises, Tasks, and Scoring Procedures**
+#### **Step 5: Develop or Select Items, Exercises, Tasks, and Scoring Procedures**
 
 The process for developing selected response items is as follows: identify the specific content to include, choose which kinds of items to write, write the items, and assemble the test.
 
@@ -2819,7 +2816,7 @@ The process for developing selected response items is as follows: identify the s
 
 Now that you have numbers on the test plan to indicate the relative importance of each learning target or content category, the next step is to identify what content you will test for each cell. In most cases, you won't test everything students are to have learned. Instead, you will select or create questions that cover as much of the important content as possible given the amount of testing time available, and that are prudent for the age of your students. You use the results to make an inference: a student who has scored 75 percent on the test has mastered about 75 percent of the material that was intended to be learned. You must carefully select the sample of all possible important aspects of knowledge and reasoning so that it allows you to accurately estimate level of achievement.
 
-### **My Classroom Then and Now 5.1**
+ **My Classroom Then and Now 5.1**
 **Myron Dueck** 
 I used to . . .
 
@@ -2911,9 +2908,9 @@ mastered some body of basic knowledge, but nevertheless, you want to assess thei
 **When Writing Propositions Is Unnecessary.** For some knowledge targets such as those identified in the third-grade mathematics test plan, writing propositions is unnecessary.
 
 **CHOOSING ITEM TYPES.** Selected response methodology offers four choices of item types: multiple choice, true/false, match, and fill in the blank. Each has strengths and weaknesses. You can use Figure 5.4 to decide when to choose which format.
-
+**TABLE-Comparison of Selected Response Item Types**
 | Item              | Used When                           | Advantage                               | Limitations                            |
-|------------------|--------------------------------------|-----------------------------------------|----------------------------------------|
+|-------------------|--------------------------------------|-----------------------------------------|----------------------------------------|
 | Multiple Choice   | There is only one right answer.      | Can measure a variety of objectives.   | Guessing can skew score (up to 33%     |
 |                   | There are several plausible          | Easy to score.                         | chance, depending on number of         |
 |                   | alternatives to the correct answer.  | Can cover lots of material efficiently.| distracters). Can be hard to identify  |
@@ -2939,7 +2936,7 @@ Manifest Destiny represents a mission to impart the government and way of life o
 
 **Multiple-Choice Items.** To create a multiple-choice item, turn the basic focus of the proposition into a question. Then turn the other part of the proposition into the correct answer. Add a number of plausible but incorrect answers and you have a multiple-choice item.
 
-#### **What was the mission of Manifest Destiny in the United States in the 1800s?**
+**What was the mission of Manifest Destiny in the United States in the 1800s?**
 
 - **a.** To have Lewis and Clark make friends with the Native Americans they met.
 - **b.** To move the U.S. form of government and way of life west.
@@ -2987,7 +2984,7 @@ What were three effects of westward expansion on Plains Indians in the 1800s?
 
 Not applicable
 
-#### **Fill-in-the-blank Item:**
+ **Fill-in-the-blank Item:**
 
 What were three effects of westward expansion on Plains Indians in the 1800s?
 
@@ -3096,6 +3093,7 @@ Which of the following are examples of birds that do not fly?
 
 which kind of error each distracter represents, you can disaggregate the test results by answer choice (which most scoring machines and software can do) to diagnose common misconceptions or specific reasoning problems students are experiencing. Then you can plan instruction to address them. Figure 5.5 shows item formulas for creating distracters that can reveal difficulties with selected patterns of reasoning.
 
+**TABLE-Item Formulas for Selected Patterns of Reasoning**
 | Reasoning Learning Target          | Item Formula                                                  |
 |-----------------------------------|---------------------------------------------------------------|
 | Makes inferences based on text    | Question: Which sentence tells an idea you can get from       |
@@ -3228,7 +3226,7 @@ Directions: New England states are listed in the left-hand column and capital ci
 
 **ASSEMBLING THE TEST.** Begin the test with relatively easier items to maximize students' opportunity to start on a note of confidence. Consider arranging the items on your test according to the learning target each represents, especially if the results will be used formatively. If that presents a challenge in direction writing because you would be mixing item formats, consider indicating in some other fashion which learning target each addresses. However, do so only if this information will not give students unfair clues regarding the correct answer. Make sure your students know how many points each question is worth, so they can learn to prioritize their testing time. Put all parts of an item on the same page.
 
-### **My Classroom Then and Now 5.2**
+ **My Classroom Then and Now 5.2**
 **Laura Anderson**
 We used to . . .
 
@@ -3250,7 +3248,7 @@ Our standardized math test scores (both state and district level) have shown dra
 
 *Source:* Used with permission from Laura Anderson, 4th-grade teacher, District 196, Rosemount, MN, 2011.
 
-### **Step 6: Review and Critique the Overall Assessment for Quality Before Use**
+#### **Step 6: Review and Critique the Overall Assessment for Quality Before Use**
 
 At this step, we determine how much time to allow, adjust the time or the test as needed, and review the assessment for quality.
 
@@ -3345,7 +3343,8 @@ Make sure the test is not too long for the time allowed.
 
 *Source:* Adapted from *Student-Involved Assessment* for *Learning* , 5th ed. (p. 122 ), by R. J. Stiggins, 2008, Upper Saddle River, NJ: Pearson Education. Copyright © 2008 by Pearson Education, Inc. Adapted by permission of Pearson Education, Inc.
 
-### **Step 7: Conduct and Score the Assessment Step 8: Revise as Needed for Future Use**
+#### **Step 7: Conduct and Score the Assessment 
+#### Step 8: Revise as Needed for Future Use**
 
  Even the best planning can't catch all problems with an assessment. Here are two things to watch for as you administer the test:
 
@@ -3354,7 +3353,7 @@ Make sure the test is not too long for the time allowed.
 
 While correcting the tests, make note of items that caused unexpected difficulties. Use the Guidelines for Writing Quality Items and the checklist in Figure 5.6 to troubleshoot these items as well as the items for which students required clarification and make any revisions as needed for future use.
 
-### **My Classroom Then and Now 5.3**
+ **My Classroom Then and Now 5.3**
 **Shannon Braun**
 
 I used to …
@@ -3375,14 +3374,16 @@ Using formative assessment in a structured way has transformed the way I look at
 
 *Source*:Used with permission from Shannon Braun, high school mathematics teacher, District 196, Rosemount, MN, 2011.
 
-## **SELECTED RESPONSE ASSESSMENT** *FOR* **LEARNING**
+### **SELECTED RESPONSE ASSESSMENT** *FOR* **LEARNING**
 
 As we saw in Chapter 2 , formative assessment can be thought of as actions that involve both the teacher and the student as decision makers. We also saw that motivation to learn and level of achievement both rise when students are engaged in the assessment process. The following suggestions represent ways selected response tests can serve to help students answer the three essential questions at the heart of assessment *for* learning: "Where am I going?"; "Where am I now?"; and "How can I close the gap?" These seven strategies as applied to selected response tests are summarized in Figure 5.7 .
 
-### **Where Am I Going?**
+#### **Where Am I Going?**
 
-**STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** Once you have an assessment blueprint, you can use it, not just for test development, but also as assessment *for* learning. Give students a list of the learning targets, in terms they understand, at the outset of instruction, along with your assessment blueprint. You can also use the blueprint as a way to summarize the day's or week's learning by asking students to identify which cells the instruction has focused on.
+##### **STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** O
+nce you have an assessment blueprint, you can use it, not just for test development, but also as assessment *for* learning. Give students a list of the learning targets, in terms they understand, at the outset of instruction, along with your assessment blueprint. You can also use the blueprint as a way to summarize the day's or week's learning by asking students to identify which cells the instruction has focused on.
 
+**TABLE- Assessment for Learning with Selected Response Methodology**
 | Section              | Description                                                                 |
 |----------------------|------------------------------------------------------------------------------|
 | Where am I going?    | 1. Provide students with a clear and understandable vision of the learning  |
@@ -3419,7 +3420,8 @@ Propositions play a role in assessment *for* learning. Explain to students that 
 - Give groups of students the assessment blueprint and sample propositions representing the learning thus far. Have them match the propositions to the correct cell in the blueprint.
 - Have students create propositions for each cell in the blueprint. Check these for misunderstandings and reteach as needed.
 
-**STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** Give students a reasoning item formula, such as the ones in Figure 5.6 . (For younger students, you will need to translate the item formula into student-friendly language.) Show them a test item created with the formula. Ask them to identify which answers are wrong and which one is right by identifying the response pattern each follows. See the example "Using Item Formulas as Strong and Weak Examples" for an illustration of how this can work when teaching fourth-grade students to infer.
+##### **STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** 
+Give students a reasoning item formula, such as the ones in Figure 5.6 . (For younger students, you will need to translate the item formula into student-friendly language.) Show them a test item created with the formula. Ask them to identify which answers are wrong and which one is right by identifying the response pattern each follows. See the example "Using Item Formulas as Strong and Weak Examples" for an illustration of how this can work when teaching fourth-grade students to infer.
 
 **For Example 5.4**
 **Using Item Formulas as Strong and Weak Examples**
@@ -3440,11 +3442,13 @@ Some of the answers are wrong because, even though they are guesses, there are n
 
 Be careful—you might think there is evidence for them, so look closely!
 
-### **Where Am I Now?**
+#### **Where Am I Now?**
 
-**STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** To offer effective feedback with selected response assessments, you must know what learning target each item addresses. Your students must also understand the targets they are responsible for learning. If you are using multiple-choice items, the distracters students choose can pinpoint problems to address. After taking a test, students can use the assessment blueprint to figure out which learning targets they have mastered and which ones they still need to work on.
+##### **STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** 
+To offer effective feedback with selected response assessments, you must know what learning target each item addresses. Your students must also understand the targets they are responsible for learning. If you are using multiple-choice items, the distracters students choose can pinpoint problems to address. After taking a test, students can use the assessment blueprint to figure out which learning targets they have mastered and which ones they still need to work on.
 
-**STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** Hand your assessment blueprint out at the beginning of instruction. Have students self-assess on the learning targets or concepts as you teach them, using "traffic light" icons. Students mark the learning target or concept with a large dot—green to indicate confidence in having mastered it ("I've got it"), yellow to indicate a judgment of partial mastery ("I understand part of it, but not all of it"), or red to indicate little or no understanding ("I don't get it at all"). Then let the "greens" and "yellows" partner to fine-tune their understanding while you work with the "reds." (Black, Harrison, Lee, Marshall, & Wiliam, 2002).
+##### **STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** 
+Hand your assessment blueprint out at the beginning of instruction. Have students self-assess on the learning targets or concepts as you teach them, using "traffic light" icons. Students mark the learning target or concept with a large dot—green to indicate confidence in having mastered it ("I've got it"), yellow to indicate a judgment of partial mastery ("I understand part of it, but not all of it"), or red to indicate little or no understanding ("I don't get it at all"). Then let the "greens" and "yellows" partner to fine-tune their understanding while you work with the "reds." (Black, Harrison, Lee, Marshall, & Wiliam, 2002).
 
 You can structure a quiz or test to function as both effective feedback and a means for self-assessment and goal setting. This works best if there is opportunity for students to improve their achievement before the assessment that counts for the mark or grade. Here is the process (adapted from Chappuis, 2009, pp. 111–112 ):
 
@@ -3458,14 +3462,13 @@ You can structure a quiz or test to function as both effective feedback and a me
 Figure 5.11 shows an example of a form designed for secondary students. To use it, you make a numbered list of the learning targets to be assessed and then put only the learning target number on the form. Students use the form while they are taking the quiz or test to mark "Confident" or "Unsure" as they answer each item. After you have corrected the quizzes or tests, students fill in the "Right," "Wrong," "Simple Mistake," and "Don't Get It" columns. Then they combine that information
 
 **FIGURE 5.8** Reviewing My Results
-| Name:                                                                                                                                      |
+**TABLE-Reviewing my results**
+| Name:                                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| Please look at your corrected test and mark whether each problem is right or wrong. Then look at the problems you got wrong and decide   |
+| Please look at your corrected test and mark whether each problem is right or wrong. Then look at the problems you got wrong and decide    |
 | if you made a simple mistake. If you did, mark the "Simple Mistake" column. For all the remaining problems you got wrong, mark the        |
-| "Don't Get It" column.                                                                                                                     |
-
-| Assignment: _____________ | Date: _____________ |
-
+| "Don't Get It" column.                                                                                                                    |
+| Assignment: _____________ | Date: _____________ |                                                                                         | 
 | Problem | Learning Target | Right | Wrong | Simple Mistake | Don't Get It |
 |---------|------------------|-------|--------|----------------|---------------|
 | 1       |                  |       |        |                |               |
@@ -3481,20 +3484,20 @@ Figure 5.11 shows an example of a form designed for secondary students. To use i
 
 *Source:* Reprinted from *Seven Strategies of Assessment* for *Learning* (p. 112 ), by J. Chappuis, 2009, Upper Saddle River, NJ: Pearson Education. Reprinted by permission.
 
-#### **FIGURE 5.9** Analyzing My Results
-
+**FIGURE 5.9** Analyzing My Results
 **Analyzing My Results**
-
+**TABLE-Analyzing My Results**
 | I AM GOOD AT THESE! Learning targets I got right:                                                                   |
-|------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------|
 | I AM PRETTY GOOD AT THESE, BUT NEED TO DO A LITTLE REVIEW Learning targets I got wrong because of a simple mistake: |
-| What I can do to keep this from happening again:                                                                       |
+| What I can do to keep this from happening again:                                                                    |
 | I NEED TO KEEP LEARNING THESE Learning targets I got wrong and I'm not sure what to do to correct them:             |
-| What I can do to get better at them:                                                                                   |
-|                                                                                                                        |
+| What I can do to get better at them:                                                                                |
+|                                                                                                                     |
 
 *Source:* Reprinted from *Seven Strategies of Assessment* for *Learning* (p. 113 ), by J. Chappuis, 2009, Upper Saddle River, NJ: Pearson Education. Reprinted by permission.
 
+**TABLE-Student Goal-Setting Frames**
 | FIGURE 5.10 Student Goal-Setting Frames                                                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 | To get better at ___________________________________, I could …                                                                     |
@@ -3512,24 +3515,23 @@ Figure 5.11 shows an example of a form designed for secondary students. To use i
 | One way I'll know I'm getting better is …                                                                                           |
 | ___________________________________________________________________________________________                                         |
 | ___________________________________________________________________________________________                                         |
-
+|_____________________________________________________________________________________________________________________________________|
 | Goal                                 | Steps                                 | Evidence                                |
 |--------------------------------------|----------------------------------------|----------------------------------------|
 | What do I need to get better at?     | How do I plan to do this?              | What evidence will show I've           |
 |                                      |                                        | achieved my goal?                      |
-
 | Time Frame: Begin ________________   | End ________________                                                        |
 | Date ________________               | Signed ________________                                                      |
-
 | Source: From *Self-Assessment and Goal-Setting*, (p. 45) by K. Gregory, C. Cameron, and A. Davies, 2000, Merville, BC: Connections. |
 | Reprinted by permission.                                                                                                            |
 
 
 along with the "Confident" or "Unsure" information to fill out the form "Analyzing My Results."
 
-### **How Can I Close the Gap?**
+#### **How Can I Close the Gap?**
 
-**STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.** You can use the information provided by students in reviewing and analyzing their quiz or test results to differentiate instruction, to have students form study groups, or as the basis for general review.
+##### **STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.** 
+You can use the information provided by students in reviewing and analyzing their quiz or test results to differentiate instruction, to have students form study groups, or as the basis for general review.
 
 Other focused activities include the following:
 
@@ -3537,8 +3539,8 @@ Other focused activities include the following:
 - Follow each selected response item with the question, "How do you know your answer is correct?," providing several lines for a response. Discuss common reasons for right and wrong choices when you pass back the test.
 
 
-#### **FIGURE 5.11** Reviewing and Analyzing My Results—Secondary Version
-
+ **FIGURE 5.11** Reviewing and Analyzing My Results—Secondary Version
+**TABLE-Reviewing and Analyzing My Results—Secondary Version**
 | Name: ____________________________     | Assignment: ___________________________        | Date: ________________ |
 |----------------------------------------|-----------------------------------------------|------------------------|
 As you answer each question, decide whether you feel **confident** in your answer or **unsure**, and mark the corresponding box.
@@ -3559,17 +3561,14 @@ To identify your areas of strength, write down the learning targets for problems
 |                   |                                        |
 My Highest Priority for Studying
 To determine what you need to study most, write down the learning targets for problems you marked "**Don't Get It**" (problems you got wrong, NOT because of a simple mistake).
-
 | Learning Target # | Learning Target or Problem Description |
 |-------------------|----------------------------------------|
 |                   |                                        |
 |                   |                                        |
 |                   |                                        |
 
----
 What I Need to Review
 To determine what you need to review, write down the learning targets for problems you were **unsure of** and for problems on which you made **simple mistakes**.
-
 | Learning Target # | Learning Target or Problem Description |
 |-------------------|----------------------------------------|
 |                   |                                        |
@@ -3579,7 +3578,7 @@ To determine what you need to review, write down the learning targets for proble
 
 *Source:* Adapted from *Assessment FOR Learning: An Action Guide for School Leaders* (pp. 198 , 199), by S. Chappuis, R. Stiggins, J. Arter, and J. Chappuis, 2004, Upper Saddle River, NJ: Pearson Education. Adapted by permission.
 
-### **My Classroom Then and Now 5.4**
+ **My Classroom Then and Now 5.4**
 **Kim Urban**
 I used to …
 
@@ -3629,9 +3628,11 @@ You write a correct answer and two incorrect answers. You can mix up the order�
 - **b.**
 - **c.**
 
-**STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** Anything we do to give students practice with applying what they know about quality or correctness to rework their own answers or to offer suggestions on someone else's work causes them to engage in revision. Consider letting them first practice on anonymous responses by answering one or both of the following questions: "What is wrong with this answer?" "What would make this answer better?"
+##### **STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** 
+Anything we do to give students practice with applying what they know about quality or correctness to rework their own answers or to offer suggestions on someone else's work causes them to engage in revision. Consider letting them first practice on anonymous responses by answering one or both of the following questions: "What is wrong with this answer?" "What would make this answer better?"
 
-**STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** We may think of this strategy as best suited to performance assessment, but it is equally effective with selected response assessment. Students should be thinking about their achievement with respect to the knowledge and reasoning targets measured by this method, both because they play an important role in their education, and also because it is these fundamental targets that struggling students often have not mastered. As we stated in Chapter 2 , any activity that requires students to reflect on what they are learning and to share their progress both reinforces the learning and helps them develop insight into themselves as learners. These are keys to enhancing student motivation.
+##### **STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** 
+We may think of this strategy as best suited to performance assessment, but it is equally effective with selected response assessment. Students should be thinking about their achievement with respect to the knowledge and reasoning targets measured by this method, both because they play an important role in their education, and also because it is these fundamental targets that struggling students often have not mastered. As we stated in Chapter 2 , any activity that requires students to reflect on what they are learning and to share their progress both reinforces the learning and helps them develop insight into themselves as learners. These are keys to enhancing student motivation.
 
 Some software programs have built-in mechanisms for students to track their progress and communicate their results. Students answer a variety of questions and get immediate feedback on how they did. They are able to monitor their own progress and experience the satisfaction of watching themselves improve. Many students come to enjoy the assessment experience, even if they are not wildly successful at first, and are motivated by seeing progress to continue trying.
 
@@ -3639,7 +3640,7 @@ We share more ways for students to track their learning in Chapter 9 and to shar
 
 For specific examples of how each of these strategies can be used with selected response assessment across grade levels and subject areas, see Chappuis (2009) *.*
 
-## **Summary**
+### **Summary**
 
 In this chapter we revisited the idea that selected response items are a good way to measure knowledge and reasoning learning targets, as long as students can read at the needed level to understand the questions. Selected response is an efficient way to cover a lot of content in a short period of time.
 
@@ -3647,17 +3648,17 @@ Although we reviewed all steps in test development—from planning to critiquing
 
 Finally, we offered concrete examples of how to use selected response assessment as assessment *for* learning, meeting both the teacher's and the students' information needs. These strategies focused on how to use items, quizzes, and tests to answer the three questions that define assessment *for* learning: "Where am I going?"; "Where am I now?"; and "How can I close the gap?"
 
-## **NOTES**
+### **NOTES**
 
  1. Portions of these writing guidelines have been reprinted and adapted from Chapter 5 , pp. 91-119 , of R. J. Stiggins, and J. Chappuis*, Introduction to Student-involved Assessment FOR Learning,* 6th ed., 2011, Upper Saddle River, NJ: Pearson Education. Copyright © 2011 by Pearson Education, Inc. Reprinted and adapted by permission of Pearson Education, Inc.
 
-## **CHAPTER 5ACTIVITIES**
+### **CHAPTER 5 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity appear in editable Microsoft Word format in the Chapter 5 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 5 Learning Targets**
+#### **Chapter 5 Learning Targets**
 
 At the end of this chapter, you will know how to do the following:
 
@@ -3675,13 +3676,13 @@ Activity 5.4 Develop an Assessment *for* Learning Activity Activity 5.5 Prepare 
 Activity 5.6 Reflect on Your Own Learning
 Activity 5.7 Select Portfolio Artifacts
 
-### **Activity 5.1 Keep a Reflective Journal**
+##### **Activity 5.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 5 .
 
 Reflective Journal Form
 
-### **Activity 5.2 Audit Items for Quality**
+##### **Activity 5.2 Audit Items for Quality**
 
 This activity has two parts. The first part is an exercise in identifying item problems and the second part is an exercise in applying the Selected Response Test Quality Checklist in Figure 5.6to an existing selected response quiz or test.
 
@@ -3707,10 +3708,9 @@ After reading the section, "Step 5: Develop or Select Items, Exercises, Tasks, a
 	- **a.** the sabs foped and the foths tinzed **c.** few rakobs were accepted in sluth
 	- **b.** the kredges roted with the orots **d.** most of the polats were thonced
 - **6.** The mintering function of the ignu is most effectively carried out in connection with
-	-
 	- **b.** the groshing stantol **d.** a frally sush
 	- **a.** a raxma tol **c.** the fribbled breg
-		-
+		
 
 ![](_page_171_Picture_27.jpeg)
 
@@ -3733,7 +3733,7 @@ Now select a short selected response quiz or test from your resources. Work inde
 
 Selected Response Test Quality Checklist
 
-### ** Activity 5.3 Create a Test**
+##### ** Activity 5.3 Create a Test**
 
 Select a short unit that you are currently teaching or will teach this year. Work independently, with a partner, or with a team to carry out this activity.
 **Planning Stage**
@@ -3757,7 +3757,7 @@ Selected Response Test Quality Checklist
 
 Test Blueprint Form A Test Blueprint Form B
 
-### **Activity 5.4 Develop an Assessment** *for* **Learning Activity** 
+##### **Activity 5.4 Develop an Assessment** *for* **Learning Activity** 
 
 - **1.** After reading the section, "Selected Response Assessment *for* Learning," select one formative application to try.
 - **2.** Develop the materials, use them with students, and note any changes in students' motivation, interest, or achievement.
@@ -3769,7 +3769,7 @@ Test Blueprint Form A Test Blueprint Form B
 
 Debrief the AFL Activity You Tried
 
-### ** Activity 5.5 Prepare a Quiz or Test for Formative Use**
+##### ** Activity 5.5 Prepare a Quiz or Test for Formative Use**
 
 This activity is set up so that both teachers and students can use quiz or test results formatively: teachers to plan further instruction and students to self-assess and set goals for further learning. It has two parts—preparing for formative use and creating the forms students will use.
 
@@ -3820,7 +3820,7 @@ Reviewing and Analyzing My Results, Option A Reviewing and Analyzing My Results,
 
 Goal-Setting Form
 
-### **Activity 5.6 Reflect on Your Own Learning**
+##### **Activity 5.6 Reflect on Your Own Learning**
 
 Review the Chapter 5learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -3828,7 +3828,7 @@ Review the Chapter 5learning targets and select one or more that represented new
 
 Reflect on Chapter 5 Learning
 
-### **Activity 5.7 Select Portfolio Artifacts**
+##### **Activity 5.7 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifacts you have created that will illustrate your competence at the Chapter 5learning targets:
 
@@ -3845,7 +3845,7 @@ If you are keeping a reflective journal, you may want to include Chapter 5 's en
 
 Chapter 5 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 5.1 Reflective Journal Form
 - 2. Activity 5.2 Test of Franzipanics
@@ -3863,7 +3863,7 @@ Chapter 5 Portfolio Entry Cover Sheet
 - 14. Activity 5.6 Reflect on Chapter 5 Learning
 - 15. Activity 5.7 Chapter 5 Portfolio Entry Cover Sheet
 
-# Chapter 7: Performance Assessment
+## Chapter 7: Performance Assessment
 From Chapter 7 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
 *As we reflect on our most valued twenty-first century proficiencies, such as skill at collaboration, complex problem solving, or functioning effectively in the digital age, it's startling to notice how few can be translated into multiplechoice tests for evaluation. This is why methods such as performance assessment will be increasingly important as we look to the future of assessment in our schools.* 
@@ -3878,7 +3878,7 @@ As with any other method, performance assessment can be constructed and used wel
 
 *Even though it is called* performance *assessment, this method is used to judge both realtime performances, also called demonstrations, and products, or artifacts that students create.* 
 
-## **Chapter 7 Learning Targets**
+### **Chapter 7 Learning Targets**
 
 At the end of Chapter 7 , you will know how to do the following:
 
@@ -3887,7 +3887,7 @@ At the end of Chapter 7 , you will know how to do the following:
 - Use performance assessment formatively, as teaching tools.
 - Structure performance assessments so that students can use the results to self-assess and set goals for further learning.
 
-## **WHEN TO USE PERFORMANCE ASSESSMENT**
+### **WHEN TO USE PERFORMANCE ASSESSMENT**
 
 In Chapter 4 we advocated reserving performance assessment for those learning targets that really require it: skills, products, and some forms of reasoning. The most important determiner for using performance assessment is the nature of the learning target. For example, if the learning target states "Sets personal fitness goals," it is a *reasoning* target. The student could list personal fitness goals, which could be evaluated with a simple rubric or checklist, and we would consider this a written response assessment. If the learning target states "Creates a personal fitness plan," then the target calls for an *artifact* , a fitness plan, and it would be classified as a *product* target. The plan itself will be more extensive than a list of fitness goals—presumably it will include actions and timelines as well—and we would use a performance assessment to evaluate it because the task is more complex and the characteristics we are evaluating are also more complex than a list of personal fitness goals.
 
@@ -3899,17 +3899,17 @@ Two other conditions influence the selection of performance assessment. Use it w
 - You work with young primary students or students who cannot read or write in English. In this case, you will be using it to assess knowledge as well as reasoning, skill, and product targets.
 - You can't get the information you need through written response assessment methodology.
 
-## **ASSESSMENT DEVELOPMENT CYCLE FOR A PERFORMANCE ASSESSMENT**
+### **ASSESSMENT DEVELOPMENT CYCLE FOR A PERFORMANCE ASSESSMENT**
 
 Developing a performance assessment begins with the same four steps at the Planning Stage as do all other assessment methods: (1) determine who will use the assessment results and how they will use them; (2) identify the learning targets to be assessed; (3) verify that performance assessment is the best method for the purpose and the targets; and (4) attend to sampling issues. At the Development Stage, performance assessment requires four steps: (1) select, revise, or develop the task; (2) evaluate the task for quality; (3) select, revise, or develop the rubric; and (4) evaluate the rubric for quality. At the Use Stage, we follow the same two steps as with other methods: (1) conduct and score the assessment; and (2) revise as needed for future use ( Figure 7.2 ).
 
 This is somewhat challenging work. So you should approach it from the perspective that, once developed, your performance assessments will be reusable (perhaps with ongoing improvements) well into the future. That is, don't think of this as oneshot development; this is not to use and toss. Take advantage of this valuable resource for as long as you can.
 
-### **Determining Users and Uses**
+#### **Determining Users and Uses**
 
 Again, we begin by answering these by now familiar questions: How do we want to use the information? Who else will use it? What decisions will they make? Typically,
 
-#### **FIGURE 7.2** Assessment Development Cycle for a Performance Assessment
+ **FIGURE 7.2** Assessment Development Cycle for a Performance Assessment
 
 *Planning*
 
@@ -3940,15 +3940,15 @@ we will use performance assessment information for one or more of the following 
 
 Each of these purposes can be accomplished with performance assessment, as long as we keep the intended use in mind while making further planning and design decisions.
 
-### **Identifying Learning Targets**
+#### **Identifying Learning Targets**
 
 At this step we simply list the learning target or targets the assessment is to measure. (If a target is complex or unclear, clarify it or deconstruct it first, following the processes outlined in Chapter 3 .)
 
-### **Selecting Assessment Method(s)**
+#### **Selecting Assessment Method(s)**
 
 Although we have already determined that we will use performance assessment, it's important to make sure we have identified targets that require it and also that the targets can be assessed accurately with this methodology. So review the list of learning targets with this in mind. (Refer to Chapter 4 for an in-depth discussion of which types of targets are best assessed with performance assessment.)
 
-### **Determining Sample Size**
+#### **Determining Sample Size**
 
 As we have seen in previous chapters, the sampling challenge is gathering just enough evidence to make a relatively confident judgment of level of achievement. In the context of a performance assessment, sampling issues are addressed by the task. Does the task provide enough evidence to support a valid conclusion about level of mastery of the intended target or targets? The answer depends on a number of factors—the complexity of the learning target, the decision the evidence will inform, consistency of the student's performance, and proximity of the student's performance to an important cutoff mark. For each of these factors, we offer general guidelines, not rigid rules. Sampling well requires our professional judgment in the simultaneous weighing of all factors.
 
@@ -3960,7 +3960,7 @@ As we have seen in previous chapters, the sampling challenge is gathering just e
 
 **PROXIMITY TO THE CUTOFF MARK.** In addition, when a student's level of achievement is very close to or on the dividing line between two levels of proficiency, such as very close to "meets the standard," or teetering between two grades, it is helpful to have more samples to justify assigning the level of grade. But when a student's performance is considerably above or below an important cutoff point, more data are not likely to change the outcome.
 
-### **FAQ 7.1 Difference Between Extended Written Response and Performance Assessment**
+**FAQ 7.1 Difference Between Extended Written Response and Performance Assessment**
 
 Question:
 
@@ -3970,7 +3970,7 @@ Answer:
 
 The differences lie in the nature of what is evaluated and what criteria are used to evaluate results. Written responses call for composition of original text. Performance assessments can call for an infinite array of products, performances, or demonstrations. Depending on the context, written responses can be evaluated using criteria reflective of content mastery or the quality of the reasoning used in formulating the answer. Performance assessments rely on criteria reflective of the quality of the particular product or performance called for by the context. It becomes difficult to differentiate written response and performance assessment when a composition is called for that is to be evaluated in terms of the form of the response; that is, the quality of the writing. We categorize that as a *product* target and assign it to the category of *performance assessment*.
 
-## **SELECTING, REVISING, OR DEVELOPING THE TASK**
+### **SELECTING, REVISING, OR DEVELOPING THE TASK**
 
 A performance task can be thought of as all the material you prepare to let students know what they are supposed to do to demonstrate their current level of proficiency. It can take one of several forms, depending on the learning target it is intended to assess: a physical demonstration of skill, a verbal presentation or dialogue, or the creation of a product. The purpose of the task is to elicit the correct demonstration or artifact from the student so that it can be assessed by the rubric.
 
@@ -4015,7 +4015,7 @@ Figure 7.6 , the *Rubric for Tasks* , also found on the accompanying CD in the C
 
 In this section we will examine the characteristics of a good task—what needs to be in place to avoid these and other problems—by considering three dimensions: content, structure, and sampling. Figure 7.3 summarizes the criteria for a good task.
 
-### **The Content of the Task**
+#### **The Content of the Task**
 
 The ultimate goal of a performance task is to produce accurate evidence of the intended learning in a context that approximates realistic conditions, while avoiding sources of bias and distortion. Though the task need not be a complex assignment, it introduces a number of variables that must be managed thoughtfully for it to reflect student achievement accurately. Whether you are selecting, revising, or creating a task, the *content* of the task is the first aspect to consider. What learning will completion of this task demonstrate? What context will it be set in? Will the task allow for choice? Does the content set up a fair and unbiased assessment for all students?
 
@@ -4033,7 +4033,7 @@ In addition, requirements unrelated to the learning targets (e.g., neatness) sho
 
 **AVAILABILITY OF RESOURCES.** All resources and materials necessary for the completion of the task need to be available to all students. If, for example, some students have difficulty obtaining materials required for a display or cannot get to a library or an Internet connection for required research, their performance on the task will be compromised by factors other than the level of achievement the task was intended to assess. Again, these factors are out of some students' control.
 
-### **Structure of the Task**
+#### **Structure of the Task**
 
 After having thought through content considerations, we are ready to look at the structure of the task. Imagine students receive the following "Physics of Motion" science task to assess their comprehension of physics equations, understanding of the principles of experiment design, and ability to collect and explain experiment results:
 
@@ -4065,7 +4065,7 @@ For the "Physics of Motion" task, students would benefit from a statement such a
 
 **TIMELINE FOR COMPLETION.** The time given for completion should be reasonable, given the task requirements. We often underestimate the amount of time a complex task will take, which can compromise the accuracy of its results and create stress for students and teachers alike. It is best to check this carefully before assigning a task. If the task is to be completed entirely in class, specify enough time so that almost all students can finish with no problem, and then offer options as needed for those who
 
-### **FAQ 7.2 Individual or Group Work**
+ **FAQ 7.2 Individual or Group Work**
 Question:
 
 *To make tasks more like what occurs in the workplace, shouldn't students work in groups to complete them?* 
@@ -4100,11 +4100,11 @@ You will have three days to design and conduct your experiment and two days to w
 
 You may work with a partner or alone to design and conduct the experiment, but you must submit an independent report that you alone have written. Your report will be scored on understanding of physics equations, experimental design, and collection and explanation of results. Rubrics are attached.
 
-### **Sampling**
+#### **Sampling**
 
 Last, in selecting, revising, or developing a task we check the sample size. The task should offer enough evidence to satisfy its intended purpose and to adequately represent the breadth of the learning target. If it is a summative assessment, you will be able to draw a confident conclusion about student mastery of the intended target(s). If it is a formative assessment, you and/or students will have enough evidence to guide further instruction and learning.
 
-**"Physics of Motion" Task**
+**TABLE-"Physics of Motion" Task**
 | Knowledge students are to use    | Use your knowledge of the physics of motion.                       
 | What students are to accomplish  | Design and conduct an experiment to determine the percentage of vehicles that exceed the speed limit as 
 |                                  | they pass the school.      
@@ -4123,7 +4123,7 @@ Last, in selecting, revising, or developing a task we check the sample size. The
 
 **COVERAGE OF TARGET.** The breadth of the task or the number of tasks should adequately cover the breadth of the target(s). Is the task broad enough to cover the important dimensions of the learning target? If the target is complex, you may need several tasks, each focusing on one part of the learning target. One way to gather samples that show student progress and achievement status is to have students collect work in a portfolio. If we carefully outline the types of entries along with the learning targets they represent, we can get a good sample. With a portfolio, we can gather evidence over time to make the sample adequately reflect the breadth and depth of the learning target being assessed. In Chapter 11 we describe how to assemble and use portfolios to accomplish this purpose.
 
-### **Creating Tasks to Elicit Good Writing**
+#### **Creating Tasks to Elicit Good Writing**
 
 In certain writing tasks, especially those in the English Language Arts classroom, students benefit from a more in-depth explanation of the knowledge they are to apply and the product they are to create. Writer Donald Murray tells us that "a principal cause of poor writing received from students is the assignment . . . they have to be well prepared so that the students know the purpose of the assignment and how to fulfill it. Far too many teachers blame the students for poor writing when the fault lies with the teacher's instructions—or lack of instructions" (Murray, 2004, p. 98 ). When a task is intended to measure writing learning targets, we can use a more explicit formula in its design, one that answers the questions that writers must ask to write well:
 
@@ -4161,6 +4161,7 @@ audience is and how much time the writer will have. Generally, the less time, th
 
 **STRONG VERB.** This does not refer to strong verbs in the students' writing. Rather, in this context, *strong verb* refers to the verb we use in the task itself. What is the *purpose* for the writing? Most often writing tasks in school are set to accomplish one of three purposes—to narrate, to inform, or to persuade—and the forms of writing produced are often referred to as narrative, expository, and persuasive. In narrative writing, the purpose is to tell a story, either real (personal narrative or anecdote) or imagined (fictional narrative). In expository writing, the controlling purpose is to inform. In persuasive writing, we may have one of four purposes: to initiate thought, to change thought, to initiate action, or to change action. We may use both narrative and expository writing in service of persuasion, but the ultimate purpose for persuasive writing is to cause something different to happen. Figure 7.5 gives
 
+**TABLE-Specifying the purpose in a Writing task: strong verbs**
 | Purpose     | Sample Verbs and Phrases                         |
 |-------------|--------------------------------------------------|
 | To narrate  | Chronicle                                        |
@@ -4230,10 +4231,11 @@ examples of verbs that help students understand what kind of writing they are to
 
 For Example 7.2 shows how we might use these questions to plan the ingredients or a written task in a content area.
 
-### **Evaluating the Task for Quality**
+#### **Evaluating the Task for Quality**
 
 We have developed the Rubric for Tasks to help you evaluate any performance task for the degree to which it meets the standards of quality on the three criteria described in this section: *Content* , *Structure of the Task* , and *Sampling* . The Rubric for Tasks, Figure 7.6 , also can be found in the Chapter 7 CD file.
-
+**FIGURE 7.6 Rubrics for Tasks**
+**TABLE-Content: What learning will the task demonstrate?**
 | Indicator             |                                                                                             |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------|
 | Target Alignment      | **Level 3: Ready to Use** 
@@ -4241,7 +4243,7 @@ We have developed the Rubric for Tasks to help you evaluate any performance task
 |                       | The task will elicit a performance that could be used to judge proficiency on the intended learning targets.      |
 |                       |                                                                                                                   |
 |                       | **Level 2: Needs Some Revision**                                                                                  |
-|                       | Some requirements of the task are not aligned to the learning target(s) to be assessed.                          |
+|                       | Some requirements of the task are not aligned to the learning target(s) to be assessed.                           |
 |                       | There is extra work in this task not needed to assess the intended learning targets.                              |
 |                       |                                                                                                                   |
 |                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
@@ -4278,42 +4280,136 @@ We have developed the Rubric for Tasks to help you evaluate any performance task
 |                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
 |                       | Task depends on unrelated skills or a specific cultural background.                                               |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------|
-| Resources             | **Level 3: Ready to Use** 
-|                       |  All resources required to complete the task successfully are available to all students    |
+| Resources             | **Level 3: Ready to Use**                                                                                         | 
+|                       |  All resources required to complete the task successfully are available to all students                           |
 |                       |                                                                                                                   |
 |                       | **Level 2: Needs Some Revision**                                                                                  |
 |                       | Some students may have difficulty obtaining resources needed to complete the task.                                |
 |                       |                                                                                                                   |
 |                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
-|                       | Many students will have difficulty accessing necessary resources. successfully, or one 
-|                       | or more of the resources required will be difficult for most students to obtain.                                   |
+|                       | Many students will have difficulty accessing necessary resources. successfully, or one                            |
+|                       | or more of the resources required will be difficult for most students to obtain.                                  |
+
+**TABLE-Information Provided: Are the directions and guidance given clear and sufficient?**
 |-----------------------|-------------------------------------------------------------------------------------------------------------------|
-| Instructions          | **Level 3: Ready to Use** 
+| Instructions          | **Level 3: Ready to Use**                                                                                         |
 |                       | The instructions are clear and unambiguous.                                                                       |
 |                       |                                                                                                                   |
 |                       | **Level 2: Needs Some Revision**                                                                                  |
-|                       |  The instructions may leave room for erroneous interpretation of what is expected.   
+|                       |  The instructions may leave room for erroneous interpretation of what is expected.                                |
 |                       |                                                                                                                   |
 |                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
-|                       |  The instructions may leave room for erroneous interpretation of what is expected. |
-                                                                                                                                  
+|                       |  The instructions may leave room for erroneous interpretation of what is expected.                                |
+--------------------------------------------------------------------------------------------------------------------------------------------|                                 
+| Supplemental          | **Level 3: Ready to Use**                                                                                         |
+| Information           |  The task includes the following information                                                                      |
+|                       |     •    The knowledge students are to use in creating the task                                                   |
+|                       |     •    The performance or product students are to create—what form it should take                               |
+|                       |     •   The materials to be used, if any                                                                          |
+|                       |     •   Timeline for completion                                                                                   |
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  | 
+|                       | Some of the following information is clear; some is unclear or missing:                                           |
+|                       |     •    The knowledge students are to use in creating the task                                                   |
+|                       |     •    The performance or product students are to create—what form it should take                               |
+|                       |     •   The materials to be used, if any                                                                          |
+|                       |     •   Timeline for completion                                                                                   | 
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  The task does not include the following information:                                                             |
+|                       |     •    The knowledge students are to use in creating the task                                                   |
+|                       |     •    The performance or product students are to create—what form it should take                               |
+|                       |     •   The materials to be used, if any                                                                          |
+|                       |     •   Timeline for completion                                                                                   |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Time Allowed          | **Level 3: Ready to Use**                                                                                         |
+|                       |  The time allowed for the task is sufficient for successful completion.                                           | 
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  The time allowed is too long or too short, but either the timeline or the task can be adjusted                   |
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  The task will take considerably more time than is allowed and cannot be broken into shorter segments.            |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Level of Scaffolding  | **Level 3: Ready to Use**                                                                                         |
+|                       |  The task information is sufficient to let students know what they are to do without giving so much information   |
+|                       |  that the task will no longer measure level of mastery of the intended learning target. The content points the way| 
+|                       |  success without doing the thinking for the student.                                                              |
+|                       |                                                                                                                   | 
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  Some parts of the task may give students too much help. In some places, the task does the thinking or the work   |
+|                       |  for the student, compromising the results or the learning.                                                       |
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |   The task is over-scaffolded. If used for summative purposes, the task cannot measure students’ ability to create the| 
+|                       |   product or performance independently, because the content is so explicit that students can follow it like a     |
+|                       |   recipe. If used formatively, students can satisfactorily complete the task without having learned anything. The |
+|                       |   task measures only students’ ability to follow directions.                                                      |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------| 
+| Conditions            | **Level 3: Ready to Use**                                                                                         |
+|                       |  If a task assesses a performance skill, it specifies the conditions under which the                              |
+|                       |  performance or demonstration is to take place                                                                    | 
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  If a task assesses a performance skill, it does not sufficiently specify                                         |
+|                       |  the conditions under which the performance or demonstration is to take place.                                    |
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  If a task assesses a performance skill, it does not give any indication of the                                   |
+|                       |  conditions under which the performance or demonstration is to take place.                                        |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Help Allowed          | **Level 3: Ready to Use**                                                                                         |
+|                       |  Multi-day tasks specify the help allowed.                                                                        |
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  Although there is some reference to what kind of help is allowed for multi                                       |
+|                       |  day tasks, it could be misinterpreted.                                                                           |
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  Multi-day tasks do not specify the help allowed.                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Criteria              | **Level 3: Ready to Use**                                                                                         |
+|                       |  The task includes a description of (or reference to) the criteria by which the performance or product will be judged.| 
+|                       |  Students are familiar with the criteria.                                                                         |
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  Although described or referred to, the criteria by which the performance or                                      |
+|                       |  product will be judged are vague or unclear (see  Rubric for Rubrics ).                                          |
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  The task includes no reference to the criteria by which the performance or product will be judged.               |
+|                       |  or  The students are not familiar with the criteria to be used.                                                  | 
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
 
-| Indicator                           | Level 3: Ready to Use                                                                                                                                                                                                                                                                                        | me Revision Level 2: Needs So                                                                                                                                                                                                                                                                           | mpletely Revise or Don't Use Level 1: Co                                                                                                                                                                                                                                                                                                                                                                                                               |
-| mental mation Supple Infor | • The knowledge students are to use in • The performance or product students —what form it should • The materials to be used, if any The task includes the following meline for completion creating the task are to create information: take • Ti                              | • The knowledge students are to use in • The performance or product students —what form it should Some of the following information is • The materials to be used, if any clear; some is unclear or missing: meline for completion creating the task are to create take • Ti | • The knowledge students are to use in The task does not include the following • The performance or product students —what form it should • The materials to be used, if any meline for completion creating the task are to create information: take • Ti                                                                                                                                                                   |
-| wed me Allo Ti                | sufficient for successful completion. me allowed for the task is The ti                                                                                                                                                                                                                                | meline or the task me allowed is too long or too short, but either the ti can be adjusted. The ti                                                                                                                                                                                              | me than is allowed and cannot be broken The task will take considerably more ti into shorter segments.                                                                                                                                                                                                                                                                                                                                           |
-| Scaffolding Level of             | success without doing the thinking for the level of mastery of the intended learning let students know what they are to do target. The content points the way to that the task will no longer measure without giving so much information The task information is sufficient to student. | students too much help. In some places, the task does the thinking or the work for the student, compromising the Some parts of the task may give results or the learning.                                                                                                                      | product or performance independently, measure students' ability to create the task measures only students' ability to The task is over-scaffolded. If used for without having learned anything. The mative purposes, the task cannot recipe. If used formatively, students can satisfactorily complete the task because the content is so explicit w it like a that students can follo w directions. follo m su |
-| Conditions                          | performance or demonstration is to take specifies the conditions under which the If a task assesses a performance skill, it place.                                                                                                                                                                  | performance or demonstration is to skill, it does not sufficiently specify If a task assesses a performance the conditions under which the take place.                                                                                                                                         | conditions under which the performance If a task assesses a performance skill, it does not give any indication of the or demonstration is to take place.                                                                                                                                                                                                                                                                                         |
+**TABLE-Sampling—Is there enough evidence?**
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Use of Information    | **Level 3: Ready to Use**                                                                                         |
+|                       |  The breadth of the task or the number of tasks or repeated instances of                                          |
+|                       |  performance is sufficient to support the intended use of the information.                                        |
+|                       |                                                                                                                   |
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  The task is broader than needed to support the intended use of the information                                   | 
+|                       |  There are more tasks or repeated instances of performance than are needed to support the intended use of the information.| 
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  The breadth of the task or the number of tasks or repeated instances of                                          |
+|                       |  performance is not sufficient support the intended use of the information.                                       |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| Coverage of Target    | **Level 3: Ready to Use**                                                                                         |
+|                       |  The breadth of the task or the number of tasks or repeated instances of                                          |
+|                       |  performance is sufficient to cover the breadth of the intended learning target.                                  |
+|                       |                                                                                                                   |                                 
+|                       | **Level 2: Needs Some Revision**                                                                                  |
+|                       |  The task is broader than needed to cover the breadth of the intended learning target.                            |
+|                       |  There are more tasks or repeated instances of performance than are needed to cover the breadth of the intended learning target.|
+|                       |                                                                                                                   |
+|                       | **Level 1: Completely Revise or Don’t Use**                                                                       |
+|                       |  The breadth of the task or the number of tasks or repeated instances of                                          |
+|                       |  performance is not sufficient to cover the breadth of the intended learning target.                              |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
 
-| Indicator                 | Level 3: Ready to Use                                                                                                                                                   | me Revision Level 2: Needs So                                                                                                                                                                                                        | mpletely Revise or Don't Use Level 1: Co                                                                                                                                      |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| wed Help Allo          | Multi-day tasks specify the help allowed.                                                                                                                               | what kind of help is allowed for multi day tasks, it could be misinterpreted. Although there is some reference to                                                                                                                 | Multi-day tasks do not specify the help allowed.                                                                                                                              |
-| Criteria                  | performance or product will be judged. Students are familiar with the criteria. reference to) the criteria by which the The task includes a description of (or | Although described or referred to, the criteria by which the performance or product will be judged are vague or unclear (see Rubric for Rubrics ).                                                                             | The students are not familiar with the The task includes no reference to the criteria by which the performance or product will be judged. criteria to be used. or |
-|                           | mpling Sa                                                                                                                                                            | —Is there enough evidence?                                                                                                                                                                                                              |                                                                                                                                                                                  |
-| Indicator                 | Level 3: Ready to Use                                                                                                                                                   | me Revision Level 2: Needs So                                                                                                                                                                                                        | mpletely Revise or Don't Use Level 1: Co                                                                                                                                      |
-| mation Use of Infor | performance is sufficient to support the The breadth of the task or the number of tasks or repeated instances of intended use of the information.              | needed to support the intended use of to support the intended use of the instances of performance than are There are more tasks or repeated The task is broader than needed the information. information.             | performance is not sufficient support the The breadth of the task or the number of tasks or repeated instances of intended use of the information.                      |
-| Coverage of Target     | breadth of the intended learning target. The breadth of the task or the number performance is sufficient to cover the of tasks or repeated instances of        | The task is broader than needed to needed to cover the breadth of the instances of performance than are cover the breadth of the intended There are more tasks or repeated intended learning target. learning target. | performance is not sufficient to cover the breadth of the intended learning target. The breadth of the task or the number of tasks or repeated instances of             |
 
-## **SELECTING, REVISING, OR DEVELOPING RUBRICS**
+### **SELECTING, REVISING, OR DEVELOPING RUBRICS**
 
 In the context of performance assessment, rubrics represent the criteria for evaluating the quality of a reasoning process, a performance, or a product. You may be familiar with a variety of rubrics, some of which you may have seen used in large-scale assessments. Although rubrics used in large-scale assessments share many features of quality with rubrics designed for classroom use, those rubrics are generally designed to yield a quick, overall summary judgment of level of achievement. As a result, they don't tend to provide the level of descriptive detail about strengths and weaknesses in individual student work, and are therefore of limited usefulness in day-to-day instruction. To function effectively in the classroom, either formatively or summatively, rubrics must provide such detail.
 
@@ -4332,7 +4428,7 @@ A good classroom-level rubric serves multiple communicative and evaluative purpo
 
 If you search for rubrics on the Internet, you'll be confronted with hundreds of choices, some of which could accomplish all of the purposes listed here and many of which could not. How do you know which is which? Whether you plan to use an existing rubric or develop one of your own, it is helpful to understand the characteristics of rubrics that make them capable of serving all intended purposes. In this section, we'll introduce the terminology commonly used to describe rubrics and then examine the three dimensions of a high-quality rubric: *Content* , *Structure* , and *Descriptors* .
 
-### **Rubric Terminology**
+#### **Rubric Terminology**
 
 You may have heard rubrics described as *holistic* or *analytic* . Those terms refer to how many scoring scales the rubric is comprised of—one or more than one. A *holistic* rubric has only one scale—all features of quality are considered together in determining a score. An *analytic* rubric has two or more scales—features of quality have been organized into separate categories and are rated separately from one another. These are sometimes known as *multi-trait rubrics* . The reasoning rubrics we examined in Chapter 6 are examples of holistic rubrics—one for each pattern of reasoning. The Oral Presentation Rubric shown in Figure 7.7 is an example of an analytic rubric.
 
@@ -4346,7 +4442,7 @@ The structure of each rubric takes the form of *criteria* , *indicators* , *leve
 
 **DESCRIPTORS.** *Descriptors* refer to the sentence or phrases representing each indicator at each level. Descriptors provide the details used to flesh out the indicators and differentiate the levels. In assessment *for* learning applications, the descriptors function as diagnosis and feedback about student strengths and weaknesses within the criterion.
 
-### **Content of the Rubric**
+#### **Content of the Rubric**
 
 The *content* of the rubric defines the elements of quality essential to achieve the intended learning target. What does it assess? What are we looking for in a student's product or performance? What will "count?" We examine this characteristic first when selecting rubrics. If the rubric under consideration falls seriously short on content, there is no need to consider it further.
 
@@ -4427,7 +4523,7 @@ grown" rubrics, absent careful consideration of the intended learning, often suf
 
 *Judge the performance (demonstration) or the product (artifact) only if the performance or product is specified in the learning target. If a performance or product is not called for, make sure the rubric measures the learning target.*
 
-### **FAQ 7.3 Length of Rubrics**
+ **FAQ 7.3 Length of Rubrics**
 
 Question:
 
@@ -4485,7 +4581,7 @@ Ideas and Content: 10 points Organization: 20 points Word Choice and Sentence St
 
 When a scoring guide looks like this, it's not a rubric because it's not a description of levels of quality. It is just a way to assign points, and not a very reliable one. If there are 20 points possible for Organization, there are 20 levels of quality with no guidance on how to differentiate among them—what's the difference between a 13 and a 14?
 
-### **Descriptors in the Rubric**
+#### **Descriptors in the Rubric**
 
 The *descriptors* are the "goes-unders"—the detail that fleshes out each level. A highquality rubric includes descriptors that accurately represent the criteria, are complete, and are clear enough so that teachers and students are likely to interpret them the same way. To evaluate a rubric's descriptors we pay attention to three factors: kind of detail, content of the levels, and formative usefulness.
 
@@ -4493,7 +4589,7 @@ The *descriptors* are the "goes-unders"—the detail that fleshes out each level
 
 Also, if counting the number or frequency of something is included in a descriptor, we need to ensure that changes in such counts *are* indicators of changes in quality. Under
 
-### **FAQ 7.4 Number of Levels**
+**FAQ 7.4 Number of Levels**
 
 Question:
 
@@ -4540,7 +4636,7 @@ One criterion of a rubric for a science report may include descriptors for displ
 
 *Source:* Adapted from *Seven Strategies of Assessment* for *Learning* (p. 39 ), by J. Chappuis, 2009, Upper Saddle River, NJ: Pearson Education. Adapted by permission.
 
-### **FAQ 7.5 Including Task-specific Requirements in the Rubric** 
+ **FAQ 7.5 Including Task-specific Requirements in the Rubric** 
 
 Question:
 
@@ -4552,7 +4648,7 @@ It depends. If the requirements relate directly to a definition of quality regar
 
 offer one another feedback. Teachers should be able to use the rubric to determine what to teach next, to identify needs for differentiated instruction, or to identify topics for whole-group reteaching. All of the student uses require a version of the rubric in language they can understand—a student-friendly rubric.
 
-### **Process for Developing Rubrics**
+#### **Process for Developing Rubrics**
 
 Often existing rubrics can be revised to meet standards of quality. However, when a survey of available rubrics yields no promising candidates, you will need to start from scratch. Because you will want to use the rubric both formatively and summatively in the classroom, we recommend that you develop *general* rather than *task- specific* rubrics.
 
@@ -4565,7 +4661,8 @@ The process of rubric development involves collecting samples of existing rubric
 - **5.** Identify samples that illustrate each level.
 - **6.** Test the rubric and revise as needed.
 
-**STEP 1: ESTABLISH A KNOWLEDGE BASE.** To create a rubric that meets standards of quality, we have to be clear ourselves about what the performance or product looks like when it is done well. If you're an expert in creating the product or performance
+##### **STEP 1: ESTABLISH A KNOWLEDGE BASE.** 
+To create a rubric that meets standards of quality, we have to be clear ourselves about what the performance or product looks like when it is done well. If you're an expert in creating the product or performance
 
 **FIGURE 7.9** Steps in Rubric Development
 
@@ -4582,13 +4679,15 @@ As a team, begin by listing what you believe to be the characteristics of a high
 
 Next, collect as many existing rubrics as you can. These documents may provide you with inspiration and rubric language. Review the rubrics and add to your list any characteristics that you believe should be added.
 
-**STEP 2: GATHER SAMPLES OF STUDENT PERFORMANCES OR PRODUCTS.** Gather a range of student performances or products that illustrate different levels of quality on the intended learning target. Good sources include your own students' work, your colleagues' students' work, books on teaching your subject, your State Department of Education's website, and other Internet sites. If the learning target requires a performance, this will require gathering audio or videotaped examples.
+##### **STEP 2: GATHER SAMPLES OF STUDENT PERFORMANCES OR PRODUCTS.** 
+Gather a range of student performances or products that illustrate different levels of quality on the intended learning target. Good sources include your own students' work, your colleagues' students' work, books on teaching your subject, your State Department of Education's website, and other Internet sites. If the learning target requires a performance, this will require gathering audio or videotaped examples.
 
 In general, try to gather at least 20 samples representing more than one topic or task. Using samples from only one topic or task may lead you to develop a rubric that is too task-specific to be useful across tasks. A variety of samples helps ensure that all important criteria are included on the final rubric.
 
 *A note of caution* : If the samples come from your own school, once you are finished with this process, don't publish them as "anchors" for the rubric. Any published anchors require permission from the student and more anonymity than can be guaranteed in one school.
 
-**STEP 3: SORT STUDENT WORK BY LEVEL OF QUALITY.** Begin by examining the samples of student work and sorting them into three stacks representing your evaluation of them as Strong, Medium, or Weak. Write down your reasons for placing each sample in each stack as you go. Have each member of the team do this independently. The goal of sorting is not to get every sample in exactly the correct stack. The goal is to develop a complete list of the *reasons why* a sample should be placed in a particular stack. Eventually, the rubric you develop will be capable of judging samples accurately and consistently, but for now, focus on being descriptive in your reasons.
+##### **STEP 3: SORT STUDENT WORK BY LEVEL OF QUALITY.** 
+Begin by examining the samples of student work and sorting them into three stacks representing your evaluation of them as Strong, Medium, or Weak. Write down your reasons for placing each sample in each stack as you go. Have each member of the team do this independently. The goal of sorting is not to get every sample in exactly the correct stack. The goal is to develop a complete list of the *reasons why* a sample should be placed in a particular stack. Eventually, the rubric you develop will be capable of judging samples accurately and consistently, but for now, focus on being descriptive in your reasons.
 
 For each sample, write down exactly what you are saying to yourself as you place it into the stack. Don't wait until you have the samples sorted—it's harder later to remember all of the details of your reasons. Include as much detail as you can. Dig below general statements to a description of the evidence that leads to the general conclusion. For example, "logical" might be on your list of desired characteristics, but that is a general statement and does not describe the features present that lead you to determine whether or not a solution or argument is logical.
 
@@ -4598,9 +4697,10 @@ Then, as a team, compile all of your descriptions of the samples in each stack. 
 
 As people sort samples, they sometimes discover that three levels is too few. Their eye develops to the point that they find work that is between two of the levels and they want to have four to six stacks. This is the beginning of determining your final number of levels. If three levels seem adequate, that's your number. If you can distinguish more than three independent levels, sort student work into the number of stacks you think you need and create the list of descriptors for each level. That is fine as long as you can find descriptors and/or sample performances that differentiate the levels. As long as you and students can differentiate performance levels, identify however many performance levels you need.
 
-**STEP 4: CLUSTER THE DESCRIPTORS INTO TRAITS.** Your sorting and describing will result in a hodgepodge of descriptors at each level of performance. Some descriptors will be closely linked and can be assigned to a category: someone will say "Wait a minute. We have a whole lot of statements that refer to fluency. Why not group them together?" Some descriptors will overlap: you may hear, "Wait a minute. 'Speaks in paragraphs' is the same as 'Combines several sentences.' Why not delete one?"
+##### **STEP 4: CLUSTER THE DESCRIPTORS INTO TRAITS.** 
+Your sorting and describing will result in a hodgepodge of descriptors at each level of performance. Some descriptors will be closely linked and can be assigned to a category: someone will say "Wait a minute. We have a whole lot of statements that refer to fluency. Why not group them together?" Some descriptors will overlap: you may hear, "Wait a minute. 'Speaks in paragraphs' is the same as 'Combines several sentences.' Why not delete one?"
 
-### **FAQ 7.6 Student-developed Rubrics**
+ **FAQ 7.6 Student-developed Rubrics**
 
 Question:
 
@@ -4616,7 +4716,8 @@ Other descriptors may need to be separated into two categories: "I had trouble p
 
 This is the beginning of an analytical structure for the rubric—when you can sort out broad, independently varying categories of strengths and weaknesses, these indicate separate criteria. Once you have drafted the categories, it's time to refine them. You might decide that two criteria really refer to the same thing, or that one criterion should be divided into two or more criteria because of their independence from one another and the importance of being able to assess each separately. Most rubrics go through several stages of criteria definition and organization.
 
-**STEP 5: IDENTIFY SAMPLES THAT ILLUSTRATE EACH LEVEL.** Return to the samples categorized as Strong, Middle, and Weak and select examples that illustrate well what is meant by each trait at each achievement level. These samples—also called *models, exemplars, examples,* and *anchors* —help teachers attain consistency with each other and within their own scoring across time, students, and assignments. Samples also help students understand what each achievement level looks like in concrete terms. Be sure to have more than one sample to illustrate each level. If you show students only one example of good performance, all performances might come out looking the same. Rather, show several performances that illustrate each level and trait.
+##### **STEP 5: IDENTIFY SAMPLES THAT ILLUSTRATE EACH LEVEL.** 
+Return to the samples categorized as Strong, Middle, and Weak and select examples that illustrate well what is meant by each trait at each achievement level. These samples—also called *models, exemplars, examples,* and *anchors* —help teachers attain consistency with each other and within their own scoring across time, students, and assignments. Samples also help students understand what each achievement level looks like in concrete terms. Be sure to have more than one sample to illustrate each level. If you show students only one example of good performance, all performances might come out looking the same. Rather, show several performances that illustrate each level and trait.
 
 Here are rules of thumb for selecting samples to illustrate criteria and levels:
 
@@ -4627,18 +4728,19 @@ Here are rules of thumb for selecting samples to illustrate criteria and levels:
 
 The process of finding examples of performances or products at each level for each criterion usually results in revisions to the descriptors and criteria.
 
-**STEP 6: TEST THE RUBRIC AND REVISE AS NEEDED.** Now is the time to test the rubric and note how you might improve it. Score student samples with your draft rubric and ask students to score anonymous samples as well. Unless you're spectacularly good at rubric development or spectacularly lucky, you'll identify some combination of the following problems:
+##### **STEP 6: TEST THE RUBRIC AND REVISE AS NEEDED.** 
+Now is the time to test the rubric and note how you might improve it. Score student samples with your draft rubric and ask students to score anonymous samples as well. Unless you're spectacularly good at rubric development or spectacularly lucky, you'll identify some combination of the following problems:
 
 - **1.** Some student performances or products include features not mentioned in the rubric. If the features are indeed salient to quality, add descriptors and perhaps, indicators. Especially try to add descriptors that clarify general features or concepts. Don't despair that your rubric is becoming unwieldy. It's part of the revision process: we expand text to include all possible options before paring it down to the most-needed elements.
 - **2.** Features of student work seem to be rated in more than one criterion. Note this when it occurs. It might be that some descriptors are repeated across criteria. You will need to decide in which criterion the feature fits best. In some cases you may need to merge two criteria into one because they overlap to the extent that they can't be scored separately.
 - **3.** Criteria seem too broad. Sometimes there are a number of indicators in a criterion that could be separated out to form two or more separate criteria. Do this if you would like to teach, diagnose, and assess the parts separately. Make sure that the new criteria structure does represent independently varying features of quality.
 - **4.** The content of some levels is not parallel. You find that some descriptors at one level are not represented at other levels. In this case, write the descriptors for the other levels.
 
-### **Evaluating the Rubric for Quality**
+#### **Evaluating the Rubric for Quality**
 
 We have developed the Rubric for Rubrics to help you evaluate any performance rubric for the degree to which it meets the standards of quality on the three criteria described in this section: *Content* , *Structure* , and *Descriptors* . The Rubric for Rubrics, Figure 7.10 , can also be found in the Chapter 7 CD file.
 
-## **USE STAGE**
+### **USE STAGE**
 
 At this stage we conduct and score the assessment and revise it as needed for future use. As we noted previously, problems can still crop up even with the best planning. It is a good idea to keep notes of any potential sources of mismeasurement that may have compromised students' ability to show what they know and can do. If something appears to have gone awry and you can't identify the problem, use the Rubric for Tasks and the Rubric for Rubrics to troubleshoot the performance assessment.
 
@@ -4651,19 +4753,21 @@ At this stage we conduct and score the assessment and revise it as needed for fu
 
 You're all set with a great task and rubric. But how do you get students to understand and internalize your standards of quality? Performance assessment is a prime context for using assessment to help students learn. The instructional power here resides in using high-quality performance criteria to help students answer the three questions introduced in Chapter 2 to define assessment *for* learning: "Where am I going?"; "Where am I now?"; and "How can I close the gap?" Try out these seven strategies for using a rubric as a teaching tool to help students become competent, confident self-assessors and improve their performance in any subject.
 
-### **Where Am I Going?**
+#### **Where Am I Going?**
 
-**STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** Motivation and achievement both increase when instruction is guided by clearly defined learning targets. Activities that help students answer the questions, "What's the learning? What am I responsible for accomplishing?" set the stage for all further formative assessment actions.
+##### **STRATEGY 1: PROVIDE STUDENTS WITH A CLEAR AND UNDERSTANDABLE VISION OF THE LEARNING TARGET.** 
+Motivation and achievement both increase when instruction is guided by clearly defined learning targets. Activities that help students answer the questions, "What's the learning? What am I responsible for accomplishing?" set the stage for all further formative assessment actions.
 
 *In the context of performance assessment:*
 
- Teach students the concepts underpinning quality in your scoring rubric by asking them what they already know ("What makes a good \_\_\_\_\_?"), then show how their prior knowledge links to your definition of quality.
+ Teach students the concepts underpinning quality in your scoring rubric by asking them what they already know ("What makes a good _____________?"), then show how their prior knowledge links to your definition of quality.
 
 *Rationale:*
 
  Showing the connection between new information and knowledge students already have helps it all make sense and provides a link to long-term memory. It also lays the foundation for students understanding upcoming learning.
 
-**STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** Carefully chosen examples of the range of quality can create and refine students' understanding of the learning goal by helping students answer the questions, "What defines quality work? What are some problems to avoid?"
+##### **STRATEGY 2: USE EXAMPLES AND MODELS OF STRONG AND WEAK WORK.** 
+Carefully chosen examples of the range of quality can create and refine students' understanding of the learning goal by helping students answer the questions, "What defines quality work? What are some problems to avoid?"
 
 *In the context of performance assessment:*
 
@@ -4676,9 +4780,10 @@ You're all set with a great task and rubric. But how do you get students to unde
 
  Student performances improve when they understand the meaning of quality. This strategy teaches students to distinguish between strong and weak products or performances, and to articulate the differences. It also encourages teachers to share different aspects of the beauty of their discipline. What does it look/sound/feel like when it's done especially well? Modeling the messy underside for students reassures them that high-quality work doesn't always start out looking like high-quality work. As teachers, we tend to smooth over this part, so when the going gets messy for students, they may infer that they are "doing it wrong." What does high-quality work look like at its beginning stages? Model it.
 
-### **Where Am I Now?**
+#### **Where Am I Now?**
 
-**STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** Effective feedback shows students where they are on their path to attaining the intended learning. It answers for students the questions, "What are my strengths?" "What do I need to work on?" "Where did I go wrong and what can I do about it?"
+##### **STRATEGY 3: OFFER REGULAR DESCRIPTIVE FEEDBACK.** 
+Effective feedback shows students where they are on their path to attaining the intended learning. It answers for students the questions, "What are my strengths?" "What do I need to work on?" "Where did I go wrong and what can I do about it?"
 
  *In the context of performance assessment:* 
 
@@ -4688,7 +4793,8 @@ You're all set with a great task and rubric. But how do you get students to unde
 
  Students need descriptive feedback while they're learning. It tells them how close they are to reaching the target and it models the kind of thinking we want them to be able to do, ultimately, when self-assessing.
 
-**STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** Strategy 4 teaches students to identify their strengths and weaknesses and to set goals for further learning. It helps them answer the questions, "What am I good at?"; "What do I need to work on?"; and "What should I do next?"
+##### **STRATEGY 4: TEACH STUDENTS TO SELF-ASSESS AND SET GOALS.** 
+Strategy 4 teaches students to identify their strengths and weaknesses and to set goals for further learning. It helps them answer the questions, "What am I good at?"; "What do I need to work on?"; and "What should I do next?"
 
  *In the context of performance assessment:* 
 
@@ -4698,9 +4804,10 @@ You're all set with a great task and rubric. But how do you get students to unde
 
  Periodic articulation about their understanding of quality and about their own strengths and weaknesses is essential to students' ability to improve.
 
-### **How Can I Close the Gap?**
+#### **How Can I Close the Gap?**
 
-**STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.** When assessment information identifies a need, we can adjust instruction to target that need. In this strategy, we scaffold learning by narrowing the focus of a lesson to help students master a specific learning goal or to address specific misconceptions or problems.
+##### **STRATEGY 5: DESIGN LESSONS TO FOCUS ON ONE LEARNING TARGET OR ASPECT OF QUALITY AT A TIME.** 
+When assessment information identifies a need, we can adjust instruction to target that need. In this strategy, we scaffold learning by narrowing the focus of a lesson to help students master a specific learning goal or to address specific misconceptions or problems.
 
  *In the context of performance assessment:* 
 
@@ -4710,7 +4817,8 @@ You're all set with a great task and rubric. But how do you get students to unde
 
  Novice learners cannot improve simultaneously all elements of quality of a complex skill or product. If your scoring rubric represents a complex skill or product, students will benefit from a "mini-lesson" approach, wherein they are allowed to learn and master a portion at a time.
 
-**STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** When a concept, skill, or competence proves difficult for students, we can let them practice it in smaller segments and give feedback on just the aspects they are practicing.
+##### **STRATEGY 6: TEACH STUDENTS FOCUSED REVISION.** 
+When a concept, skill, or competence proves difficult for students, we can let them practice it in smaller segments and give feedback on just the aspects they are practicing.
 
 *In the context of performance assessment:*
 
@@ -4720,7 +4828,8 @@ Any activity that allows students to revise their initial work with a focus on a
 
 Students need the opportunity to practice using the scoring guide as a guide to revision. When they do this, it is the students and not you who are doing the thinking about and the work of revision; this translates into deeper learning.
 
-**STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** Long-term retention and motivation increase when students track, reflect on, and communicate about their learning. In this strategy, students look back on their journey, reflecting on their learning and sharing their achievement with others.
+##### **STRATEGY 7: ENGAGE STUDENTS IN SELF-REFLECTION AND LET THEM KEEP TRACK OF AND SHARE THEIR LEARNING.** 
+Long-term retention and motivation increase when students track, reflect on, and communicate about their learning. In this strategy, students look back on their journey, reflecting on their learning and sharing their achievement with others.
 
 *In the context of performance assessment:*
 
@@ -4734,7 +4843,7 @@ Students need the opportunity to practice using the scoring guide as a guide to 
 
  For a more detailed treatment of how each of these strategies can be used with performance assessment across grade levels and subject areas, refer to Chappuis (2009).
 
-### **My Classroom Then and Now 7.1**
+ **My Classroom Then and Now 7.1**
  **Bruce Herzog**
 I used to …
 
@@ -4752,7 +4861,7 @@ Do all students reach grade level standards in my room now? No, but many more do
 
 *Source:* Used with permission from 5th-grade teacher Bruce Herzog, Nooksack Valley School District, Nooksack Valley, WA, 2011.
 
-## **USING A PERFORMANCE TASK AS AN ASSESSMENT**  *FOR* **LEARNING**
+### **USING A PERFORMANCE TASK AS AN ASSESSMENT**  *FOR* **LEARNING**
 
 In the context of performance assessment, opportunity to practice and improve can be configured several ways, all variations of assessment *for* learning strategies 3, 4, 5, and 6 described in the previous section. These three approaches are summarized in Figure 7.11 , "Performance Assessment Tasks As Opportunities for Practice."
 
@@ -4777,7 +4886,7 @@ In the context of performance assessment, opportunity to practice and improve ca
 
 would also focus on *Ideas and Content* and *Voice* . Students then use this feedback as well as their own thoughts to revise the draft. They may repeat the draft/ receive feedback/self-assess/revise cycle one or more times before submitting the paper to the teacher for feedback. Last, students revise their paper based on the teacher's (and perhaps others') feedback and turn it in for a grade. This process approach can also be used for shorter practice pieces, where students work on improving a paper for a selected number of criteria and then put the paper into a working folder. At a later date, students choose one piece from their writing folder to develop further through the whole writing process and then turn it in for a grade.
 
-## **Summary**
+### **Summary**
 
 Performance assessment, described by some as the most authentic of assessment methods and yet viewed with suspicion by others due to its inherently subjective nature, has evolved into one of our most valuable ways to collect information about student achievement and to involve students in assessing, reflecting on, and sharing their own learning.
 
@@ -4808,7 +4917,7 @@ Rubrics also help students to know where they are now in their learning and how 
 
  1. Portions of this chapter have been reprinted and adapted from J. A. Arter and J. Chappuis, *Creating and Recognizing Quality Rubrics* , 2006, Upper Saddle River, NJ: Pearson Education. Copyright © 2006 by Pearson Education, Inc. Reprinted and adapted by permission of Pearson Education, Inc.
 
-## **CHAPTER 7ACTIVITIES**
+### **CHAPTER 7 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
@@ -4836,7 +4945,7 @@ At the end of Chapter 7 , you will know how to do the following:
 |              | Activity 7.10 Reflect on Your Own Learning    |
 |              | Activity 7.11 Select Portfolio Artifacts      |
 
-### **Activity 7.1 Keep a Reflective Journal**
+##### **Activity 7.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 7 .
 
@@ -4844,7 +4953,7 @@ Keep a record of your thoughts, questions, and any implementation activities you
 
 Reflective Journal Form
 
-### **Activity 7.2 Evaluate a Performance Task for Quality**
+##### **Activity 7.2 Evaluate a Performance Task for Quality**
 
 Work with a partner or a team to carry out the following activity.
 
@@ -4856,7 +4965,7 @@ Work with a partner or a team to carry out the following activity.
 
 ![](_page_231_Picture_14.jpeg)
 
-### **Activity 7.3 Create a Performance Task**
+##### **Activity 7.3 Create a Performance Task**
 
 Work independently, with a partner, or a team to carry out the following activity.
 
@@ -4877,7 +4986,7 @@ Work independently, with a partner, or a team to carry out the following activit
 
 Task Development Template Rubric for Tasks
 
-### ** Activity 7.4 Create a Writing Task Using the RAFTS Format**
+##### ** Activity 7.4 Create a Writing Task Using the RAFTS Format**
 
 If the learning targets you are teaching specify that students will write to inform or explain, persuade or express and defend an opinion, or narrate real or imagined experiences or events, you may want to create a writing assignment using the RAFTS format. If so, use the text in the section titled "Creating Tasks to Elicit Good Writing" as a guide to complete the following activity.
 
@@ -4891,7 +5000,7 @@ If the learning targets you are teaching specify that students will write to inf
 
 RAFTS Format Template Rubric for Tasks
 
-### **Activity 7.5 Evaluate a Rubric for Quality**
+##### **Activity 7.5 Evaluate a Rubric for Quality**
 
 Work with a partner or a team to carry out the following activity.
 
@@ -4903,7 +5012,7 @@ Work with a partner or a team to carry out the following activity.
 
 Rubric Evaluation Form Rubric for Rubrics
 
-### **Activity 7.6 Create a Rubric**
+##### **Activity 7.6 Create a Rubric**
 
 If you have decided that no suitable rubric exists to evaluate the form of reasoning, skill, or product called for in a learning target, you will need to create one. This work is ideally done with a team, but can be completed with a partner, if more people are not available.
 
@@ -4919,7 +5028,7 @@ Rubric Development Template Rubric Evaluation Form
 
 Rubric for Rubrics
 
-### **Activity 7.7 Create a Student-friendly Version of a Rubric**
+##### **Activity 7.7 Create a Student-friendly Version of a Rubric**
 
 Once you have found or created a rubric that meets standards of quality, create a student-friendly version by following these steps. We recommend that you work with a partner or a team to complete this activity. In some cases, students can also be enlisted to work with you on this.
 
@@ -4936,7 +5045,7 @@ Once you have found or created a rubric that meets standards of quality, create 
 
 Create a Student-friendly Version of a Rubric
 
-### **Activity 7.8 Use Rubrics As Assessment** *for* **Learning**
+##### **Activity 7.8 Use Rubrics As Assessment** *for* **Learning**
 
 After reading the section titled "Seven Strategies for Using Rubrics As Instructional Tools in the Classroom," complete one or more of the following activities.
 
@@ -4952,7 +5061,7 @@ After reading the section titled "Seven Strategies for Using Rubrics As Instruct
 
 Debrief AFL Use of Rubrics
 
-### **Activity 7.9 Structure a Task for Formative Use**
+##### **Activity 7.9 Structure a Task for Formative Use**
 
 After reading the section titled "Using a Performance Task as an Assessment *for* Learning," select a performance assessment task that you use to structure for formative use.
 
@@ -4964,13 +5073,13 @@ After reading the section titled "Using a Performance Task as an Assessment *for
 
 Debrief Structuring a Task for Formative Use
 
-### **Activity 7.10 Reflect on Your Own Learning**
+##### **Activity 7.10 Reflect on Your Own Learning**
 
 Review the Chapter 7learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
 Reflect on Chapter 7 Learning
 
-### **Activity 7.11 Select Portfolio Artifacts**
+##### **Activity 7.11 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select activities you have completed or artifacts you have created that will illustrate your competence at the Chapter 7learning targets:
 
@@ -4985,7 +5094,7 @@ If you are keeping a reflective journal, you may want to include Chapter 7 's en
 
 Chapter 7 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 7.1 Reflective Journal Form
 - 2. Activity 7.2 Performance Task Evaluation Form
@@ -5005,12 +5114,11 @@ Chapter 7 Portfolio Entry Cover Sheet
 - 16. Activity 7.10 Reflect on Chapter 7 Learning
 - 17. Activity 7.11 Chapter 7 Portfolio Entry Cover Sheet
 
-# Chapter 6:  Written Response Assessment
+## Chapter 6:  Written Response Assessment
 
  *A farmer lost his entire crop. Why might this have happened?*
 
 Student 1: Drought
-
 Student 2: Floods and heavy rains destroyed them.
 
 Drought destroyed them.
@@ -5033,7 +5141,7 @@ Written response assessments include *short answer* items and *extended written 
 
 From Chapter 6 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
-## **Chapter 6 Learning Targets**
+### **Chapter 6 Learning Targets**
 
 At the end of Chapter 6 , you will know how to do the following:
 
@@ -5048,21 +5156,21 @@ At the end of Chapter 6 , you will know how to do the following:
 
 **Key 2: Clear Targets** Are learning targets clear to teachers? What kinds of achievement are to be assessed? Are these learning targets the focus of instruction?
 
-#### **Key 3: Sound Design**
+ **Key 3: Sound Design**
 
 Do assessment methods match learning targets? Does the sample represent learning appropriately? Are items, tasks, and scoring rubrics of high quality? Does the assessment control for bias?
 
-#### **Key 4: Effective Communication**
+ **Key 4: Effective Communication**
 
 Can assessment results be used to guide instruction? Do formative assessments function as effective feedback? Is achievement tracked by learning target and reported by standard? Do grades communicate achievement accurately?
 
-#### **Key 5: Student Involvement**
+ **Key 5: Student Involvement**
 
 Do assessment practices meet students' information needs? Are learning targets clear to students? Will the assessment yield information that students can use to self-assess and set goals? Are students tracking and communicating their evolving learning?
 
 ![](_page_243_Picture_1.jpeg)
 
-## **WHEN TO USE WRITTEN RESPONSE ASSESSMENT**
+### **WHEN TO USE WRITTEN RESPONSE ASSESSMENT**
 
 Not surprisingly, the first consideration for using written response assessment is the type of learning target to be assessed. Written response assessment is a strong match for knowledge targets, especially when assessing mastery of chunks of knowledge that interrelate, rather than individual pieces of knowledge assessed separately. (Selected response is more efficient for individual pieces of knowledge.) For example, in science, we might want students to explain how atoms combine to form other substances. In social studies, we might want students to describe the factors that led to development of centers of habitation, and why each factor is important. In English, we might want students to explain the difference between connotation and denotation.
 
@@ -5076,11 +5184,11 @@ Several other conditions influence the selection of the written response method 
 - You can't get the information you need through the less time-consuming selected response method.
 - You know that the scoring guides are of high quality and that scorers will apply them consistently.
 
-## **THE PLANNING STAGE FOR A WRITTEN RESPONSE ASSESSMENT**
+### **THE PLANNING STAGE FOR A WRITTEN RESPONSE ASSESSMENT**
 
 The Planning Stage has four steps: determine who will use the assessment results and how they will use them, identify the learning targets to be assessed, select the appropriate assessment method or methods, and determine sample size.
 
-### **Determining Users and Uses**
+#### **Determining Users and Uses**
 
 We begin planning by answering these questions: How do we want to use the information? Who else will use it? What decisions will they make? Typically, we will use assessment information for one or more of the following purposes:
 
@@ -5092,15 +5200,15 @@ We begin planning by answering these questions: How do we want to use the inform
 
 Each one of these purposes can be accomplished with written response formats, as long as we keep the intended use in mind while making further planning and design decisions.
 
-### **Identifying Learning Targets**
+#### **Identifying Learning Targets**
 
 At this step we simply list the specific learning targets the assessment is to measure. (If a target is complex or unclear, clarify it or deconstruct it first, following the processes outlined in Chapter 3 .)
 
-### **Selecting Assessment Method(s)**
+#### **Selecting Assessment Method(s)**
 
 Although we have already determined that we will use written response, it's important to make sure we have identified only knowledge and reasoning learning targets as the subject of this assessment and also that the targets can be assessed well with written response methodology. So review the list of learning targets (from Step 2) with this in mind. (Refer to Chapter 4 for an in-depth discussion of which types of targets are best assessed with written response methodology.)
 
-### **Determining Sample Size**
+#### **Determining Sample Size**
 
 At this step, we establish priorities. Which of the learning targets or topics are most important, next most important, and so on? This will serve as the basis for the distribution of points or ratings in the overall assessment plan. The prioritization should parallel the amount of time and emphasis given the various targets or topics in teaching.
 
@@ -5112,9 +5220,8 @@ However, if it's a standards referenced assessment in which we are documenting h
 
 A blueprint in the form of a list of learning targets is useful when the assessment will be fairly simple. Example 6.1 shows a blueprint for a written response assessment focusing on selected learning targets from the "Physics of Sound" unit described in Chapter 4 .
 
-| **Assessment Blueprint in List Format**                                                                                                  | 
-
-| **Unit on Physics of Sound**        
+| **TABLE - Assessment Blueprint in List Format**                                                                        |
+| **Unit on Physics of Sound**                                                                                           |
 | **Learning Target**                                                                                       | **Points** |     
 | Learn that sound originates from a source that is vibrating                                               | 6          |
 |  and is detected at a receiver such as the human ear                                                      |            |
@@ -5128,7 +5235,7 @@ A blueprint in the form of a list of learning targets is useful when the assessm
 
  A blueprint in the form of a table is useful when the assessment is more complex and will include both knowledge and reasoning learning targets in combination. These plans are similar to those used with selected response assessments, but they differ in how numbers are assigned to each cell. With selected response assessments, the numbers represent how many items will be needed. With written response assessments, the numbers represent the total point value for each cell. The points may come from a single item or more than one item. Example 6.2 shows the table form of a blueprint for a written response test covering a unit on pollution. The teacher has translated the learning targets to be tested into categories of content students are to know and the patterns of reasoning they are to master. The categories of content are represented in the lefthand column and the patterns of reasoning are listed across the top. The numbers in each cell represent the relative emphasis assigned to each.
 
-| Assessment Blueprint in Table Format |      |                      |          |       |
+**TABLE-Assessment Blueprint in Table Format**
 |--------------------------------------|------|----------------------|----------|-------|
 |                                      |      | Unit on Pollution    |          |       |
 | Content                              |      | Pattern of Reasoning |          |       |
@@ -5140,11 +5247,11 @@ A blueprint in the form of a list of learning targets is useful when the assessm
 
 Given 50 points for the entire exam, this plan emphasizes how to reduce pollution, requiring that students rely on that understanding to compare and evaluate.
 
-## **THE DEVELOPMENT STAGE FOR A WRITTEN RESPONSE ASSESSMENT**
+### **THE DEVELOPMENT STAGE FOR A WRITTEN RESPONSE ASSESSMENT**
 
 The Development Stage for a written response assessment has three steps: develop the items, prepare the scoring guide or guides, and critique the overall assessment for quality. As described in the following sections, written response items can take one of two forms: short answer or extended response. They can be designed to assess mastery of knowledge and reasoning proficiencies together or separately. Scoring guides can take one of three forms: a list, a task-specific rubric, or a general rubric. The items and scoring guides can be critiqued using the Quality Guidelines for Written Response Assessments ( Figure 6.4 ) and the Rubric for Rubrics (which will be introduced in Chapter 7 and presented in Figure 7.10 ) prior to use.
 
-## **DEVELOPING THE ITEMS**
+### **DEVELOPING THE ITEMS**
 
 One of the advantages of written response tests relative to other test formats is that items are easier and less time consuming to develop. Keep in mind, however, that "easier to develop" does not mean they require little thought, as illustrated by
 
@@ -5164,13 +5271,13 @@ Interpretive Items
 
 the question about the farmer's crops. If we are not careful at this stage, students who know the material may not perform well, and students who have not mastered the material may be able to look as though they have. Poorly framed written response items can be a nightmare for students to answer and for teachers to score.
 
-### **Short Answer or Extended Response?**
+#### **Short Answer or Extended Response?**
 
 Use short answer items when the learning target calls for demonstration of conceptual understanding and the concept is fairly narrow, such as the learning target "Understand that the Earth's rotation causes day and night." (A "narrow" concept is not necessarily easy to understand. It just has a straightforward explanation.) Some patterns of reasoning can also be assessed with short answer items. For example, students can summarize the main idea of a paragraph in a sentence or two.
 
 If, however, they are summarizing a longer passage, the response could be one to several paragraphs in length, in which case, extended written response may be a better choice. For learning targets that are more complex and therefore require greater depth in an explanation or demonstration of reasoning capability, develop extended written response items.
 
-### **Devising Short Answer Items**
+#### **Devising Short Answer Items**
 
 A short answer item should be short and clearly worded, while giving students enough information to frame an acceptable response. If you are looking for two examples, three instances, or five characteristics, put that information in the item. Here are some examples:
 
@@ -5210,7 +5317,7 @@ Explain day and night.
 *And not this:* 
 Everyone knows about day and night. Write what you think makes day and night. Draw a picture of day and night.
 
-### **Devising Extended Written Response Items**
+#### **Devising Extended Written Response Items**
 
 We have all experienced "essay" questions on tests, some of which may have been painful. "Discuss photosynthesis." "Analyze *King Lear.* " "Explain the causes of the Civil War." High-quality extended written response items, in contrast to these, carefully frame the task so that students who have learned the material know how to tackle it.
 
@@ -5302,7 +5409,7 @@ In your paragraph, be sure to do the following:
 
 Your paragraph will be evaluated with the Summary Rubric, attached.
 
-### **FAQ 6.1 **Analyze This**
+**FAQ 6.1 **Analyze This**
 Question:
 
 *Some learning targets beginning with the word* analyze *seem to require more than*  " examining the components or structure of something." *How do we know what to teach and assess?* 
@@ -5317,7 +5424,7 @@ Analyze in detail how a key individual, event, or idea, is introduced, illustrat
 
 In this case, we would suggest that to *analyze* here means this: *Explain how a key individual is introduced, illustrated, and elaborated and support the explanation with examples or anecdotes from the text.*
 
-### **Offering Choices**
+#### **Offering Choices**
 
 Typically, we recommend that you don't offer choices where the choices don't all provide comparable evidence of the same learning target. Regardless of the assessment format being used, especially in summative assessment contexts, the question should always be, "Can you hit the agreed-on target(s)?" It should never be, "Which (or which part of the) target are you most confident that you can hit?" or "Which target are you most interested in?"
 
@@ -5333,11 +5440,11 @@ General rubric—a rubric describing the features of quality as they apply acros
 
 hopefully, key gaps in learning will be revealed in recurring diagnostic assessments down the road.
 
-## **PREPARING THE SCORING GUIDES**
+### **PREPARING THE SCORING GUIDES**
 
 Again not surprisingly, a key to successful use of written response assessment is having clear and appropriate criteria by which to judge the quality of student responses. We recommend that you don't use "floating standards," in which the evaluator waits to see what responses come in before deciding what will count and thus how to score. Floating standards destroy the validity and reliability of the assessment. Teachers and students alike need to be clear in advance regarding which aspects of the response are important—this is as essential to a quality assessment as is thoughtful item development. In this section, we explain three scoring guide options and describe how to create each.
 
-### **Scoring Guide Options**
+#### **Scoring Guide Options**
 
 A *scoring guide* is simply a way to assign points to specific features of a response. Three types of scoring guides are appropriate for assessing written response items: lists, task-specific rubrics, and general rubrics.
 
@@ -5446,7 +5553,7 @@ Interprets information from graph to provide partially correct answers. Explanat
 
 Provides incorrect answers. Explanation, if offered, represents faulty reasoning.
 
-### **Creating Task-Specific Rubrics**
+#### **Creating Task-Specific Rubrics**
 
 Task-specific rubrics are appropriate for assessing conceptual understanding. An example of a second-grade learning target for which we might create a task-specific rubric is, "Understand that the Earth's rotation causes night and day."
 
@@ -5494,9 +5601,9 @@ Draw a picture to show what you think. (A 5 -5-inch box is provided.)
 Essay 3: "Day and Night" reprinted from *Exemplary Assessment Materials* – *Science* (p. 15), by Australian Council for Educational Research, Ltd., 1996, Hawthorn, Victoria, Australia.
 For many task-specific rubrics, it makes sense to have three levels. You can use this formula to create one:
 
-2 points = The response indicates \_\_\_\_\_\_ *insert statement(s) showing complete understanding*
-1 point = The response indicates \_\_\_\_\_\_\_ *insert statement(s) showing partial understanding*
-0 points = The response indicates \_\_\_\_\_\_\_ *insert statement(s) showing lack of understanding, complete misunderstanding, or partial understanding with a "fatal flaw"*
+2 points = The response indicates _____________ *insert statement(s) showing complete understanding*
+1 point = The response indicates _____________\_ *insert statement(s) showing partial understanding*
+0 points = The response indicates _____________\_ *insert statement(s) showing lack of understanding, complete misunderstanding, or partial understanding with a "fatal flaw"*
 
 Notice that in the "Day and Night" rubric in Figure 6.6 an explanation can demonstrate partial understanding and also include a misunderstanding and still earn partial credit, but if it includes reference to the sun moving, it earns no credit because that is considered a "fatal flaw" in understanding the concept. A fatal flaw wipes out partial credit.
 
@@ -5504,14 +5611,14 @@ A three-level ("2," "1," and "0") rubric is a formula for awarding two, one, or 
 
 For conceptual understanding with more variables, it may make sense to have four levels, following this formula:
 
-3 points = The response indicates \_\_\_\_\_\_\_ *insert statement(s) showing complete understanding.*
-2 points = The response indicates \_\_\_\_\_\_\_ *insert statement(s) showing partial understanding. You may also include a statement of simple misunderstanding at this level.*
-1 point = The response indicates \_\_\_\_\_\_\_ *insert statement(s) showing partial understanding with some misunderstandings, but no "fatal flaw."*
-0 points = The response indicates \_\_\_\_\_\_ *insert statement(s) showing lack of understanding, misunderstanding, or partial understanding with the inclusion of a "fatal flaw."*
+3 points = The response indicates _____________\_ *insert statement(s) showing complete understanding.*
+2 points = The response indicates _____________\_ *insert statement(s) showing partial understanding. You may also include a statement of simple misunderstanding at this level.*
+1 point = The response indicates _____________\_ *insert statement(s) showing partial understanding with some misunderstandings, but no "fatal flaw."*
+0 points = The response indicates _____________ *insert statement(s) showing lack of understanding, misunderstanding, or partial understanding with the inclusion of a "fatal flaw."*
 
 A four-level ("3," "2," "1," and "0") rubric is a formula for awarding three, two, one, or no points. It is best used with extended written response items. However, if you find yourself stretched to differentiate clearly between the two-point level and the onepoint level, you may want to combine them into a three-level ("2," "1," and "0") rubric.
 
-### **FAQ 6.2 Rubric Levels** 
+**FAQ 6.2 Rubric Levels** 
 
 Question:
 
@@ -5521,7 +5628,7 @@ Answer:
 
 The first difference is that the five-level rubrics do have five distinct levels and the three-level rubrics only have three distinct levels. Five-level rubrics are commonly used for more complex learning targets with multiple scales, such as the Six-trait Writing Rubric. It has a separate scoring scale for six different criteria, called *traits*: Ideas and Content, Organization, Voice, Word Choice, Sentence Fluency, and Conventions. Each of the traits has its own five-level scale. Within each trait, multiple facets are described at the "five" level, the "three" level, and the "one" level. For example, the trait of Organization includes phrases at each of the three levels that describe these things: the quality of the introduction, the sequence of ideas, transitions, pacing, and the conclusion. Students could be doing well on some of those and not others. So the rubric is designed to let you award a "four" or a "two" to those papers that have some of the characteristics of each of the adjacent levels. It keeps us from having to assign a rubric score that doesn't match the work in front of us. Chapter 7provides further explanation of these kinds of rubrics.
 
-### **Creating General Rubrics**
+#### **Creating General Rubrics**
 
 Although we often use task-specific scoring, either in the form of lists or rubrics, for assessing student understanding of content, it is not our only option. We can also use a general rubric designed to assign points to student understanding of any concepts within a body of knowledge.
 
@@ -5565,7 +5672,7 @@ We recommend general rubrics for assessing the quality of various patterns of re
 - Students can offer peer feedback with them.
 - You can use them again and again, for any task calling for the pattern of reasoning.
 
-### **My Classroom Then and Now 6.1**
+**My Classroom Then and Now 6.1**
 **Kelly Dye**
 I used to . . .
 
@@ -5585,7 +5692,7 @@ Students have a clearer picture of the learning target and have much more succes
 
 *Source:* Used with permission from Kelly Dye, 6th-grade mathematics teacher, Olmsted Falls City Schools, Olmsted Falls, OH, 2011.
 
-## **CRITIQUING THE OVERALL ASSESSMENT FOR QUALITY**
+### **CRITIQUING THE OVERALL ASSESSMENT FOR QUALITY**
 
 An excellent way to check the quality of your items is to try to write or outline a high-quality response yourself. If you can, you probably have a properly focused item. If you cannot, it needs work. Or you can ask a colleague to write a response and discuss the item and its scoring guide to see if either needs revision.
 
@@ -5593,11 +5700,11 @@ If your scoring guide will take the form of a general rubric, you can use the Ru
 
 Remember that there can be sources of bias specific to extended written response assessment. Figure 6.4 summarizes the factors to think about when devising extended written response items and scoring procedures. Answering these questions assists in constructing effective, high-quality items—those that avoid bias and distortion.
 
-## **THE USE STAGE**
+### **THE USE STAGE**
 
 The Use Stage has two steps: conduct and score the assessment and revise as needed for future use.
 
-### **Conducting and Scoring the Assessment**
+#### **Conducting and Scoring the Assessment**
 
 Even the best planning can't catch all problems with an assessment. Here are two things to watch for as you administer the test:
 
@@ -5624,11 +5731,11 @@ Even the best planning can't catch all problems with an assessment. Here are two
 - If the scoring guide is to be used by more than one rater, have raters worked together to ensure consistent scoring?
 - Students ask for clarification of an item. Make notes on the items for which more than one or two students ask for clarification. Clarify the directions or the item itself for the next time you use it.
 
-### **Revising for Future Use**
+#### **Revising for Future Use**
 
 While correcting the tests, make note of items that caused unexpected difficulties. After you conduct, score, and interpret the assessment, if it has flaws you will see them clearly and can then correct them before future use. You also will notice where any instruction may have fallen short on particular targets, which allows you to reteach your current students and revise your plans for instruction next year.
 
-### **My Classroom Then and Now 6.2 Michele Buck**
+**My Classroom Then and Now 6.2 Michele Buck**
 I used to . . .
 I used to show students examples of work after a summative assessment.
 Now I . . .
@@ -5640,7 +5747,7 @@ Now my students understand how to read a question and determine what they need t
 
 *Source:* Used with permission from Michele Buck, 6th-grade mathematics teacher, Olmsted Falls City Schools, Olmsted Falls, OH, 2011.
 
-## **WRITTEN RESPONSE AS ASSESSMENT** *FOR* **LEARNING**
+### **WRITTEN RESPONSE AS ASSESSMENT** *FOR* **LEARNING**
 
 As we have seen, student motivation and achievement both improve when we use the assessment process to help students answer the following three questions: "Where am I going?"; "Where am I now?"; and "How can I close the gap?" Here are some suggestions for assessment *for* learning practices with written response formats.
 
@@ -5652,7 +5759,7 @@ sufficiently comfortable with patterns of reasoning that they can build them int
 - Provide sample items and let students practice scoring each other's responses to those items. By repeating this process as they proceed through a unit of study, students can watch themselves improve.
 - Give students a list of misconceptions and design instruction to address the misconceptions. As students can correct each misconception, they date the list and write the correct understanding (see Example 6.9 ).
 
-### **My Classroom Then and Now 6.3 Jeff Overbay**
+**My Classroom Then and Now 6.3 Jeff Overbay**
 
 I used to . . .
 In the past I would use the combined curriculum document as a guide for teaching. I never felt confident that I was covering the necessary content or that I was being effective in the classroom. It was more of a topical approach to teaching content. Having objectives has always been a part of my teaching but having clear learning targets for both myself and my students was something that seemed to always be out of reach.
@@ -5682,7 +5789,7 @@ Students now know where we are going and can self-assess along the way. This pro
 
  For more examples of how each of these strategies can be used with written response assessment across grade levels and subject areas, see Chappuis (2009).
 
-## **Summary**
+### **Summary**
 
 Written response assessments are excellent for assessing conceptual understanding, extended bodies of knowledge, and reasoning learning targets. We followed the creation of these assessments through eight steps, with an in-depth focus on the development stage. Items need to specify what knowledge and patterns of reasoning, if any, students are to use in developing their response. They also need to indicate what features of performance will count, by pointing the way to the correct answer without giving away the answer. Items must avoid other potential sources of bias and distortion such as unclearly written instructions, instructions at too high a reading level, and features that might disadvantage any group.
 
@@ -5690,13 +5797,13 @@ Scoring procedures and guides must be developed along with the items. We explore
 
 We concluded with suggestions for strategies that use written response items as assessment *for* learning, where students share the item development and scoring responsibility. These strategies connect assessment to teaching and learning in ways that can maximize both students' motivation to learn and their actual achievement.
 
-## **CHAPTER 6 ACTIVITIES**
+### **CHAPTER 6 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity appear in editable Microsoft Word format in the Chapter 6 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 6 Learning Targets**
+#### **Chapter 6 Learning Targets**
 
 At the end of Chapter 6 , you will know how to do the following:
 
@@ -5707,13 +5814,13 @@ At the end of Chapter 6 , you will know how to do the following:
 
 Activity 6.1 Keep a Reflective Journal Activity 6.2 Evaluate a Written Response Assessment for Quality Activity 6.3 Create a Short Answer Item and Scoring Guide Activity 6.4 Create an Extended Written Response Item and Scoring Guide Activity 6.5 Apply an Assessment *for* Learning Strategy Activity 6.6 Reflect on Your Own Learning Activity 6.7 Select Portfolio Artifacts
 
-### **Activity 6.1 Keep a Reflective Journal**
+##### **Activity 6.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 6 .
 
 Reflective Journal Form
 
-## **Activity 6.2 Evaluate a Written Response Assessment for Quality**
+#### **Activity 6.2 Evaluate a Written Response Assessment for Quality**
 
 Work independently, with a partner, or with a team to carry out this activity. It helps if those you are working with are familiar with the content being assessed.
 - **1.** Select an already-developed assignment or assessment that includes short answer and extended written response items from a unit you have taught or will teach. It can be one that you or another teacher created, or one that comes from district or published materials.
@@ -5726,7 +5833,7 @@ Evaluate a Written Response Assessment for Quality
 
 Checklist of Quality Guidelines for Written Response Assessments
 
-### **Activity 6.3 Create a Short Answer Item and Scoring Guide**
+##### **Activity 6.3 Create a Short Answer Item and Scoring Guide**
 
 Work independently, with a partner, or with a team to complete this activity. It helps if those you are working with are familiar with the content being assessed.
 - **1.** After reading the section, "Short Answer or Extended Response?" select one or more learning targets for which short answer items are a good match.
@@ -5741,7 +5848,7 @@ Template for a Short Answer Item and Scoring Guide
 
 Checklist of Quality Guidelines for Written Response Assessments
 
-### **Activity 6.4 Create an Extended Written Response Item and Scoring Guide**
+##### **Activity 6.4 Create an Extended Written Response Item and Scoring Guide**
 
 Work independently, with a partner, or with a team to complete this activity. It helps if those you are working with are familiar with the content being assessed.
 - **1.** After reading the section, "Short Answer or Extended Response?" select a learning target for which an extended written response item is a good choice.
@@ -5755,7 +5862,7 @@ Work independently, with a partner, or with a team to complete this activity. It
 Templates for Extended Written Response Items and Scoring Guides
 Checklist of Quality Guidelines for Written Response Assessments
 
-### ** Activity 6.5 Apply an Assessment** *for* **Learning Strategy**
+##### ** Activity 6.5 Apply an Assessment** *for* **Learning Strategy**
 
 Work independently, with a partner, or with your team to complete this activity.
 
@@ -5770,13 +5877,13 @@ Work independently, with a partner, or with your team to complete this activity.
 
 Debrief the AFL Strategy You Tried
 
-### **Activity 6.6 Reflect on Your Own Learning**
+##### **Activity 6.6 Reflect on Your Own Learning**
 
 Review the Chapter 6learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
 Reflect on Chapter 6 Learning
 
-### **Activity 6.7 Select Portfolio Artifacts**
+##### **Activity 6.7 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select activities you have completed or artifacts you have created that will illustrate your competence at the Chapter 6learning targets:
 
@@ -5791,7 +5898,7 @@ If you are keeping a reflective journal, you may want to include Chapter 6 's en
 
 Chapter 6 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 - 1. Activity 6.1 Reflective Journal Form
 - 2. Activity 6.2 Evaluate a Written Response Assessment for Quality
 - 3. Activity 6.2 Checklist of Quality Guidelines for Written Response Assessments
@@ -5808,7 +5915,7 @@ Chapter 6 Portfolio Entry Cover Sheet
 - 14. Figure: Rubric for Synthesis
 - 15. Figure: Rubric for Evaluation
 
-# Chapter 8: Personal Communication as Classroom Assessment
+## Chapter 8: Personal Communication as Classroom Assessment
 *"What's in a question, you ask? Everything. It is a way of evoking stimulating response or stultifying inquiry. It is, in essence, the very core of teaching."* 
 
 —John Dewey (1933)
@@ -5825,7 +5932,7 @@ some personal communication assessment options can serve to make summative decis
 
 In this chapter we examine accurate and effective use of each of the personal communication options, how to avoid possible sources of bias that can distort results, and how to use personal communication in assessment *for* learning contexts.
 
-### **Chapter 8 Learning Targets**
+#### **Chapter 8 Learning Targets**
 
 At the end of Chapter 8 , you will know how to do the following:
 
@@ -5837,15 +5944,16 @@ At the end of Chapter 8 , you will know how to do the following:
 
 This chapter does not entirely follow the same footprint as the three previous chapters on assessment methods. We begin in a similar fashion, examining when to use personal communication as an assessment method, but then discuss two general issues: sampling and wait time. For the remainder of the chapter, we address each personal communication option in turn, focusing on development considerations and offering suggestions for optimum use.
 
-## **WHEN TO USE PERSONAL COMMUNICATION ASSESSMENT**
+### **WHEN TO USE PERSONAL COMMUNICATION ASSESSMENT**
 
 The first consideration for using personal communication as an assessment method is the type of learning target to be assessed, as described in the target–method match section of Chapter 4 . Personal communication options can assess knowledge, reasoning, and those skill targets requiring oral communication, such as speaking a foreign language and participating in group discussions. Figure 8.2 "Personal Communication Options"
 
+**TABLE-Personal Communication Options**
 | FIGURE 8.2 Personal Communication Options                                                                           |                
 | Format                                | Description                                                                                                   | Primary Use |Target Types|
 | Instructional Questions and Answers   | Teacher poses questions for students to answer or discuss. Students pose questions and respond to each other. | Formative   | K | R |    |
 | Class Discussions                     | Students engage in a discussion. Can be either teacher-led or student-led.                                    | Formative or| K | R | S  |
-|                                       |                                                                                                               | Summative   |  
+|                                       |                                                                                                               | Summative   |   |   |    |
 | Conferences and Interviews            | Teacher meets with student to talk about what students have learned and have yet to learn.                    | Formative   | K | R |    |
 | Oral Examinations                     | Teacher plans and poses questions for individual students to respond to.                                      | Summative   | K | R | S  | 
 | Journals and Logs                     | Students write to explain, explore, and deepen their own understanding; teacher and/or other students respond.| Formative   | K | R |    |
@@ -5857,7 +5965,7 @@ Two additional conditions influence the effectiveness of personal communication 
 - The teacher and the student must share a common language. This means a shared vocabulary and grammar as well as a common sense of the manner in which a culture shares meaning through verbal and nonverbal cues. Quiet or reserved students may not perform well in this kind of assessment context, regardless of their real achievement. To make this method work, teacher and student must connect in an open, communicative manner. This is more difficult for some students than for others. If the purpose is to gather summative evidence and personal communication is not required, you may want to plan for other options as well to ensure accuracy of results.
 - Use personal communication assessment only when it is certain to generate enough information to make an adequate inference about student performance. This is a sampling issue and it affects the accuracy of both formative and summative decisions.
 
-### **Sampling**
+#### **Sampling**
 
  In the context of personal communication, sampling has two dimensions: (1) gathering enough information for the target in question to meet the intended purpose; and (2) hearing from enough students to meet the intended purpose.
 
@@ -5880,7 +5988,7 @@ Here are some suggestions that maximize the instructional value of questions by 
 - Give students a choice among different possible answers and ask them to vote on the options. Similarly, use the answers to a multiple-choice item in this fashion. Many teachers use whole-class response systems such as individual whiteboards or electronic responding devices ("clickers").
 - Establish discussion norms for the class so that all contributions are treated respectfully.
 
-### **Wait Time**
+#### **Wait Time**
 
 In the traditional model of questioning in the classroom, teachers typically wait less than one second after posing a question before calling for a response. This limited amount of think time encourages responses that are brief and right-answer oriented, rather than reflective and thought out, even if the question calls for mental processing. In studying the effects of increasing wait time on science achievement at the elementary, middle school, and high school levels, researchers found that when teachers pause after asking a question, student answers reflect deeper levels of thinking (Rowe, 1972, 1987).
 
@@ -5898,13 +6006,13 @@ When students first experience extended wait time, they have a tendency to respo
 
 Unless your goal is truly to get students to "popcorn" fast correct answers, pause between three and seven seconds before calling for responses. Wait time will increase the depth of thought, richness of discussion, and instructional value of your questions. Let students know what you are doing and why to help them understand what is expected of them during wait time.
 
-## **PERSONAL COMMUNICATION OPTIONS: INSTRUCTIONAL QUESTIONS AND ANSWERS**
+### **PERSONAL COMMUNICATION OPTIONS: INSTRUCTIONAL QUESTIONS AND ANSWERS**
 
 With this much-used personal communication option, as instruction proceeds, we pose questions for students to answer, or we ask students to pose questions and respond to each other. Its use in the classroom is primarily formative. We ask questions to gain information about students' learning in order to plan or adjust instruction. We listen to answers, interpret them (either by means of internally held standards or a written rubric), infer students' levels of attainment or misconceptions, and act accordingly. A second, equally important formative use of questioning is to encourage thinking and deepen learning. Instructional questions and answers typically focus on *knowledge* and *reasoning* learning targets. Responses to knowledge questions are judged correct or not, while reasoning probes need to be evaluated in terms of the quality of the reasoning demonstrated (as depicted in the rubrics in Chapter 6 .) While you are asking instructional questions, you won't necessarily be reading from a rubric to evaluate student responses, but it is a good idea to have the features of quality for the specific pattern of reasoning in mind. In other words, the rubric does not need to be in your hand, but it should be in your head.
 
 Because we are so familiar with this format, it may not seem obvious to look for ways to improve it. In this section, we will look at strengthening the power of our instructional questions in assessing students' level of understanding or misconceptions, in spurring livelier discussions, and in encouraging deeper thinking.
 
-### **Developing Questions to Assess Knowledge and Understanding**
+#### **Developing Questions to Assess Knowledge and Understanding**
 
 Instructional questions designed to assess students' levels of knowledge and understanding can be thought of as an oral version of selected response or written response assessment. There are two keys to using questions in this context:
 
@@ -5913,7 +6021,7 @@ Instructional questions designed to assess students' levels of knowledge and und
 
 You can use the guidelines explained in Chapters 5 and 6 to assist with developing these questions. Ask them during the course of instruction using the suggestions offered previously for sampling and wait time, determine what students know and understand and what they don't, and adjust the lesson accordingly. Remember that in a group setting, instructional questions and answers are best used formatively.
 
-### **Developing Questions to Assess Reasoning**
+#### **Developing Questions to Assess Reasoning**
 
 Assessing reasoning through personal communication requires a well-thought-out question as well as the strategic use of wait (or "think") time, as described earlier. The guidelines in Chapters 5 and 6 can help you craft these questions. Here are three additional suggestions for success:
 
@@ -5921,7 +6029,7 @@ Assessing reasoning through personal communication requires a well-thought-out q
 - When students have difficulty responding to a question, rephrase it and ask again before offering clues to the answer.
 - Invite students to elaborate. For example, say, "Please say a little more about . . ." This encourages students to develop more complex contributions.
 
-### **Suggestions for Effective Formative Use of Instructional Questions**
+#### **Suggestions for Effective Formative Use of Instructional Questions**
 
 When we use personal communication as assessment *for* learning, we are using the questions themselves to teach and deepen knowledge, understanding, and reasoning proficiencies. There are a few classroom dynamics that can foster or hinder this. First, we need to make sure students feel safe in responding honestly even though they may not have confidence in the accuracy of their response. We create safe learning environments when we let students know that it is a good and desirable thing to uncover what we don't know and then go about learning it. Secondly, we need to help students understand that a response that misrepresents the truth about their achievement only gets in the way of their ultimate success as learners. Thirdly, we need to establish expectations that students will treat each others' contributions with respect as well, welcoming mistakes and misconceptions as opportunities to gain deeper understanding.
 
@@ -5940,42 +6048,42 @@ Verbs that elicit recall of information:*
 Explain, describe, identify, tell, name, list, give examples, defi ne, label, match, choose, recall, recognize, select
 Question stems that elicit reasoning:
  *Analyze:* 
-- What are the important components, parts, or ingredients of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ?
-- What is the order in which \_\_\_\_\_\_\_\_\_\_\_\_\_ happened? What are the steps?
+- What are the important components, parts, or ingredients of _______________________________________ ?
+- What is the order in which __________________________\_ happened? What are the steps?
 - What is the main idea of what you read or saw? What details support this main idea?
 - What familiar pattern do you notice? (Examples include familiar story structure and numerical sequence.)
 - What is this question asking?
 - What kind of reasoning is being called for here?
 - What information do you need to solve this problem or approach this task?
  *Compare/contrast:*
-- What are some characteristics that would help us discriminate (or distinguish) between \_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ?
-- How are \_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_ alike and/or different?
-- Create an analogy for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+- What are some characteristics that would help us discriminate (or distinguish) between __________________________\_ and __________________________\_\_ ?
+- How are __________________________\_\_ and __________________________\_\_ alike and/or different?
+- Create an analogy for _______________________________________\_.
 - Can you think of something else that is similar? (For example, what other stories have similar openings, characters, plots, or themes?)
  *Synthesize:*
-- What do you conclude from \_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_ ?
-- How would you combine, blend, or organize \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_ ?
-- How might you adapt or modify \_\_\_\_\_\_\_\_\_ to fit \_\_\_\_\_\_\_\_\_\_\_ ?
-- How would you describe \_\_\_\_\_\_\_\_\_\_\_\_\_\_ to someone else?
-- How might you formulate a response or answer to \_\_\_\_\_\_\_\_\_\_ ?
+- What do you conclude from __________________________ and __________________________ ?
+- How would you combine, blend, or organize __________________________ and __________________________ ?
+- How might you adapt or modify _____________\_\_\_ to fit __________________________ ?
+- How would you describe __________________________\_\_ to someone else?
+- How might you formulate a response or answer to __________________________ ?
  *Classify:*
-- Find an example of \_\_\_\_\_\_\_\_\_\_ (a group or category).
-- What is \_\_\_\_\_\_\_\_\_\_ an example of?
-- How might you sort \_\_\_\_\_\_\_\_\_\_ into groups or categories?
-- What characteristics of \_\_\_\_\_\_\_\_\_ tell us what group it belongs to?
+- Find an example of __________________________ (a group or category).
+- What is __________________________ an example of?
+- How might you sort __________________________ into groups or categories?
+- What characteristics of _____________\_\_\_ tell us what group it belongs to?
  *Infer/deduce:*
 - What do you think will happen next? (predict)
-- Why did the author do \_\_\_\_\_\_\_\_\_\_\_ ?
-- What are the implications of \_\_\_\_\_\_\_\_\_\_\_\_\_ ?
+- Why did the author do __________________________ ?
+- What are the implications of __________________________\_ ?
 - What can you conclude from the evidence or pieces of information? *For example, "What does that tell us about numbers that end in five or zero?"* (generalize)
  *Evaluate:*
-- Take a position on \_\_\_\_\_\_\_\_\_\_\_\_ and justify, support, defend, or prove your position.
-- What is your opinion on \_\_\_\_\_\_\_\_\_\_ ? What evidence do you have to support your opinion?
-- Appraise, critique, judge, or evaluate \_\_\_\_\_\_\_\_\_\_. Support your appraisal, critique, judgment, or evaluation with evidence.
+- Take a position on __________________________ and justify, support, defend, or prove your position.
+- What is your opinion on __________________________ ? What evidence do you have to support your opinion?
+- Appraise, critique, judge, or evaluate __________________________. Support your appraisal, critique, judgment, or evaluation with evidence.
 - Dispute or judge this position. Is it defendable or not? Why or why not?
 - Is this argument sound? What evidence supports your judgment?
-- Is this \_\_\_\_\_\_\_\_\_\_\_ successful? What evidence supports your opinion?
-- Could \_\_\_\_\_\_\_\_\_ be better? Why or why not?
+- Is this __________________________ successful? What evidence supports your opinion?
+- Could _____________\_\_\_ be better? Why or why not?
 - Which is better? Why?
 
  Johnston (2004) has collected question stems that engender open-ended assessment*for* -learning conversations:
@@ -6005,7 +6113,7 @@ Question stems that elicit reasoning:
 
 These and similar questions can provide an excellent basis from which to encourage students to think aloud in conversation with you about their thinking and learning.
 
-### **My Classroom Then and Now 8.1**
+ **My Classroom Then and Now 8.1**
 **Jody Petry**
 I used to . . .
 
@@ -6025,11 +6133,11 @@ Students can now name their learning. Using learning targets has given my studen
 
 *Source :* Used with permission from Jody Petry, Northwest R-I School District, House Springs, MO, 2011.
 
-### **Summative Use of Instructional Questions**
+#### **Summative Use of Instructional Questions**
 
  We caution against using questions asked during group instruction as summative data about an individual student's knowledge or reasoning proficiencies. It is difficult to obtain accurate information in this context due to sampling constraints and the sources of bias that the group setting introduces. It is better to ask the questions in the one-on-one setting offered by an oral examination, as described later in this chapter.
 
-## **PERSONAL COMMUNICATION OPTIONS: CLASS DISCUSSIONS**
+### **PERSONAL COMMUNICATION OPTIONS: CLASS DISCUSSIONS**
 
 With this option, students converse with one another in a structured discussion. Class discussions can serve formative or summative purposes. Whether to use them formatively or summatively depends in part on the intended purpose and learning target. In this case, the evaluation of student contributions requires forethought about the criteria by which we judge the quality of those contributions. Typically, this requires the development of a rubric. Depending on the context, students can contribute to the development of that rubric, thus turning assessment development into an assessment *for* learning intervention.
 
@@ -6050,7 +6158,7 @@ The grade-specific standards that flesh this target out at the eighth-grade leve
 
 As with all skill targets, assessing this standard summatively will require a scoring rubric that clearly describes each of its components at several levels of achievement. And it would be wise to engage students in practice discussions with opportunities for feedback and revision, prior to evaluating their discussion proficiencies for a grade.
 
-### **Developing Class Discussion Topics and Questions**
+#### **Developing Class Discussion Topics and Questions**
 
 To take advantage of the strengths of this method of assessment while minimizing the impact of potential weaknesses, do the following:
 
@@ -6058,11 +6166,11 @@ To take advantage of the strengths of this method of assessment while minimizing
 - Find, modify, or develop scoring checklists or rubrics that reflect the learning targets at the heart of the discussion task. See Chapter 7 for how to do this. If possible, work with colleagues to practice evaluating recorded student discussion sessions to ensure inter-rater reliability when judging level of achievement.
 - In contexts where achievement information derived from participation in discussion will be used summatively, rely on more than your memory. Track individual student achievement with a scoring checklist or rubric and keep dependable records of performance. Also, electronic tools that can help with this function have recently come on the market and may be available in your school.
 
-### **Suggestions for Effective Use of Class Discussions**
+#### **Suggestions for Effective Use of Class Discussions**
 
 Be sure students are aware of what they will be judged on, which should match the learning targets you have shared with them at the outset of instruction. Are you evaluating the *content* of students' contributions—the knowledge, understanding, or reasoning demonstrated—or the *form* of their contribution—how they communicate, or
 
-### **FAQ 8.1 Keeping Track**
+ **FAQ 8.1 Keeping Track**
 Question:
 *Do we need to keep track of personal communication information?* 
 
@@ -6103,7 +6211,7 @@ Stating a comment at a louder volume does not make it a stronger reason.
 
 As a variation, students can line up according to the intensity of their commitment to the side they have chosen. At first this may produce the two lines forming a "U" shape, with lots of students on the fence—the bottom of the "U." Consider not offering this option until they have participated in a line-up a few times and have become more comfortable taking a position in public.
 
-## **PERSONAL COMMUNICATION OPTIONS: CONFERENCES AND INTERVIEWS**
+### **PERSONAL COMMUNICATION OPTIONS: CONFERENCES AND INTERVIEWS**
 
 With this personal communication option, we meet with students individually to talk about what they have learned and have yet to learn. We tend to use these formatively to provide insights that both we and the student may use to guide further learning. In the context of a conference or interview, we can assess students' grasp of *knowledge* targets and proficiency with *reasoning* targets. Conferring individually with students is a powerful assessment *for* learning tool when we ask carefully thought-out followup questions to uncover strengths and misconceptions or misunderstandings.
 
@@ -6111,7 +6219,7 @@ In addition, we can probe whether students have the underlying knowledge, concep
 
 Conferences and interviews need not be standardized or conducted with every pupil. We might meet with only one student or vary the focus of the conference with students who have different needs.
 
-### **Developing Questions and Topics for Conferences and Interviews**
+#### **Developing Questions and Topics for Conferences and Interviews**
 
 The goal of a conference or interview is to establish a deeper understanding of the student as a learner, so you will want to create questions that cause the student to do most of the talking. Here are some keys to developing a question framework to guide the discussion:
 
@@ -6122,7 +6230,7 @@ The goal of a conference or interview is to establish a deeper understanding of 
 
 In Chapter 11 we offer suggestions for a variety of ways to collect student work into portfolios that can become the basis for the conference discussion. That chapter also includes lists of questions that initiate student self-analysis of learning strategies, skills, and processes. In Chapter 12 we offer more in-depth information about kinds of conferences and options for conducting them.
 
-### **Suggestions for Effective Use of Conferences and Interviews**
+#### **Suggestions for Effective Use of Conferences and Interviews**
 
 One important advantage of the conference or interview as a mode of assessment lies in the impact it can have on our relationships with students. When students understand the achievement target and the formative intent of the discussion, this form of assessment becomes "sitting beside" in truth, with both teacher and student working together for the individual student's good. In addition, an effective conference or interview sets students up to take more ownership of their learning progress.
 
@@ -6134,11 +6242,11 @@ The following are keys to successful use of conference and interview assessment 
 - Give students plenty of responding time. Listen carefully to what they say. Feeling "heard" helps students trust that the purpose of the conference or interview is to engender mutual understanding of the student's learning strengths and needs. Anne Davies (Davies & Stiggins, 1996) suggests sitting on your left hand to remind yourself to listen.
 - Conclude each meeting with a summary of the lessons learned and their implications for future actions. Let the student do the summarizing orally or in writing, as appropriate.
 
-## **PERSONAL COMMUNICATION OPTIONS: ORAL EXAMINATIONS**
+### **PERSONAL COMMUNICATION OPTIONS: ORAL EXAMINATIONS**
 
 When personal communication takes the form of an oral examination, we plan and pose questions for students, who reflect and provide oral responses. We listen to and interpret the responses, evaluating quality and inferring levels of achievement using scoring guides like those of the written response exam or a performance assessment. Oral examinations are generally used summatively. They can reliably measure *knowledge* and *reasoning* targets and can also measure *skill* targets that require one-to-one communication, such as correct pronunciation in a foreign language. Oral examination questions are structured similarly to selected response questions, short-answer and extended written response items, and performance assessments, but they have the added benefit of allowing us to ask followup questions to attain greater accuracy of results.
 
-### **Developing Questions for Oral Examinations**
+#### **Developing Questions for Oral Examinations**
 
 Quality control guidelines for oral examinations include those listed in Chapters 5 and 6 for selected response and written response assessments as well as some guidelines particular to this form of assessment, as follows:
 
@@ -6152,7 +6260,7 @@ Quality control guidelines for oral examinations include those listed in Chapter
 - Have a method of recording results ready to use at the time of the assessment.
 - If necessary, audiotape responses for later reevaluation.
 
-### **Suggestions for Effective Use of Oral Examinations**
+#### **Suggestions for Effective Use of Oral Examinations**
 
 Just as with selected response, written response, and performance assessments, students will benefit from an opportunity to practice demonstrating their learning in this format, with feedback prior to sitting for an oral examination that will be used as a part of their grade. For an example of how an oral examination might be used both for practice and to contribute to a final grade, consider the test developed by a foreign language teacher for her first-year students. One of the important learning targets for the term was to engage in short social conversations with a range of vocabulary and sentence constructions. The teacher identified the contexts in which students were to learn to converse (e.g., meeting someone for the first time, talking about your school, talking about your family, asking directions), and students practiced the discussions with each other over the course of the term. As part of the final exam, the teacher drew one of the topics at random for each student, who then was responsible for conducting the conversation.
 
@@ -6160,7 +6268,7 @@ Just as with selected response, written response, and performance assessments, s
 
 Sometimes personal communication takes a written form: students write to explain, explore, or deepen their own knowledge and understanding and the teacher or another student responds. Journals and logs are used for a variety of reasons in the classroom. This section addresses their use as a structured interaction with the teacher or another student, where students describe their views, experiences, reactions, insights, understandings, confusions, and misunderstandings related to specific learning targets. Thus, their primary use as an assessment option is formative ( Figure 8.4 ). As assessment tools, journals and logs are especially well suited to focusing on knowledge and reasoning learning targets. In this section we will discuss four types of journals and logs: *response journals* , *dialogue journals* , *personal journals* , and *learning logs* .
 
-### **Response Journals**
+#### **Response Journals**
 
 Response journals are most often used in situations where we ask students to read and construct meaning from text, such as in the context of reading and English language arts. In any subject, students can record responses to ideas in a text, to an experience, to what they are viewing, or to what they are listening to. Typically, we provide structured assignments to guide their responses.
 
@@ -6187,11 +6295,11 @@ Students keep ongoing records to document learning, progress made, and processes
 
 **ASSESSMENT** *FOR* **LEARNING WITH RESPONSE JOURNALS.** One interesting example of the use of a response journal to help students learn more deeply comes from Janice Knight: "Most students' initial efforts at writing journal entries were lengthy, literal accounts about what was read. These boring responses, displaying a lack of critical thinking, filled page after page in their journals. It seemed that demonstration lessons on how to [think more deeply] were needed" (1990, p. 42 ). So she taught students how to use a system for coding their journal entries for the types of thinking displayed. She taught the codes one at a time, first modeling and then having students practice writing about what they read, coding for that type of thinking. By doing this, she saw a dramatic increase in the depth of thinking displayed in journal entries. "(N)ot only does the teacher have a record of the type of thinking that went into their creation, so do the students. They can readily self-evaluate and work independently towards improving their responses. The students are also more motivated to include different kinds of thinking in their entries" (1990, p. 42 ).
 
-### **Dialogue Journals**
+#### **Dialogue Journals**
 
 Dialogue journals capture conversations between students and teachers in writing. As teaching and learning proceed, students write messages to us conveying thoughts and ideas about the achievement expected, self-evaluations of progress, points of confusion, or important new insights. Periodically, they turn the journals in and we read them and reply, responding to an idea, asking a question, clarifying or amplifying a key point. Students read what we have written, sometimes responding, and other times moving on to a new topic. This process links us with each student in a supportive communication partnership.
 
-### **Personal Journals**
+#### **Personal Journals**
 
 Personal journals represent the least structured of the journal options. In this case, we give students time during each day (or week) to write in their journals. It is important to establish a clear purpose and audience for personal journals at the outset. They can either be used to help us understand each student's level of understanding or to give students an opportunity to respond to or reflect on the day's (or week's) learning.
 
@@ -6199,7 +6307,7 @@ When the purpose is to give the teacher insight into student level of understand
 
 On the other hand, when the writing is solely for the student's use—to question, track, or reflect—then if we read the journals we comment only at the invitation of the student.
 
-### **Learning Logs**
+#### **Learning Logs**
 
 Learning logs ask students to keep ongoing written records of the following aspects of their studies:
 
@@ -6240,7 +6348,7 @@ Poor or nonexistent scoring guides and rubrics Lack of consistency in using scor
 Insufficient sample size to support intended use 
 Lack of accurate and effi cient record-keeping system
 
-### **Reminder of Problems and Solutions**
+#### **Reminder of Problems and Solutions**
 
 Here are some of the problems that can arise from the subjectivity of personal communication methods.
 
@@ -6264,7 +6372,7 @@ Here are some of the problems that can arise from the subjectivity of personal c
 
 *Solution* : We must attend carefully to sampling issues when planning to use data obtained from observation of group discussion.
 
-## **Summary**
+### **Summary**
 
 Personal communication assessment is an efficient and effective way to both gather information about students to plan your next instructional steps, and to involve students in their own assessment. Personal communication can be used to collect information about knowledge, reasoning, and level of certain skills such as ability to speak a foreign language.
 
@@ -6274,13 +6382,13 @@ Personal communication forms of assessment must adhere to standards of sound ass
 
 As with other forms of assessment, personal communication can be used as a platform for formative assessment and student involvement. Because of the similarities between short oral answers and selected response written questions, extended oral responses and extended written response, and personal communication and performance assessment, strategies for student involvement outlined in Chapters 5 , 6 , and 7 can also be used with personal communication. In this chapter we provided activities to involve students in the oral questioning of each other, using journal icons to deepen thinking, and using a group discussion rubric to promote better group discussions.
 
-## **CHAPTER 8ACTIVITIES**
+### **CHAPTER 8ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
  Forms for completing each activity appear in editable Microsoft Word format in the Chapter 8 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 8 Learning Targets**
+#### **Chapter 8 Learning Targets**
 
 At the end of Chapter 8 , you will know how to do the following:
 
@@ -6302,7 +6410,7 @@ At the end of Chapter 8 , you will know how to do the following:
 
 Activity 8.9 Select Portfolio Artifacts
 
-### **Activity 8.1 Keep a Reflective Journal**
+##### **Activity 8.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 8 .
 
@@ -6310,7 +6418,7 @@ Keep a record of your thoughts, questions, and any implementation activities you
 
 Reflective Journal Form
 
-### **Activity 8.2 Frame Diagnostic Questions**
+##### **Activity 8.2 Frame Diagnostic Questions**
 
 Work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6326,7 +6434,7 @@ Work independently, with a partner, or with a team to carry out the following ac
 
 Frame Diagnostic Questions
 
-### **Activity 8.3 Use Instructional Questions to Deepen Understanding**
+##### **Activity 8.3 Use Instructional Questions to Deepen Understanding**
 
 Work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6339,7 +6447,7 @@ Work independently, with a partner, or with a team to carry out the following ac
 
 Use Instructional Questions to Deepen Understanding
 
-### **Activity 8.4 Develop and Use a Class Discussion Rubric**
+##### **Activity 8.4 Develop and Use a Class Discussion Rubric**
 
 This activity has two parts—the development of a suitable rubric and the effective use of the rubric with students. Work with a partner or with a team to carry out the activity.
 **Part A: Developing the Rubric**
@@ -6371,7 +6479,7 @@ Debrief Use of Class Discussion Rubric
 
 301
 
-### **Activity 8.5 Conduct a Line-up Discussion**
+##### **Activity 8.5 Conduct a Line-up Discussion**
 
 After reading the description of a "line-up" discussion in For Example 8.1 , work independently, with a partner, or with a team to plan and conduct a line-up with your students.
 
@@ -6397,7 +6505,7 @@ After reading the description of a "line-up" discussion in For Example 8.1 , wor
 
 Student Directions for the Line-up
 
-### **Activity 8.6 Develop Oral Examination Questions**
+##### **Activity 8.6 Develop Oral Examination Questions**
 
 Work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6418,7 +6526,7 @@ Template for Oral Examination Questions and Scoring Guides
 
 Debrief the Oral Examination
 
-### **Activity 8.7 Use Journals or Logs in the Classroom**
+##### **Activity 8.7 Use Journals or Logs in the Classroom**
 
 Work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6442,13 +6550,13 @@ Work independently, with a partner, or with a team to carry out the following ac
 
 Decisions about Using Journals or Logs Debrief Use of Journals or Logs in the Classroom
 
-### **Activity 8.8 Reflect on Your Own Learning**
+##### **Activity 8.8 Reflect on Your Own Learning**
 
 Review the Chapter 8learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
 Reflect on Chapter 8 Learning
 
-### **Activity 8.9 Select Portfolio Artifacts**
+##### **Activity 8.9 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select activities you have completed or artifacts you have created that will illustrate your competence at the Chapter 8learning targets:
 
@@ -6464,7 +6572,7 @@ If you are keeping a reflective journal, you may want to include Chapter 8 's en
 
 Chapter 8 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 8 .1 Reflective Journal Form
 - 2. Activity 8.2 Frame Diagnostic Questions
@@ -6484,7 +6592,7 @@ Chapter 8 Portfolio Entry Cover Sheet
 - 16. Activity 8.8 Reflect on Chapter 8 Learning
 - 17. Activity 8.9 Chapter 8 Portfolio Entry Cover Sheet
 
-# Chapter 9: Record Keeping: Tracking Student Learning 
+## Chapter 9: Record Keeping: Tracking Student Learning 
  *I'm doomed in this class. All of my mistakes count against me.* 
 
 —Claire, 9th-grade student
@@ -6505,7 +6613,7 @@ needs of the standards-based classroom. Many grade reports now are organized by 
 
  In this chapter, we will offer guidelines for tracking both formative and summative information so each can easily be used for its intended purposes, guidelines that lay the foundation for increased student achievement as well as sound grading and reporting practices.
 
-## **Chapter 9 Learning Targets**
+### **Chapter 9 Learning Targets**
 
 At the end of Chapter 9 , you will know how to do the following:
 
@@ -6517,11 +6625,11 @@ At the end of Chapter 9 , you will know how to do the following:
 - Record achievement information by raw score
 - Create a system for students to keep track of their own learning
 
-## **PRELIMINARY DECISIONS**
+### **PRELIMINARY DECISIONS**
 
 Tracking formative and summative information involves several preliminary decisions that are at your discretion. Of all of the kinds of evidence that students give you each day, which will be used formatively? Which will be used summatively? Of the formative evidence, what do you need or want to keep track of? Where, physically, will you keep the information? Will students also be involved in tracking their progress? Of the summative evidence, what will figure into the grade? What evidence will be reported separately? Figure 9.2 provides an example of the kinds of information we typically gather, sorted into categories for tracking purposes.
 
-### **Differentiating Information for Formative or Summative Use**
+#### **Differentiating Information for Formative or Summative Use**
 
 First, let's review sources of evidence of student achievement. In the "methods" chapters ( Chapters 5 through 8 ), we have discussed how to create and use selected response assessments, written response assessments, performance assessments, and personal communication modes of assessment. Even though these are described as *assessment* methods, their use is not limited to testing. They can be used to generate diagnostic information or to provide practice experiences. They can take the form of questions, discussions, exercises, problems, teaching tasks, quizzes, projects, and performances. So, when we refer to *evidence of student achievement* , we can be referring to information coming from any of these sources, regardless of intended use of the resulting information. In this chapter, we will use the term *assessment events* to describe them all.
 
@@ -6548,42 +6656,43 @@ stage of assessment design described in Chapter 4 . Formative assessment events 
 Who Am I? Tracking Sheet*
 7th Grade Reading/Mrs. Schroeder Grading Period: 2nd Trimester
 
-Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Class Period # \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name _________________________________________________________________ Class Period # _______________________________________
 
 **ALL learning is standards based—** Begin with a goal and then practice, practice, practice until you are proficient. The formative work assigned to you is the "practice" towards the mastery of the standard. It may take a few times before you are ready, but you need to be prepared before testing on your goal. You need to feel confident about what you know! Although you are not given a grade for the practice work, you must correctly complete each assignment before you can take the summative. As each formative is completed, you and I will update this form to track your progress. Please place ALL work behind your tracking sheet in your binder. Work hard! I know you can do this!
 
 **READING PROCESS:**
 
-**\_\_\_\_\_\_\_\_ 1.** 7.LA.1.8.2 I can clarify word meanings by using definitions, examples, graphic features, and the use of denotative and connotative meanings.
-
-> Formative Assessment: \_\_\_\_\_\_ Mischief Mouse/ Denotative, Connotative w/exit ticket Formative Assessment: \_\_\_\_\_\_ NFL Worksheet for Denotative,
-
-Connotative
-
-Formative Assessment: \_\_\_\_\_\_ Bloom's Vocabulary Cards: Denotative/ Connotative, Fact/Opinion, Compare/ Contrast, Autobiography/Biography
+_____________ 1. 7.LA.1.8.2 I can clarify word meanings by using definitions, examples, graphic features, and the use of denotative and connotative meanings.
+Formative Assessment: _____________ Mischief Mouse/ Denotative, Connotative w/exit ticket 
+Formative Assessment: _____________ NFL Worksheet for Denotative,Connotative
+Formative Assessment: _____________ Bloom's Vocabulary Cards: Denotative/ Connotative, Fact/Opinion, Compare/ Contrast, Autobiography/Biography
 
 **READING COMPREHENSION:**
 
-**\_\_\_\_\_\_\_\_ 2.** 7.LA.2.1.3 I can draw conclusions and form opinions based on information that I get from the text and I can prove what I know by showing evidence from the passage.
-
-> Formative Assessment: Fact and Opinion Contract (Bloom's shapes) \_\_\_\_\_Circle \_\_\_\_\_Octagon \_\_\_\_\_ Square
-
-|                   | by comparing and contrasting ideas from the passage.                      | ________ 3. 7.LA.2.2.1 I can analyze expository text to broaden my comprehension Formative Assessment: _____ Compare and contrast Barrio Boy and                                                                                                 |
-|-------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                   |                                                                           | Names/Nombres Formative Assessment: _____ Practice recognizing similarities and differ ences in reading passages                                                                                                                              |
-|                   |                                                                           | ________ 4. 7.LA.2.3.1 I can read and respond to literature from a variety of genres Formative Assessment: _____ Autobiography writing assignment Formative Assessment: _____ Practice recognizing Autobiography clues in reading passages |
-|                   | _______ 5. SUMMATIVE ASSESSMENT:                                          |                                                                                                                                                                                                                                                     |
-|                   | _______ / 25 pts.                                                         | 7.LA.1.8.2 I can clarify word meanings by using definitions, examples, graphic features, and the use of denotative and connotative meanings.                                                                                                     |
-|                   | evidence from the passage. _______ / 25 pts.                           | 7.LA.2.1.3 I can draw conclusions and form opinions based on informa tion that I get from the text and I can prove what I know by showing                                                                                                        |
-|                   | by comparing and contrasting ideas from the passage. _______ / 25 pts. | 7.LA.2.2.1 I can analyze expository text to broaden my comprehension                                                                                                                                                                                |
-|                   | _______ / 25 pts.                                                         | 7.LA.2.3.1 I can read and respond to literature from a variety of genres.                                                                                                                                                                           |
-| Jerome, ID, 2011. |                                                                           | Source : Used with permission from Elizabeth Schroeder, unpublished classroom materials, Jerome School District,                                                                                                                                    |
+_____________ 2. 7.LA.2.1.3 I can draw conclusions and form opinions based on information that I get from the text and I can prove what I know by showing evidence from the passage.
+Formative Assessment: Fact and Opinion Contract (Bloom's shapes) _____________Circle _____________Octagon _____________ Square
+________ 3. 7.LA.2.2.1 I can analyze expository text to broaden my comprehension by comparing and contrasting ideas from the passage.                      
+ Formative Assessment: _____ Compare and contrast Barrio Boy and  Names/Nombres 
+ Formative Assessment: _____ Practice recognizing similarities and differ ences in reading passages                                                                        
+________ 4. 7.LA.2.3.1 I can read and respond to literature from a variety of genres 
+ Formative Assessment: _____ Autobiography writing assignment 
+ Formative Assessment: _____ Practice recognizing Autobiography clues in reading passages 
+_______ 5. SUMMATIVE ASSESSMENT:           
+7.LA.1.8.2 I can clarify word meanings by using definitions, examples, graphic features, and the use of denotative and connotative meaning
+ _______ / 25 pts. 
+7.LA.2.1.3 I can draw conclusions and form opinions based on informa tion that I get from the text and I can prove what I know by showingevidence from the passage. 
+_______ / 25 pts.                                                                                                                                
+7.LA.2.2.1 I can analyze expository text to broaden my by comparing and contrasting ideas from the passage. 
+_______ / 25 pts. comprehension                                                                                                                                                                                
+7.LA.2.3.1 I can read and respond to literature from a variety of genres.
+ _______ / 25 pts.                                                                                                                                         
+| Jerome, ID, 2011. Source : Used with permission from Elizabeth Schroeder, unpublished classroom materials, Jerome School District, 
 
  Second, determine what formative assessment information to keep track of. You will be able to use much of the formative information you gather, such as answers to instructional questions or in-class practice exercises, to make the necessary instructional decisions without writing anything down. Other information, such as results from formative quizzes, is useful in monitoring student progress or determining instructional groups for reteaching and therefore it would be helpful to have it as a part of a written record. So your second decision is what types of formative assessment information it makes sense to record.
 
  Third, begin thinking about what information *students* would benefit from tracking. The more involved students are in keeping track of achievement, the more in touch they are with their own progress, which has positive motivational benefits. "How'm I doing?" ought to be a question they can answer themselves at any point in their learning. On the formative side, it may be more beneficial for them to keep records of feedback, self-assessment, and goal-setting information than it would be for you to track those things separately. When their records are available to you, you still have access to the information. So, as your third decision, consider what formative and summative assessment information it makes sense for students to record.
 
-### **My Classroom Then and Now 9.1**
+ **My Classroom Then and Now 9.1**
 **Sierra Swanson**
 I used to . . .
 
@@ -6615,7 +6724,7 @@ Any learning target at any grade level where proficiency develops over time is a
 On the flip side, as we have seen in Chapters 5 through 8 , summative assessments can and should sometimes be used formatively. When students analyze the results of a summative test to see which targets they have mastered and which they haven't, and then are provided an opportunity to retest and receive credit for their higher level of achievement, we are using a test whose primary purpose is assessment *of* learning as an instance of assessment *for* learning, thereby *increasing what students have learned* . Or, when we plan a test as a summative event and notice from the results that many students had difficulty with one or more learning targets, we might decide to reteach and retest those targets. This is another instance of an assessment *of* learning being used as assessment *for* learning, again increasing what students have learned.
 
  Figure 9.3 shows a form you can use plan for both formative and summative assessment events throughout a unit or module of study.
-
+**TABLE-Formative and Summative Assessment Plan**
 | FIGURE 9.3 Formative and Summative Assessment Plan |      |      |                                                                                        |
 |----------------------------------------------------|------|------|----------------------------------------------------------------------------------------|
 |                                                    |      |      | Chapter/Topic(s)/Unit of Study: ______________________________________________________ |
@@ -6640,16 +6749,12 @@ On the flip side, as we have seen in Chapters 5 through 8 , summative assessment
 |                                                    |      |      |                                                                                        |
 
 Type:
-
 S = Summative
-
 FC = Check for learning (formative)
-
 P = Practice (formative)
-
 O = Other (formative)
 
-## **DECIDING WHERE YOU WILL KEEP THE INFORMATION**
+### **DECIDING WHERE YOU WILL KEEP THE INFORMATION**
 
 Historically, our tracking system has taken the form of a *gradebook* , whether we keep it in hard copy or electronically. That is a bit of a misnomer these days, because we need to record information beyond summative grades. When we broaden the uses of assessment information to include formative applications, we may also need to consider different record book options.
 
@@ -6681,7 +6786,7 @@ It is also possible to supplement records with collections of student work, whic
 ![](_page_328_Picture_1.jpeg)
 NCS Pearson. (2007–2011). PowerTeacher 2.3 [computer software]. Minneapolis, MN: NCS Pearson.
 
-## **RECORD-KEEPING GUIDELINES**
+### **RECORD-KEEPING GUIDELINES**
 
 After you have made initial decisions about what will be formative and what will be summative, where you want to keep the information, and what information students will track, you are ready to set up the tracking system. We suggest three record- keeping guidelines that apply to both formative and summative information to indicate the learning targets represented by your data and to maximize the usefulness of your entries:
 
@@ -6689,7 +6794,7 @@ After you have made initial decisions about what will be formative and what will
 - **2.** Track information about work habits and social skills separately.
 - **3.** Record achievement information by raw score, if practical.
 
-## **Guideline 1: Organize Entries by Learning Represented**
+#### **Guideline 1: Organize Entries by Learning Represented**
 
 The first guideline governs the labels and categories in your recording system. When both instruction and assessments have focused on specific learning targets, it is an
 
@@ -6712,7 +6817,6 @@ Number Sense
 | 1.                               |                                      |                                |                                    |
 | 2.                               |                                      |                                |                                    |
 | 3.                               |                                      |                                |                                    |
-
 computation
 | Addition               | Subtraction            | Multiplication | Division     | Uses calculator to + or - 4 or more digits | Estimation skills |
 |------------------------|------------------------|----------------|--------------|--------------------------------------------|--------------------|
@@ -6730,7 +6834,7 @@ Figure 9.6 shows both content strands and individual learning targets. It uses s
 
 Notice that in Figures 9.4 through 9.8 there is a place to keep track of the assignment, even though it is not the major organizer of information. In Figures 9.4 and 9.8 , assignment information goes into the column labeled "Task." This is where you can record the page number or other identifying details about the specific assignment. In Figure 9.6 , it is labeled "Assignment." In Figure 9.5 , the writing assignments are numbered 1, 2, and 3 to indicate the writing assignment. Instead of numbering the assignments, you could name them if you wanted to and had the space.
 
-### **Guideline 2: Track Information about Work Habits and Social Skills Separately**
+#### **Guideline 2: Track Information about Work Habits and Social Skills Separately**
 
 To use the summative information to calculate a standards-based grade, we will need to track information about achievement level separately from information about work habits and social skills. Student characteristics such as class participation, compliance with rules, academic honesty, attitude, neatness, timeliness of work turned in, attendance, cooperation with classmates, and level of classroom attention all contribute to learning. So it's fine to identify the work habits and social skills you want to track and report. If the categories you identify are broad, such as "effort" or "work habits," you will need to define the actions that underlie them. What do we mean by *effort* ? Work turned in on time? Class participation? Neatness? Regular attendance? This work is best done as a team—department, grade level, school, or district—so that students experience consistency of stated expectations. And you will need to devise ways of assessing these things to provide dependable evidence for all students.
 
@@ -6762,7 +6866,7 @@ For example, a team of teachers from Orange Middle School in Lewis Center, Ohio,
 
 They report a significant decrease in missing or late work as a result.
 
-### **Guideline 3: Record Achievement Information by Raw Score, if Practical**
+#### **Guideline 3: Record Achievement Information by Raw Score, if Practical**
 
 In Chapter 10 , we will look at the procedure for converting achievement data into a summary grade. Until then, we retain the most options for accurate use of information if we keep raw scores—the number of points awarded in relation to the number possible; e.g., 4/5 or 32/38. Raw scores give instant access to the sample size. When we only record a percent or a summative mark, the detail is lost. For example, if a student gets 2 out of 3 points correct on an assignment, you could record it as 2/3, as 67 percent, or as a D. On a different task the student could get a score of 12 out of 18, which you could record as 12/18, as 67 percent, or as a D. If each of these tasks covers the same learning target, which provides the more stable estimate of student achievement? Having access to raw scores will also help with weighting decisions when combining information to calculate a final grade.
 
@@ -6795,6 +6899,7 @@ These are prerequisites to student-involved record keeping:
 - Whether the assignment was formative (for practice) or summative (for a mark or grade)
 - Their strengths related to the learning target and areas for improvement or next steps related to the learning target
 
+**TABLE-Students Tracking Progress by Assignment**
 | FIGURE 9.9 Students Tracking Progress by Assignment |      |        |       |     |  |  |  |  |  |  |  |
 |-----------------------------------------------------|------|--------|-------|-----|--|--|--|--|--|--|--|
 | Assignment                                          | Date | Target | Score | F/S |  |  |  |  |  |  |  |
@@ -6825,7 +6930,7 @@ they got wrong because they don't yet understand it. Students then translate tha
 **FIGURE 9.12** Students Tracking Quiz or Test Results
 
 
-### **My Classroom Then and Now 9.2 Elizabeth Schroeder**
+ **My Classroom Then and Now 9.2 Elizabeth Schroeder**
 I used to . . .
 
 First, I used to grade every piece of work that my students completed. I was of the mindset that work is not valued unless it is acknowledged . . . and I thought that acknowledgement was a letter grade. Second, I used to use what I call a "tracking sheet" that students could use to follow their progress on learning targets, formatives, and summative—an organizer to remind them of the goals, take part in their own learning, and give them a way to evaluate their own work and progress (see For Example 9.1 ). However, it was "hit or miss" with the tracking sheet and it was hard to keep it up to date and was eventually placed in their binder unfinished. Lastly, I used to let everyone take the summative test at the end of the unit, regardless of their completion or understanding of their practice work. This procedure resulted in many incomplete assignments and lower scores on the summative exam.
@@ -6848,7 +6953,7 @@ WOW! So many things to report as change! My students are more engaged in their l
 
 *Source :* Used with permission from Elizabeth Schroeder, 7th-grade English language arts teacher, Jerome School District, Jerome, ID, 2011.
 
-## **Summary**
+### **Summary**
 
 Both assessments *for* and *of* learning play a crucial role in determining and communicating levels of student learning. We can develop a variety of protocols to maintain accurate records that allow us to use each source of information in the ways we intend.
 
@@ -6864,13 +6969,13 @@ With a protocol in place, tracking assessments *for* and *of* learning in the
 
 classroom does not need to consume a lot of time. If our classroom assessments are of high quality, we will be able to calculate a justifiable grade with fewer assessment scores than may be in place in many gradebooks now.
 
-## **CHAPTER 9ACTIVITIES**
+### **CHAPTER 9 ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity appear in editable Microsoft Word format in the Chapter 9 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 9 Learning Targets**
+#### **Chapter 9 Learning Targets**
 
 At the end of Chapter 9 , you will know how to do the following:
 
@@ -6890,13 +6995,13 @@ At the end of Chapter 9 , you will know how to do the following:
 - Activity 9.6 Reflect on Your Own Learning
 - Activity 9.7 Select Portfolio Artifacts
 
-### **Activity 9.1 Keep a Reflective Journal**
+##### **Activity 9.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 9 .
 
 Reflective Journal Form
 
-### **Activity 9.2 Plan Formative and Summative Assessment Events**
+##### **Activity 9.2 Plan Formative and Summative Assessment Events**
 
 After reading the section titled "Differentiating Information for Formative or Summative Use," select an upcoming unit of study to use in mapping out formative and summative assessment events. Work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6914,7 +7019,7 @@ After reading the section titled "Differentiating Information for Formative or S
 
 Formative and Summative Assessment Plan
 
-### **Activity 9.3 Organize Your Recording System**
+##### **Activity 9.3 Organize Your Recording System**
 
 After reading the section titled "Deciding Where You Will Keep the Information," work independently, with a partner, or with a team to make the following decisions.
 
@@ -6933,7 +7038,7 @@ After reading the section titled "Guideline 1: Organize Entries by Learning Repr
 
 Organize Your Recording System
 
-### **Activity 9.4 Track Work Habits and Social Skills**
+##### **Activity 9.4 Track Work Habits and Social Skills**
 
 Work independently, with a partner, or with a team to complete the following activity.
 
@@ -6952,7 +7057,7 @@ Work independently, with a partner, or with a team to complete the following act
 
 Track Work Habits and Social Skills Debrief Tracking and Reporting Work Habits and Social Skills
 
-### **Activity 9.5 Develop Student Record-keeping Forms**
+##### **Activity 9.5 Develop Student Record-keeping Forms**
 
 After reading the section titled "Options for Student Record Keeping," work independently, with a partner, or with a team to carry out the following activity.
 
@@ -6969,7 +7074,7 @@ After reading the section titled "Options for Student Record Keeping," work inde
 
 Develop Student Record-keeping Forms Student Feedback Form
 
-### **Activity 9.6 Reflect on Your Own Learning**
+##### **Activity 9.6 Reflect on Your Own Learning**
 
 Review the Chapter 9learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -6977,7 +7082,7 @@ Review the Chapter 9learning targets and select one or more that represented new
 
 Reflect on Chapter 9 Learning
 
-### **Activity 9.7 Select Portfolio Artifacts**
+##### **Activity 9.7 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select activities you have completed or artifacts you have created that will illustrate your competence at the Chapter 9learning targets:
 
@@ -6995,7 +7100,7 @@ If you are keeping a reflective journal, you may want to include Chapter 9 ' s e
 
 Chapter 9 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 9 .1 Reflective Journal Form
 - 2. Activity 9.2 Formative and Summative Assessment Plan
@@ -7007,7 +7112,7 @@ Chapter 9 Portfolio Entry Cover Sheet
 - 8. Activity 9.6 Refl ect on Chapter 9 Learning
 - 9. Activity 9.7 Chapter 9 Portfolio Entry Cover Sheet
 
-# Chapter 10: Converting Summative Assessment Information into Grades
+## Chapter 10: Converting Summative Assessment Information into Grades
 From Chapter 10 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
 *The academic grade a student earns in a class should be determined by evidence of that student's achievement alone.* 
@@ -7024,7 +7129,7 @@ We first explore challenges inherent in assigning report card grades. Next we de
 
 ![](_page_351_Figure_3.jpeg)
 
-## **Chapter 10 Learning Targets**
+### **Chapter 10 Learning Targets**
 
 At the end of Chapter 10 you will know how to do the following:
 
@@ -7034,7 +7139,7 @@ At the end of Chapter 10 you will know how to do the following:
 - Convert rubric scores into grades.
 - Evaluate and refine your own grading practices using the Rubric for Sound Grading Practices.
 
-## **THE CHALLENGES OF REPORT CARD GRADING**
+### **THE CHALLENGES OF REPORT CARD GRADING**
 
 Our first responsibility as teachers is to ensure that grades provide an accurate reflection of all students' actual level of academic achievement. This requires that grades derive from assessments that accurately reflect clearly articulated learning targets. Our second responsibility is to minimize any negative impacts of the grading process on learning.
 
@@ -7056,13 +7161,13 @@ On top of this, there is the grading challenge of finding the time to manage the
 
 And finally, we face the relatively new challenge of altering reporting systems to reflect standards-based teaching and learning. In a standards-driven environment, the goal of grading is to provide students and their parents the information that communicates specifically about student success in mastering relevant standards. Yet, even with individual state or provincial standards and the Common Core State Standards, many schools' grading systems continue to report student learning using letters or numbers that do not accurately summarize achievement of content area academic standards.
 
-## **THREE GRADING GUIDELINES**
+### **THREE GRADING GUIDELINES**
 
 Everyone who uses grades to make decisions about students counts on them to be accurate—our responsibility to them and to our students is to provide as accurate a picture of learning as possible. This requires that we carefully answer three questions: "What is our purpose for grading?"; "What factors should we include in the grade?"; and "How do we combine those factors to give the truest picture possible of student achievement?"
 
  We offer answers to those questions in the form of three *grading guidelines* —three statements that serve as the foundation for an accurate and defensible grading system.
 
-### **Guideline 1: Use Grades to Communicate, Not to Motivate**
+#### **Guideline 1: Use Grades to Communicate, Not to Motivate**
 
 Going back to why we grade—because others need the information to make decisions about students—we may all agree that we grade to communicate about student learning. But we are also familiar with grading practices designed to motivate students toward desirable learning habits and responsible behaviors and away from undesirable ones. While it is unarguable that many students need help with their habits and behaviors, it is arguable that factoring their presence or absence into the academic grade is a satisfactory remedy.
 
@@ -7106,7 +7211,7 @@ Using grades as motivators to reward and punish or deter behavior is not consist
 
 *What should we do instead?* As O'Connor (2011) points out: "Grades are broken when they mix achievement and nonachievement elements. The fix is to report variables such as behaviors separately from achievement, thereby ensuring that grades reflect student achievement as accurately as possible" (p. 22 ).
 
-### **FAQ 10.1 Zeroes**
+ **FAQ 10.1 Zeroes**
 
 Question:
 *Why do you recommend never assigning zeroes?* 
@@ -7114,7 +7219,7 @@ Question:
 Answer:
 Averaging zeroes with other scores to calculate a midterm or quarter grade skews the grade in a way from which it can never recover, making the final grade a completely inaccurate picture of student achievement. Consider the case of a student who has taken three of four tests and attained scores of 100, 90, and 95 percent. The student missed one test and the score was entered as a zero, due to an unexcused absence. Her average is 71 percent, usually a C but sometimes a D. This grade clearly does not reflect her level of achievement. A more fair solution to the problem of missing work is to gather or use other information about student learning to fill in the gap. This student could, for instance, take the test before or after school. If we can't get other information in time, we may have to use an "Incomplete" to stand in for the grade until we can get enough information to make a stable generalization about the student's level of achievement on the course learning targets.
 
-### **My Classroom Then and Now 10.1**
+ **My Classroom Then and Now 10.1**
 **Sara Poeppelman**
 I used to …
 Like many teachers, I used to give summative quizzes and tests and assignments that may or may not have assessed the most important aspects of what the students were supposed to have learned as a result of the instruction that was taking place in my classroom. If the students scored well, that was wonderful for them and if the students did not score well, too bad, and we went on with content that needed to be covered by the end of the year. Breaking down standards into meaningful targets that were useful to the students and myself rarely occurred. Formative assessment? I did not have a clue what that was either and how it could be any more useful than the summative assessments that I was already utilizing.
@@ -7132,7 +7237,7 @@ As a result of changing my assessment practices (what I assess, how I assess it,
 
 *Source :* Used with permission from Sara Poeppelman, high school science teacher, Lewis County Schools, Vanceburg, KY, 2011.
 
-### **Guideline 2: Report Achievement and Other Factors Separately**
+#### **Guideline 2: Report Achievement and Other Factors Separately**
 
 Once we have determined that academic grades are to be calculated and assigned for the purpose of communicating level of achievement on learning targets we have been teaching, we can examine other factors we may want to track, assess, and report.
 
@@ -7149,7 +7254,7 @@ The keys to assessment quality apply here just as they do with achievement: If w
 **OTHER FACTORS.** And so it is for all other factors we might wish to take into account in figuring final grades—attendance, work completion, turning work in on time, group participation, skills of cooperation, academic honesty, or any other valued habit or behavior. If we decide that factors beyond level of achievement are important to report, we must define them, communicate our expectations to students, decide what data to collect, then collect and report it separately. Admittedly this process is initially more time consuming than lowering grades, but if factors other than achievement are import to develop in students and to report out, we can see no other way to make meaning clear.
 We recommend Ken O'Connor's *A Repair Kit for Grading: 15 Fixes for Broken Grades* (O'Connor, 2011) for an in-depth treatment of how to address problems with habits and behaviors without using grades as rewards, deterrents, or punishments.
 
-### **Guideline 3: Reflect Only Current Level of Achievement in the Academic Grade**
+#### **Guideline 3: Reflect Only Current Level of Achievement in the Academic Grade**
 
 In a standards-based environment, grade reports must reflect our best measure of student achievement at the time they are assigned. If more recent information about student achievement shows a higher level of learning on a given content standard or learning target, then the grade should be based on the newer evidence. Averaging the new information with the old, outdated information has the effect of lowering the grade for students who had the farthest to come and did so. It provides an incorrect picture of student achievement at that point in time and can lead to ill-informed instructional and support decisions. It also reinforces in students the notion that it's better to already know than to learn. O'Connor (2011) reminds us it's not where a student starts on a given learning target that matters, but where the student finishes.
 
@@ -7157,11 +7262,11 @@ We can also think of formative and summative assessment information in this ligh
 
 The recommendation to base grades on the most current evidence of the student's level of achievement on the intended learning targets does not mean that only grades from the end of the marking period should figure into the final grade. For example, if we divide the learning targets for a social studies course into several equal segments each lasting about two weeks, we might give a summative assessment at the end of each segment. Because each summative assessment provides information on different learning targets and no content has been repeated, every summative assessment score represents the most current information on the targets covered.
 
-## **SUMMARIZING INFORMATION**
+### **SUMMARIZING INFORMATION**
 
 This process picks up where we left off in Chapter 9 . As you recall, we recommended that you first decide what information will be used summatively and what will be used formatively. We discussed systems that you can use to differentiate the two in your record book. Then we presented three record-keeping guidelines: (1) Organize entries by learning represented, (2) Track information about work habits and social skills separately, and (3) Record achievement information by raw score. By following the recommendations in Chapter 9 , your data will be organized so that you can easily convert them to a common scale, weight them as desired, and combine them to arrive at one overall number.
 
-### **Verify Accuracy of Data**
+#### **Verify Accuracy of Data**
 
 Before we go through those steps, however, it is a good idea to review your summative data for accuracy. Discard any inaccurate information from grading records. Do not include outdated information in your grade calculations. No one has yet developed an information management and communication system that can convert inaccurate information—misinformation about a student's achievement into an accurate grade. Chapters 1 through 8 offer the guidance you need to ensure that accuracy.
 
@@ -7172,7 +7277,7 @@ Before we go through those steps, however, it is a good idea to review your summ
 - Weight information as needed.
 - Combine information thoughtfully.
 
-### **Convert Entries to a Common Scale**
+#### **Convert Entries to a Common Scale**
 
 Once you have identified which information you will use, you will need to convert each score to a common scale. You may have recorded summative information in a variety of forms: raw scores, percentages, rubric scores, letters, and/or other evaluative symbols.
 
@@ -7182,7 +7287,7 @@ If you have rubric scores in the mix, you will need to follow an additional proc
 
 If you have letters or other symbols as summative data, you will need to go back to the underlying assessments and replace the letters or symbols with raw scores, percentages, or rubric scores.
 
-### **Weight Information as Needed**
+#### **Weight Information as Needed**
 
 If you wish to give greater weight to some assessment results than to others, you can accomplish this by multiplying those scores by a weighting factor. For instance, if one score is to count twice as much as others, the weighting factor for that score is 2. Simply multiply the score by two before moving on to the next step of combining information.
 
@@ -7190,7 +7295,7 @@ An additional consideration in applying weights to grade is the structure of the
 
 If you will be reporting in several categories, first apply weighting factors as desired for the data within each category. If, in addition, you must combine those grades or marks into a single summary grade, determine if and how the categories will be weighted.
 
-### **Combine Information Thoughtfully**
+#### **Combine Information Thoughtfully**
 
 Combine information from assessments into a final grade using the appropriate measure of central tendency—mean or median—for the type of data. ( Figure 10.4 provides definitions and examples of mean and median.) We traditionally combine individual pieces of achievement evidence into a final summary by calculating the mean. When data are consistent—that is, when they fall within a narrow score
 
@@ -7200,7 +7305,7 @@ range—the mean will yield an accurate representation of level of achievement. 
 
 Grades are frequently broken (inaccurate) when they result only from the calculation of the mean in contexts where extreme scores distort; they can be repaired by considering other measures of central tendency and using professional judgment. Thus we should think and talk not about the calculation but the *determination* of grades. (p. 93 )
 
-### **FAQ 10.2 Norm-Referenced Grading**
+ **FAQ 10.2 Norm-Referenced Grading**
 
 *Question:*
 *Is it ever okay to grade on a curve?* 
@@ -7222,7 +7327,7 @@ The transformation of rubric ratings into grades, like so much of the classroom 
 
 Note at the outset that these processes can be applied either in assigning a grade to (1) a summative assessment during the grading period that will later be combined with other evidence to feed into the determination of a final grade or (2) a "final exam" assessment that is the culminating demonstration of proficiency that the final grade will be based on.
 
-### **FAQ 10.3 Counting Rubric Levels as Points**
+ **FAQ 10.3 Counting Rubric Levels as Points**
 
 *Question:*
 *Why can't I just add up the rubric points and divide the total by the number of points possible to calculate a grade?* 
@@ -7240,11 +7345,11 @@ $$\begin{array}{rcl} \mathsf{4}/\mathsf{4} = \mathsf{100}\% = \mathsf{A} \\ \mat
 
 You may wonder why even a single point is given for the work described at the lowest level of a rubric. Once again, the reason is that it's not a point earned; it's a *label* (as are *novice and beginning*) for a set of statements that describes novice or weak performance.
 
-### **Average Ratings**
+#### **Average Ratings**
 
 For each student, calculate the average rating across the profile of scales within the rubric. The *average rating* is the total of the ratings a student received divided by the total number of ratings. What we're doing here is figuring out the typical rating by calculating an average. We want to know what the ratings tell us about how well, in general, a student performs. For grading purposes, use only the scores from work toward the end of the grading period to determine a grade for a given content
-
-| FIGURE 10.5 Logical Grade Conversion Table for Average Ratings |                             |                                  |  |  |  |
+**TABLE-Students Tracking Progress by Assignment**
+| FIGURE 10.5 Students Tracking Progress by Assignment |                             |                                  |  |  |  |
 |----------------------------------------------------------------|-----------------------------|----------------------------------|--|--|--|
 | Rubric Rating Average                                          | Logical Grade Conversion    | Logical Percentage Conversion    |  |  |  |
 | 3.5– 4.0                                                       | A                           | 95%                              |  |  |  |
@@ -7257,12 +7362,12 @@ standard because the later scores will be more representative of the student's c
 
 Look at the rubric and decide logically what range of average ratings would match to each grade or level of mastery. We recommend that you work with colleagues on this to make sure everyone agrees. Create a conversion table that stipulates the range for each grade. Use this table to determine the appropriate grade for each student. Figure 10.5 illustrates one way to convert *average ratings* from a four-point rubric into a summary grade and then into a percentage. (If you need to combine rubric scores with other kinds of assessment information, you will need the percentage information, as explained in the following section.)
 
-### **Pattern of Ratings**
+#### **Pattern of Ratings**
 
 The second option is to work with colleagues to fashion a means for converting profiles of ratings on each particular assessment into grades. First, for example, we decide that, to get an *A* , the preponderance of student work has to be at the highest level of ratings. So, we decide that at least 50 percent of the ratings must be 4 on a set of 4-point rubrics. From here, the team establishes the pattern of ratings needed for each of the other grades, creating a conversion table to be used consistently in assigning grades. Figure 10.6 illustrates one way to use the *pattern of ratings* option to create a conversion table for linking student scores to grades.
 
 You will notice in both of these conversion charts that the percentages are a somewhat simplified representation of the range of scores that each grade represents. When using or reporting percentages rather than grades, we recommend that you create a more precise equation table, such as that shown in Figure 10.7 . Note that the grade-to-percentage conversions in Figures 10.5, 10.6, and 10.7 are intended as examples. We encourage you to work with colleagues to devise conversions that match your expectations. These become the preset standards you can share with students and parents to help them understand how the numbers on individual summative assessments will be used to calculate a final grade.
-
+**TABLE-Logical Conversion Table for Patterns of Averages**
 | FIGURE 10.6 Logical Conversion Table for Patterns of Averages                  |                       |                            |  |  |
 |--------------------------------------------------------------------------------|-----------------------|----------------------------|--|--|
 | If the student's pattern of ratings is:                                        | The logical grade is: | The logical percentage is: |  |  |
@@ -7274,16 +7379,17 @@ You will notice in both of these conversion charts that the percentages are a so
 
  To set this up appropriately and apply it consistently, obviously, the underlying ratings need to provide an accurate reflection of the student's achievement and the conversion must be done consistently. This requires that each teacher possess sufficient knowledge of levels of quality represented in the rubric to assign scores accurately and consistently with other teachers.
 
-### **Combining Rubric Ratings with Other Assessment Information to Get a Final Grade**
+#### **Combining Rubric Ratings with Other Assessment Information to Get a Final Grade**
 
 To illustrate this straightforward four-step process, we'll use the scores of one student, Desmond.
 
 - **Step 1:** Use the logical conversion tables you have created to convert the rubric scores to a logical percentage. Let's say you have done that for Desmond's rubric scores and his logical percentage is 85 percent.
 - **Step 2:** For the "non-rubric" portion of the grade, compute one final percentage that represents the assessment information from other sources. Let's say you gave several selected response tests that each yielded a percent correct score. You have combined these percentages using the measure of central tendency that best fits the data and Desmond's resulting score is 93 percent.
 
+**TABLE-Grade to Percentage Conversion Table for a Four-level Rubric**
 | FIGURE 10.7 Grade to Percentage Conversion Table for a Four-level Rubric |                          |                                  |  |  |
 |--------------------------------------------------------------------------|--------------------------|----------------------------------|--|--|
-| Rubric Rating Average                                                    | Logical Grade Conversion | Logical Percentage Conversion |  |  |
+| Rubric Rating Average                                                    | Logical Grade Conversion | Logical Percentage Conversion    |  |  |
 | 3.9–4.0                                                                  | A                        | 99                               |  |  |
 | 3.7–3.8                                                                  | A                        | 95                               |  |  |
 | 3.5–3.6                                                                  | A                        | 91                               |  |  |
@@ -7316,7 +7422,7 @@ Desmond's combined final score is 88 percent.
 - **3.** Replace out-of-date evidence with more recent evidence . Keep in mind, however, that you still need a large enough sample of work to provide a stable estimate of achievement.
 - **4.** Be careful when combining rubric scores with percentage information to form a final grade. Decide how much weight the percentage and rating portions of the grade will get. Combine letter grades directly using these weights. Or use a decision rule to convert the resulting rubric grade back to a percentage and then combine the percentage with other percentage scores using your weighting scheme.
 
-## **REPORTING THE FINAL GRADE**
+### **REPORTING THE FINAL GRADE**
 
 Reporting the final percentage score on the report card has the benefit of preserving some detail about a student's level of achievement. But most districts require teachers to convert the academic achievement summary score to a letter or number grade or a proficiency scale.
 
@@ -7324,15 +7430,15 @@ Standards for setting cutoffs vary from district to district, school to school, 
 
 Although these differences cannot be eliminated, we can acknowledge the lack of precision they carry and work to ensure consistency in our own organizations. It is also important communicate to parents in commonsense terms the level of achievement represented by each of our report card symbols. For Example 10.1 shows a common rule for converting percentages to letter grades. You should have an agreed-on conversion rule that allows all teachers to translate summary numbers into your report card's symbols with consistency.
 
-### **Keep the Link to Learning Targets**
+#### **Keep the Link to Learning Targets**
 
  Beyond this, keep the big communication picture in mind as you think about reporting. We began by articulating a set of achievement expectations in the form of clear learning targets; that is, by specifying the things you will need and want to communicate about. We then carefully translated these standards into high- quality assessments capable of informing you about how well each student mastered each standard. We recommended keeping achievement records by learning target. Finally we discussed summarizing the evidence of learning across assessments to determine
 
-#### **For Example 10.1 Rule for Converting Percentages to Letter Grades**  A - 97–100% C - 73–76% A - 93–96% C - 70–72% A - 90–92% D - 67–69% B - 87–89% D - 63–66% B - 83–86% D - 60–62% B - 80–82% F - 59% and below C -77–79%
+ **For Example 10.1 Rule for Converting Percentages to Letter Grades**  A - 97–100% C - 73–76% A - 93–96% C - 70–72% A - 90–92% D - 67–69% B - 87–89% D - 63–66% B - 83–86% D - 60–62% B - 80–82% F - 59% and below C -77–79%
 
 a summary grade. But that grade isn't merely a summary of scores. It also is a summary of student success in mastering the underlying standards reflected in your assessments. For this reason and given the records kept, we strongly recommend that, whenever you report a grade, that report be accompanied by a listing of these standards, indicating which ones the recipient of the grade did and did not master. This link brings the reporting process full circle from expectations to achievements in very specific terms.
 
-### **FAQ 10.4 Proficiency-based Grading**
+ **FAQ 10.4 Proficiency-based Grading**
 
 *Question:*
 *We use proficiency-based grading and we mark each assignment with a level of proficiency. That is the data we keep in our record books. How do we average levels to come up with one overall level?* 
@@ -7342,15 +7448,15 @@ Consider keeping raw scores or percentages instead of proficiency levels on indi
 
 Making a rule to translate aggregations of proficiency levels into one "uberproficiency" level for the report card is problematic from an accuracy perspective, for the following reason. When you assign a proficiency level to each piece of evidence you will use for the summary report, you are making a subjective and perhaps arbitrary interpretation of each piece of evidence. Even if your judgments are consistent, a decision about proficiency based on one sample is likely to lead to an inaccurate conclusion. Instead, we would recommend that levels of proficiency be judged from a collection of work because such decisions benefit from a larger sample size.
 
-### **Make Modifications with Care for Special Needs Students**
+#### **Make Modifications with Care for Special Needs Students**
 
 Part of our responsibility and challenge in standards-based schools is to expose all students to an appropriate and rigorous curriculum. How we determine a final grade for students with special needs should reflect their individual progress toward the standards as specified in their individualized instructional plan (IEP) (Munk & Bursuck, 2003). For these students, as with all students, we need to make final grades criterion referenced, and have the grade indicate the level of learning attained relative to the learning goals documented in the IEP. In this context, report card grades should be accompanied by some narrative description or rating system that clearly communicates student progress toward the IEP goals (O'Connor, 2002). When such modified learning targets are the basis of grades, ensure this is clear to all parties and is incorporated into the IEP. A special needs student can receive an A for attainment of different learning targets than other students in the same classroom, if such targets are specified in advance through an IEP. We simply must be sure that everyone understands that either the learning targets have been modified or a specialized grading plan within the IEP is being applied (Brookhart, 2004).
 
-### **Decide Borderline Cases with Extra Evidence**
+#### **Decide Borderline Cases with Extra Evidence**
 
 In those instances when a student's summary score lies right on the borderline between two grades, we recommend that the decision about which way to go *not* be based on consideration of nonachievement factors such as effort, but on additional evidence of learning. Some teachers keep one assessment or assignment reflective of important learning in reserve to administer for such instances. Others review the record to determine how the student performed on some of the most important assessments. Others offer extra credit that provides additional evidence of learning. Whatever you do, base your judgment on the most current evidence of achievement you have.
 
-### **FAQ 10.5 Aptitude**
+ **FAQ 10.5 Aptitude**
 
 *Question:*
 
@@ -7363,7 +7469,7 @@ First, there is great debate in the fields of psychology and measurement about w
 
 The second reason for not adjusting the grading scale for aptitude is that it confuses the meaning of the grade. As with effort, when a teacher raises or lowers a grade based on any information other than achievement data, the grade becomes uninterpretable. It cannot stand alone as a communicator about student learning.
 
-### **Involve Students**
+#### **Involve Students**
 At any time during the grading period, be sure students know how their current level of achievement compares to the standards they are expected to master.
 
 Whenever students interpret their performance to be below what they want in their record of achievement, they can be given the opportunity to study more, learn more, and retake that assessment. This is especially crucial when the material in question is prerequisite for later learning. If the objective is to bring all students to appropriate levels of mastery of standards, anything we can do to keep students learning and wanting to succeed is worth doing.
@@ -7376,7 +7482,7 @@ Whenever students interpret their performance to be below what they want in thei
 - **5.** Summarize the achievement information into one score.
 - **6.** Translate the summary score into the report card symbol.
 
-## **SIX STEPS TO ACCURATE, FAIR, AND DEFENSIBLE REPORT CARD GRADES**
+### **SIX STEPS TO ACCURATE, FAIR, AND DEFENSIBLE REPORT CARD GRADES**
 
  To put the grading guidelines into practice and to obtain accurate, justifiable grades, we suggest following the six steps (also shown in Figure 10.9 ).
 
@@ -7387,13 +7493,14 @@ Whenever students interpret their performance to be below what they want in thei
 - **Step 5:** Summarize the achievement information into one score. Select a representative sample of most recent information for each learning target. Convert each score to a common scale, multiply any scores to be weighted by their weighting factor, and then apply the appropriate measure of central tendency to get one summary score.
 - **Step 6:** Translate the summary score into the symbol used on your report card using preset criterion-based standards rather than norm-referenced standards.
 
-## **RUBRIC TO EVALUATE GRADING PRACTICES**
+### **RUBRIC TO EVALUATE GRADING PRACTICES**
 
 Figure 10.10 presents a rubric showing each of the previous recommendations as a performance continuum that you can use to think about your own grading beliefs and practices. Instructions for using it to evaluate your own grading practices are found in Activity 10.5 at the end of this chapter.
 ![](_page_374_Picture_1.jpeg)
 ![](_page_375_Picture_1.jpeg)
 ![](_page_376_Picture_1.jpeg)
-## **Summary**
+
+### **Summary**
 
 We think at times that the pursuit of grades dominates the lives of far too many students, and that the focus on grades still adversely affects the environment of too many classrooms. However grades are used once they are given, we must be dedicated to ensuring that they communicate as clearly and accurately as possible when we create them. The issue is not whether something needs to be done about grades; the issue is what to do. The grading recommendations in this chapter reflect what we think grading practices should look like if they are to be accurate and have a chance of promoting learning.
 
@@ -7405,13 +7512,13 @@ targets for students and transform them into accurate assessments. Along the way
 
 This chapter has focused largely on assigning report card grades by subject in a traditional letter- or number-based system. Often parents expect, if not demand, this form of reporting, and yet they also value the specific information that can be provided through a standards-based reporting form (Guskey, 2002). We have established here that the purpose of grades is to communicate about student achievement. The next two chapters will explore other forms of communication. As you proceed, keep the goal of standardsbased education in mind: to teach, assess, improve, and communicate about student learning in relation to academic learning standards. We can focus less of our time on providing subject area grades and still accomplish our goal if we move toward the use of rich, descriptive performance standards that provide specific information about where the student is relative to each standard. In the chapters that follow, we will provide more detail about how to gather and communicate that detail. When we do it well, the payoff is worth it for us and for our students.
 
-## **CHAPTER 10ACTIVITIES**
+### **CHAPTER 10ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity appear in editable Microsoft Word format in the Chapter 10 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 10 Learning Targets**
+#### **Chapter 10 Learning Targets**
 
 At the conclusion of Chapter 10 you will know how to do the following:
 
@@ -7423,13 +7530,13 @@ At the conclusion of Chapter 10 you will know how to do the following:
 
 Activity 10.1 Keep a Reflective Journal Activity 10.2 Develop Solutions Other Than Grades Activity 10.3 Analyze Steps in Your Grading Process Activity 10.4 Revisit How You Convert Rubric Scores to Grades Activity 10.5 Evaluate Your Grading Practices Activity 10.6 Reflect on Your Own Learning Activity 10.7 Select Portfolio Artifacts
 
-### **Activity 10.1 Keep a Reflective Journal**
+##### **Activity 10.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 10 .
 
 Reflective Journal Form
 
-### **Activity 10.2 Develop Solutions Other than Grades**
+##### **Activity 10.2 Develop Solutions Other than Grades**
 
 After reading the descriptions of each grading guideline in the section, "Three Grading Guidelines," turn back to Chapter 9and reread the section, "Guideline 2: Track Information about Work Habits and Social Skills Separately." Work with a partner or your team to carry out the following activity.
 
@@ -7446,7 +7553,7 @@ After reading the descriptions of each grading guideline in the section, "Three 
 
 Develop Solutions Other Than Grades
 
-### **Activity 10.3 Analyze Steps in Your Grading Process**
+##### **Activity 10.3 Analyze Steps in Your Grading Process**
 
 After reading the section, "Six Steps to Accurate, Fair, and Defensible Report Card Grades," work independently, with a partner, or with your team to complete the following activity.
 
@@ -7454,7 +7561,7 @@ After reading the section, "Six Steps to Accurate, Fair, and Defensible Report C
 - **2.** Mark each step to indicate your level of satisfaction with it:
 	- -Works fine
 	- -Could be refined
-	- # -Needs major work or unsure what to do
+	- -Needs major work or unsure what to do
 - **3.** Compare your process to the one outlined in Figure 10.9 . Where does your practice align? Where does it diverge?
 - **4.** Revise your process as needed.
 - **5.** Use it for the next grading period. Keep track of how well it works for you.
@@ -7466,7 +7573,7 @@ After reading the section, "Six Steps to Accurate, Fair, and Defensible Report C
 
 Analyze Steps in Your Grading Process Compare to Steps in Report Card Grading
 
-### **Activity 10.4 Revisit How You Convert Rubric Scores to Grades**
+##### **Activity 10.4 Revisit How You Convert Rubric Scores to Grades**
 
 After reading the section, "Converting Rubric Scores to Grades," work independently, with a partner, or with your team to complete the following activity.
 
@@ -7477,7 +7584,7 @@ After reading the section, "Converting Rubric Scores to Grades," work independen
 
 none
 
-### **Activity 10.5 Evaluate Your Grading Practices**
+##### **Activity 10.5 Evaluate Your Grading Practices**
 
 Review the Rubric for Evaluating Grading Practices ( Figure 10.10 ). Work independently, with a partner, or with your team to complete the following activity. You will need your record book or access to your electronic grade reports.
 
@@ -7494,7 +7601,7 @@ Debrief Evaluating Your Grading Practices
 
 Grading Practices Evaluation Form
 
-### **Activity 10.6 Reflect on Your Own Learning**
+##### **Activity 10.6 Reflect on Your Own Learning**
 
 Review the Chapter 10learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -7502,7 +7609,7 @@ Review the Chapter 10learning targets and select one or more that represented ne
 
 Reflect on Chapter 10 Learning
 
-### **Activity 10.7 Select Portfolio Artifacts**
+##### **Activity 10.7 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifacts you have created that will illustrate your competence at the Chapter 10learning targets:
 
@@ -7518,7 +7625,7 @@ If you are keeping a reflective journal, you may want to include Chapter 10 's e
 
 Chapter 10 Portfolio Entry Cover Sheet
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 10 .1 Reflective Journal Form
 - 2. Activity 10.2 Develop Solutions Other than Grades
@@ -7532,7 +7639,7 @@ Chapter 10 Portfolio Entry Cover Sheet
 - 10. Activity 10.6 Reflect on Chapter 10 Learning
 - 11. Activity 10.7 Chapter 10 Portfolio Entry Cover Sheet
 
-# Chapter 12:  Conferences About and with Students
+## Chapter 12:  Conferences About and with Students
 
 *Conferences with students as participants arise from and amplify assessment for learning practices. They provide the opportunity for students to understand their own learning needs and share their progress with others.* 
 
@@ -7542,7 +7649,7 @@ To understand conference options, we can categorize them according to their purp
 
 In this chapter we will describe each conference option and how to conduct it successfully to strengthen as well as report about learning.
 
-## **Chapter 12 Learning Targets**
+### **Chapter 12 Learning Targets**
 
 At the conclusion of Chapter 12 you will know how to do the following:
 
@@ -7570,40 +7677,40 @@ Do grades communicate achievement accurately?
 **Key 5: Student Involvement**
 
 Do assessment practices meet students' information needs? Are learning targets clear to students? Will the assessment yield information that students can use to self-assess and set goals? Are students tracking and communicating their evolving learning?
-
-| Purpose      | Topic                                 | Focus                                                | Participants                             | Location  
-| Feedback     | Strengths and areas for improvement   | • Single work sample or small number of work samples | • Two students                           | School or home
-|              |                                       |                                                      | • Small group of students                |
-|              |                                       |                                                      | • Student and teacher                    |
-|              |                                       |                                                      | • Student and parent                     |
+**TABLE-Kinds of Conferences**
+| Purpose      | Topic                                 | Focus                                                | Participants                             | Location       |  
+| Feedback     | Strengths and areas for improvement   | • Single work sample or small number of work samples | • Two students                           | School or home |
+|              |                                       |                                                      | • Small group of students                |                |
+|              |                                       |                                                      | • Student and teacher                    |                |
+|              |                                       |                                                      | • Student and parent                     |                |
 | Goal setting | Long- or short-term achievement goals | • Single work sample or multiple work samples        | • Student and parent                     | School or home |
-|              |                                       | • Growth portfolio Achievement portfolio             | • Two students                           |
-|              |                                       |                                                      | • Student and teacher                    |
+|              |                                       | • Growth portfolio Achievement portfolio             | • Two students                           |                |
+|              |                                       |                                                      | • Student and teacher                    |                |
 | Progress     | Growth over time                      | • Two or more work samples ("before & after")        | • Student, teacher, and parent           | School or home |
-|              |                                       | • Growth portfolio                                   | • Student and parent or significant adult|
-|              |                                       | • Project portfolio                                  | • Student and teacher                    |
-|              |                                       |                                                      | • Two or more students                   |
+|              |                                       | • Growth portfolio                                   | • Student and parent or significant adult|                |
+|              |                                       | • Project portfolio                                  | • Student and teacher                    |                |
+|              |                                       |                                                      | • Two or more students                   |                |
 |              | Level of achievement                  | • Achievement portfolio                              | • Student, teacher, and parent           | School or home |
-|              |                                       | • Grade reports                                      | • Student and parent or significant adult|
-|              |                                       | • Other teacher or student maintained records        | • Teacher and parent                     |
+|              |                                       | • Grade reports                                      | • Student and parent or significant adult|                |
+|              |                                       | • Other teacher or student maintained records        | • Teacher and parent                     |                |
 | Showcase     | Demonstrate competence or mastery of  | • Competence portfolio                               | • Student, teacher, and parent           | School         |
-|              | selected learning targets             | • Project portfolio                                  | • Student and parent or significant adult|
-|              |                                       | • Celebration portfolio                              | • Student, teacher, significant adults,  | 
-|              |                                       |                                                      |   community members                      |     
+|              | selected learning targets             | • Project portfolio                                  | • Student and parent or significant adult|                |
+|              |                                       | • Celebration portfolio                              | • Student, teacher, significant adults,  |                |
+|              |                                       |                                                      |   community members                      |                |   
 | Intervention | Area of concern                       | • Body of evidence illustrating a problem or issue to| • Teacher and parent                     | School         |
-|              |                                       |   resolve                                            | • Teacher and student                    |
-|              |                                       |                                                      | • Teacher, parent, and student           |
-|              |                                       |                                                      | • Teacher and other staff members        |
-|              |                                       |                                                      | • Teacher, other staff members, and parent|
-|              |                                       |                                                      | • Teacher, other staff members, parent, and student | 
+|              |                                       |   resolve                                            | • Teacher and student                    |                |
+|              |                                       |                                                      | • Teacher, parent, and student           |                |
+|              |                                       |                                                      | • Teacher and other staff members        |                |
+|              |                                       |                                                      | • Teacher, other staff members, and parent|               |
+|              |                                       |                                                      | • Teacher, other staff members, parent, and student |     | 
 
-## **THE FEEDBACK CONFERENCE**
+### **THE FEEDBACK CONFERENCE**
 
 In a *feedback* conference, students receive another's opinion about the strengths and weaknesses of their work. The purpose is to offer information that will provide them insight so they can continue to improve their work. A secondary purpose is to model the kind of thinking we want them to do when they self-assess. A feedback conference usually involves two people—student and responder. Although we most often think of teachers as the people giving the feedback, students who have had practice in discussing the quality of anonymous work can become quite good at offering useful insights into one another's work. For example, when students meet in writing groups, the purpose of the discussion is to offer formative feedback to each member. In any context, students can confer with a partner, or with a small group.
 
 Feedback conferences are usually conducted at school, but students may also engage in a feedback conference with a parent at home. At school, these conferences can be scheduled so that all students are receiving or offering feedback at the same time, or students may be encouraged to schedule a conference with a partner whenever they need it or within a set time frame (as in the case of a project). Many teachers find it effective to allow students to choose whether they receive feedback from them or from a peer.
 
-### **Keys to Success**
+#### **Keys to Success**
 
 First, remember the characteristics of effective feedback introduced in Chapter 2 (Chappuis, 2009):
 
@@ -7615,12 +7722,11 @@ First, remember the characteristics of effective feedback introduced in Chapter 
 
 Prior to the feedback conference, make sure students understand the learning targets at the focus of the discussion (Assessment *for* Learning Strategy 1) and give students practice with assessing work representing the learning targets they are to master (Assessment *for* Learning Strategy 2). You might also ask students to think about the strengths and weaknesses of their work in preparation for attending a feedback conference, which can make it take less time. Figure 12.3 shows a form that students can use to record their prior thinking and also make note of the feedback they receive from you or a peer.
 
-### Conferences About and with Students
-
+#### Conferences About and with Students
+**TABLE-Feedback Conference Form**
 |  |  | FIGURE 12.3 Feedback Conference Form |
 |--|--|--------------------------------------|
 |--|--|--------------------------------------|
-
 | Name:                             | Date:           |  |
 |-----------------------------------|-----------------|--|
 | Assignment:                       | Feedback Focus: |  |
@@ -7644,13 +7750,13 @@ Prior to the feedback conference, make sure students understand the learning tar
 
  (For more about feedback and feedback conference options, see Chappuis, 2009, Chapter 3 .)
 
-## **THE GOAL-SETTING CONFERENCE**
+### **THE GOAL-SETTING CONFERENCE**
 
 As we have seen throughout the book, students can set goals based on a single piece of work or on a collection of evidence. The purpose of a goal-setting conference generally is to guide them to the next steps in their learning within the framework of the content standards. The conference itself can be formal or informal; you can set aside a time when all students participate in a goal-setting conference; they can conduct one with a parent at home, at school with you or with a peer; it can be a part of an ongoing process that students engage in when they reach certain checkpoints in their learning; or it can be up to the student to select when it will occur. Students can set short-term or long-term goals. Goal setting is also often a part of other types of conferences—feedback, progress, and intervention conferences.
 
 Not every student needs one-to-one guidance in setting specific and challen ging goals. Once they are clear about the intended learning and know where they are now in relation to that learning, you can model the process and explain what they are to do at each step. Many students will be able to proceed on their own from here. Others will benefit from individual guidance. Students may be able to confer with each other or with their parents, or they may need you to help them, especially with their action plan.
 
-### **Keys to Success**
+#### **Keys to Success**
 
 Prior to the conference, students (or the teacher, if needed) should select one or more pieces of work that clearly indicate present status in relation to desired status. That requires that the learning targets students are working toward are clear to them and they understand what level of achievement their work shows. Students may be examining a single piece of work or selecting several samples from a working file or a growth portfolio, as described in Chapter 11 .
 
@@ -7718,25 +7824,25 @@ Watch for students whose plan consists only of "Do my homework." Homework comple
 
 **Ensuring Student Ownership.** To make the process instructionally beneficial, let the student do as much of the talking and puzzling through the steps as possible. Remember, the student will need to understand three things: what the intended learning is, where she is now with respect to the intended learning, and what her options are for closing the gap. You can intervene as needed with questions or prompts, but try not to do the work for her. The person who sets the goals owns them, and if you own the goal, the student won't be doing much of the work.
 
-## **THE PROGRESS CONFERENCE**
+### **THE PROGRESS CONFERENCE**
 
 A progress conference can focus on growth over time or on level of achievement. It can be conducted during school, after school, or at home. Students, parents, and teachers can all take part or students may conduct them without teacher participation. Several of the portfolios described in Chapter 11 can serve as the basis for the progress conference: project, growth, or achievement. You can also use the "Before" and "After" evidence and other artifacts from goal-setting conferences as a point of discussion in a progress conference.
 
-### **Focusing on Growth over Time**
+#### **Focusing on Growth over Time**
 
 This is a simple, narrowly focused conference topic, generally conducted between two people. Struggling learners especially benefit from noticing that they have been successful in achieving a short-term goal in a short period of time. The conference can take place with a parent or other adult at home, with another student at school, or with you or another staff member at school. You can specify the audience or you can let students choose who they wish to share with. Either the project or the growth portfolio work well to ground the discussion with evidence.
 
-### **Focusing on Achievement Status**
+#### **Focusing on Achievement Status**
 
 This type of progress conference focuses on a student's current level of learning. This is generally the type of parent-teacher conference scheduled at the end of a grading period to elaborate on information from the report card. When the student is present, these conferences are referred to as "student-involved" or "student-led" conferences. Because of their effectiveness in creating and sustaining student motivation, we believe that progress conferences focusing on achievement should involve students.
 
 This type of conference is not limited to the end of a grading period: it can happen any time you or your students want or need to share information about their learning status. Any of the portfolios described in Chapter 11 can be used during these conferences. However, the growth, project, and/or achievement portfolios are the ones most frequently used to substantiate the discussion. If students have evidence of goal setting and attainment, you may want to include that, too.
 
-### **Identifying Participants**
+#### **Identifying Participants**
 
 Conference participants can vary to suit the topics and information needs. The structure generally takes one of two forms: a *two-way conference* or a *three-way conference* . In a two-way conference, the student meets with another student, the teacher, a parent, or another significant adult. In a three-way conference, participants are the student, the teacher, and a parent or significant adult. For many students and parents, it is a novel idea to have the student present during a conversation about the student's learning. Some initial preparation is required to make two-way and three-way student-involved conferences run smoothly.
 
-### **Preparing the Students**
+#### **Preparing the Students**
 
 When the focus of the conference is to demonstrate growth over time, help students prepare by guiding their choice of artifacts to use as evidence of improvement. Portfolios and working folders come in handy here, as it can be quite powerful for students to assemble work samples showing a clear "before" and "after" picture of their learning. (Refer to Chapter 11 for more information on growth portfolios and working folders.) Students also should be prepared to explain the learning target or targets, talk briefly about what they did to improve, and summarize what they can do now that they couldn't do before.
 
@@ -7744,10 +7850,10 @@ Figure 12.4 shows a form that can be used both while preparing for and conductin
 
 When the focus of the conference is to provide an overview of the student's current achievement level, help students prepare by ensuring they have a clear understanding of the learning targets and work samples that show what they have learned. They must be able to discuss strengths, areas needing improvement or areas of challenge, and goals they have set for themselves. They will need time to rehearse the conference with others in the classroom.
 
-### **Preparing the Parents or Other Adults**
+#### **Preparing the Parents or Other Adults**
 
 When the conference will involve parents or other significant adults, we recommend that you set a conference agenda together with students. Students, if they are able to,
-
+**TABLE-Form for Demonstration of Growth Conference**
 | FIGURE 12.4 Form for Demonstration of Growth Conference |       |
 |---------------------------------------------------------|-------|
 | Name:                                                   | Date: |
@@ -7768,15 +7874,15 @@ can write the invitation to parents and/or other participants informing them of 
 
 When the format is a three-way conference, especially when it replaces the traditional parent-teacher conference, as a part of your explanation to parents, we recommend that you offer them the option of scheduling an additional meeting, without the student present, to discuss any concerns that they may not want to raise in the threeway setting.
 
-### **Conducting a Two-Way Conference**
+#### **Conducting a Two-Way Conference**
 
 You can schedule several two-way (student and parents) conferences at the same time throughout the day. Your role is to be available to clarify information as needed. Before the conference begins, each student introduces their parents to you. Then they all go to the conference area (for example, students' desks or tables set up for that purpose). Students begin by sharing the conference agenda with their parents. They then explain the learning targets and show samples of their work illustrating growth over time, level of achievement, or evidence of having met goals—whatever the topic of the conference is. Parents listen carefully, ask clarifying questions, and offer comments about students' work and learning. Students may have already set goals and created action plans for future work, which they can discuss at this time, or students and parents may do that together as a part of the conference.
 
-### **Conducting a Three-Way Conference**
+#### **Conducting a Three-Way Conference**
 
 The three-way conference is similar to the two-way conference, in that students introduce their parents to you and begin the conference by sharing the agenda. It differs in that, because you are a participant, you schedule only one at a time. Students explain the learning targets and proceed as described previously. The parents' role is also much the same. Your role as teacher is to help students clarify their comments, if needed, and to add to their descriptions of strengths and areas needing improvement, again if needed. We recommend that you end each conference with a summary of the student's strengths and positive contributions to the class.
 
-### **Followup**
+#### **Followup**
 
 It is important to find out how the experience went for all involved. Debriefing the conference can be as simple as asking students to complete a conference evaluation form, such as the one shown in Figure 12.5 , reading the comments from participants, and discussing responses with the class as a whole.
 
@@ -7792,29 +7898,29 @@ You will also want to offer parents and other participants in the conference an 
 
 one shown in Figure 12.5 available for them to complete. In rare instances, you may have to address a less-than-positive outcome for a student or a parent, in which case, you may want to schedule a followup conference.
 
-## **THE SHOWCASE CONFERENCE**
+### **THE SHOWCASE CONFERENCE**
 
 In this conference, the purpose is to demonstrate mastery of or competence on predetermined learning targets. Sometimes is it also used to share the celebration portfolio, as described in Chapter 11 . Participants can include the student and one or more of the following: another student, parent, teacher, other significant adult, or another staff member at the school. Generally, these conferences take place at school. In a formal showcase conference focused on competence or mastery, the student meets with a group of any number of adults, from parents and significant adults to community members.
 
-### **Preparing the Students**
+#### **Preparing the Students**
 
 When the purpose is to demonstrate mastery or competence, help students prepare by ensuring they have a clear understanding of the learning targets and work samples that support the assertion of mastery or competence. Then guide them in preparing explanations of how their evidence supports their claim. The explanation should refer directly to the standards of quality you are using to define mastery or competence. They will need time to rehearse presenting their evidence and explanation with other students.
 
-### **Conducting a Showcase Conference**
+#### **Conducting a Showcase Conference**
 
 The student's role in a showcase conference is to share the agenda with the participants, explain the learning targets that are the focus of the achievement, and present and discuss how the work samples presented illustrate competence on specified learning targets. The student also answers participants' questions. The participants in a showcase conference listen carefully, ask questions, and make comments about the work. Your role is to be prepared to facilitate, encourage, and clarify as needed.
 
-### **Followup**
+#### **Followup**
 
 As with previous conference formats, conducting followup is key to their success. We recommend that all participants, including students, complete a conference evaluation form (see Figure 12.5 ) so that you can obtain information about what worked well and what didn't (if anything), identify any problems you need to deal with, and gather ideas for what you might do next time. Summarize and share comments with students, parents, and any other participants. Also, give students the opportunity to debrief the experience as a group.
 
-## **THE INTERVENTION CONFERENCE**
+### **THE INTERVENTION CONFERENCE**
 
 Planning an intervention with others can occur any time a student is having difficulty. As a teacher, you meet with parents to discuss a problem with behavior, work habits, or achievement and make a plan for improvement. You meet with other teachers and specialists when a student's work is significantly above or below expectations to modify instruction or to recommend placement in a specialized program. Generally, the student is not present in these conferences, although in some cases, especially the parent-teacher discussion of a problem, the student's perspective and participation can help you craft a solution.
 
 Central to the effectiveness of these conferences is the quality of records you keep. This context requires separate records for level of achievement, work habits, effort, attendance, and the like, as well as records that allow you to determine the student's strengths and weaknesses relative to the learning targets to be mastered. With such records, you are able to pinpoint problems and participate in recommending suitable solutions. Without them, you may lack credible data from which to draw conclusions about the best course of action.
 
-## **Summary**
+### **Summary**
 
 In the majority of instances, conferences about students can include students to the benefit of all involved. They can participate in and even lead them, but only with the proper preparation throughout the year. To comment accurately and in detail about their work, students must have been involved all along in their learning and in assessment; they must be prepared to discuss what the intended learning is, where they are now with respect to it, and what they might do next to continue as learners.
 
@@ -7824,13 +7930,13 @@ involved, and what followup is needed. In addition, we have explained what happe
 
 We encourage you to select carefully from the conference options available to meet your needs and the information needs of parents, but most especially to think about how students can be involved in conferences to take responsibility for their learning and to show what they have accomplished.
 
-## **CHAPTER 12ACTIVITIES**
+### **CHAPTER 12ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity appear in editable Microsoft Word format in the Chapter 12 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 12 Learning Targets**
+#### **Chapter 12 Learning Targets**
 
 At the conclusion of Chapter 12 you will know how to do the following:
 
@@ -7840,7 +7946,7 @@ At the conclusion of Chapter 12 you will know how to do the following:
 
 Activity 12.1 Keep a Reflective Journal Activity 12.2 Conduct and Debrief a Feedback Conference Activity 12.3 Conduct and Debrief a Goal-setting Conference Activity 12.4 Organize a Student-led Conference Activity 12.5 Reflect on Your Own Learning Activity 12.6 Select Portfolio Artifacts Activity 12.7 Stage a Share Fair
 
-### ** Activity 12.1 Keep a Reflective Journal**
+##### ** Activity 12.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 12 .
 
@@ -7848,7 +7954,7 @@ Keep a record of your thoughts, questions, and any implementation activities you
 
 Reflective Journal Form
 
-### **  Activity 12.2 Conduct and Debrief a Feedback Conference**
+##### **  Activity 12.2 Conduct and Debrief a Feedback Conference**
 
 After reading the section, "The Feedback Conference," work independently, with a partner, or with your team to complete this activity.
 
@@ -7875,7 +7981,7 @@ Conference Evaluation Form
 
 Stars and Stairs Form
 
-### ** Activity 12.3 Conduct and Debrief a Goal-setting Conference**
+##### ** Activity 12.3 Conduct and Debrief a Goal-setting Conference**
 
 After reading the section, "The Goal-setting Conference," work independently, with a partner, or with your team to complete this activity.
 
@@ -7891,7 +7997,7 @@ Goal Frames
 
 Conference Evaluation Form
 
-### ** Activity 12.4 Organize a Student-led Conference**
+##### ** Activity 12.4 Organize a Student-led Conference**
 
 After reading the section, "The Progress Conference," work independently, with a partner, or with your team to complete this activity.
 
@@ -7909,13 +8015,13 @@ Form for Demonstration of Growth Conference
 
 ![](_page_402_Picture_12.jpeg)
 
-**Activity 12.5 Reflect on Your Own Learning**
+##### **Activity 12.5 Reflect on Your Own Learning**
 
 Review the Chapter 12learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
 Reflect on Chapter 12 Learning
 
-### ** Activity 12.6 Select Portfolio Artifacts**
+##### ** Activity 12.6 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifacts you have created that will illustrate your competence at the Chapter 12learning targets:
 
@@ -7927,7 +8033,7 @@ If you are keeping a reflective journal, you may want to include Chapter 12 's e
 
 Chapter 12 Portfolio Entry Cover Sheet
 
-### ** Activity 12.7 Stage a Share Fair**
+##### ** Activity 12.7 Stage a Share Fair**
 
 Your learning team can plan a "share fair" to let others know what you have been doing in your classrooms and team meetings throughout the study of this book. The success of this activity depends on having kept a classroom assessment portfolio and having completed Activity 11.5, "Review Your Own Classroom Assessment Portfolio." Your audience can be other learning teams or colleagues who are not participating in this study. Both options are explained here.
 
@@ -7951,7 +8057,7 @@ Your learning team can plan a "share fair" to let others know what you have been
 
 ![](_page_405_Picture_4.jpeg)
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 12 .1 Reflective Journal Form
 - 2. Activity 12.2 Feedback Conference Form
@@ -7966,7 +8072,7 @@ Your learning team can plan a "share fair" to let others know what you have been
 - 11. Activity 12.5 Reflect on Chapter 12 Learning
 - 12. Activity 12.6 Chapter 12 Portfolio Entry Cover Sheet
 
-# Chapter 11: Portfolios
+## Chapter 11: Portfolios
 From Chapter 11 of *Strategies Classroom Assessment for Student Learning: Doing It Right – Using It Well*, Second Edition. Jan Chappuis, Rick Stiggins, Steve Chappuis, Judith Arter. Copyright © 2012 by Pearson Education. All rights reserved.
 
 *We need a more robust display of evidence than a collection of grades can provide to tell the full story of student achievement and of their journey toward competence. More importantly, so do students.* 
@@ -7979,7 +8085,7 @@ Portfolios can tell lots of different stories. The keys to effective and efficie
 
 Chapter 11 addresses the shaded portions of Figure 11.1 . Figure 11.2 summarizes the portfolio decisions we will address.
 
-## **Chapter 11 Learning Targets**
+### **Chapter 11 Learning Targets**
 
 At the end of Chapter 11 , you will know how to do the following:
 
@@ -8022,34 +8128,35 @@ Do assessment practices meet students' information needs? Are learning targets c
 - **6.** When and with whom will we share the portfolios?
 - **7.** How will we organize the materials?
 
-## **KINDS OF PORTFOLIOS—FOCUS ON** *PURPOSE*
+### **KINDS OF PORTFOLIOS—FOCUS ON** *PURPOSE*
 
 As a collection of evidence, the portfolio itself is only an organizing tool. The *artifacts* the individual items—in an artist's, an author's, or your own assessment portfolio require more than placement in a folder to hang together. The portfolio story, like all other stories, needs a theme to guide the selection of ingredients.
 
 The purpose of a portfolio is essentially the theme of the story it is designed to tell. In this section, we will look at five basic purposes for portfolios: growth, project documentation, achievement, competence, and celebration ( Figure 11.3 ). After choosing the purpose that fits your context best, you will be in a position to make logical decisions about artifacts to select, student commentary to include, and options for sharing the contents with others.
 
-### **Growth Portfolios**
+#### **Growth Portfolios**
 
 *Growth portfolios* show progress toward competence on one or more learning targets. They document increasing levels of achievement. Students select evidence related to a given learning target at two or more points in time and their annotations explain the level of achievement each artifact represents. Each selection may represent best work as a point in time or typical work. The sampling challenge is to ensure that the samples chosen really do represent best *or* typical work, and not anomalous work from which to judge growth (e.g., selecting a piece of poor quality at the beginning that underrepresents the student's true level of achievement at that time). The student writes a self-reflection to summarize growth: "Here's how far I've come and here's what I know and can do now that I couldn't do before" or "I used to . . , but now I . . ."
 
-### **Project Portfolios**
+#### **Project Portfolios**
 
 *Project portfolios* are, as the name suggests, focused on the work from an individual project. Their purpose is to document the steps taken, often to show evidence of having satisfactorily completed intermediary steps along the way to the finished product. Sometimes their purpose is to show competence, such as with writing processes or scientific processes. They also can document such things as time management capabilities.
 
 Artifacts are chosen to provide evidence suited to the project to be documented. In the case of a research paper, students might show their progression of work from initial question to finished product, including those pieces of evidence that best illustrate the major steps they took. Each piece of evidence is accompanied by an explanation of what step or steps it is intended to show and how it does that. Students may write a comprehensive "process paper" or they may annotate each artifact. In either case, students will learn more from the process and remember it better if they also write a reflection on what they learned from completing the steps involved in the project.
 
-### **Achievement Portfolios**
+#### **Achievement Portfolios**
 
 *Achievement portfolios* document the level of student achievement at a point in time. They are comprised of best, most recent work organized by the learning target each represents. In the case of achievement portfolios, it is important to attend to the number of samples collected. Certain learning targets will call for multiple samples to demonstrate level of achievement while other achievement targets may need only one. Student annotations refer to the learning target and level of competence each sample shows. These are often used as the basis for discussion and goal setting at conference time.
 
-### **Competence Portfolios**
+#### **Competence Portfolios**
 
 *Competence portfolios* offer evidence in support of a claim to have attained an acceptable or exemplary level of achievement. They sometimes take the form of "exhibition of mastery" portfolios or "school-to-work" portfolios. As with achievement portfolios, competence portfolios require that we attend to sampling issues. It is crucial to their success to determine in advance the number of pieces of evidence needed to support an assertion of competence for each learning target addressed. We want to show that a high level of achievement has been sustained and is not just the result of chance.
 
-### **Celebration Portfolios**
+#### **Celebration Portfolios**
 
 *Celebration portfolios* give students the opportunity to decide what accomplishments or achievement they are most proud of. In this case, students decide what to put in and why, and sampling is not an issue. The elementary teacher may choose to leave the subject of the celebration open ended—"anything you're proud of"—or focus it more
 
+**TABLE-Kinds of Portfolios**
 | FIGURE 11.3 Kinds of Portfolios |                                                                                   |                                                                        |
 |---------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Type of Portfolio               | Purpose                                                                           | Artifacts to Collect                                                   |  
@@ -8063,11 +8170,11 @@ Artifacts are chosen to provide evidence suited to the project to be documented.
 
 narrowly—"your work in science" or "things that show you are a reader." Secondary teachers using celebration portfolios generally narrow the focus to some aspect of the subject they teach.
 
-### **Working Folders**
+#### **Working Folders**
 
 *Working folders* are not portfolios. They function as holding bins, sometimes for every scrap of paper related to a project, sometimes as an idea "seed bed," sometimes as a collection of works in progress, and other times as an undifferentiated collection of finished pieces. Working folders are often used as the place to go to review work that might be included in the portfolio, the collection of all possible artifacts from which to make selections. Portfolios serving more than one purpose can be developed from a single working folder. Similarly, the same piece of student work can be selected for portfolios having different purposes.
 
-## **PORTFOLIO CONTENTS—FOCUS ON** *LEARNING TARGETS*
+### **PORTFOLIO CONTENTS—FOCUS ON** *LEARNING TARGETS*
 
 What goes into a portfolio? All of a student's work? Only the best? "Before" and "after" samples? Whatever the student selects? Artifact selection is first governed by the purpose. As we saw in the previous section, different portfolios require different artifacts to tell their stories.
 
@@ -8075,7 +8182,7 @@ Although portfolios lend themselves naturally to artifacts created by performanc
 
 Contents can reflect a single learning target, a series of learning targets, or all learning targets in a given subject. They can also reflect learning targets that cross subject areas. For example, a middle school portfolio project may require students to demonstrate their achievement of research skills in English, social studies, and science.
 
-### **Artifact Selection**
+#### **Artifact Selection**
 
 The artifacts in a portfolio should not consist simply as proof of direction following, as when the only instructions students receive are to include three samples from September, three samples from October, and three samples from November. They must be aimed at telling a story about specific, intended learning. It might seem to be a simple point, but it bears emphasizing: Clearly identify in advance the learning targets about which the portfolio is intended to communicate. *Do not skip this step* . Much portfolio chaos can be avoided entirely right here. You have identified the purpose (to document project work, growth, achievement, or competence, or to celebrate), and now you must identify what learning targets are the appropriate focus of the examination of growth, project work, achievement, competence, or celebration.
 
@@ -8095,8 +8202,8 @@ For celebration portfolios, almost anything goes. The value in them is that stud
 
 When students participate in assembling the portfolio, reflect on what the evidence says, and prepare to share, they become more invested in the process and the outcome. Inviting students to help determine what will go into the portfolio offers them an opportunity to practice thinking about what constitutes evidence in a given context. Help them think through the criteria for the selections they will be making—you may also want to engage them in the same kind of thinking you had to do about purpose and learning targets. To the extent that your students are able to do it (and even young
 
+**TABLE-Who Decides?**
 | FIGURE 11.4 Who Decides?     |                                                
-
 | The teacher generally decides on the kind of portfolio to use. Either the teacher, the students, or both make the rest of the decisions.                           |  
 | Decision                                      | Project               | Growth            | Achievement           | Competence             | Celebration           |
 | Learning Target(s)                            | Teacher or both       | Teacher or both   | Teacher or both       | Teacher                | Student or both       |
@@ -8108,7 +8215,7 @@ When students participate in assembling the portfolio, reflect on what the evide
 
 ones can complete much of this), let the majority of work shift from you to them, where the ownership belongs. Figure 11.4 summarizes the extent to which teachers and students can make various decisions for each kind of portfolio.
 
-### **Work Sample Annotations**
+#### **Work Sample Annotations**
 
 If a portfolio's contents consist solely of samples of student work, no matter who collects them, it will not function effectively either as a communication tool or as an enhancement to learning. It can be an awkward experience for the student, parent, and teacher to engage in a conference where the student opens up a folder and says "Here is my social studies work," with nothing else to do but flip through pages of assignments, projects, and tests. More thought on the student's part is needed to bring the story to life and to be the catalyst for increased achievement.
 
@@ -8122,11 +8229,11 @@ An unstructured form of annotation is the "pause and think" comment. Students us
 
 Annotations can also take the form of statements of the learning target each artifact represents, along with an explanation of how this artifact demonstrates achievement. ("I can summarize stories. I have included the biggest events and main characters. I have left out the details. I have put things in the right order and used my own words.")
 
-Another form of annotation consists of student self-assessment against established criteria. For growth and achievement portfolios, students can point out features of the work that match phrases in the criteria and draw conclusions about level of quality, strengths, and areas for improvement. For competence portfolios, students can explain why a particular artifact constitutes proof of proficiency, showing how it meets established criteria. ("This work is an example of level \_\_\_\_\_\_\_\_\_ on the \_\_\_\_\_\_\_\_ criteria because it \_\_\_\_\_\_\_\_\_\_.")
+Another form of annotation consists of student self-assessment against established criteria. For growth and achievement portfolios, students can point out features of the work that match phrases in the criteria and draw conclusions about level of quality, strengths, and areas for improvement. For competence portfolios, students can explain why a particular artifact constitutes proof of proficiency, showing how it meets established criteria. ("This work is an example of level _____________\_\_\_ on the _____________\_\_ criteria because it __________________________.")
 
 Frequently, annotations are written on a cover sheet. For Example 11.1 shows two versions of a portfolio entry cover sheet.
 
-### **Student Self-reflection**
+#### **Student Self-reflection**
 
 Portfolios also offer an opportunity for student self-reflection. It can be tempting to pass over having students reflect on what the portfolio as a whole means to them. But, if we pull up here, we have stopped just short of increased learning.
 
@@ -8134,6 +8241,7 @@ Self-reflection is somewhat different from the self-assessment students may have
 
 If students have not done reflective thinking before—open-ended, who-am-I-asa-learner thinking—be prepared to devote a little class time to practicing. Figure 11.5 offers prompts to stimulate self-reflection. Choose one, or create your own, explain the task, model it, let students discuss it, then give them time to try it out. Let volunteers
 
+**TABLE-Portfolio entry cover sheets FORM A**
 | For Example 11.1                                   |                                               |  |
 |----------------------------------------------------|-----------------------------------------------|--|
 | Portfolio Entry Cover Sheets                       |                                               |  |
@@ -8143,9 +8251,7 @@ If students have not done reflective thinking before—open-ended, who-am-I-asa-
 | What this selection illustrates about my learning: |                                               |  |
 | Why I chose this selection:                        |                                               |  |
 |                                                    |                                               |  |
-
-### **(Form B)**
-
+**TABLE-Portfolio entry cover sheets FORM B**
 | Date: ______________________                               | Name of Assignment: _____________________ |  |
 |------------------------------------------------------------|-------------------------------------------|--|
 | What this shows I am good at /have learned/know how to do: |                                           |  |
@@ -8159,6 +8265,7 @@ If students have not done reflective thinking before—open-ended, who-am-I-asa-
 
 share their self-reflections and ask them what doing this has taught them. After they know what is required in this kind of thinking, self-reflection makes a good homework assignment, especially if students discuss their thoughts with their parents before, during, or after writing.
 
+**TABLE-Prompts to Stimulate Self-reflection**
 | FIGURE 11.5 Prompts to Stimulate Self-reflection |                                                                                                                        
 | Reflect on                | Prompts   |                                                                                                                                    |
 | Growth                    | I have become better at ____.                                                                                                                  |
@@ -8205,12 +8312,12 @@ Specifi c and challenging goals include the following key elements:
 
 *Source:* Reprinted from *Seven Strategies of Assessment* for *Learning* (p. 124), by J. Chappuis, 2009, Upper Saddle River, NJ: Pearson Education. Reprinted by permission.
 
-### **Goal Setting**
+#### **Goal Setting**
 A good strategy for establishing an "I can do it" mindset toward learning is for students to show themselves and others that they are accomplishing goals. In one form of goal setting, the student's annotation for each artifact includes an area or learning target to work on, based on analysis of the artifact's strengths and weaknesses. In another form, students set goals after reviewing the whole portfolio.
 
 Goals that have the greatest impact on achievement are specific—they identify the intended learning, describe the current status, and outline a plan of action. Figure 11.6 offers a formula for creating specific and challenging goals most likely to lead to further learning. (For a more in-depth treatment of self-assessment, self-reflection, and goal setting, see Chappuis, 2009, Chapters 4 and 7 .)
 
-## **SHARING OPTIONS**
+### **SHARING OPTIONS**
 
 We determine the audience for a portfolio by thinking about the story it has to tell. Who might be interested in this story? Audiences for portfolio sharing include parents, other students, teachers, the principal, central office staff, community members, grandparents, friends, businesses, review committees, and potential employers. Student-involved conferences often rely on portfolios to focus or augment the discussion.
 
@@ -8218,15 +8325,15 @@ The audience for a portfolio can also be its creator. After assembling your own 
 
 as learners, as well as increased motivation to keep working. See Chapter 12 for guidance on how to plan for and conduct portfolio-based conversations.
 
-## **KEYS TO SUCCESSFUL USE**
+### **KEYS TO SUCCESSFUL USE**
 
 We offer a few reminders and suggestions for effectively implementing portfolios, related to four keys to success: ensuring accuracy, keeping track of evidence, investing time up front, and making the portfolio experience safe for students.
 
-### **1. Ensure Accuracy of the Evidence**
+#### **1. Ensure Accuracy of the Evidence**
 
 A portfolio as a reflection and communication device is only as good as its contents. Each piece must provide credible evidence. Each entry is only as good as the assignment given: The underlying assignment must provide accurate evidence of the intended learning target, or the evidence will not be useful. It is a good idea to verify that it shows what you and the student think it shows prior to sharing the portfolio with others.
 
-### **2. Keep Track of the Evidence**
+#### **2. Keep Track of the Evidence**
 
 Keeping track of artifacts has been a personal Waterloo for more than one teacher. The following guidelines should help you institute a system to avoid the nightmare of thousands of papers spilling out of folders and milk crates. One key to success is to find a system that fits your natural (or learned) organizational style.
 
@@ -8235,11 +8342,11 @@ Keeping track of artifacts has been a personal Waterloo for more than one teache
 - *Store the collections* . Options include magazine file boxes, cereal boxes, laundry detergent boxes, plastic crates, or file cabinet drawers (with collections organized by period at the secondary level and by table group, row, or subject at the elementary level). If choosing to store artifacts in a computer program, remember that the software is only a place to keep artifacts. Computer programs won't automatically create quality portfolios; you still have to make all of the decisions outlined in this chapter.
 - *Schedule time throughout the process* . Periodically schedule time for students to select, date (this is crucial), and annotate artifacts while they are collecting them. Don't wait to do this until it is time to share or publish the portfolio.
 
-### **3. Invest Time Up Front**
+#### **3. Invest Time Up Front**
 
 Dedicate time at the beginning of a portfolio project to save time later. Teach students the purpose and process for portfolios, the criteria for selecting individual entries and annotating them, and strategies for self-reflection. Turn responsibility over to students as soon as possible. In our opinion, portfolios are not worth the time and effort they take if teachers do all the work.
 
-### **4. Make the Experience Safe**
+#### **4. Make the Experience Safe**
 
 Although it might not appear so on the surface, creating and sharing a portfolio can be a risky business. We are asking students to publicly share what they have accomplished and who they are as learners. To students, the risks include these:
 
@@ -8251,7 +8358,7 @@ Although it might not appear so on the surface, creating and sharing a portfolio
 
 From your own experiences, you may be able to add to the list. We reduce the risk factor for students by what we model and what we allow, by how we treat each student and how we allow each student to treat others. Set norms for your students that make them comfortable with the whole portfolio process.
 
-## **Summary**
+### **Summary**
 
 Portfolios serve two functions: to improve communication about complex student learning targets; and to promote student learning.
 
@@ -8265,13 +8372,13 @@ In this chapter, we have encouraged you to involve students in preparing and mai
 
 Portfolios are a means to an end, not the end itself. They provide a direct route to students thinking more deeply about their learning and retaining it longer. They are a medium in which students can take responsibility for their own learning and engage in the critical thinking needed for self-assessment and self-reflection. They foster richer conversations with others about complex student achievement. And if students are the ones talking, so much the better.
 
-## **CHAPTER 11ACTIVITIES**
+### **CHAPTER 11ACTIVITIES**
 
 End-of-chapter activities are intended to help you master the chapter's learning targets. They are designed to deepen your understanding of the chapter content, provide discussion topics for learning team meetings, and guide implementation of the practices taught in the chapter.
 
 Forms for completing each activity can appear in editable Microsoft Word format in the Chapter 11 CD file. Documents on the CD are marked with this symbol:
 
-### **Chapter 11 Learning Targets**
+#### **Chapter 11 Learning Targets**
 
 At the end of Chapter 11 , you will know how to do the following:
 
@@ -8291,13 +8398,13 @@ Activity 11.6 Reflect on Your Own Learning
 Activity 11.7 Select Portfolio Artifacts
 Activity 11.8 Reflect on Your Learning over Time
 
-### **Activity 11.1 Keep a Reflective Journal**
+##### **Activity 11.1 Keep a Reflective Journal**
 
 Keep a record of your thoughts, questions, and any implementation activities you tried while reading Chapter 11 .
 
 Reflective Journal Form
 
-### **Activity 11.2 Try a New Portfolio Option with Students**
+##### **Activity 11.2 Try a New Portfolio Option with Students**
 
 Work independently, with a partner, or with your team to complete the following activity.
 
@@ -8316,7 +8423,7 @@ Work independently, with a partner, or with your team to complete the following 
 
 Portfolio Planning Form
 
-### ** Activity 11.3 Revise an Existing Student Portfolio System**
+##### ** Activity 11.3 Revise an Existing Student Portfolio System**
 
 Conduct this activity independently, with a partner, or with your team if you have a portfolio system already in place.
 
@@ -8336,7 +8443,7 @@ Conduct this activity independently, with a partner, or with your team if you ha
 
 Portfolio Auditing Form
 
-### ** Activity 11.4 Start a Personal Portfolio**
+##### ** Activity 11.4 Start a Personal Portfolio**
 
 Work independently to complete this activity.
 
@@ -8354,7 +8461,7 @@ Work independently to complete this activity.
 
 Personal Portfolio Decision Form
 
-### **Activity 11.5 Review Your Own Classroom Assessment Portfolio**
+##### **Activity 11.5 Review Your Own Classroom Assessment Portfolio**
 
 Work independently or with a partner using your own growth portfolio to complete this activity.
 
@@ -8368,7 +8475,7 @@ Work independently or with a partner using your own growth portfolio to complete
 
 Personal Portfolio Review Form
 
-### **Activity 11.6 Reflect on Your Own Learning**
+##### **Activity 11.6 Reflect on Your Own Learning**
 
 Review the Chapter 11learning targets and select one or more that represented new learning for you or struck you as most significant from this chapter. If you are working individually, write a short reflection that captures your current understanding. If you are working with a partner or a team, either discuss what you have written or use this as a discussion prompt for a team meeting.
 
@@ -8376,7 +8483,7 @@ Review the Chapter 11learning targets and select one or more that represented ne
 
 Reflect on Chapter 11 Learning
 
-### **Activity 11.7 Select Portfolio Artifacts**
+##### **Activity 11.7 Select Portfolio Artifacts**
 
 Any of the activities from this chapter can be used as portfolio entries. Select any activity you have completed or artifacts you have created that will illustrate your competence at the Chapter 11learning targets:
 
@@ -8393,7 +8500,7 @@ If you are keeping a reflective journal, you may want to include Chapter 11 's e
 
 Chapter 11 Portfolio Entry Cover Sheet
 
-### **Activity 11.8 Reflect on Your Learning over Time**
+##### **Activity 11.8 Reflect on Your Learning over Time**
 
 Once you have a collection of artifacts representing your learning from your work throughout this book, select one or more of the following reflection options. You can use each relevant chapter's learning targets as the basis of self-reflection.
 
@@ -8404,7 +8511,7 @@ Once you have a collection of artifacts representing your learning from your wor
 
 ![](_page_428_Picture_20.jpeg)
 
-## **CD RESOURCES**
+### **CD RESOURCES**
 
 - 1. Activity 11 .1 Reflective Journal Form
 - 2. Activity 11.2 Portfolio Planning Form
@@ -8414,7 +8521,7 @@ Once you have a collection of artifacts representing your learning from your wor
 - 6. Activity 11.6 Reflect on Chapter 11 Learning
 - 7. Activity 11.7 Chapter 11 Portfolio Entry Cover Sheet
 
-## **REFERENCES**
+### **REFERENCES**
 
 - *Akron Global Polymer Academy.* 2011. P–16 science education, best teaching practices: Wait time. Retrieved January 2011 from http://www .agpa.uakron.edu/p16/btp.php?id=wait-time
 - *Ames, C.* 1992. Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84* (3), 261–271.
@@ -8442,9 +8549,7 @@ From *Strategies Classroom Assessment for Student Learning: Doing It Right – U
 Upper Saddle River, NJ: Pearson Education. Copyright 2007 Pearson Education.
 
  *Dewey, J.* 1933. Quoted in C. M. Wang & G. Ong. Questioning techniques for active learning. *Ideas on Teaching* , *1* (Feb. 2003), n.p. Retrieved 25 February 2011 from http://www.cdtl.nus .edu.sg/Ideas/iot2.htm
-
  *Guskey, T. R. (ed.).* 1996. *Communicating student learning* . Alexandria, VA: Association for Supervision and Curriculum Development.
-
  *Guskey, T. R.* 2002. *How ' s my kid doing?: A parent ' s guide to grades, marks, and report cards* . San Francisco: Jossey-Bass.
 
  *Guskey, T. R., & J. Bailey.* 2001. *Developing grading and reporting systems for student learning* . Thousand Oaks, CA: Corwin.
@@ -8496,161 +8601,3 @@ Upper Saddle River, NJ: Pearson Education. Copyright 2007 Pearson Education.
 - *Stiggins, R. J., & J. Chappuis.* 2011. *Studentinvolved assessment* for *learning* , 6th ed. Upper Saddle River, NJ: Pearson Education.
 - *White, B. Y., & J. R. Frederiksen.* 1998. Inquiry, modeling, and metacognition: Making science accessible to all students. *Cognition and Instruction, 16* (1), 3–118.
 - *Wiggins, G., & J. McTighe.* 1998. *Understanding by design* . Alexandria, VA: Association for Supervision and Curriculum Development.
-
-## **Index**
-
-Page references followed by "f" indicate illustrated figures or photographs; followed by "t" indicates a table.
-
-#### **A**
-
-**Index**
-
-Abilities, 71, 237, 285 Absolute value, 49 Academic achievement, 97, 326-328, 335, 348, 364 ACCESS, 63, 141, 222, 263, 274, 309, 315, 319, 328, 330, 376 Accountability, 1, 21, 25, 27, 64, 77, 119, 128, 387 assessment for, 1, 21, 25, 27, 119, 128 Accountability testing, 1, 64, 128 Accuracy, 2-4, 8, 12-13, 18, 46, 48, 65, 71, 79, 94-95, 97, 99-102, 119, 131, 144, 176, 181, 185-187, 225, 264, 274, 277-278, 281, 290, 347, 349, 356, 359, 366, 371, 416-417 Achieve, 1, 25, 70, 102, 199, 202, 259-260, 316 Achievement, 1-3, 5-9, 11-12, 16, 21-22, 24-29, 33, 37-38, 43, 47, 60-61, 72, 77, 79-82, 85, 92, 95-97, 101, 103-104, 108, 112-113, 116-117, 124, 129-132, 135, 148, 150, 154, 157, 163, 170, 178, 180-181, 184-185, 187, 190, 198, 210-211, 217, 219-221, 224, 233-234, 238, 240, 262, 265, 275-277, 279, 281, 285-287, 289-291, 293-294, 296, 298, 301, 304, 306, 309-312, 314, 316-317, 323-324, 326-328, 330-331, 335, 337, 341, 343, 346-362, 364, 366-368, 372, 380-381, 385-392, 398, 404-412, 414-415, 417-418, 421, 428 academic, 85, 97, 312, 326-328, 335, 346, 348-352, 354-355, 364, 372 and homework, 25 grouping, 312 in mathematics, 77, 101, 317 tests, 6, 25, 27, 77, 108, 116, 130, 135, 150, 154, 157, 262, 309, 316, 331, 350, 353, 362, 367, 411 Achievement standards, 27, 113 Acquisition, 65, 98-99 language, 98 vocabulary, 98 ACT, 8, 29, 33, 36-37, 41, 53-54, 72, 81-82, 180, 240, 277, 280, 317, 367, 382, 384 Action plans, 387, 390 actions, 1, 12, 28-29, 110, 135, 154, 177, 217, 247, 290, 326, 328, 341, 415 Active learning, 428 Activities, 2, 4, 9, 13-14, 18, 36, 38-39, 43, 76-79, 85-87, 90, 117-121, 125, 136, 159, 162, 165-166, 171, 174, 217, 226-227, 233-235, 266-267, 271, 284, 297-299, 306, 309, 330-331, 337-338, 343, 373-374, 377, 394-395, 399, 419-420, 422-424 instructional, 4, 39, 77-79, 85, 117-119, 171, 217, 233, 299, 309 learning, 2, 4, 9, 13, 18, 36, 38-39, 43, 76-79, 85-87, 90, 117-121, 125, 136, 159, 165, 171, 174, 217, 226-227, 233-235, 266, 271, 284, 297-299, 306, 309, 330-331, 337-338, 343, 373, 377, 394, 399, 419-420, 422-424 ongoing, 9 planning, 4, 9, 79, 85, 117, 119, 284, 330, 420 space for, 9 Adaptations, 264 Adaptive testing, 128 Addition, 3, 36, 76-77, 83, 117, 147, 181, 184, 246, 289-290, 309, 325, 357, 393 Adjustment, 376 Adjustments, 29, 81, 118, 339-341 Administrators, 5, 7, 22 school, 7 Adults, 2, 8, 193, 328, 381, 389, 391, 398 Advertising, 101
-
-Affect, 48, 110, 117, 274, 346-347 Age, 119, 135, 176, 410 Agreement, 54, 65-66, 73, 85 AIDS, 24, 200 Alaska, 147 Alcohol, 50, 63 function of, 63 Algebra, 67 Alternatives, 139 American Educational Research Association, 428 Analysis, 9, 36, 51-52, 71, 95, 105, 110, 171, 257-258, 289, 415 story, 105, 415 textual, 105 Anecdotal records, 330 Angles, 50, 106 animals, 250 Annotations, 406-407, 410-412, 416, 420, 422 Anonymity, 208 Antonyms, 325, 331-332 anxiety, 116 measures of, 116 Applicants, 176 Application, 12, 52, 56, 58, 101, 120, 124, 126, 130-131, 137, 145, 170, 184, 191, 257-258 Applications, 100, 119, 176, 199, 202, 318, 410 Appraisal, 283 Approaches, 48, 222, 328 Appropriate language, 66 Appropriateness, 101, 144 Aptitude, 367 Area, 1, 18, 32, 36, 40, 51, 85, 108, 110, 191, 193, 229, 349, 372, 381, 390, 415, 422 Arguments, 52-54, 71, 288, 302 examining, 52, 54 Art, 50, 53, 95, 112, 191, 201, 278, 354 music, 50, 53 responding to, 278 standards for, 50 Articles, 416 Articulation, 64, 76, 210, 219 Artifacts, 16, 18, 38, 43, 48, 86, 90, 95, 97, 104, 120, 125, 165, 174, 177, 220, 226, 233, 235, 266, 271, 287, 298, 306, 337, 343, 373, 377, 388-389, 394, 399-400, 404-412, 416-417, 419-424 Artist, 406 Arts, 32, 50, 55, 57-59, 62-63, 71-72, 80, 104, 138, 190, 223, 285, 292, 313, 316, 319, 335, 427 Assessing, 2, 27, 37, 55, 58-59, 63, 69, 75, 97, 99-101, 103-104, 130, 171, 186-187, 218, 222, 224, 239, 245, 249, 254, 257, 259, 265, 278, 280, 286, 294, 296, 304, 317, 326, 382, 428 Assessing students, 280 Assessment, 1-19, 21-43, 45-48, 59-61, 64, 66, 71-72, 75-76, 78-87, 90, 91-126, 127-174, 175-235, 237-271, 273-307, 309-319, 324, 330-337, 339, 342-344, 345-378, 379-380, 382, 392, 396, 400-401, 403, 405-406, 408-410, 412-415, 418-419, 423, 427-429 Assessment:, 1-19, 25-26, 29, 217-220, 278, 313-314, 333, 410, 427-429 alternate, 71 alternative, 29 anecdotal records, 330 authentic, 100, 102, 130, 136, 224 career, 92, 135, 221, 285, 348-349, 354 checklists, 31, 111, 286, 291, 301 community, 2, 4, 23, 76, 149, 415, 427 components of, 2, 4, 34, 228 contract, 313 cycle, 91, 94, 99, 106-108, 116-117, 119-120, 125, 131, 134, 179, 224, 245-246, 250-251,
-
-316 day-to-day, 37, 46, 198, 264 decision making, 81
-
-descriptive, 3-4, 7-8, 12, 25, 27, 30, 32-34, 72, 85, 105, 155-156, 198, 202-206, 209, 218-219, 225, 324, 372, 396 differentiated instruction, 1, 207 direct, 82, 84, 171, 177, 302, 334, 382, 418 family, 291 formal, 4, 6, 26, 32, 71, 109, 223, 287, 319 formative, 1, 3-6, 8, 10-11, 21-30, 32, 35, 37-39, 43, 46-47, 64, 71, 79, 81, 83-85, 92, 96, 100, 103, 108-109, 112-113, 119, 122, 128-129, 136, 144, 150, 153-154, 161, 165, 169-171, 178, 188, 202-204, 206, 216-217, 221, 226, 233-235, 238, 248, 262, 274-277, 280-281, 285, 287, 289, 292, 297-298, 300, 306, 309-319, 324, 330, 334-337, 339, 343-344, 346-347, 353-354, 356, 359, 368, 379-380, 382, 405, 409, 428-429 gathering data, 128 grades and, 372 group, 9, 27, 40, 61, 95, 97, 118, 149, 152, 161, 172-173, 187, 207, 209, 224, 261, 265, 276, 278, 280-282, 284-285, 288, 294, 296-297, 312, 355, 382, 392, 400 group work, 187 guidelines for, 112, 116, 119, 142, 144, 146-148, 151-153, 163, 169, 242, 261, 267-269, 271, 290, 299, 310, 335, 348, 373, 377, 406 health, 59, 116, 141, 191, 193 HELPING, 7, 33, 78, 81-82, 154, 210, 217, 247, 336, 351, 354, 359, 427 high-stakes, 114, 130, 181 history, 80, 98, 113, 247, 285, 427 informal, 4, 6, 26, 109 instrument, 3, 16, 28, 95, 109-110, 317 interpretation of, 253, 366 lesson plans, 284 making the match, 147 math, 10, 80, 84, 149-150, 161, 252, 262, 427 mathematics, 9, 24, 26, 34, 59, 61, 84, 101, 105-106, 133, 139, 154, 161, 185, 191, 205, 222, 239, 244, 247, 250, 260, 262, 316-317, 319, 324, 410, 427 methods, 5, 8, 10-11, 22, 47, 80, 91-93, 96-97, 102, 107, 110-111, 114-116, 119, 121, 124, 129, 131, 176, 178-179, 224, 238-239, 274-276, 295, 310-311, 335, 347, 380, 405 methods of, 80, 97 misunderstandings, 25, 28, 96, 108, 110, 144, 155, 256-257, 289, 292, 299 monitoring, 84, 314 need for, 112-113, 122, 351 norm-referenced, 358, 368 objective, 30, 82, 100, 128, 134, 176, 198, 315, 367, 372 objectives and, 9 observation, 94, 99, 176, 224, 296 of learning strategies, 289 of portfolios, 8, 406, 408, 423 Assessment: of reading, 428 of vocabulary, 258, 291 of writing, 113, 190, 192-193, 239, 261, 317 periodic, 219, 312, 316, 346 plan for, 64, 118, 168, 171, 277, 289-290, 302, 304, 311, 317, 339, 342, 368, 392, 405, 419 planning and, 3, 91, 117, 132, 180, 240, 317 preference, 102, 408 preparing for, 171 principles, 2, 9, 11, 61, 102, 112, 185, 349, 428 problem, 10, 34, 36, 64, 76, 84-85, 94-95, 99, 101-102, 114, 122, 130, 144, 146, 151, 158, 160, 171-172, 176, 185-187,
-
-definitions, 26, 72, 80, 104, 232, 313-314, 357
-
-advice, 25, 33, 36, 41, 66, 84, 382, 386
-
-201-202, 205, 212, 239, 252, 258, 262,
-
-282, 294-296, 315, 317, 351, 353, 358, 367, 374, 392, 410 procedures, 8, 101, 103, 107-108, 131, 134, 167, 260, 265, 348-349, 357, 368 purpose of, 4-6, 26, 29, 59, 61, 167, 182, 190, 211, 278, 290, 302, 352, 354, 372, 382, 406, 409-410, 423 purposes, 2, 11, 23-25, 27, 35, 91, 110, 131-132, 137, 180, 189, 192, 198, 240, 285, 310-312, 316, 359-360, 368, 379, 392, 406, 408 purposes for, 35, 406 reasons for, 6, 27, 80, 128, 159, 167, 208, 239, 288, 292 reliability, 249, 286 reliability of, 249 reporting systems, 349, 428 response to intervention (RTI), 1 risk, 278 rubric for, 95, 179, 183, 193, 206, 212, 224, 226-231, 233, 235, 242, 252-254, 257-258, 260, 271, 301, 307, 324, 347-348, 360, 373, 376-378 rubrics for, 110, 176, 225, 230, 259, 287 science education, 427 scoring, 3-5, 8, 11, 22, 24, 31, 47, 92, 94-96, 107-108, 116, 119, 129, 131, 134, 144-145, 167, 178, 198, 201, 204-205, 207, 211, 217, 219-220, 237-239, 242, 249-251, 255-257, 259-263, 265-269, 271, 275, 286, 290-291, 294-296, 304, 307, 310, 317, 347, 380, 405 self-assessment, 3-4, 9, 12, 15, 29, 33-34, 37-38, 42-43, 80, 82, 85, 96, 129, 157, 159, 198, 209, 218, 220, 222-223, 263, 312, 315-316, 396, 412, 415, 418 service, 37, 192 social studies, 24, 59, 133-134, 136, 141, 191, 239, 244, 285, 356, 409, 427 software, 128, 145, 163, 428 standardized testing, 72 standardized tests, 4, 110 state and district, 78, 150 steps in, 26-27, 32, 85, 91, 95, 107, 116-117, 119-120, 125, 131, 163, 206, 208, 228, 258, 368, 373, 375, 378 stress, 136, 186 student accountability, 119 student achievement, 1-3, 5-6, 8, 11, 21, 24, 26-28, 37-38, 43, 72, 80, 103, 112, 117, 130, 154, 184, 198, 224, 262, 276-277, 286-287, 296, 298, 304, 306, 309-311, 316-317, 346, 350, 352, 355, 359-360, 372, 418 student involvement, 5, 8-9, 11, 22, 27, 47, 92, 119, 129, 178, 238, 259, 275, 297, 310, 347, 380, 405 student self-assessment, 96, 129, 198, 218, 412 summative, 3-6, 8, 11, 21-24, 26-28, 37-39, 43, 46, 79-81, 83-84, 96, 100, 108-109, 112-113, 119, 122, 128, 136, 153, 161, 169, 173, 188, 202, 233, 248, 262, 275-278, 285, 287, 298, 306, 309-311, 313-319, 324, 330, 334-337, 339, 343-344, 345-378, 379, 409, 428 supportive, 293 technology, 61, 106, 128 time sampling, 100 traditional model, 153, 279 transition, 61, 200, 324 work samples, 331 Assessment items, 3, 11, 267 Assessment methods, 5, 8, 10-11, 22, 47, 91-93, 96-97, 102, 110-111, 114-116, 119, 121, 124, 129, 178-179, 224, 238, 274-276, 310-311, 347, 380, 405 interviews, 93, 274, 276 Assessment planning, 8, 91, 179, 316 Assessment tools, 144, 292, 359 Assessments, 1-5, 7-12, 21-22, 24, 28-29, 34-35, 38-39, 42-43, 47-48, 51, 56, 76-77, 79, 81, 83-85, 91-94, 96, 98, 100, 102, 106-111, 119, 128-132, 136, 149-150, 153, 156, 161, 165, 174, 176-179, 182, 187, 198, 219, 221, 224-226, 235, 237-238, 241-242, 249, 261-269, 271, 275, 278, 290-291, 309-312, 316-318, 323-324, 330, 335-336, 339, 347-348, 353-354, 356-358, 361, 364-366, 368, 372, 380, 405, 409
-
-classroom, 1-5, 7-12, 21-22, 24, 28, 35, 42, 47, 76-77, 83, 91-92, 96, 108-109, 111, 128-130, 132, 153, 176, 178, 198, 221, 237-238, 263, 275, 278, 290-291, 309-310, 312, 336, 347-348, 353, 366, 372, 380, 405 comprehensive, 24 of students, 100, 149, 161, 224-225, 261, 278, 364 outcome, 136 quality, 2-5, 7-12, 21-22, 28-29, 34, 38, 43, 47-48, 83-84, 91-92, 94, 96, 98, 106-108, 119, 128-129, 131, 150, 153, 165, 174, 176-179, 182, 198, 219, 224-226, 235, 238, 242, 249, 261, 266-269, 271, 275, 290-291, 310, 330, 336, 347, 364, 368, 380, 405 Assets, 50, 55, 427 Assignments, 10, 42, 65, 211, 284, 292, 302, 310, 318, 326, 330, 334, 339, 349, 353, 409, 411 Assistance, 82, 183, 387, 415 Assistant superintendent, 7 Association, 50, 55, 139, 427-429 Association for Supervision and Curriculum Development, 428-429 assumptions, 54 conclusions, 54 atmosphere, 99, 250 atoms, 239 Attending, 304, 354, 382 Attention, 8, 21, 26, 33, 70, 84, 109-110, 118, 131, 177, 182, 190, 199, 203-204, 274, 289, 296, 302, 315, 326, 333, 335, 351, 382 and learning, 8 positive, 109, 315 student, 8, 21, 26, 33, 84, 109-110, 118, 131, 177, 182, 190, 199, 203-204, 274, 289, 296, 315, 326, 333, 335, 351, 382 Attitudes, 16, 48, 61, 355, 414, 427 behaviors and, 355 Audience, 27, 187, 190-193, 200-201, 220, 224, 229, 293, 388, 400, 411, 415 Audio, 105, 208 digital, 105 Audiotape, 291, 416 Auditing, 151, 421, 425 Austin, 147 Authentic learning, 136 Authenticity, 102, 131, 183-184 AUTHOR, 101, 134, 156, 246, 282, 406, 427 Authority, 50, 274 Authors, 54 Availability, 183, 185 Average, 349, 353, 358-361, 363, 365, 376 Averages, 153, 362 Avoiding, 12, 26, 69, 78, 80, 151, 183, 185 Awards, 346 **B** Back, 10, 15, 21, 26, 49, 70, 72, 83, 157, 159, 161, 172, 220, 254, 259, 284, 302, 335, 350, 357, 364, 374 Background, 183, 185, 195, 247, 367 Balance, 21, 23-24, 38-40, 43, 49, 63, 113, 117, 123, 427 Bar graphs, 251 Base words, 57 BASIC, 53, 69-70, 92, 97, 135, 139-140, 199, 252, 406 Behavior, 1, 72, 78, 312, 327-328, 348, 350-352, 355, 374, 392 desired, 351-352 social, 374 target, 72, 78, 328, 355 Behaviors, 326, 328, 350-352, 355 communicative, 351 desirable, 350 Beliefs, 368 Benchmarks, 46, 110, 428 Benefits, 1, 3, 64, 78, 81-82, 84-85, 136, 279, 315-316, 330, 346 of teaching, 85 Bias, 5, 8, 11-12, 22, 47, 57, 92, 116-117, 129, 150-151, 168, 176, 178, 183, 238, 260, 265, 275, 285, 294-297, 304, 310, 347, 380, 405 experience, 295, 304 system, 8, 22, 295, 310
-
-test, 57, 116-117, 129, 150-151, 168, 260, 304
-
-Big ideas, 74, 118 Biography, 313 Blame, 190
-
-Blocks, 54, 99 Blueprints, 119, 124, 132-133, 155, 163 Books, 208, 319, 365, 372 assignment, 319, 365 recorded, 319 Box plots, 60 Brainstorming, 207 Brochures, 97 Businesses, 415 **C** California, 115 Canada, 136 Capacity, 7, 29 Capitalization, 57, 188 Cards, 81, 191, 310, 313, 358, 428 Career, 92, 135, 221, 285, 348-349, 354 information, 92, 285, 348-349, 354 Categories, 4, 51, 53, 55, 62, 85, 92, 106, 133, 141, 157, 198-199, 203-204, 210-211, 214, 241, 244, 247, 251, 282, 310-311, 319, 323-326, 337, 343, 357, 369, 416 Categorization, 48 Categorizing, 48 Cause and effect, 74, 102, 239 Causes and effects, 74 Centers, 1, 42, 239 for learning, 42 science, 239 Central tendency, 357-358, 362, 368 Chains, 264 Change, 7, 29, 143, 149, 181, 192, 247, 270, 292, 305, 315, 327, 334-335, 351, 391, 414 essential, 351 Changes, 15-16, 39, 77, 149, 170, 204, 220, 303, 358, 374-376, 421 Chaos, 409 Chappuis, Jan, 1, 21, 45, 91, 127, 175, 237, 273, 309, 345, 379, 403, 427 Character, 59, 94, 133, 138, 244, 292 Character development, 59 Characters, 56, 68, 207, 244, 282, 292, 412 Charting, 334 Charts, 53, 361 comparison, 53 T-charts, 53 Cheating, 327, 374 Checklist, 151-153, 167-169, 174, 177, 267-269, 271, 286, 300, 304, 315 Checklists, 31, 111, 286, 291, 301 samples, 31, 301 Chicago, 52, 147, 428 Child needs, 26 Children, 7, 25, 78, 82, 84, 153-154, 193, 288, 346, 428 focus on, 78 Choice, 34, 62, 93-94, 100-101, 103, 111, 113-114, 118, 128, 130, 135, 139-142, 144-147, 151-152, 155, 157, 162, 183-184, 204, 223, 239, 243, 246, 256, 269, 278-279, 305, 318-319, 389, 408, 410, 428 Choosing the Best, 102 Circles, 62 Civil War, 245 Clarifying, 3, 85, 153, 293, 390 Clarity, 46, 144, 202 Class discussions, 274, 276, 278, 285-286, 298, 306 Classification, 51, 53, 55-56, 110, 114, 124, 204, 257, 271 Classroom, 1-19, 21-25, 28, 35, 37, 40-42, 45-47, 65-66, 72, 75-77, 80, 83, 91-92, 96-97, 108-109, 111-112, 114, 117-118, 127-130, 132, 153, 175-176, 178, 184, 190, 198, 207, 217, 221, 233, 237-238, 240, 258, 260, 263, 270, 273-307, 309-310, 312, 314-315, 319, 326, 329, 334, 336, 345, 347-349, 353, 359, 366-367, 372, 374, 379-380, 389, 396, 400, 403-405, 415, 419-420, 423, 427-428 conference, 289-290, 349, 379-380, 389, 396 displays, 400 environment in, 221 organizing, 404 quizzes and tests, 153, 353 Classroom assessments, 7, 96, 336 Classroom environment, 76, 109 Classroom tests, 10 Classrooms, 7, 32, 83, 111, 149, 359, 372, 400, 427
-
-- regular, 7, 32
-- CLEAR, 2, 4-9, 11, 21-43, 45-65, 67-90, 91-92, 96,
-
-111, 113-114, 120, 122-124, 126, 129, 137, 139, 144, 147, 151-152, 154-155, 171, 178, 196, 198, 200-201, 203-204, 206-207, 210, 217, 221, 224-225, 237-238, 245-246, 249, 258, 261-263, 275, 280, 288, 293-294, 297, 302, 310, 326, 330, 341, 347, 355, 364, 366, 372, 380, 384-385, 389, 391, 405, 411, 415-416, 421, 423 Clickers, 279 Clients, 76 Climate, 247 Clips, 31 Clues, 51-52, 79, 143, 145, 148, 152, 156, 162, 281, 295, 314 Clusters, 310, 324 Coaches, 346 Coauthoring, 384 Codes, 293, 348 Cognition, 429 Cognitive structure, 12 Collaboration, 81, 110, 176 students, 81, 110, 176 understanding, 81, 110 Collecting, 176, 207, 331, 387, 404, 416 College students, 24 color, 233, 319 Colors, 53, 210 Com, 50, 59, 428 Commitment, 81, 288 Committees, 346, 415 Commodore, 23, 40, 56, 60, 427 Communicable diseases, 386 Communication, 5, 8, 11, 22, 47, 56, 60, 85, 92-93, 95-100, 102-106, 119, 129, 142, 154, 178, 238-239, 273-307, 310-311, 317, 325, 328, 330, 347-349, 352, 356, 364, 372-373, 377, 380, 405, 411, 416-417 good, 97-100, 102-103, 142, 279-281, 285, 290, 295-296, 302, 348, 356, 364, 416 manual, 103 parents, 5, 22, 85, 119, 154, 288, 305, 317, 328, 349, 364, 372, 380 power and, 274 selection of, 102, 178, 239, 294 styles, 102 verbal and nonverbal, 277 Community, 2, 4, 23, 63, 76, 149, 381, 391, 415, 427 Comparison, 51, 53, 55, 94, 138-139, 169, 251, 257, 271 Comparisons, 25, 247, 251 Competence, 5-6, 18, 26-27, 34, 43, 90, 101, 103, 125, 174, 184, 219, 235, 271, 306, 341, 343, 377, 379, 381, 391, 399, 404, 406-412, 414, 417, 421, 424 maintaining, 417 Competencies, 10-12, 176, 351, 404 Competency, 10, 136 Competition, 351 Complexity, 46, 72, 113, 171, 180, 189, 202-204 Compliance, 326 Components, 2, 4, 25, 34, 51-52, 58, 70, 188, 228, 246, 248, 258, 282, 286 Composition, 182 Comprehension, 26, 58, 79, 102, 138, 185, 313-314 knowledge and, 58 Comprehension skills, 58 Computation, 324-325 instruction, 324 Computer programs, 416 computer software, 323, 428 Concept, 29, 49, 51, 57-58, 72, 80, 99, 108, 128, 134, 137, 141, 157, 161, 219, 243, 255, 278, 284 Concepts, 53, 64, 76, 109, 116, 133, 135-137, 157, 161, 212, 217, 233, 257, 287, 316, 353 Conceptual knowledge, 245 Conceptual understanding, 49, 56, 99, 237, 243, 245, 254, 256-257, 265, 274, 285, 289 Conclusions, 8, 39, 49, 51-52, 54-55, 62, 69, 74, 94, 100-101, 133, 206, 252-253, 294, 313-314, 392, 409, 412 Conferences, 8, 32, 36, 78, 84, 93, 95, 220, 274, 276, 289, 296, 298, 306, 324, 328, 379-401, 415, 427 parent, 84, 381-382, 384, 388, 390-392, 427 student-led, 276, 388, 394, 398, 401 with students, 289, 379-401 Conferring, 289 Confidence, 109, 116, 119, 148, 157, 181, 185, 281, 354
-
-Conflict, 72, 134, 349 Confusion, 57, 72, 293 Connections, 159 Connotation, 104, 239 Consequence, 328, 374 Consequences, 181, 327-328, 341, 352, 374 Consideration, 53, 91, 131, 171, 180, 199, 201, 239, 276, 357, 366, 410 Consistency, 180-181, 198, 211, 294-295, 326, 364 Constructive criticism, 32 Constructs, 62 Contact, 200, 329, 400 Content, 1, 6, 11-13, 28, 38, 46, 48, 51, 54, 56-57, 59-60, 64-66, 70-73, 76-81, 85-88, 90, 95, 97, 99-100, 105, 108-110, 113, 120, 123-124, 130, 132-139, 163, 165, 169, 182-185, 191, 193-194, 198-201, 203-205, 212-213, 223-224, 226, 229, 241-242, 247, 251, 256-257, 259, 262-263, 265-269, 281, 286, 298, 310, 316-317, 319, 324-325, 337, 349, 353-356, 360, 372-373, 384, 394, 410, 414, 417, 419, 427-428 expectations, 6, 46, 64, 72, 78, 198, 281, 355 knowledge, 48, 51, 56-57, 59-60, 64-66, 70-71, 73, 85, 87-88, 97, 99-100, 105, 110, 113, 124, 130, 132, 134-135, 137-139, 163, 183, 185, 241-242, 247, 257, 259, 263, 265, 281, 286, 353, 372, 428 meaningful, 57, 353, 373 Content coverage, 77 Content knowledge, 51, 100, 139, 247, 259, 265, 428 Content standards, 1, 6, 11-12, 28, 46, 51, 59-60, 64-65, 70, 72-73, 76, 85, 87, 109, 113, 123, 134, 324, 384, 427 Content validity, 184 Context, 6, 8, 23, 51, 54, 58, 69, 71, 79, 81, 97-98, 105, 112-113, 115-116, 130-131, 138, 146, 180-185, 192, 198, 217-220, 222-223, 229, 245-247, 277, 280, 285, 287, 289, 292, 295-296, 302, 339, 366, 372, 382, 392, 405-406, 410, 419, 424 learning from, 424 vocabulary and, 79, 277 Context clues, 79 Continuity, 64 Control, 2, 5, 8, 22, 36-37, 47, 59, 92, 129, 136, 142, 178, 185, 187, 238, 275, 283, 290, 310, 346-347, 380, 405, 410, 428 Conventions, 57, 204, 223, 256, 319, 324 in writing, 57 Conversations, 31-32, 59, 283-285, 291, 293, 416, 418 beginning, 31 cooperation, 312, 326, 355 Copyright, 1, 21, 27, 45, 91, 127, 152, 164, 175, 225, 237, 273, 309, 345, 379, 403, 427-428 Corrective action, 96, 113 Correctives, 41 Correlation, 136 Council of Chief State School Officers, 50, 55, 427 Counting, 204, 360 Crafts, 410 Creating, 7, 31, 53-54, 61, 65, 70-71, 88, 99, 104, 108, 114, 145, 163, 171, 184, 190, 202, 205, 207-208, 217, 219, 222-223, 225, 229, 232-233, 247, 250, 254, 257, 268-269, 317, 349, 359, 361, 388, 410-411, 415, 417, 420, 427 Credibility, 69, 71 Credit, 207, 255, 317, 327, 329, 335, 366 Criterion, 91, 199, 201-206, 210-212, 214, 219, 227, 230, 319, 366, 368, 371, 376, 396 Critical thinking, 293, 418 modeling, 293 Criticism, 32 Critiquing, 134, 163, 260 Crystal, 2 Cue, 186 Cues, 146, 277 Cultural, 116, 183, 185 Culture, 277 Curiosity, 274 Curriculum, 10, 23, 46, 48, 50, 55, 59-64, 70, 76-81, 84-85, 87, 103, 106, 108, 117, 149, 263, 284-285, 302, 366, 372, 428-429 aligned, 64, 76-77, 84, 372 hidden, 85 kinds of, 10, 23, 46, 48, 79, 85 options for, 81, 302
-
-**D** Daily instruction, 1 Daily work, 9 Data, 3, 16, 35, 39-40, 43, 55-56, 60, 62, 64, 69, 81, 94, 104, 106, 111, 128, 149, 153, 181, 203-204, 214, 251-252, 277, 285, 296, 317, 319, 323-324, 328, 330-331, 335, 349, 355-358, 362, 365, 367, 375, 392, 409 Data collection, 149 Data-driven decision making, 81 Dating, 15 Decision making, 81 Decision-making, 286 Declarative sentence, 137 Deduction, 55 Deductive inferences, 54 Definition, 2-3, 53-54, 73, 89, 104, 130-131, 181, 202, 207, 210, 217, 258, 355, 358 Definitions, 26, 72-74, 80, 104, 232, 313-314, 357 Democracy, 70 demonstrations, 95, 177, 181-182, 312 Depression, 135 Depth, 37, 76, 81-82, 91, 110, 118, 180, 190, 228, 240, 243, 265, 279, 284, 289, 293, 355, 404, 415 Description, 49-50, 160, 186, 204, 209, 250-251, 258, 276, 302, 318, 324, 348, 360, 366, 400-401, 409, 415 Descriptions, 97, 209, 257, 305, 339, 360, 364, 374, 390 Descriptors, 198-199, 201-212, 214-215, 219, 224-225 Design, 5, 7, 11, 22, 28, 30, 34-35, 47, 50, 54, 76, 91-126, 129, 132, 155, 159, 178, 180, 185-190, 219, 238-240, 243, 263, 275, 310, 312, 316, 319, 347, 380, 405, 409, 417, 428-429 Designs, 409 Despair, 212 Development, 4, 9, 25, 29, 31, 49, 58-59, 65, 71, 84, 91, 106-108, 112, 116-117, 119-120, 125, 131, 134, 137, 143, 149-150, 154, 163, 169, 179, 187, 207-208, 211-212, 228, 231, 235, 239, 242, 249-250, 265, 276, 285, 294, 301, 304, 307, 427-429 Devices, 279 Dewey, John, 274 Diagnosing, 70, 204, 326 Diagnosis, 118, 199, 316, 326 Diagnostic assessments, 249 Diagrams, 53, 106, 247 Venn, 53 Dialogue, 25, 57, 78, 182, 292-293, 305 Dialogue journals, 292-293, 305 Dictionaries, 57 Differences, 6, 21, 27, 38, 43, 51, 53, 68, 94, 182, 206, 218, 278, 314, 364, 428 Differentiated instruction, 1, 207 Differentiation, 58, 109 Digital Age, 176 Digital media, 105 Dignity, 63 Diligence, 61 Dimensions, 94, 183, 189, 198-199, 203, 210, 224, 277, 428 Direct instruction, 171 Directions, 82, 116, 147, 151-152, 167, 170, 207, 261, 291, 295, 302-303, 307 Disabilities, 119, 428 Disasters, 99 Discipline, 36, 48-49, 58, 78, 97, 176, 218 Discipline problems, 78 Discussion, 13, 17, 38, 40, 42, 59-60, 81, 84, 86, 89, 110, 118, 120, 124-125, 149, 165, 173, 180, 226, 234, 240, 258, 266, 270, 276-279, 285-290, 294, 296-298, 301-303, 306-307, 337, 343, 373, 377, 382, 388, 390, 392, 394, 398, 407, 415, 419, 423 turn-taking, 288 Discussions, 18, 25, 59, 63, 78, 84, 149, 274, 276, 278, 280-281, 284-286, 291, 296-298, 303, 306, 311 conceptual, 274, 285 issue, 149, 278, 286 Dispositions, 61
-
-structured, 285
-
-curriculum guides, 63
-
-Curriculum development, 84, 428-429
-
-Distracters, 139, 144-146, 155, 157, 278
-
-Distractions, 116, 411
-
-Distribution, 240 District leadership, 7 distrust, 128 Diversity, 191 Division, 50, 95, 302, 325 Documentation, 406 Domain, 12, 67, 111, 113, 128 Drafting, 316 Drama, 53, 68 characters in, 68 Drawing, 52, 68, 71, 74, 103, 294, 386 Drugs, 63 Duration, 185, 341 Dynamics, 281
-
-#### **E**
-
-Ear, 115, 241 Earth, 243, 245, 254-255 Economics, 94, 427 Ecosystem, 50, 264 Education, 1, 7, 21, 27, 30, 33, 45, 50-51, 55, 58-59, 62-63, 66-68, 91, 98, 105-106, 115, 127-128, 152, 158, 160, 163-164, 175, 201-202, 205-206, 208, 222-223, 225, 232, 237, 244, 258, 264, 273, 309, 331-333, 345, 372, 379, 396, 401, 403, 408, 413-415, 427-429 achievement standards, 27 as a science, 223 benchmarks for, 428 civic, 59 content standards, 1, 51, 59, 427 global, 427 records, 331 supports, 27 Educational assessment, 427 Educational research, 255, 428 Educators, 2, 7, 78, 351 Effect sizes, 24 Effective teaching, 29 Effectiveness, 5-6, 26, 32, 81, 277, 388, 392 Efficiency, 99-100, 140 Effort, 1, 82, 326-327, 330, 335, 348, 350-352, 354-355, 366-367, 392, 417 Ego, 427 Electronic gradebooks, 335 Elementary school, 193, 221 Eligibility, 346 Emotions, 53 Employers, 346, 354, 415 Encouragement, 136 Energy, 50, 94, 250, 264 sound, 94 Engagement, 7, 278, 300, 303, 351 English, 26, 50, 55, 57, 59, 62-63, 71, 100, 104, 119, 130, 138, 178, 190, 223, 239, 261, 285, 292, 294-295, 316, 319, 335, 409, 427 Middle, 409 proficiency in, 261 Standard, 57, 71, 178, 285 English language, 50, 55, 59, 62-63, 100, 104, 119, 138, 190, 223, 239, 292, 295, 316, 319, 335, 427 correct, 104 English Language Learners, 100, 239 Enrichment, 110, 161 Environment, 7, 25-26, 30, 76, 109, 221, 248, 264, 328, 349, 351, 355, 372 Equations, 56, 67, 106, 185, 188-189 Equipment, 59, 116 Equivalent fractions, 83 Equivalent ratios, 106 Erlbaum, Lawrence, 429 Error, 110, 145, 356 error analysis, 110 Errors, 58, 144, 153, 211 correcting, 153 ESCAPE, 62, 146 Estimation, 325, 367 Estimation skills, 325 Evaluation, 26, 32, 38, 40, 43, 51, 53, 55, 70, 101, 116, 136, 155, 176, 208, 227, 230-231, 235, 257, 271, 283, 285, 295, 301, 307, 326-327, 376, 378, 390-392, 396-398, 401, 427 collecting information, 176 feedback in, 301 process for, 176, 231 Evaluations, 74, 176, 293 evaporation, 250 Events, 68, 74, 147, 149, 229, 244, 292, 311-313, 317,
-
-331, 337, 339, 368, 412 Evidence, 4-6, 9-10, 18, 23-24, 26, 52-55, 58, 60-61, 74, 94, 96, 101-102, 104-105, 108, 111-114, 138, 144-145, 156, 159, 162, 180-184, 186, 188, 190, 199, 209, 224, 233, 247-248, 257-258, 277-278, 282-283, 285-286, 289, 309, 311-314, 317-318, 324, 326-327, 330, 335, 346, 348, 352, 355-357, 359, 364, 366-367, 370, 373, 377, 381, 384-391, 404, 406-411, 414-417, 423 Exemplars, 211, 427 Exercise, 53, 113, 134, 140, 142, 167, 191, 305, 372 Exercises, 8, 36, 53, 99, 107, 116, 119, 131, 134, 138, 146-147, 151, 167, 311-312, 314, 349 Exhibits, 41 Expectations, 6, 32, 46, 64, 72, 78, 82, 198, 281, 295, 326, 352, 355, 361, 364-365, 392 Experience, 7, 14, 29, 31, 37, 48, 61, 87, 105, 138, 163, 171, 182, 188, 192, 208, 229, 279, 281, 292, 295, 303-304, 326, 330, 348-349, 390, 392, 396-398, 411, 416-417 experiences, 10, 13-14, 19, 61, 79, 229, 291, 294, 311, 346, 348, 412, 417 Experimental design, 54, 186, 188-189 Experiments, 317 Expert, 24, 66, 207-208 Experts, 291, 358 Explanation, 51, 56, 188-190, 233, 243, 248, 251-254, 256, 295, 390-391, 400-401, 407, 409, 411-412 Expository text, 314 Expository writing, 184, 192 Extra credit, 327, 335, 366 Extreme scores, 358 Eye contact, 200
-
-#### **F**
-
-Facets, 53, 256 Factoring, 350 Factors, 50, 99, 102, 112, 180, 185, 199, 203-204, 239, 260, 350, 352, 354-355, 357, 366, 370 Facts, 49, 52, 74, 77, 98, 105, 133, 135-137, 139, 156, 200-201, 325 Failure, 35, 72, 99 Fairness, 349 Falls, 7, 26, 32, 101, 161, 199, 205, 260, 262, 316, 404 Families, 57, 325 Family, 291 fear, 35 Feedback, 3-5, 7-8, 11-12, 22, 25-27, 29-34, 36-38, 41-43, 47, 72, 78, 81-82, 85, 92, 96, 109-110, 117-119, 129, 131, 155-157, 161, 163, 165, 174, 177-178, 180, 198-199, 202-203, 206-207, 209, 218-220, 222-225, 232-233, 238, 240, 259, 263, 275, 284, 286-287, 291, 301, 309-310, 312, 315-317, 319, 324, 331, 334, 342, 344, 346-347, 353-354, 356, 379-384, 390, 392, 394, 396, 401, 404-405, 428 and practice, 155, 312 evaluative, 198, 206, 331, 428 formal and informal, 4, 26, 109 general, 180, 207, 209, 259, 263 immediate, 96, 161, 163 feelings, 133, 138 File, 13, 15-16, 38, 86, 120, 165, 183, 193, 212, 224-226, 257, 266, 298, 301, 305, 330, 337, 373, 385, 394, 416, 419, 423 Files, 10, 416 Findings, 32-33, 105 fire, 62 Floods, 237 Flow, 28, 406 Fluency, 58, 95, 181, 209-210, 223, 256, 294, 322, 325, 331-332 FOCUS, 1-3, 5-7, 10, 12, 16, 18, 21-22, 27, 30, 34-35, 47-48, 59-62, 72, 75, 78-79, 82, 84, 87, 91-93, 95, 97, 101-104, 106, 109-110, 113-114, 121, 124, 129, 132, 134, 136, 138, 140, 144, 149, 155, 159, 161, 178, 183, 186, 188, 191, 199, 201, 203, 205, 209, 219-221, 224, 233, 238, 240, 248, 259, 262, 265, 275, 280, 286-287, 289-290, 297, 302-305, 310, 315, 324, 339, 347, 353-354, 372, 374, 380-383, 388-391, 396, 398, 405-410, 415, 419-424 Folders, 389, 408, 416 work, 389, 408
-
-Food, 137, 141, 264, 274 Formal feedback, 32 Formality, 200 Formative assessment, 1, 4, 6, 8, 21, 24-30, 32, 35, 37-38, 43, 64, 71, 85, 109, 113, 128, 144, 150, 153-154, 161, 188, 217, 221, 248, 297, 309, 311-314, 316, 319, 335, 337, 339, 343, 353-354, 356, 359, 428-429 Formative assessments, 5, 21-22, 47, 83, 92, 108, 129, 150, 161, 178, 238, 262, 275, 310, 312, 347, 353, 380, 405 and summative assessment, 5, 21 assignments, 310, 353 Forms, 13, 38, 52, 70, 86, 120, 124, 128, 131, 137, 165, 168, 171-172, 177, 182, 192, 226, 242, 252, 266, 292, 296-298, 304, 309, 330, 337, 342, 344, 357, 372-373, 388, 390, 394, 409, 419 Formula, 67, 99, 145, 156, 159, 190, 193, 224, 247, 255-257, 291, 415 Formulas, 145, 155-156 Forward, 26, 29, 61, 63 Foundations, 191 Fractions, 83 Frame questions, 276, 298, 306 Frames, 157, 159, 277, 386, 397, 401 Framing, 84, 193, 245 Freedom, 140, 146, 305 Frequency, 6, 57, 106, 115, 204, 241, 279 of sound, 115, 241 friction, 349 Fruits, 94 Fun, 102 Functioning, 176 Functions, 3, 105, 417 **G**
-
-Games, 80 Generalization, 100, 257, 259, 278, 332, 353 Generalizations, 57, 84, 145 Genres, 314 Geometry, 71, 80 goal setting, 3-4, 9, 29, 38, 42-43, 84-85, 96, 129, 157, 165, 174, 198, 220-221, 312, 381, 384, 387-388, 407, 415, 420-421 Goal(s), 30 Goals, 3, 5, 7, 11, 22, 26, 30, 33-34, 47-48, 55, 61, 72, 78, 81-83, 85, 92, 111, 119, 129, 131, 153, 155, 157, 171, 177-178, 180, 218-219, 221, 225-226, 235, 238, 240, 263, 266, 271, 275, 286-287, 301, 305, 309-310, 327, 332, 334, 347, 366, 379-381, 384-385, 387, 389-390, 392, 397, 404-405, 408, 415, 427 attaining, 218, 387 attainment of, 366, 385 clarifying, 3, 85, 153, 390 lesson, 34, 83, 219 Goal-setting, 159, 172-173, 209, 315, 384, 388, 394, 397, 401 Government, 70, 99, 137-138, 140, 176, 333 Governors, 50, 55, 427 Grade book, 39, 110, 334 Grades, 1, 3-5, 8, 21-22, 32-33, 47, 72, 77, 82, 84, 92, 109, 129, 133, 178, 181, 199, 238, 275, 285, 310, 317-318, 326-328, 330, 345-378, 380, 385, 404-405, 428 Grading, 1, 4, 8, 27, 36, 61, 110, 131, 133, 198, 295, 310, 312-313, 324, 334, 341, 346-351, 355-356, 358-360, 365-368, 372-378, 388, 427-428 assigning, 347, 359, 372 borderline cases, 366 level, 1, 27, 131, 133, 198, 295, 312, 324, 341, 348-350, 355-356, 358-360, 365-367, 375, 388 multiple, 198 report cards, 310, 358, 428 scales, 198, 360 weighting, 368 Grading systems, 349 Grammar, 200, 277 Graph, 40, 62, 251-253, 331 Graphic organizer, 162 Graphic organizers, 53, 155, 162 Graphs, 60, 251 Great Depression, 135 Grid, The, 9 Group discussion, 40, 294, 296-297 Group instruction, 285, 384
-
-Grouping, 109, 119, 203-204, 312 Grouping students, 119, 312 Groups, 109, 134, 138, 155, 159, 162, 185, 187, 259, 278, 282, 288, 301-302, 314, 353, 382-383, 401 norming, 288 Growth, 13, 15-16, 18, 27, 32, 36, 81, 141, 233, 260, 309, 330, 347, 381, 385, 388-390, 398, 401, 406, 408-412, 414, 416-417, 421, 423-424 Growth portfolio, 13, 15-16, 18, 381, 385, 388, 423 Guessing, 75, 139 Guidance, 8, 25, 76, 82, 154, 169, 204, 246, 291, 305, 342, 349, 356, 384, 396, 416 Guidelines, 108, 111-112, 116, 119, 142, 144, 146-148, 151-153, 163-164, 169, 171, 180, 242, 261, 267-269, 271, 280-281, 290, 299, 304, 307, 310, 323, 335, 347-348, 350, 356, 368, 373-374, 377, 406, 410, 416 Guides, 3-4, 11, 31, 46, 63, 82, 190, 198, 205, 221, 238-239, 242, 249, 265-267, 269, 271, 290, 294-295, 304 **H** Handbook of Research on Teaching, 428 Handicap, 116 Handwriting, 71 Happiness, 57 Hard copy, 318 Hawaii, 147 Health, 50, 55, 59, 62-63, 116, 141, 191, 193 exercise, 191 Health care, 141 heart, 29, 48-49, 53, 58, 103, 154, 286, 294, 404, 409 Helping, 7, 33, 78, 81-82, 154, 210, 217, 247, 336, 351, 354, 359, 384, 427 helping others, 359 Hierarchy, 54 High-stakes assessment, 181 High-stakes tests, 130 History, 50, 55, 80, 98, 113, 247, 285, 427 Holes, 284 Home, 60, 62, 78, 82, 84, 110, 334, 375, 381-382, 384, 386-388, 390 Homework, 25, 110, 309, 312, 324, 329, 354, 384, 387, 414 homework completion, 312, 387 Honesty, 312, 326, 352, 355 Hope, 111, 327 Human capital, 244 Humor, 200 Hypotheses, 223, 386 **I** I PLAN, 110, 159 Id, 314, 335, 427 IDEAL, 39, 130 Ideas, 12, 25, 29, 59, 68, 72-74, 105, 118-119, 124, 142, 149, 153, 200, 204, 219, 223-224, 247-248, 256, 281, 285-286, 292-294, 314, 319, 324, 340, 392, 400-401, 428 sequence of, 200, 256 Illinois, 147 Illustration, 156, 159 Illustrations, 55, 199, 247 Imagery, 200 Imagination, 156 Immune system, 386 Implementation, 13-14, 38-39, 86-87, 118, 120-121, 150, 165-166, 226-227, 266-267, 298-299, 337-338, 373-374, 394-395, 419-420 Importance, 24, 46, 49, 76, 84, 111, 114-117, 119, 123-124, 132-134, 185, 202, 210, 240-241, 245, 309, 348, 354 Inclusion, 256-257, 406 independent practice, 30 Independent work, 171 Individual assessment, 8 Individual needs, 161 Induction, 55 Inductive reasoning, 52, 428 Industrial Revolution, 191 Inferring, 74, 290, 295 Influence, 130, 178, 192, 239, 277-278, 352, 428 Information, 2-8, 11-13, 16, 18, 21-28, 32-35, 37, 41, 47-56, 61-62, 69-70, 72, 74-82, 92-97, 100-105, 108, 110-111, 113-114, 116-117, 119, 121-124, 129, 131, 133, 138-139, 145,
-
-Group work, 187
-
-148, 154-155, 157, 159, 163, 176-181, 183-187, 189, 191, 196-197, 200-202, 205-206, 217, 219-220, 224-225, 228, 233, 238-240, 243-244, 246-250, 252-253, 258, 263, 275-278, 280, 282, 285-287, 289, 293, 295-299, 304-306, 309-316, 318-319, 323-326, 328, 330-332, 335-337, 339-341, 343, 345-378, 379-380, 382, 388-390, 392-393, 396, 398, 400, 404-405, 410, 421, 423 policies, 349 Information management, 356 Informational writing, 191 Initiative, 49-50, 55, 61, 354, 427 Innovation, 128 Inquiry, 50, 274, 429 Inspiration, 208 Instruction, 1, 3, 5-6, 8-12, 22-23, 26-28, 30, 34-35, 41-42, 46-47, 56, 60, 64-65, 78-81, 85, 88, 91-93, 95, 100-102, 108-110, 114, 119, 129, 131, 137-138, 145, 149, 154-155, 157, 159, 161-162, 165, 171-174, 177-178, 180-181, 186, 188, 198, 202, 207, 210, 217, 219, 221, 223, 233, 238, 240, 261-263, 274-277, 280, 284-286, 293, 298-301, 306, 310-313, 323-324, 330, 339, 347, 353, 356, 368, 372, 380, 384-385, 392, 405, 429 accountable, 10, 27, 64, 149, 188 adequate, 261, 277 balanced, 22-23, 108 differentiating, 311, 339 sequencing, 219 strategy, 1, 30, 34, 101, 154-155, 157, 159, 210, 217, 219, 233, 274, 301 targeted, 26 unit, 9, 27, 34-35, 79-80, 88, 108-109, 131, 149, 180, 263, 311-313, 339, 368 whole-group, 207 Instructional activities, 78-79, 85, 117 Instructional design, 118 Instructional needs, 289, 367 Instructional strategies, 111, 118, 149, 294 Insurance, 346 intelligence, 367 Intensity, 62, 288 Interaction, 24, 29, 277, 291 Interactions, 95, 279 Interest rates, 143 Interference, 183-184 Internet, 185, 198, 208 conduct, 185 Interpretation, 52, 79, 252-253, 366, 409 Interpreting, 32, 81, 252-253, 295, 331, 354, 404 Interpreting and using assessment results, 81 Interval scale, 251 Interval scales, 251 equal, 251 Intervention, 1, 24, 41, 111, 285, 379, 381, 384, 392 Interventions, 12, 24, 110, 171, 198, 289, 341, 374, 379 Interviewing, 95 Interviews, 93, 274, 276, 289, 296, 298, 306 intrinsic motivation, 354, 427 Introduction, 34, 98, 164, 219, 256, 258 Intuitive, 348 Invitations, 398 Islam, 50 Issues, 23, 33, 117, 179-180, 276, 286, 296, 327, 407, 421 Items, 3, 5, 8-9, 11, 22, 25, 28-29, 47, 50-51, 53, 55, 59, 62-63, 77, 83, 92-94, 97, 107-109, 112-114, 116-117, 119, 123, 128-134, 137-148, 150-153, 155, 157, 159, 163, 165, 167, 169, 171, 174, 178, 224, 237-238, 241-243, 245-247, 249, 252, 256-257, 260-263, 265-269, 271, 275, 290, 310, 312, 347, 380, 405-406, 410 selected response, 8-9, 92-93, 97, 114, 119, 128-134, 137-148, 150-153, 155, 157, 159, 163, 165, 167, 169, 171, 174, 241, 290 specifications, 59, 145
-
-**J** Journals, 93, 96, 274, 276, 291-293, 296, 298, 305-307
-
-Judging, 54, 69, 95-96, 176, 202, 209, 224, 286 Judgment, 5-6, 26, 51, 53, 57, 69, 74, 94, 99, 101, 111-113, 128, 134, 157, 176, 180-181, 198,
-
-366, 372 judgments, 31, 51, 100, 198, 304, 316, 366-367, 376 **K** Kentucky, 66-68 Key words, 31 Keyboarding, 71 Kim, 161 Kindergarten, 64 Knowledge, 2, 33, 35, 48-51, 56-61, 63-71, 73, 75, 85, 87-89, 91, 97-101, 103-105, 110, 113-115, 118, 121, 124, 130, 132, 134-135, 137-139, 141, 144, 163, 167, 178, 183, 185-190, 207-208, 217, 225, 228, 237, 239-243, 245-247, 249, 257, 259, 261, 263-265, 274, 276, 278, 280-281, 284-286, 289-292, 294, 296, 299, 331, 353, 362, 372, 409, 428 declarative, 137 domains, 99, 113 factual, 48-49, 97, 113, 245 prior, 35, 188, 217, 242, 274, 286, 291 prior knowledge, 35, 217, 274 topic, 35, 49-50, 104, 190, 208, 247, 281, 286 Knowledge base, 187, 207-208, 225 **L** Labels, 46, 251, 311, 323, 337, 343, 360 Language, 9, 11, 30-32, 42, 50, 55, 57-59, 62-63, 66, 72-73, 80, 82-83, 85, 89, 95, 98, 100, 103-105, 116, 119, 133, 138, 155-156, 171-172, 190, 200, 203-208, 217-218, 223, 232-233, 239, 276-277, 285, 287, 290-292, 294-296, 313, 316, 319, 335, 427-428 acquisition, 98 clear, 9, 11, 30-32, 42, 50, 55, 57-59, 62-63, 72-73, 80, 82-83, 85, 89, 155, 171, 200, 203-204, 206-207, 217, 294 difference, 50, 204, 239 informative, 105 written, 31, 42, 57, 82, 89, 98, 100, 103-105, 119, 218, 239, 290-292, 294-296 Language arts, 32, 50, 55, 57, 59, 62-63, 72, 80, 104, 138, 190, 223, 285, 292, 313, 316, 319, 335, 427 Language skills, 295 Languages, 58 Large group, 288, 400 Leaders, 23, 40, 138, 160, 427 Leadership, 7, 55, 428 relationship, 55 Leads, 33, 181, 209, 384 Learners, 7-9, 16, 33, 36, 61, 77, 100, 136, 163, 219-220, 239, 281, 292, 294, 336, 354, 388, 392, 404, 412, 416-417 Learning, 1-13, 15-19, 21-43, 45-51, 55, 57-66, 68-90, 91-93, 96-126, 127-136, 138, 141, 145, 148-152, 154-161, 163-165, 170-174, 175, 177-186, 188-190, 199, 201-203, 205-208, 211, 217-231, 233-235, 237-241, 243-249, 251-252, 254-256, 259-266, 268-271, 273-278, 280-281, 283-295, 297-307, 309-344, 345-359, 364, 366-369, 372-373, 376-378, 379-382, 384-394, 396-401, 403-425, 427-429 Learning:, 1, 15, 21, 27, 45, 66, 91, 127, 154, 164, 175, 217, 237, 273, 309, 345, 379, 403, 413, 415, 427-428 and metacognition, 429 connected, 83 distance, 49 events, 68, 74, 149, 229, 244, 292, 311-313, 317, 331, 337, 339, 368, 412 in small groups, 288, 301 Learning: instruction and, 1 mastery, 23, 27, 36, 61, 65-66, 70, 80, 82, 88, 97, 99-100, 111-112, 117-118, 132-133, 138, 157, 180, 182, 184, 188, 218, 224, 239, 245-247, 291, 313, 316, 358-359, 367, 381, 391, 396-397, 407 readiness, 285 real-world, 106, 131 scaffold, 219 scenarios, 350 strengths and weaknesses, 31, 33, 55, 199, 203, 218-219, 225, 382, 392, 415 to learn, 24, 46, 48-49, 51, 61, 63-64, 72-73, 77,
-
-204, 224, 247, 283, 296, 316, 355, 358-359,
-
-79, 81, 100, 110-111, 117-119, 123, 154, 219, 263, 265, 276, 289, 291, 349, 354-355, 384-386 Learning disabilities, 119 Learning environment, 7, 221, 351 Learning environments, 7, 281 creating, 7 Learning expectations, 72 Learning experiences, 10, 79, 294 Learning goals, 327, 366, 408 Learning Link, 315 Learning logs, 292, 294, 305 Learning outcomes, 46, 135-136 Learning problems, 326, 387 Learning process, 41, 80 Learning Strategies, 222, 289, 294, 396 Learning styles, 91, 102 Learning targets, 2-3, 5-6, 8-13, 17-18, 21-22, 31, 36-38, 42-43, 46-50, 58, 60, 62-65, 68-70, 72-74, 77-90, 91-92, 97, 99-102, 107, 109-111, 114, 116, 119-121, 123-126, 128-134, 141, 149-151, 154, 157-158, 160-161, 163, 165, 171-174, 177-180, 184, 186, 190, 201, 205, 217, 220-221, 224, 226, 229, 234-235, 238-241, 243, 248, 251, 256, 262-266, 268, 270-271, 275-276, 280, 284, 286-287, 289, 291-292, 294, 297-300, 302-306, 310-311, 315-317, 323-327, 330-334, 337, 339, 343, 347-348, 352-354, 356-359, 364, 366-368, 373, 377, 380-382, 385, 389-392, 394, 398-399, 405-410, 414, 417, 419-420, 422-424 Learning teams, 7, 400 Lesson objectives, 46 Lesson plans, 284 Lessons, 4, 9, 30-31, 34, 59, 72, 75, 81, 149, 155, 159, 219-220, 233, 290, 293 ending, 9 Letter grades, 348, 364-365 Letters, 156, 302, 349, 357 cover, 357 Level, 1, 6-7, 9, 11, 23-25, 27-28, 32, 34, 37, 46, 49, 53, 57-59, 62, 64, 67, 70, 72, 75-77, 79, 82, 85, 95, 98-99, 101, 103, 108, 113, 130-131, 133, 135, 142, 150, 152, 154, 161, 163, 176, 180-185, 187, 191, 198-202, 204-205, 207-212, 221, 224-225, 233, 240, 252, 256, 261, 265, 275, 278, 280, 285-286, 289, 293, 295-296, 312, 316-317, 319, 324, 326-328, 341, 348-350, 352-356, 358-361, 363-367, 375, 381, 384-390, 392, 406-408, 410, 412, 416 Library, 185, 401 Lighting, 116 Limitations, 8, 119, 139, 285 Limits, 33, 41, 101 Line diagrams, 106 Linear functions, 105 Lines, 52, 151, 159, 210, 240, 251, 255, 288, 302 Liquids, 55, 115 Listening, 96, 285, 292 conversations and, 285 Literacy, 2-4, 18, 55, 285, 427 Literature, 68, 94, 229, 249-250, 314 graphic, 314 Long-term goals, 384 Long-term memory, 217 Loss, 137, 141, 186 **M** machines, 145
-
-Main ideas, 74, 247-248 Make-up work, 329 Management, 356, 407 Manual dexterity, 59, 103 Maps, 62, 132 scale, 62 Marking, 153, 319, 356 Massachusetts, 147 Mastery, 23, 27, 36, 61, 65-66, 70, 80, 82, 88, 97, 99-100, 111-112, 117-118, 132-133, 138, 157, 176, 180, 182, 184, 188, 218, 224, 239, 242, 245-247, 291, 313, 316, 358-359, 361, 367, 381, 391, 396-397, 407 Matching, 8, 93, 97, 111, 121, 128, 139-142, 147, 150-152
-
-Materials, 13, 38, 57, 73, 79, 86, 120, 149, 161, 170, 183, 185-186, 189, 224, 234, 255, 267, 270, 290, 305, 312, 314, 329, 386, 398, 406, 415 Mathematics, 9, 24, 26, 34, 49-50, 54-55, 58-59, 61-63, 67, 77, 84, 101, 105-106, 133, 139, 154, 161, 185, 191, 205, 222, 239, 244, 247, 250, 260, 262, 316-317, 319, 324, 410, 427 center, 262 lessons, 9, 34, 59 matter, 7, 24, 28, 50, 112, 134, 348, 411, 417 energy and, 50 Mean, 57, 60-61, 76, 82, 161, 242, 251, 326, 355-358 Meaning, 49, 53, 60, 66, 79, 88, 104, 115, 183, 200, 218, 239, 277, 292, 331-332, 352, 355, 359, 367 search for, 49 Meaningful word parts, 57 Meanings, 27, 105, 133, 313-314, 325 Measurement, 2, 59, 80, 98, 102-104, 320, 367 attribute, 102 of time, 80, 102 proficiency, 102-103 terms, 2, 104 Measurements, 59 Measures, 56, 59, 64, 77, 102-103, 106, 116, 132, 134, 150, 157, 201, 358 Measures of central tendency, 358 Media, 105 Median, 357-358 Median scores, 358 Meetings, 13, 38, 86, 120, 165, 226, 266, 298, 337, 373, 394, 400, 419 class, 298 Memory, 49, 217, 286 Messages, 292-293, 372 Metacognition, 429 Mexico, 137 Microsoft Word, 13, 38, 86, 120, 165, 226, 266, 298, 337, 373, 394, 419 Middle school, 279, 324, 328, 409 Midpoint, 211 Migration, 134 Milk, 54, 416 Mirroring, 130-131 Misconceptions, 34, 117-118, 130, 145, 211, 219, 254, 263-264, 274, 278, 280-281, 289, 299 Mitochondria, 50, 94, 250 Mode, 253, 289 Modeling, 31, 33, 218, 293, 429 Models, 30-31, 71, 155-156, 211, 217-218, 225, 259, 262, 264 Momentum, 7 Monitoring, 84, 314 progress, 84, 314 Monitoring student progress, 314 Mormons, 138 motion, 185-189 Motivation, 9, 116, 154, 163, 170, 184, 191, 210, 217, 220, 233-234, 262, 265, 301, 341, 349, 351-352, 354, 388, 416, 427 achievement, 9, 116, 154, 163, 170, 184, 210, 217, 220, 233-234, 262, 265, 301, 341, 349, 351-352, 354, 388 achievement as, 352 extrinsic, 354 intrinsic, 354, 427 Motivation to learn, 154, 265 Motivations, 48 Mouse, 313 Movement, 58, 200, 317 Multiple-choice items, 140, 144, 152, 157 Multiple-choice questions, 34, 118 Multiple-choice tests, 130 Multiplication, 325 Music, 50, 53, 55, 59, 61, 63
-
-#### **N**
-
-Narrative writing, 184, 192 National Governors Association, 50, 55, 427 Native Americans, 134, 137, 140, 146 Nature, 63, 106, 112-113, 148, 177, 182, 184, 224, 258, 294, 379 needs, 3, 5-8, 11-12, 22-24, 26-29, 33, 37, 47, 49, 60, 64-65, 88, 92, 100, 109, 129, 131, 149, 161, 163, 171, 178, 183, 191, 202-203, 207, 231, 238-240, 260, 274-275, 289-291, 310, 324, 347, 350, 366-367, 372, 375, 379-380, 383-388, 393-394, 399, 405-406 Net, 144 New Hampshire, 147 New York, 147, 427, 429 Noise, 116
-
-Nonliteral language, 133 Nonverbal cues, 277 Norm, 358, 368 Norming, 288 Norm-referenced grading, 358 Norms, 72, 279, 417 Notebooks, 416 Notes, 26, 50, 67, 75, 135, 153, 164, 200, 212, 225, 227, 230-231, 261, 300, 331, 342 sticky, 26 Nouns, 50 Novice, 219, 251, 360 Number line, 49, 106 Number lines, 151 Number sense, 320, 324-325 Numbers, 24, 40, 49, 98, 133-134, 136, 150, 152-153, 199, 241, 251-252, 260, 274, 282, 325, 335, 339, 348-349, 358, 360-361, 364, 386 **O** Object, 50, 53, 59, 61, 99, 106, 115, 241, 258 Objective, 30, 82, 100, 128, 134, 176, 198, 315, 367, 372 Objectives, 9, 46, 75-76, 79-80, 139, 263 Objectivity, 205, 349 Observation, 94, 99, 176, 224, 296 Observations, 24, 40, 54, 62, 101, 170, 286, 342, 374-375 oceans, 250 Ohio, 59, 328 Omissions, 206 Ongoing process, 9, 384 Onset, 9
-
-Organization, 95, 105, 200, 204, 206, 210, 219, 223, 256, 312, 319, 324, 347 of ideas, 200, 219, 223, 256, 319
-
-Overlap, 209, 212, 316, 335
-
-Opinions, 53, 287, 313-314 Oral communication, 98, 276 oral proficiency, 103 Org, 50, 55, 63, 427-428
-
-Organizing, 115, 324, 404, 406 Outcomes, 46, 135-136, 428 Outlines, 106, 132
-
-Organizations, 364 Organizers, 53, 155, 162 study, 155
-
-**P** Pacing, 219, 256 Paragraph frames, 277 Paragraphs, 209, 243 Parents, 5, 22-23, 27, 36, 78, 82, 84-85, 110, 119, 153-154, 183, 198, 288, 305, 317, 326, 328, 334, 346, 349, 361, 364, 372, 379-380, 384, 388-394, 398-399, 410, 414-415 as teachers, 349 communication with, 85 involvement, 5, 22, 27, 119, 380 Participants, 10-11, 87-88, 379, 381, 388, 390-392, 398 debriefing, 390 Participation, 93, 136, 286, 300, 326, 352, 355, 380, 388, 392, 394, 399 Path, 28, 85, 202, 207, 218 Patterns, 51, 54-57, 65, 73, 85, 88, 100, 130, 133, 145, 155, 241, 243, 247, 259, 263, 265, 274, 281, 359, 362 number, 88, 130, 133, 243, 359 repeating, 263 Paying attention, 70, 118 Pearson Assessment, 23, 40 Pedagogy, 7 Peer pressure, 116 Peer review, 31-32 Perception, 367 Performance, 8-9, 29, 31, 36, 48-49, 58, 63, 66-68, 93-106, 111-115, 118-119, 163, 175-235, 248, 252, 265, 277-278, 286, 290-291, 294-297, 311, 316, 327, 341, 359-360, 367-368, 372, 385, 408-409, 427-428 level of, 95, 98, 101, 103, 113, 176, 180-185, 187, 191, 198, 200, 207-209, 224-225, 233, 278, 286, 295-296, 316, 327, 341, 359-360, 367, 385, 408 Performance achievement, 408 Performance assessment, 8, 93-95, 97-106, 115, 119, 163, 175-235, 252, 290, 294, 297, 359, 428
-
-complex learning targets, 359 mathematics learning, 105, 185 performance tasks, 95, 100, 102, 177, 222, 224, 226, 235 scoring rubrics, 178, 220 Performance assessments, 100, 102, 177, 179, 182, 224-226, 235, 278, 290-291, 311, 409 challenge, 102, 278 complex, 177 Performance criteria, 93, 217, 224, 294 Performance standards, 372 Period, 108, 132, 163, 313, 324, 341, 352, 356, 359-360, 367, 375, 388, 416 Persistence, 354 Personal experience, 229 Personal growth, 16 Personal journals, 292-293, 305 Personification, 105 Persuasion, 192 Persuasive writing, 192 Peterson, 77, 429 Phi Delta Kappan, 427 Philosophy, 354 Physical education, 50, 55, 58-59, 62-63 Physical science, 75 Picture, 3, 10, 64, 103, 132, 187, 203, 225, 244-245, 255, 260, 274, 350, 352, 355, 364, 386, 389 Pictures, 414-415 Place value, 133, 325 Placement, 263, 392, 406 Plagiarism, 69 Planning, 3-4, 8-9, 11, 28, 46, 48, 79, 85, 91, 96, 107-108, 114, 116-117, 119, 131-133, 153, 163, 169, 179-180, 212, 239-241, 260, 283-284, 287, 295-296, 311, 315-317, 326, 330, 379, 392, 398, 401, 420-421, 425 of questions, 163, 260, 311 Planning instruction, 330 plants, 98, 100, 250 Platform, 297 Play, 7, 37, 72, 102-103, 112-113, 155, 163, 296, 335, 404 Plays, 96, 387 Plot, 292 Plots, 60, 104, 282 Poetry, 80, 176 Point of view, 28, 51, 53, 62, 104, 114, 246 Pointing, 33, 82, 265, 351 Policies, 349 Policy, 27, 350, 374, 428 Population, 55, 141, 278, 351 Portfolio, 13, 15-16, 18-19, 34, 38, 43, 86, 90, 96, 120, 125-126, 165, 174, 190, 220, 223, 226, 235, 266, 271, 298, 306-307, 330-332, 337, 343-344, 373, 377-378, 381, 385, 387-388, 391, 394, 399-401, 404-406, 408-417, 419-425 Portfolio contents, 404-405, 408-409, 419-420, 422-424 Portfolios, 8, 96, 190, 220, 289, 388-389, 400, 403-404, 406-425 presentation, 409 showcase, 408 student teacher, 411 Positioning, 46 Posters, 97, 210 Post-test, 131, 180, 240 Potential, 76, 99, 116, 212, 265, 286, 294, 317, 349, 351, 404, 415 power, 50, 140, 150, 217, 274, 280, 284, 372, 428 and authority, 50, 274 PowerPoint, 97 Practice, 7-8, 10, 12, 24, 26, 30, 33, 36, 40-41, 49, 52-53, 55-56, 63, 77, 82-83, 88, 91, 106, 108, 119-121, 130, 138, 154-155, 161-163, 176, 191, 199, 211, 219-220, 222-224, 233, 259-260, 262-263, 286, 291, 293, 297, 300-301, 309, 311-314, 316-318, 330-332, 334-335, 339, 348, 351-352, 356, 367-368, 375, 382, 385-387, 410, 427-428 Practice tests, 162 Predicting, 74 Prefixes, 49, 53, 115, 325, 331-332 Prepositions, 49 Prerequisite knowledge, 70, 85, 98-101, 103-104 Presence, 100, 350 Presentation, 1, 58, 62, 95, 97, 103, 152, 182, 187, 198, 200-201, 205, 223, 409 Pretest, 131, 180, 240, 262
-
-Prewriting, 316 Principals, 9 Print, 15-16, 69 Prints, 328 Private ownership, 141 Private practice, 77 Probability, 80 Problem behavior, 374 Problem solving, 34, 54, 95, 176, 185, 317, 410 Problem-solving, 101, 205, 410 Procedural knowledge, 48-50, 57, 59-60, 69, 97, 113 Procedures, 8, 49, 101, 103, 107-108, 131, 134, 167, 260, 265, 348-349, 357, 368 Process approach, 224 Process skills, 58 Processing, 279 Product, 31, 36, 48-49, 54, 56, 58-63, 65-68, 70-71, 73, 85, 87, 91, 95, 98-99, 104-106, 110, 114, 118, 121, 124, 163, 176-178, 182-184, 186-190, 194, 198-199, 201, 207-208, 217, 219-220, 222, 224-225, 228, 231, 233-234, 252, 289, 317, 385, 407-409, 416 Productive disposition, 61 Products, 24, 60, 65, 68, 76, 88, 94-95, 98, 130, 176-177, 182, 199, 207-208, 211-212, 218, 233, 250 Professional development, 9, 71, 427 Professional growth, 15, 347 Professionals, 36, 72 Proficiency levels, 365-366 Profiles, 361 Program effectiveness, 5-6, 26 Programs, 4, 128, 163, 221, 349, 416 Project, 82, 102, 305, 316, 330, 381-382, 388, 406-409, 411, 414, 417, 424 Project work, 409 Projects, 27, 76-77, 97, 108, 309, 311-312, 350, 411, 416 Prompts, 304-305, 385, 387, 412, 414 Propositions, 136-142, 151, 155, 162-163, 169, 250 Props, 200 Protocol, 49, 69, 301, 303, 336 Psychology, 367, 427 Publications, 428 Publishing, 317 Punctuation, 57, 64, 188 Punishment, 326-327, 351 Purpose(s), 12 **Q** Qualifications, 55 Quality, 2-5, 7-14, 18-19, 21-23, 28-31, 34, 36, 38, 40, 43, 46-48, 54-55, 60, 83-84, 86-87, 90, 91-92, 94-96, 98-99, 101, 104, 106-108, 112, 114, 116-117, 119, 128-129, 131, 134, 137, 142, 150-153, 155, 159, 163, 165, 167-169, 174, 176-179, 182-183, 188, 191, 193, 198-199, 201-205, 207-212, 215, 217-220, 222-235, 238-239, 242, 244-245, 249-252, 256, 259-261, 266-269, 271, 275, 277, 280, 285, 287, 290-291, 294, 296, 299, 301, 310, 327, 330, 336, 347, 349, 351, 355, 359-360, 362, 364, 367-368, 380, 382, 385, 391-392, 405-406, 408, 412, 416, 427 Quality control, 2, 290 Quantities, 295 Quantity, 205 Questioning, 274, 276, 279-280, 297-298, 300, 306, 349, 428 for understanding, 274 Questioning strategies, 276, 298, 300, 306 Questioning techniques, 428 Questions, 14-15, 18, 21, 25-26, 28, 30, 34-35, 39, 53, 59, 65, 72, 74, 76, 79-80, 87-88, 93, 95-98, 100-102, 108, 110-111, 113, 116-119, 121-122, 131-132, 135-136, 138-139, 143-144, 149, 151-154, 159, 161-164, 166, 179, 190-191, 193, 209, 217-218, 227-228, 231, 237, 240, 244-245, 259-260, 262, 267, 274, 276-281, 284-286, 289-292, 294-300, 304, 306-307, 311, 314, 331, 338, 350, 374, 376, 385, 387, 390-391, 395, 400, 414, 420, 423
-
-easy, 98, 135-136, 139, 149, 152, 237 encouraging, 280
-
-from students, 190, 281
-
-- generating, 163
-- harder, 209, 350 ideas for, 119, 294
-
-leads, 209 on tests, 245, 259 poor, 26, 97-98, 116-117, 190, 294-295 probing, 100 true/false, 93, 139, 151-152 what if, 277 Quizzes, 9, 75, 80, 108, 128, 153, 157, 161, 163, 259, 309, 311-312, 314, 339, 353 Quotation marks, 57 **R** Range, 24, 48, 51, 94, 100, 113, 205, 208, 217, 237, 243, 280, 285, 291, 304, 326, 358, 361, 364, 398, 404 Rates, 143 ratios, 106 tables, 106 Raw score, 311, 323, 328, 330, 335, 337, 343, 356 Raw scores, 328, 357, 365, 368 Reaching, 8, 81, 218 Readiness, 285 Reading, 14, 24, 26, 30, 32, 39, 41-42, 52, 58, 61-63, 68, 78-79, 82, 84, 87, 95, 101-102, 115, 121-124, 132-133, 138, 142, 145, 150, 152, 156, 166-167, 170, 181, 184-185, 227, 230, 233-234, 244, 246-248, 261, 265, 267-270, 280, 288, 292, 299-300, 302, 304-305, 313-314, 317, 325, 331, 334, 338-342, 374-376, 390, 395-398, 420, 428 acceptable, 102, 145, 150, 280 aloud, 95, 181, 325, 331 between the lines, 52 difficulties, 61, 145, 261, 267-269 partner, 14, 39, 41-42, 87, 121-124, 167, 227, 230, 233-234, 267-270, 299-300, 302, 304-305, 339-342, 374-376, 396-398, 420 to students, 32, 41, 78, 82, 233, 302, 305, 341, 374 Reading between the lines, 52 Reading comprehension, 79, 102, 138, 313 Reading fluency, 181 Reading process, 313 Reading skills, 58, 82 Reasonableness, 65, 70, 205 Reasoning, 48-58, 60-61, 63, 65-71, 73-74, 85, 87-89, 91, 95, 98-102, 104-106, 110, 114-115, 118, 121, 124, 130, 132-133, 135, 137-139, 141, 144-145, 155-156, 162-163, 177-178, 182, 187, 198, 201, 211, 224, 231, 233, 237, 239-243, 246-249, 252-253, 257, 259, 261, 263-265, 274, 276, 280-282, 285-287, 289-292, 294, 296, 298, 300, 302, 306, 317, 320, 409, 428 Reasoning skills, 58 Recall, 56, 72, 133, 247, 282, 311, 356 Receiving, 182, 382 Recommendations, 30, 268-269, 346-347, 356, 363-364, 368, 372, 421 Record keeping, 287, 296, 309-344, 372 Recording, 34, 291, 304, 310, 323-324, 330, 337, 340, 344 Record-keeping, 8, 102, 295, 309-310, 319, 323, 337, 342, 344, 346, 356 Recordkeeping, 81 Records, 9, 39, 81, 286-287, 292, 294-295, 304, 315, 319, 324-325, 330-331, 335, 356, 364-365, 381, 392 Reds, 157 Reference, 49, 57, 72-73, 202, 255, 385 Reflecting, 3, 7, 10-11, 36, 82, 84, 95, 130, 220-221, 224-225, 404, 424 Reflective learners, 404 Reflective thinking, 412 Reinforcement, 75 RELATE, 21, 38, 43, 52, 59, 137, 186, 192, 207, 258 Relationship, 55, 80, 115, 241, 284 Relationships, 52, 54, 74, 98, 247, 258, 289, 428 Reliability, 50, 249, 286 Religion, 138, 146 Remembering, 56 Reminders, 200, 416 Reporting, 27, 78, 81, 108, 309-310, 312, 316, 326, 341, 344, 349, 354, 357, 361, 364-365, 372, 428 Reports, 60, 186, 310, 312, 317, 350, 355, 376, 381, 386 Representation, 4, 346, 358, 361 Representations, 327 reproduction, 116
-
-leading, 26, 116
-
-Research, 1, 9-10, 21, 24, 27, 29-30, 33-34, 37-38, 43, 58, 60, 66, 72, 104, 136, 153, 176, 185, 221, 255, 317, 407, 409, 428 findings, 33 sampling, 407 Research on teaching, 428 Research reports, 60, 317 Resources, 19, 41-43, 64, 72, 90, 106, 126, 168, 171, 174, 183, 185, 235, 244, 271, 307, 344, 378, 386, 401, 425 Respect, 18, 33, 37, 40, 113, 163, 218, 225, 281, 387, 392, 415 Responding, 59, 182, 261, 268-269, 278-279, 281, 290, 293, 304 Response, 1, 7-10, 34, 58, 73, 92-106, 111-115, 119, 127-157, 159-174, 176-178, 182, 224, 237-271, 274, 278-282, 286, 290-294, 297, 305, 311, 331, 362 Response journals, 292-293, 305 Response patterns, 281 Response to Intervention (RTI), 1 Responses, 16, 94, 96, 113, 144, 146-147, 152, 162-163, 182, 234, 237, 245, 249-250, 253, 260-261, 263, 277-281, 290-295, 297, 303-304, 328, 390 selection, 162, 294 Retention, 220 Retrofitting, 109 Review committees, 415 Revision, 30-31, 36, 122, 155, 163, 168, 212, 219-220, 222, 227-231, 260, 286, 312, 317, 396, 420 Reward system, 326 Rewards, 26, 355, 359, 428 Rhode Island, 147 Rigor, 78 risks, 417 Risky Business, 417 Roles, 190-191, 286, 404 Root words, 53, 115 Rubric, 31, 73, 94-95, 104, 176-177, 179, 182-183, 188, 193, 198-212, 217-220, 222-233, 235, 242, 246, 248-249, 251-262, 265, 268-269, 271, 280, 285-287, 296-298, 301, 304, 307, 317, 324, 330-331, 347-348, 357, 359-364, 368, 372-373, 376-378, 396 Rubrics, 3, 5, 11, 22, 42, 47, 92, 95, 110, 129, 176-178, 182, 188-189, 198-199, 201-202, 205, 207-208, 210, 212, 217, 220-226, 230-233, 235, 238, 242, 249, 251-252, 254-257, 259-260, 263, 265, 275, 280, 286-287, 289, 291, 294-295, 301, 307, 310, 347, 359, 361, 380, 396, 405, 427 exemplars, 427 holistic rubrics, 198 task-specific, 207-208, 242, 249, 252, 254-255, 257, 259, 263 task-specific rubrics, 207, 249, 252, 254-255 Rules, 57, 112, 180, 211, 274, 278, 286, 288, 302, 326 **S** Samples, 13, 16, 31, 85, 113-114, 181, 189, 191, 207-211, 217, 225, 289, 301, 317, 330-331, 381, 385, 389-391, 406-409, 411, 421 Satisfaction, 163, 375 Scaffold, 219 Scaffolding, 85, 183-184, 196 Scale, 15, 21, 40, 62, 130, 176, 198-199, 201, 203, 251, 256, 284, 356-357, 360, 364, 367-368 Scales, 24, 198, 251, 256, 360 Scatter plots, 60, 104 Schedules, 100, 149 Scheduling, 390 Schemes, 8 School, 1, 4, 7, 9-10, 16, 21, 23, 26-27, 31-32, 35, 37, 40, 50-51, 55, 61, 64, 72, 76-77, 80, 84-85, 92, 109, 119, 131, 136, 149-150, 154, 156, 160-161, 185-186, 188-189, 191-193, 208, 221-222, 252, 264, 279, 284, 286, 288, 291, 312, 314, 316-317, 324, 326, 328-329, 335, 346, 349, 352-354, 364, 374, 381-382, 384, 387-388, 391, 407, 409, 427 School day, 149 School district, 7, 9, 35, 72, 76, 80, 84, 109, 119, 161, 222, 264, 284, 314, 316, 329, 335 School districts, 4, 317 School leaders, 23, 40, 160, 427 School mathematics, 154 Schooling, 61 Schools, 7, 26-27, 46, 50, 55, 59, 62, 81, 141, 176,
-
-260, 262, 346, 349, 354, 366 in the United States, 141 Science, 24, 34-35, 50, 54-55, 58-59, 62-63, 75-77, 80, 82, 94, 101, 109, 112, 115, 119, 185, 191, 206, 223, 239, 245, 255, 264, 279, 285, 316, 353-354, 408-409, 427-429 new, 35, 54, 75-76, 80, 101, 427-429 science textbooks, 77 Scientific method, 56 Scientific thinking, 115 Scientists, 143, 190 Scope, 111-113, 218, 420, 422 Scores, 77, 93, 101, 135, 150, 153, 161, 260, 262, 327-328, 330-331, 334, 336, 347-348, 351-353, 357-365, 368, 372-373, 376-378, 385 raw, 328, 330, 357, 365, 368 Scoring, 3-5, 8, 11, 22, 24, 31, 47, 92, 94-96, 107-108, 116, 119, 129, 131, 134, 144-145, 167, 178, 198, 201, 204-205, 207, 211, 217, 219-220, 237-239, 242, 249-251, 255-257, 259-263, 265-269, 271, 275, 286, 290-291, 294-296, 304, 307, 310, 317, 347, 380, 405 rubric, 31, 94-95, 198, 201, 204-205, 207, 211, 217, 219-220, 242, 249, 251, 255-257, 259-262, 265, 268-269, 271, 286, 296, 304, 307, 317, 347 Scoring guides, 4, 11, 31, 205, 238-239, 242, 249, 266-267, 269, 271, 290, 294-295, 304 Scoring rubric, 95, 204, 217, 219, 286, 296, 317 Scoring rubrics, 3, 5, 22, 47, 92, 129, 178, 220, 238, 275, 295, 310, 347, 380, 405 Search, 49, 198 Second Step, 69 Secondary students, 157 Section, 89, 111, 121-124, 135-136, 148, 167-168, 170, 172-173, 183, 193, 198, 212, 222, 227, 229-231, 233-234, 246, 249, 268-270, 276, 280, 291-292, 299, 304-305, 319, 339-342, 357, 359, 361, 374-376, 396-398, 406, 408-409, 420-423 Self, 2-5, 9-12, 15, 22, 25-26, 29-30, 33-38, 40, 42-43, 47, 72, 78, 80, 82-83, 85, 92, 96, 129, 131, 155, 157, 159, 163, 171-173, 177-178, 180, 198-199, 206, 209, 217-218, 220, 222-225, 233, 238, 240, 259, 263-264, 266, 271, 275, 287, 289, 293, 301, 309-310, 312, 315-317, 330-332, 347, 376, 380, 382, 396, 405-406, 412, 414-415, 417-418, 423-424, 428 Self-assessment, 3-4, 9, 12, 15, 29, 33-34, 37-38, 42-43, 80, 82, 85, 96, 129, 157, 159, 198, 209, 218, 220, 222-223, 263, 312, 315-316, 396, 412, 415, 418 involving students in, 9 self-evaluation, 26, 38, 40, 43 Self-reflection, 30, 36, 155, 163, 220, 330, 406, 412, 414-415, 417-418, 423-424 Sentence fluency, 223, 256 Sentences, 94, 105, 137, 205, 207, 209, 232, 237, 243-244 Separation, 316 Sequence, 94, 200, 250, 256, 274, 282 Setting, 3-4, 9, 29, 38, 42-43, 82, 84-85, 96, 129, 157, 159, 165, 172-174, 198, 209, 220-221, 278, 280, 285, 292, 312, 315, 364, 379, 381, 384, 387-388, 390, 394, 397, 400-401, 407, 415, 420-421 Shapes, 55, 71, 106, 244, 313 two-dimensional, 55 Sharing, 3, 8, 11, 72, 82, 85, 149, 172, 220, 224-225, 250, 379, 390, 400-401, 404-406, 415-417, 419, 421, 424 Shepard, 29-30, 32, 428-429 Signals, 26 Signs, 149, 288, 302, 384 Simile, 200 Size, 24, 40, 53, 107, 111, 113, 118, 124, 131-133, 179-181, 188, 239-240, 278, 295, 328, 366, 370, 410, 423 Skew, 139, 358 Skill development, 29, 58 Skills, 2, 25, 32-33, 58, 65, 67-68, 71, 82, 88, 98-99, 101, 103, 130, 149, 177, 183-185, 263, 285, 287, 289, 294-296, 311-312, 322-323, 325-326, 335, 337, 341, 343-344, 353-356, 374, 409, 414 attending, 354 practicing, 184, 354 sending, 82
-
-Sleep, 24 Slides, 73, 97 Small group, 161, 381-382 Small groups, 278, 288, 301-302, 401 Small-group instruction, 384 Snacks, 24 Social skills, 311, 323, 326, 335, 337, 341, 343-344, 356, 374 Social studies, 24, 50, 54-55, 59, 62-63, 133-134, 136, 141, 191, 239, 244, 285, 356, 409, 411, 427 Software, 128, 145, 163, 323, 416, 428 Software programs, 128, 163 Solutions, 67, 94, 131, 295, 326, 328, 373-374, 378, 392 Songs, 59 Sorting, 50-51, 53, 208-209, 319 Sound, 2-3, 5, 7-8, 11, 14, 22, 47, 52, 85, 91-126, 129, 178, 218, 238, 241, 275, 283, 291, 297, 310, 347-349, 373, 377, 380, 405 Sounds, 95, 409 Space, 9, 40, 146-148, 288, 302, 326, 355 Speaking, 95, 103, 105, 276, 285 Special needs, 100, 239, 366 Speech, 105, 187, 209, 239-240 speed, 185-186, 188-189 Spelling, 57, 98, 188 conventions of, 57 Spelling patterns, 57 Spreadsheets, 153 Staff, 40, 64, 381, 388, 391, 415 Stages, 119, 204, 210, 218, 386 Standard English, 57 Standardized tests, 4, 110 Standards, 1, 6-7, 11-12, 23, 27-28, 46, 49-51, 55-56, 59-62, 64-66, 70-73, 75-76, 78-81, 83, 85, 87, 99, 106, 108-109, 111, 113, 117-118, 123, 134-135, 188, 193, 207, 210, 212, 217, 221, 227-232, 241, 246, 249, 263, 280, 285-286, 291, 294, 296, 301, 310, 313, 324, 326, 328, 330, 334-335, 347, 349, 352-353, 355, 359, 361, 364-368, 372, 384, 391, 427-428 linking, 361, 428 school and district, 349 standards-based education, 428 teaching to, 56, 61, 81, 221 Standards-based, 46, 81, 85, 310, 326, 335, 347, 349, 352, 355, 366, 372, 428 Standards-based education, 428 State standards, 1, 46, 49-50, 55, 61, 64, 71, 75, 78-81, 83, 246, 285, 349, 352, 427 States, 24-25, 29, 49, 61, 81, 104, 134, 137-138, 140-141, 146-147, 177, 248, 254 Statistics, 80 Stereotypes, 296 Sticky notes, 26 Stimulus, 96 Storage, 416 Stories, 184, 282, 404, 406, 408, 412 theme of, 406 Strands, 324-325, 410 Strategies, 1, 9-10, 21, 29-30, 33, 37-38, 41-43, 45, 64, 77, 91, 95, 111, 118, 127, 149, 154, 158, 162-163, 175, 201, 206, 217, 219-222, 233, 237, 264-265, 273, 276, 287, 289, 294, 297-298, 300-301, 306, 309, 322, 325, 331-333, 342, 345, 379, 396, 401, 403, 408, 413-415, 417, 427 intended, 29, 33, 38, 41-42, 77, 201, 206, 298, 309, 415 Stress, 136, 186 Structure, 12, 51-53, 75, 110, 135-136, 139, 157, 177, 183, 185, 193, 198-200, 203-204, 210, 212, 214, 224, 226, 234-235, 238, 246, 248, 258, 266, 271, 276, 282, 298, 306, 316, 333, 340, 357, 388 Student achievement, 1-3, 5-6, 8, 11, 21, 24, 26-28, 37-38, 43, 72, 80, 103, 112, 117, 130, 154, 184, 198, 224, 262, 276-277, 286-287, 296, 298, 304, 306, 309-311, 316-317, 327-328, 341, 346, 350, 352, 355, 359-360, 372, 404, 407, 418 Student behavior, 78, 374 Student data, 149 Student engagement, 7, 300 Student involvement, 5, 8-9, 11, 22, 27, 47, 92, 119, 129, 178, 238, 259, 275, 297, 310, 347, 380, 405, 417
-
-speaking, 103, 285
-
-Student motivation, 163, 184, 210, 262, 301, 388, 427 Student outcomes, 428 Student performance, 111, 118, 210, 225, 277, 295, 327 Student progress, 102, 190, 314, 324, 366 Student success, 12, 23, 72, 349, 365 Students, 1-14, 16, 22-37, 41-42, 46-54, 56-58, 60-62, 64-67, 69-73, 75-86, 88-90, 91-97, 99-104, 108-114, 117-120, 123-125, 128-131, 133, 135-136, 138-139, 143-146, 148-151, 153-157, 159, 161-163, 165, 170-174, 176-178, 180, 182-193, 195-196, 198-199, 201-202, 204, 206-212, 217-226, 228-229, 232-235, 237-250, 252, 256, 259-266, 270-271, 274-281, 283-306, 309-312, 314-317, 319-320, 323-324, 326-328, 330-335, 337, 339-343, 346-356, 358-359, 361, 364, 366-367, 372, 374, 379-401, 404-407, 409-412, 414-421, 424, 427-429 as people, 209 calling on, 279 conferences with, 36, 379 differences between, 6, 51, 53, 94 embarrassing, 26 reluctant, 1 self-assessment by, 218 self-evaluations, 293 Students with disabilities, 428 Students with special needs, 239, 366 Studies, 24, 30, 50, 54-55, 59, 62-63, 133-134, 136, 141, 191, 239, 244, 285, 294, 351, 356, 409, 411, 427 D, 136, 141, 427 G, 54, 244, 427 Study guides, 221 Style, 102, 135, 404, 416 Success for All, 392 Suggestions, 9, 31, 36-37, 85, 108, 110, 154, 163, 169, 172, 227-231, 262-263, 265, 270, 276, 278, 280-281, 286, 289, 291-292, 299-300, 335, 342, 409, 416-417, 420, 424 Summative assessment, 4-6, 8, 11, 21, 26-28, 37-38, 43, 46, 80-81, 109, 161, 173, 188, 248, 262, 278, 311, 314-319, 324, 336-337, 339, 343-344, 345-378, 428 systems for, 278, 428 Summative assessments, 3, 21, 83-84, 96, 108, 119, 136, 153, 262, 309, 316-317, 353, 356, 361 Supervision, 428-429 Support, 2, 4-5, 9, 27, 37, 53, 55, 71-72, 82, 111, 136, 145, 156, 162, 177, 180, 189, 247-248, 253, 282-283, 287-288, 295, 302, 346, 355, 374, 384, 391, 407, 423 Support system, 374 Supporting, 2, 9, 23, 62, 74, 79, 102, 104, 133, 324 Surveys, 16, 40 Swanson, 315-316 Syllables, 59 Symbols, 199, 252, 348, 355, 357, 364 Synonyms, 325, 331-332 Synthesis, 51, 54, 69, 257, 271 System, 1, 3, 7-8, 21-23, 32, 37-38, 43, 46, 67, 78, 108, 136, 191, 220, 293, 295, 310-311, 318-319, 323-324, 326, 328, 330, 337, 340-344, 349-350, 352, 356, 366, 372, 374, 386-387, 416, 419, 421 Systems, 23, 278-279, 330, 349, 356, 428 **T** Tables, 60, 77, 106, 362, 390 Tactics, 12 Talking, 225, 288-289, 291, 387, 418 Tardiness, 348 Tasks, 3, 5, 8, 11, 22, 25, 28, 47, 65, 83, 92, 95, 97-98, 100, 102, 107-109, 111-112, 116-117, 119, 123, 129, 131, 134, 167, 177-178, 181, 183-187, 189-193, 207-208, 211-212, 222, 224, 226-229, 233, 235, 238, 249, 252, 275, 294, 310-312, 317, 319, 328, 347, 380, 405, 427 Taxation, 146 Teacher, 7, 10, 22-23, 26, 28-29, 35-36, 56, 63-64, 72, 76, 79-81, 85, 92, 109, 111, 115, 117, 119, 128, 136, 150, 154, 161, 163, 190, 193, 203, 206, 210, 218, 221-224, 241, 260, 262, 264,
-
-> 267, 276-277, 281, 284, 288, 290-293, 309, 312-313, 316, 324-325, 329, 331, 335, 346, 348-350, 354, 359, 362, 364, 367, 372, 381, 383-388, 390-392, 404, 407, 410-411,
-
-416-417 Teacher competencies, 10 Teachers, 1, 3-7, 9-10, 12, 22-23, 25-29, 32-33, 36-37, 47, 64, 76-79, 81, 84-85, 92, 96, 102, 108, 110-111, 113, 128-129, 137, 149, 171, 176-178, 185-187, 190-191, 202, 204, 207, 210-211, 218, 225, 238, 243, 249, 274-275, 278-279, 292-293, 297, 310, 317, 319, 328, 347-349, 353-355, 362, 364, 366-367, 372, 380, 382, 388, 390, 392, 396, 405, 408, 411, 415, 417, 427 decision makers, 23, 37 educators, 7, 78 head, 78 research of, 10 Teaching, 3, 8, 10, 12, 21, 24-25, 29, 33, 35, 37, 46, 48-49, 56-59, 61, 63-65, 72, 75, 77, 79-82, 85, 87-88, 104, 108, 110-111, 118, 121, 123-124, 128, 135, 149, 153, 156, 169, 171, 177, 184, 198, 208, 211, 217, 220-221, 226, 229, 235, 238, 240, 262-263, 265-266, 271, 274, 284, 293, 299-301, 311, 315, 349, 354, 384, 427-429 Teaching practices, 427 Teaching strategies, 21 Teams, 7, 108, 400 Techniques, 9, 154, 200, 428 Technology, 49, 61, 106, 128 Terminology, 88, 191, 198, 200 Test, 4, 9, 24-26, 34, 56-57, 64, 103, 111-120, 123-124, 126, 129-146, 148-159, 161-163, 165, 167-169, 171-172, 174, 180, 187, 207-208, 211, 225, 240-242, 245, 260, 262-263, 291, 302, 304, 307, 316-317, 319, 322, 324, 331-334, 348, 353, 372, 386 Test blueprint, 114, 120, 123-124, 126, 129, 133, 165, 168-169, 174, 304, 307 Test developers, 142, 187 Test items, 112, 130, 137-139, 144, 152-153, 155, 159 Test preparation, 24, 111 Test scores, 150, 161 testing, 1, 23, 52, 56, 64, 72, 98, 111, 128, 130, 135-136, 144, 147-148, 150, 153, 161, 311, 313 Tests, 4, 6, 10, 25, 27, 56, 77, 108, 110, 116, 128, 130, 133-135, 138, 144, 149-151, 153-154, 157, 161-162, 164, 168, 172, 176, 242, 245, 252, 259, 261-262, 309, 316, 331, 350, 353, 362, 367, 411 aptitude, 367 competency, 10 essay, 135, 245, 262 group achievement, 27 Problem with, 151 select, 116, 134-135, 144, 168 studying for, 161 Testwiseness, 116 Texas, 137-138, 147 Text, 15, 55, 58, 68, 73-74, 76, 78-79, 104-105, 115, 133, 145, 162, 168-169, 172-173, 182, 212, 227, 229-231, 246-248, 286, 292, 313-314, 427 expository, 314 Textbooks, 76-77, 232 adapted, 232 The Parent, 28, 84, 392 Theater, 59, 62-63 Theme, 406 Think, 1, 3, 9, 14, 18, 25, 28, 31, 36, 39, 41-42, 54, 61, 72-73, 76, 79, 83, 96, 103, 114, 131, 134, 137, 140, 146, 156, 163, 171-172, 179, 184, 191, 201, 209, 220, 245, 247-248, 255, 260, 274, 279-280, 282, 284, 289-290, 293, 299, 302, 305, 327, 335, 348, 358, 364, 368, 372, 382-383, 390, 393, 396, 410, 412, 416 Think time, 279 Thinking, 21, 32-33, 41, 53, 57-58, 101, 115, 163, 184, 186, 202-203, 210, 218-220, 239, 244, 261, 274, 278-282, 284, 293, 297, 314, 382, 409-410, 412, 414-415, 418 Time, 1, 3-4, 8, 14-15, 18, 27-28, 30, 32-34, 36-37, 41, 49-50, 58, 62, 64, 72, 75, 77, 80-82, 85, 95, 98-102, 105, 110-112, 116, 123, 130, 132, 135-137, 139, 144, 146, 148-153, 155, 159, 161, 163, 171, 176, 182-183, 185-187, 190, 192, 202, 210-211, 218-220, 223-224, 228-229, 239-240, 242, 260-261, 276-277, 279-280, 287-288, 290-291, 293, 295-296, 299-301, 303, 309, 312, 315-318, 326-328,
-
-411-412, 415-417, 419-420, 422, 424, 427-428 engaged, 27, 32, 301, 309, 355, 412 for responses, 279 to think, 18, 36, 260, 382, 390, 412 units, 75, 77, 152, 317 Time sampling, 100 Title, 12, 81, 251, 329-330, 413 Token, 27, 202 Tone, 190-191, 200 Tools, 60, 103, 119, 144, 177, 211, 217, 226, 233, 235, 238, 263, 266, 271, 276, 284, 286, 292, 298, 306, 359, 396 for teaching, 263 Topics, 1, 9, 13, 38, 62, 77, 86, 120, 165, 190-191, 201, 205, 207, 226, 240, 266, 281, 286, 289, 291, 294, 298, 315, 337, 373, 379, 388, 394, 419 touch, 9, 315, 336 Training, 1, 23, 40, 60, 211, 354, 427-428 Traits, 199, 207-209, 225, 256 Transfer, 50-51, 123, 157, 283 Transformation, 359 Transitions, 219, 256 Translation, 64 Transparency, 10 Treatment, 37, 76-77, 220, 355, 415 Trend, 113-114, 143 Triangles, 106 Truth, 147, 204, 281, 290 Turns, 254-255, 350 Turn-taking, 288 Tutors, 153-154 **U** Understanding, 1, 3, 6-8, 13, 15-17, 24-25, 27-29, 33, 36-38, 41-42, 49, 51, 56, 61, 72, 78, 80-86, 89, 99-100, 105, 109-111, 116, 118, 120, 125, 133, 143, 157, 161, 165, 172-173, 184-185, 188-189, 200-201, 204, 210-211, 217, 219, 225-226, 234, 237, 242-243, 245, 254-259, 263, 265-266, 270, 274, 276, 278, 280-281, 284-286, 289-293, 295-296, 298, 300, 306-307, 312, 315-316, 334, 337, 339, 343, 353, 359, 373, 377, 382, 384, 389, 391, 394, 396, 398, 404, 414, 419, 423, 427, 429 Unit of instruction, 313 UNIT test, 9, 115, 316 United States, 24, 134, 137-138, 140-141, 146 Units, 59, 75-77, 109, 152, 317 Using assessment results, 3, 81 **V** Validity, 54, 63, 114, 134, 184, 249 Validity and reliability, 249 Values, 63, 136, 259 Variables, 1, 183, 256, 352, 404, 428 Vegetables, 94 Venn diagrams, 53 Verbs, 49-50, 56, 192-193, 281-282 Vermont, 147 Very small numbers, 49 Video, 32, 287 Videos, 32 Videotape, 31, 300-301, 416 Videotapes, 300 Vision, 6, 30-31, 37, 42, 63, 73, 82-83, 154-155, 210, 217 Visual aids, 200 Visual arts, 50, 62, 71 Vocabulary, 79-80, 98, 115, 225, 258, 277, 284, 290-291, 313 Voice, 59, 200, 223-224, 256 Volume, 36, 287-288 Volunteers, 278, 412 **W** Wait time, 276, 279-280, 295, 299-300, 427-428
-
-334, 336, 342, 348-351, 353, 355, 357, 367, 372-373, 377, 381-392, 396, 398, 406-407,
-
-- wants, 63, 288, 383 Washington, 50, 55, 145, 190, 322, 427-428
-- Wealth, 146, 349
-- Weight, 114, 124, 356-357, 363-364
-- Well-being, 37, 346
-- Whole, 52, 54, 60, 103, 109-110, 123, 133, 135, 152, 161, 202, 207, 209, 219, 224, 248, 258-259, 278-279, 292, 315, 325-326, 353, 385, 390,
-
-412, 415, 417, 420-423 Word choice, 204, 223, 246, 256 Word families, 57 Word meanings, 313-314 Words, 31, 53-54, 57-59, 66, 73, 79, 84, 98, 103, 115, 133, 144, 152, 190, 200, 204, 232, 246, 252, 280, 334, 412, 428 base, 53, 57 Work, 1, 6-7, 9-10, 13, 16, 18, 25, 29-34, 36-37, 41, 49-51, 54-56, 60-65, 70, 79, 81-84, 87-89, 95-97, 101-103, 108-109, 117-118, 121-124, 151, 153, 155-157, 159, 162-163, 167-169, 171-172, 176-179, 181-183, 187-190, 198-199, 202-204, 206-210, 212, 217-218, 220, 222, 224-225, 227-228, 230-234, 239, 250-251, 256, 258-260, 262, 267-270, 277, 284, 286, 289, 293, 295, 299-305, 309, 311-313, 316-317, 319, 323, 325-331, 333-335, 337, 339-344, 349-356, 359-361, 364-367, 374-376, 381-392, 396-398, 404, 406-409, 411-415, 417, 420-424 Work habits, 311-312, 323, 326-327, 335, 337, 341, 343-344, 356, 374, 392 Workplace, 187 Worksheets, 75, 97, 153, 161 Writers, 117, 146, 162, 190-191, 397, 404 Writing, 24, 31-32, 34, 53-54, 57-58, 65, 69, 75-76, 99, 101, 113, 124, 131, 136-137, 139-142, 144, 148, 151-153, 163-164, 169, 176, 182, 184, 187, 190-193, 205, 219, 223-224, 226, 229, 237, 239, 252, 256, 261, 288, 290, 293, 295, 314, 316-317, 319, 326, 382, 386, 404, 407, 414, 428 drafts, 223, 317 form of, 53, 58, 140, 176, 182, 191, 239, 290, 407 genres, 314 kid, 428 ownership of, 32, 76, 141, 290 purpose for, 192 right, 34, 57, 99, 101, 113, 137, 139, 148, 184, 237, 288, 386 to solve, 101, 326 Writing groups, 382 Writing process, 190, 223-224, 316-317 Writing rubric, 205, 219, 256 Writing skills, 58 Written records, 294-295 Written responses, 182
-
-#### **X**
-
-X axis, 251
-
-#### **Y**
-
-Y axis, 251 Yellows, 157
-
-#### **Z**
-
-Zero, 282, 327-328, 353, 386

@@ -1,6 +1,7 @@
 # **STANDARDS for Educational and Psychological Testing
 
 American Educational Research Association American Psychological Association National Council on Measurement in Education Copyright © 2014 by the American Educational Research Association, the American Psychological Association, and the National Council on Measurement in Education. All rights reserved. No part of this publication may be reproduced or distributed in any form or by any means now known or later developed, including, but not limited to, photocopying or the process of scanning and digitization, transmitted, or stored in a database or retrieval system, without the prior written permission of the publisher.
+<<<<<<< HEAD
 
 Published by the American Educational Research Association 1430 K St., NW, Suite 1200 Washington, DC 20005
 
@@ -33,6 +34,25 @@ LB3051.A693 2014
 2014009333
 
 # **CONTENTS**
+=======
+Published by the American Educational Research Association 1430 K St., NW, Suite 1200 Washington, DC 20005
+Printed in the United States of America
+Prepared by the
+Joint Committee on the *Standards for Educational and Psychological Testing* of the American Educational Research Association, the American Psychological Association, and the National Council on Measurement in Education
+*Library of Congress Cataloging-in-Publication Data*
+American Educational Research Association.
+Standards for educational and psychological testing / American Educational Research Association, American Psychological Association, National Council on Measurement in Education.
+pages cm
+"Prepared by the Joint Committee on Standards for Educational and Psychological Testing of the American Educational Research Association, American Psychological Association and National Council on Measurement in Education"—T.p. verso.
+Include index.
+ISBN 978-0-935302-35-6 (alk. paper)
+1. Educational tests and measurements—Standards—United States. 2. Psychological tests—Standards— United States. I. American Psychological Association. II. National Council on Measurement in Education. III. Joint Committee on Standards for Educational and Psychological Testing (U.S.) IV. Title.
+LB3051.A693 2014
+371.26'0973—dc23
+2014009333
+
+## **CONTENTS**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 | PREFACEvii                                                                    |
 |-------------------------------------------------------------------------------|
@@ -53,9 +73,13 @@ LB3051.A693 2014
 | Integrating  the  Validity  Evidence21                                  |
 | Standards  for  Validity23                                                |
 | Cluster  1.  Establishing  Intended  Uses  and  Interpretations23 |
+<<<<<<< HEAD
 
 | Cluster  2.  Issues  Regarding  Samples  and  Settings  Used  in  Validation25 |  |
 |--------------------------------------------------------------------------------------------------|--|
+=======
+| Cluster  2.  Issues  Regarding  Samples  and  Settings  Used  in  Validation25 |  |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Cluster  3.  Specific  Forms  of  Validity  Evidence26                               |  |
 | 2.  Reliability/Precision  and  Errors  of  Measurement33                              |  |
 | Background33                                                                                     |  |
@@ -74,9 +98,13 @@ LB3051.A693 2014
 | Cluster  3.  Reliability/Generalizability  Coefficients44                                  |  |
 | Cluster  4.  Factors  Affecting  Reliability/Precision44                                 |  |
 | Cluster  5.  Standard  Errors  of  Measurement45                                       |  
+<<<<<<< HEAD
 
 | Cluster  6.  Decision  Consistency46                                                                   |        |
 |--------------------------------------------------------------------------------------------------------------|--------|
+=======
+| Cluster  6.  Decision  Consistency46                                                                   |        |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Cluster  7.  Reliability/Precision  of  Group  Means46                                             |        |
 | Cluster  8.  Documenting  Reliability/Precision47                                                      |        |
 | 3.  Fairness  in  Testing49                                                                            |        |
@@ -121,10 +149,14 @@ LB3051.A693 2014
 | Standards  for  Scores,  Scales,  Norms,  Score  Linking,  and  Cut  Scores102          |  |
 | Cluster  1.  Interpretations  of  Scores102                                                       |  |
 | Cluster  2.  Norms104                                                                                 |  |
+<<<<<<< HEAD
 
 
 | Cluster  3.  Score  Linking105                                                                                   |  |
 |------------------------------------------------------------------------------------------------------------------------|--|
+=======
+| Cluster  3.  Score  Linking105                                                                                   |  |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Cluster  4.  Cut  Scores107                                                                                      |  |
 | 6.  Test  Administration,  Scoring,  Reporting,  and  Interpretation111                                    |  |
 | Background111                                                                                                          |  |
@@ -149,16 +181,24 @@ LB3051.A693 2014
 | Cluster  4.  Test  Takers'  Responsibilities  for  Behavior  Throughout  the  Test                   |  |
 | Administration  Process136                                                                                           |  |
 | 9.  The  Rights  and  Responsibilities  of  Test  Users139                                               |  |
+<<<<<<< HEAD
 |                                                                                                                        |  |
 |                                                                                                                        |  |
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Background139                                                                                                          |  |
 | Standards  for  Test  Users'  Rights  and  Responsibilities  .142                                        |  |
 | Cluster  1.  Validity  of  Interpretations142  Cluster  2.  Dissemination  of  Information146        |  |
 
+<<<<<<< HEAD
 ### **PART III TESTING [APPLICATIONS](#page-159-0)**
 
 | 10.  Psychological  Testing  and  Assessment151                                     |  |
 |---------------------------------------------------------------------------------------------|--|
+=======
+### **PART III TESTING APPLICATIONS**
+| 10.  Psychological  Testing  and  Assessment151                                     |  |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Background151                                                                               |  |
 | Test  Selection  and  Administration152                                               |  |
 | Test  Score  Interpretation154                                                          |  |
@@ -166,10 +206,14 @@ LB3051.A693 2014
 | Types  of  Psychological  Testing  and  Assessment155                             |  |
 | Purposes  of  Psychological  Testing  and  Assessment159                          |  |
 | Summary163                                                                                  |  |
+<<<<<<< HEAD
 
 
 | Standards  for  Psychological  Testing  and  Assessment164                                          |                |
 |---------------------------------------------------------------------------------------------------------------|----------------|
+=======
+| Standards  for  Psychological  Testing  and  Assessment164                                          |                |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Cluster  1.  Test  User  Qualifications164                                                            |                |
 | Cluster  2.  Test  Selection165                                                                         |                |
 | Cluster  3.  Test  Administration165                                                                    |                |
@@ -205,6 +249,7 @@ LB3051.A693 2014
 | Program  Evaluation,  Policy  Studies,  and  Accountability  Systems209                           |                |
 | Cluster  2.  Interpretations  and  Uses  of  Information  From  Tests  Used  in           |                |
 | Program  Evaluation,  Policy  Studies,  and  Accountability  Systems                              | .210           |
+<<<<<<< HEAD
 | GLOSSARY215                                                                                                   |                |
 |                                                                                                               |                |
 | INDEX227                                                                                                      |                |
@@ -250,6 +295,37 @@ American Educational Research Association American Psychological Association Nat
 
 American Academy of Clinical Neuropsychology American Board of Internal Medicine American Counseling Association American Institute of CPAs, Examinations Team APA Board for the Advancement of Psychology in the Public Interest APA Board of Educational Affairs APA Board of Professional Affairs APA Board of Scientific Affairs APA Policy and Planning Board
 
+=======
+| GLOSSARY215                                                                                                   |                
+| INDEX227                                                                                                      |                |
+|                                                                                                               |                |
+
+## **PREFACE**
+
+This edition of *Standards for Educational and Psychological Testing* is sponsored by the American Educational Research Association (AERA), the American Psychological Association (APA), and the National Council on Measurement in Education (NCME). Earlier documents from the sponsoring organizations also guided the development and use of tests.Thefirst was *Technical Recommendations for Psychological Tests and Diagnostic Techniques*, prepared by an APA committee and published by APA in 1954. The second was *Technical Recommendations for Achievement Tests*, prepared by a committee representing AERA and the National Council on Measurement Used in Education (NCMUE) and published by the National Education Association in 1955.
+The third, which replaced the earlier two, was prepared by a joint committee representing AERA, APA, and NCME and was published by APA in 1966. It was the first edition of the *Standards for Educational and Psychological Testing,* also known as the *Standards.* Three subsequent editions of the *Standards* were prepared by joint committees representing AERA, APA, and NCME, published in 1974, 1985, and 1999.
+The current *Standards* Management Committee was formed by AERA, APA, and NCME, the three sponsoring organizations, in 2005, consisting of one representative from each organization. The committee's responsibilities included determining whether the 1999 *Standards* needed revision and then creating the charge, budget, and work timeline for a joint committee; appointing joint committee co-chairs and members; overseeing finances and a development fund; and performing other tasks related to the revision and publication of the *Standards.*
+
+### *Standards* Management Committee
+Wayne J. Camara (Chair), appointed by APA David Frisbie (2008–present), appointed by NCME Suzanne Lane, appointed by AERA Barbara S. Plake (2005–2007), appointed by NCME The present edition of the *Standards* was developed by the Joint Committee on the *Standards for Educational and Psychological Testing,* appointed by the *Standards* Management Committee in 2008. Members of the Joint Committee are members of at least one of the three sponsoring organizations, AERA, APA, and NCME. The Joint Committee was charged with the revision of the *Standards* and the preparation of a final document for publication. It held its first meeting in January 2009.
+
+### **Joint Committee on the *Standards for Educational and Psychological Testing***
+Barbara S. Plake (Co-Chair) Lauress L. Wise (Co-Chair) Linda L. Cook Fritz Drasgow Brian T. Gong Laura S. Hamilton Jo-Ida Hansen Joan L. Herman Michael T. Kane Michael J. Kolen Antonio E. Puente Paul R. Sackett Nancy T. Tippins Walter D. Way Frank C. Worrell
+Each sponsoring organization appointed one or two liaisons, some of whom were members of the Joint Committee, to serve as the communication conduits between the sponsoring organizations and the committee during the revision process.
+Liaisons to the Joint Committee
+AERA: Joan L. Herman APA: Michael J. Kolen and Frank C. Worrell NCME: Steve Ferrara
+Marianne Ernesto (APA) served as the project director for the Joint Committee, and Dianne L. Schneider (APA) served as the project coordinator. Gerald Sroufe (AERA) provided administrative support for the Management Committee. APA's
+legal counsel managed the external legal review of the *Standards.* Daniel R. Eignor and James C. Impara reviewed the *Standards* for technical accuracy and consistency across chapters.
+In 2008, each of the three sponsoring organizations released a call for comments on the 1999 *Standards*. Based on a review of the comments received, the Management Committee identified four main content areas of focus for the revision: technological advances in testing, increased use of tests for accountability and education policysetting, access for all examinee populations, and issues associated with workplacetesting. In addition, the committee gave special attention to ensuring a common voice and consistent use of technical language across chapters.
+In January 2011, a draft of therevised *Standards* was made availablefor public review and comment. Organizations that submitted comments on the draft and/or comments in response to the 2008 call for comments arelisted below. Many individuals from each organization contributed comments, as did many individual members of AERA, APA, and NCME. The Joint Committee considered each comment in its revision of the *Standards*. These thoughtful reviews from a variety of professional vantage points helped theJoint Committee in drafting the final revisions of the present edition of the *Standards.*
+Comments came from the following organizations:
+
+### Sponsoring Organizations
+American Educational Research Association American Psychological Association National Council on Measurement in Education
+
+### Professional Associations
+American Academy of Clinical Neuropsychology American Board of Internal Medicine American Counseling Association American Institute of CPAs, Examinations Team APA Board for the Advancement of Psychology in the Public Interest APA Board of Educational Affairs APA Board of Professional Affairs APA Board of Scientific Affairs APA Policy and Planning Board
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - APA Committee on Aging
 - APA Committee on Children, Youth, and Families
 - APA Committee on Ethnic Minority Affairs
@@ -261,6 +337,7 @@ American Academy of Clinical Neuropsychology American Board of Internal Medicine
 - APA Division of Evaluation, Measurement, and Statistics (Division 5)
 - APA Division of School Psychology (Division 16)
 - APA Ethics Committee
+<<<<<<< HEAD
 
 APA Society for Industrial and Organizational Psychology (Division 14)
 
@@ -301,11 +378,41 @@ Although the *Standards* is prescriptive, it does not contain enforcement mechan
 Educational and psychological testing and assessment are among the most important contributions of cognitive and behavioral sciences to our society, providing fundamental and significant sources of information about individuals and groups. Not all tests are well developed, nor are all testing practices wise or beneficial, but there is extensive evidence documenting the usefulness of well-constructed, well-interpreted tests. Well-constructed tests that are valid for their intended purposes have the potential to provide substantial benefits for test takers and test users. Their proper use can result in better decisions about individuals and programs than would result without their use and can also provide a route to broader and more equitable access to education and employment. The improper use of tests, on the other hand, can cause considerable harm to test takers and other parties affected by test-based decisions.The intent of the *Standards for Educational and Psychological Testing* is to promote sound testing practices and to provide a basis for evaluating the quality of those practices. The *Standards* is intended for professionals who specify, develop, or select tests and for those who interpret, or evaluate the technical quality of, test results.
 
 ## **The Purpose of the Standards **
+=======
+- APA Society for Industrial and Organizational Psychology (Division 14)
+- APA Society of Clinical Child and Adolescent Psychology (Division 53)
+- APA Society of Counseling Psychology (Division 17) Asian American Psychological Association Association of Test Publishers District of Columbia Psychological Association Massachusetts Neuropsychological Society Massachusetts Psychological Association National Academy of Neuropsychology National Association of School Psychologists National Board of Medical Examiners National Council of Teachers of Mathematics NCME Board of Directors NCME Diversity Issues and Testing Committee NCME Standards and Test Use Committee
+
+### Testing Companies
+ACT Alpine Testing Solutions The College Board Educational Testing Service Harcourt Assessment, Inc. Hogan Assessment Systems Pearson Prometric Vangent Human Capital Management Wonderlic, Inc.
+
+### Academic and Research Institutions
+- Center for Educational Assessment, University of Massachusetts
+- George Washington University Center for Equity and Excellence in Education
+Human Resources Research Organization (HumRRO) National Center on Educational Outcomes, Univer sity of Minnesota
+
+### Credentialing Organizations
+American Registry of Radiologic Technologists National Board for Certified Counselors National Board of Medical Examiners
+
+## Other Institutions
+California Department of Education Equal Employment Advisory Council Fair Access Coalition on Testing Instituto de Evaluación e Ingeniería of Avanzada, Mexico Qualifications and Curriculum Authority, UK Department for Education Performance Testing Council
+When the Joint Committee completed its final revision of the *Standards,* it submitted the revision to the three sponsoring organizations for approval and endorsement. Each organization had its own governing body and mechanism for approval, as well as a statement on the meaning of its approval: **AERA:**The AERA's approval of the *Standards* means that the Council adopts the document as AERA policy.
+**APA:** The APA's approval of the *Standards* means that the Council of Representatives adopts the document as APA policy.
+**NCME:** The *Standards for Educational and Psychological Testing* has been endorsed by NCME, and this endorsement carries with it an ethical imperativefor all NCME members to abide by these standards in the practice of measurement.
+Although the *Standards* is prescriptive, it does not contain enforcement mechanisms. The *Standards* was formulated with the intent of being consistent with other standards, guidelines, and codes of conduct published by the three sponsoring organizations.
+> Joint Committee on the *Standards for Educational and Psychological Testing*
+
+## **INTRODUCTION**
+Educational and psychological testing and assessment are among the most important contributions of cognitive and behavioral sciences to our society, providing fundamental and significant sources of information about individuals and groups. Not all tests are well developed, nor are all testing practices wise or beneficial, but there is extensive evidence documenting the usefulness of well-constructed, well-interpreted tests. Well-constructed tests that are valid for their intended purposes have the potential to provide substantial benefits for test takers and test users. Their proper use can result in better decisions about individuals and programs than would result without their use and can also provide a route to broader and more equitable access to education and employment. The improper use of tests, on the other hand, can cause considerable harm to test takers and other parties affected by test-based decisions.The intent of the *Standards for Educational and Psychological Testing* is to promote sound testing practices and to provide a basis for evaluating the quality of those practices. The *Standards* is intended for professionals who specify, develop, or select tests and for those who interpret, or evaluate the technical quality of, test results.
+
+### **The Purpose of the Standards **
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The purpose of the *Standards* is to provide criteria for the development and evaluation of tests and testing practices and to provide guidelines for assessing the validity of interpretations of test scores for theintended test uses. Although such evaluations should depend heavily on professional judgment, the *Standards* provides a frame of reference to ensure that relevant issues are addressed. All professional test developers, sponsors, publishers, and users should make reasonable efforts to satisfy and follow the *Standards* and should encourage others to do so. All applicable standards should be met by all tests and in all test uses unless a sound professional reason is available to show why a standard is not relevant or technically feasible in a particular case.
 
 The *Standards* makes no attempt to provide psychometric answers to questions of public policy regarding the use of tests. In general, the *Standards* advocates that, within feasible limits, the relevant technical information be made available so that those involved in policy decisions may be fully informed.
 
+<<<<<<< HEAD
 ## **Legal Disclaimer**
 
 The *Standards* is not a statement of legal requirements, and compliance with the *Standards* is not a substitutefor legal advice. Numerous federal, state, and local statutes, regulations, rules, and judicial decisions relate to some aspects of the use, production, maintenance, and development of tests and test results and impose standards that may be different for different types of testing. A review of these legal issues is beyond the scope of the *Standards*, the distinct purpose of which is to set forth the criteria for sound testing practices from the perspective of cognitive and behavioral science professionals. Where it appears that one or more standards address an issue on which established legal requirements may be particularly relevant, the standard, comment, or introductory material may make note of that fact. Lack of specific reference to legal requirements, however, does not imply the absence of a relevant legal requirement. When applying standards across international borders, legal differences may raise additional issues or require different treatment of issues.
@@ -329,6 +436,23 @@ The precise demarcation between measurement devices used in the fields of educat
 expect that the standards of the educational and psychological testing field be followed by those making such decisions. In contrast, a structured interviewing system developed by a psychologist and accompanied by claims that the system has been found to be predictive of job performance in a variety of other settings falls within the purview of the *Standards*. Adhering to the *Standards* becomes more critical as the stakes for the test taker and the need to protect the public increase.
 
 ## **Participants in the Testing Process**
+=======
+### **Legal Disclaimer**
+
+The *Standards* is not a statement of legal requirements, and compliance with the *Standards* is not a substitutefor legal advice. Numerous federal, state, and local statutes, regulations, rules, and judicial decisions relate to some aspects of the use, production, maintenance, and development of tests and test results and impose standards that may be different for different types of testing. A review of these legal issues is beyond the scope of the *Standards*, the distinct purpose of which is to set forth the criteria for sound testing practices from the perspective of cognitive and behavioral science professionals. Where it appears that one or more standards address an issue on which established legal requirements may be particularly relevant, the standard, comment, or introductory material may make note of that fact. Lack of specific reference to legal requirements, however, does not imply the absence of a relevant legal requirement. When applying standards across international borders, legal differences may raise additional issues or require different treatment of issues.
+In some areas, such as the collection, analysis, and use of test data and results for different subgroups, the law may both require participants in the testing process to take certain actions and prohibit those participants from taking other actions. Furthermore, becausethescience of testing is an evolving discipline, recent revisions to the *Standards* may not be reflected in existing legal authorities, including judicial decisions and agency guidelines. In all situations, participants in the testing process should obtain the advice of counsel concerning applicable legal requirements.
+In addition, although the *Standards* is not enforceable by the sponsoring organizations, it has been repeatedly recognized by regulatory authorities and courts as setting forth the generally accepted professional standards that developers and users of tests and other selection procedures follow. Compliance or noncompliance with the *Standards* may be used as relevant evidence of legal liability in judicial and regulatory proceedings.The *Standards* therefore merits careful consideration by all participants in the testing process.
+Nothing in the *Standards* is meant to constitute legal advice. Moreover, the publishers disclaim any and all responsibility for liability created by participation in the testing process.
+
+### **Tests and Test Uses to Which These Standards Apply**
+
+A test is a device or procedure in which a sample of an examinee's behavior in a specified domain is obtained and subsequently evaluated and scored using a standardized process. Whereas the label *test* is sometimes reserved for instruments on which responses are evaluated for their correctness or quality, and the terms *scale* and *inventory* are used for measures of attitudes, interest, and dispositions, the *Standards* uses the single term test to refer to all such evaluative devices.
+A distinction is sometimes made between tests and assessments. *Assessment* is a broader term than test, commonly referring to a process that integrates test information with information from other sources (e.g., information from other tests, inventories, and interviews; or the individual's social, educational, employment, health, or psychological history). The applicability of the *Standards* to an evaluation device or method is determined by substance and not altered by the label applied to it (e.g., test, assessment, scale, inventory). The *Standards* should not be used as a checklist, as is emphasized in the section "Cautions to Be Considered in Using the *Standards*" at the end of this chapter.
+Tests differ on a number of dimensions: the mode in which test materials are presented (e.g., paper-and-pencil, oral, or computerized administration); the degree to which stimulus materials are standardized; the type of response format (selection of a response from a set of alternatives, as opposed to the production of a free-form response); and the degree to which test materials are designed to reflect or simulate a particular context. In all cases, however, tests standardize the process by which test takers' responses to test materials are evaluated and scored. As noted in prior versions of the *Standards*, the same general types of information are needed to judge the soundness of results obtained from using all varieties of tests.
+The precise demarcation between measurement devices used in the fields of educational and psychological testing that do and do not fall within the purview of the *Standards* is difficult to identify. Although the *Standards* applies most directly to standardized measures generally recognized as "tests," such as measures of ability, aptitude, achievement, attitudes, interests, personality, cognitivefunctioning, and mental health, the *Standards* may also be usefully applied in varying degrees to a broad range of less formal assessment techniques. Rigorous application of the *Standards* to unstandardized employment assessments (such as some job interviews) or to the broad range of unstructured behavior samples used in some forms of clinical and school-based psychological assessment (e.g., an intake interview), or to instructor-made tests that are used to evaluate student performance in education and training, is generally not possible. It is useful to distinguish between devices that lay claim to the concepts and techniques of the field of educational and psychological testing and devices that represent unstandardized or less standardized aids to day-to-day evaluative decisions. Although the principles and concepts underlying the *Standards* can be fruitfully applied to day-today decisions— such as when a business owner interviews a job applicant, a manager evaluates the performance of subordinates, a teacher develops a classroom assessment to monitor student progress toward an educational goal, or a coach evaluates a prospective athlete— it would be overreaching to expect that the standards of the educational and psychological testing field be followed by those making such decisions. In contrast, a structured interviewing system developed by a psychologist and accompanied by claims that the system has been found to be predictive of job performance in a variety of other settings falls within the purview of the *Standards*. Adhering to the *Standards* becomes more critical as the stakes for the test taker and the need to protect the public increase.
+
+### **Participants in the Testing Process**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Educational and psychological testing and assessment involve and significantly affect individuals, institutions, and society as a whole.Theindividuals affected includestudents, parents, families, teachers, educational administrators, job applicants, employees, clients, patients, supervisors, executives, and evaluators, among others. The institutions affected include schools, colleges, businesses, industry, psychological clinics, and government agencies. Individuals and institutions benefit when testing helps them achieve their goals. Society, in turn, benefits when testing contributes to the achievement of individual and institutional goals.
 
@@ -342,12 +466,19 @@ Tests are designed, developed, and used in a wide variety of ways. In some cases
 
 The *Standards* is based on the premise that effective testing and assessment require that all professionals in the testing process possess the knowledge, skills, and abilities necessary to fulfill their roles, as well as an awareness of personal and contextual factors that may influence the testing process. For example, test developers and those selecting tests and interpreting test results need adequate knowledge of psychometric principles such as validity and reliability. They also should obtain any appropriate supervised experience and legislatively mandated practice credentials that are required to perform competently those aspects of the testing process in which they engage. All professionals in the testing process should follow the ethical guidelines of their profession.
 
+<<<<<<< HEAD
 ## **Scope of the Revision**
+=======
+### **Scope of the Revision**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This volume serves as a revision of the 1999 *Standards for Educational and Psychological Testing*. The revision process started with the appointment of a Management Committee, composed of representatives of the three sponsoring organizations responsible for overseeing the general direction of the effort: the American Educational Research Association (AERA), the American Psychological Association (APA), and the National Council on Measurement in Education (NCME). To guide the revision, the Management Committee solicited and synthesized comments on the 1999 *Standards* from members of the sponsoring organizations and convened theJoint Committeefor the Revision of the 1999 *Standards* in 2009 to do the actual revision. The Joint Committee also was composed of members of the three sponsoring organizations and was charged by the Management Committee with addressing five major areas: considering the accountability issues for use of tests in educational policy; broadening the concept of accessibility of tests for all examinees; representing more comprehensively the role of tests in the workplace; broadening the role of technology in testing; and providing for a better organizational structure for communicating the standards.
 
 To be responsive to this charge, several actions were taken:
+<<<<<<< HEAD
 
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - The chapters "Educational Testing and Assessment" and "Testing in Program Evaluation and Public Policy," in the 1999 version, were rewritten to attend to the issues associated with the uses of tests for educational accountability purposes.
 - A new chapter, "Fairness in Testing," was written to emphasize accessibility and fairness as fundamental issues in testing. Specific concerns for fairness are threaded throughout all of the chapters of the *Standards.*
 - The chapter "Testing in Employment and Credentialing" (now "Workplace Testing and Credentialing") was reorganized to more clearly identify when a standard is relevant to employment and/or credentialing.
@@ -356,19 +487,31 @@ To be responsive to this charge, several actions were taken:
 
 viduals With Disabilities." In the present edition, the topics addressed in those chapters are combined into a single, comprehensive chapter, and the chapter is located in Part I. This change was made to emphasize that fairness demands that all test takers be treated equitably. Fairness and accessibility, the unobstructed opportunity for all examinees to demonstrate their standing on the construct(s) being measured, are relevant for valid score interpretations for all individuals and subgroups in the intended population of test takers. Because issues related to fairness in testing are not restricted to individuals with diverse linguistic backgrounds or those with disabilities, the chapter was more broadly cast to support appropriate testing experiences for all individuals. Although the examples in the chapter often refer to individuals with diverse linguistic and cultural backgrounds and individuals with disabilities, they also include examples relevant to gender and to older adults, people of various ethnicities and racial backgrounds, and young children, to illustrate potential barriers to fair and equitable assessment for all examinees.
 
+<<<<<<< HEAD
 ## **Organization of the Volume**
+=======
+### **Organization of the Volume**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Part I of the *Standards*, "Foundations," contains standards for validity (chap. 1); reliability/precision and errors of measurement (chap. 2); and fairness in testing (chap. 3). Part II, "Operations," addresses test design and development (chap. 4); scores, scales, norms, score linking, and cut scores (chap. 5); test administration, scoring, reporting, and interpretation (chap. 6); supporting documentation for tests (chap. 7); the rights and responsibilities of test takers (chap. 8); and the rights and responsibilities of test users (chap. 9). Part III, "Testing Applications," treats specific applications in psychological testing and assessment (chap. 10); workplace testing and credentialing (chap. 11); educational testing and assessment (chap. 12); and uses of tests for program evaluation, policy studies, and accountability (chap. 13). Also included is a glossary, which provides definitions for terms as they are used specifically in this volume.
 
 Each chapter begins with introductory text that provides background for the standards that follow. Although the introductory text is at times prescriptive, it should not be interpreted as imposing additional standards.
 
+<<<<<<< HEAD
 ## **Categories of Standards**
+=======
+### **Categories of Standards**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The text of each standard and any accompanying commentary include the conditions under which a standard is relevant. Depending on the context and purpose of test development or use, some standards will be moresalient than others. Moreover, some standards are broad in scope, setting forth concerns or requirements relevant to nearly all tests or testing contexts, and other standards are narrower in scope. However, all standards are important in the contexts to which they apply. Any classification that gives the appearance of elevating the general importance of some standards over others could invite neglect of certain standards that need to be addressed in particular situations. Rather than differentiate standards using priority labels, such as "primary," "secondary," or "conditional" (as were used in the 1985 *Standards*), thisedition emphasizes that unless a standard is deemed clearly irrelevant, inappropriate, or technically infeasiblefor a particular use, all standards should be met, making all of them essentially "primary" for that context.
 
 Unless otherwise specified in a standard or commentary, and with the caveats outlined below, standards should be met before operational test use. Each standard should be carefully considered to determine its applicability to the testing context under consideration. In a given case there may be a sound professional reason that adherence to the standard is inappropriate. There may also be occasions when technical feasibility influences whether a standard can be met prior to operational test use. For example, some standards may call for analyses of data that are not available at the point of initial operational test use. In other cases, traditional quantitative analyses may not be feasible due to small sample sizes. However, there may be other methodologies that could be used to gather information to support the standard, such as small sample methodologies, qualitative studies, focus groups, and even logical analysis. In such instances, test developers and users should make a good faith effort to provide the kinds of data called for in the standard to support the valid interpretations of the test results for their intended purposes. If test developers, users, and, when applicable, sponsors have deemed a standard to be inapplicable or technically infeasible, they should be able, if called upon, to explain the basis for their decision. However, there is no expectation that documentation of all such decisions be routinely available.
 
+<<<<<<< HEAD
 ## **Presentation of Individual Standards**
+=======
+### **Presentation of Individual Standards**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Individual standards are presented after an introductory text that presents some key concepts for interpreting and applying the standards. In many cases, the standards themselves are coupled with one or more comments. These comments are intended to amplify, clarify, or provide examples to aid in the interpretation of the meaning of the standards. The standards often direct a developer or user to implement certain actions. Depending on the type of test, it is sometimes not clear in the statement of a standard to whom the standard is directed. For example, Standard 1.2 in the chapter "Validity" states:
 
@@ -386,7 +529,11 @@ Numerous examples are provided in the *Standards* to clarify points or to provid
 
 The standards in each chapter in Parts I and II ("Foundations" and "Operations") areintroduced by an overarching standard, designed to convey the central intent of the chapter.These overarching standards are always numbered with .0 following the chapter number. For example, the overarching standard in chapter 1 is numbered 1.0. The overarching standards summarize guiding principles that are applicable to all tests and test uses. Further, the themes and standards in each chapter are ordered to be consistent with the sequence of the material in the introductory text for the chapter. Because some users of the *Standards* may turn only to chapters directly relevant to a given application, certain standards are repeated in different chapters, particularly in Part III, "Testing Applications." When such repetition occurs, the essence of the standard is the same. Only the wording, area of application, or level of elaboration in the comment is changed.
 
+<<<<<<< HEAD
 ## **Cautions to Be Considered in Using the** *Standards*
+=======
+### **Cautions to Be Considered in Using the** *Standards*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In addition to the legal disclaimer set forth above, several cautions are important if we are to avoid misinterpretations, misapplications, and misuses of the *Standards:*
 
@@ -399,9 +546,15 @@ In addition to the legal disclaimer set forth above, several cautions are import
 
 **PART I **Foundations**
 
+<<<<<<< HEAD
 # Chapter 1: VALIDITY**
 
 ## BACKGROUND
+=======
+## Chapter 1: VALIDITY**
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Validity refers to the degree to which evidence and theory support the interpretations of test scores for proposed uses of tests. Validity is, therefore, the most fundamental consideration in developing tests and evaluating tests. The process of validation involves accumulating relevant evidence to provide a sound scientific basis for the proposed score interpretations. It is the interpretations of test scores for proposed uses that are evaluated, not the test itself. When test scores are interpreted in more than one way (e.g., both to describe a test taker's current level of the attribute being measured and to make a prediction about a future outcome), each intended interpretation must be validated. Statements about validity should refer to particular interpretations for specified uses. It is incorrect to use the unqualified phrase "the validity of the test."
 
@@ -429,7 +582,11 @@ Because an interpretation for a given use typically depends on more than one pro
 
 Validation is the joint responsibility of the test developer and the test user.The test developer is responsible for furnishing relevant evidence and a rationalein support of any test scoreinterpretations for specified uses intended by the developer. The test user is ultimately responsible for evaluating the evidence in the particular setting in which the test is to be used. When a test user proposes an interpretation or use of test scores that differs from those supported by the test developer, the responsibility for providing validity evidence in support of that interpretation for the specified use is the responsibility of the user. It should be noted that important contributions to the validity evidence may be made as other researchers report findings of investigations that are related to the meaning of scores on the test.
 
+<<<<<<< HEAD
 ## **Sources of Validity Evidence**
+=======
+#### **Sources of Validity Evidence**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The following sections outline various sources of evidence that might be used in evaluating the validity of a proposed interpretation of test scores for a particular use. These sources of evidence may illuminate different aspects of validity,
 
@@ -439,7 +596,11 @@ As the discussion in the prior section emphasizes, each type of evidence present
 
 The position developed above also underscores the fact that if a given test is interpreted in multiple ways for multiple uses, the propositions underlying these interpretations for different uses also are likely to differ. Support is needed for the propositions underlying each interpretation for a specific use. Evidencesupporting theinterpretation of scores on a mathematics achievement test for placing students in subsequent courses (i.e., evidence that the test interpretation is valid for its intended purpose) does not permit inferring validity for other purposes (e.g., promotion or teacher evaluation).
 
+<<<<<<< HEAD
 ### Evidence Based on Test Content
+=======
+##### Evidence Based on Test Content
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Important validity evidence can be obtained from an analysis of the relationship between the content of a test and the construct it is intended to measure.Test content refers to thethemes, wording, and format of the items, tasks, or questions on a test. Administration and scoring may also be relevant to content-based evidence.Test developers often work from a specification of the content domain.The content specification carefully describes the content in detail, often with a classification of areas of content and types of items. Evidence based on test content can include logical or empirical analyses of the adequacy with which the test content represents the content domain and of the relevance of the content domain to the proposed interpretation of test scores. Evidence based on content can also come from expert judgments of the relationship between parts of the test and the construct. For example, in developing a licensure test, the major facets that are relevant to the purposefor which the occupation is regulated can be specified, and experts in that occupation can be asked to assign test items to the categories defined by those facets. These or other experts can then judge the representativeness of the chosen set of items.
 
@@ -451,7 +612,11 @@ Evidence about content can be used, in part, to address questions about differen
 
 Content-oriented evidence of validation is at the heart of the process in the educational arena known as *alignment*, which involves evaluating the correspondence between student learning standards and test content. Content-sampling issues in the alignment process include evaluating whether test content appropriately samples the domain set forward in curriculum standards, whether the cognitive demands of test items correspond to thelevel reflected in the student learning standards (e.g., content standards), and whether thetest avoids theinclusion of features irrelevant to the standard that is the intended target of each test item.
 
+<<<<<<< HEAD
 ### Evidence Based on Response Processes
+=======
+##### Evidence Based on Response Processes
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Some construct interpretations involve more or less explicit assumptions about the cognitive processes engaged in by test takers. Theoretical and empirical analyses of the response processes of test takers can provide evidence concerning the fit between the construct and the detailed nature of the performance or response actually engaged in by test takers. For instance, if a test is intended to assess mathematical reasoning, it becomes important to determine whether test takers are, in fact, reasoning about the material given instead of following a standard algorithm applicable only to the specific items on the test.
 
@@ -463,7 +628,11 @@ Studies of response processes are not limited to thetest taker. Assessments ofte
 
 While evidence about response processes may be central in settings where explicit claims about response processes are made by test developers or where inferences about responses are made by test users, there are many other cases where claims about response processes are not part of the validity argument. In some cases, multipleresponse processes are available for solving the problems of interest, and the construct of interest is only concerned with whether the problem was solved correctly. As a simple example, there may be multiple possible routes to obtaining the correct solution to a mathematical problem.
 
+<<<<<<< HEAD
 ### Evidence Based on Internal Structure
+=======
+##### Evidence Based on Internal Structure
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Analyses of the internal structure of a test can indicate the degree to which the relationships among test items and test components conform to the construct on which the proposed test score interpretations are based.The conceptual framework for a test may imply a single dimension of behavior, or it may posit several components that are each expected to be homogeneous, but that are also distinct from each other. For example, a measure of discomfort on a health survey might assess both physical and emotional health.Theextent to which item interrelationships bear out the presumptions of the framework would be relevant to validity.
 
@@ -471,7 +640,11 @@ The specific types of analyses and their interpretation depend on how the test w
 
 Some studies of the internal structure of tests are designed to show whether particular items may function differently for identifiable subgroups of test takers (e.g., racial/ethnic or gender subgroups.) *Differential item functioning* occurs when different groups of test takers with similar overall ability, or similar status on an appropriate criterion, have, on average, systematically different responses to a particular item. This issue is discussed in chapter 3. However, differential item functioning is not always a flaw or weakness. Subsets of items that have a specific characteristic in common (e.g., specific content, task representation) may function differently for different groups of similarly scoring test takers. This indicates a kind of multidimensionality that may be unexpected or may conform to the test framework.
 
+<<<<<<< HEAD
 ### Evidence Based on Relations to Other Variables
+=======
+##### Evidence Based on Relations to Other Variables
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In many cases, the intended interpretation for a given use implies that the construct should be related to some other variables, and, as a result, analyses of the relationship of test scores to variables external to the test provide another important source of validity evidence. External variables may include measures of some criteria that the test is expected to predict, as well as relationships to other tests hypothesized to measure the same constructs, and tests measuring related or different constructs. Measures other than test scores, such as performance criteria, are often used in employment settings. Categorical variables, including group membership variables, become relevant when the theory underlying a proposed test use suggests that group differences should be present or absent if a proposed test score interpretation is to be supported. Evidence based on relationships with other variables provides evidence about the degree to which these relationships are consistent with the construct underlying the proposed test score interpretations.
 
@@ -501,7 +674,11 @@ The extent to which predictive or concurrent validity evidence can be generalize
 
 The above discussion focuses on the use of cumulative databases to estimate predictor-criterion relationships. Meta-analytic techniques can also be used to summarize other forms of data relevant to other inferences one may wish to draw from test scores in a particular application, such as effects of coaching and effects of certain alterations in testing conditions for test takers with specified disabilities. Gathering evidence about how well validity findings can be generalized across groups of test takers is an important part of the validation process. When theevidencesuggests that inferences from test scores can be drawn for some subgroups but not for others, pursuing options such as those discussed in chapter 3 can reduce the risk of unfair test use.
 
+<<<<<<< HEAD
 ### Evidence for Validity and Consequences of Testing
+=======
+##### Evidence for Validity and Consequences of Testing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Some consequences of test use follow directly from the interpretation of test scores for uses intended by the test developer. The validation process involves gathering evidence to evaluate the soundness of these proposed interpretations for their intended uses.
 
@@ -531,7 +708,11 @@ Note that unintended consequences can also be positive. Reversing the above exam
 
 In short, decisions about test use are appropriately informed by validity evidence about intended test score interpretations for a given use, by evidence evaluating additional claims about consequences of test use that do not follow directly from test score interpretations, and by value judgments about unintended positive and negative consequences of test use.
 
+<<<<<<< HEAD
 ## **Integrating the Validity Evidence**
+=======
+#### **Integrating the Validity Evidence**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A sound validity argument integrates various strands of evidence into a coherent account of the degree to which existing evidence and theory support the intended interpretation of test scores for specific uses. It encompasses evidence gathered from new studies and evidence available from earlier reported research. The validity argument may indicate the need for refining the definition of the construct, may suggest revisions in the test or other aspects of the testing process, and may indicate areas needing further study.
 
@@ -541,7 +722,11 @@ The amount and character ofevidencerequired to support a provisional judgment of
 
 Ultimately, the validity of an intended interpretation of test scores relies on all the available evidence relevant to the technical quality of a testing system. Different components of validity evidence are described in subsequent chapters of the *Standards,* and include evidence of careful test construction; adequatescorereliability; appropriate test administration and scoring; accurate score scaling, equating, and standard setting; and careful attention to fairness for all test takers, as appropriate to the test interpretation in question.
 
+<<<<<<< HEAD
 ## STANDARDS FOR VALIDITY**
+=======
+### STANDARDS FOR VALIDITY**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 1.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into three thematic clusters labeled as follows:
 
@@ -553,20 +738,31 @@ The standards in this chapter begin with an overarching standard (numbered 1.0),
 
 Clear articulation of each intended test score interpretation for a specified use should be set forth, and appropriate validity evidence in support of each intended interpretation should be provided.
 
+<<<<<<< HEAD
 ### **Cluster 1. Establishing Intended Uses and Interpretations**
 
 #### Standard 1.1
+=======
+#### **Cluster 1. Establishing Intended Uses and Interpretations**
+
+##### Standard 1.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The test developer should set forth clearly how test scores are intended to be interpreted and consequently used. The population(s) for which a test is intended should be delimited clearly, and the construct or constructs that the test is intended to assess should be described clearly.
 
 **Comment:** Statements about validity should refer to particular interpretations and consequent uses. It is incorrect to use the unqualified phrase "the validity of the test." No test permits interpretations that are valid for all purposes or in all situations. Each recommended interpretation for a given use requires validation. The test developer should specify in clear language the population for which the test is intended, the construct it is intended to measure, the contexts in which test scores are to be employed, and the processes by which the test is to be administered and scored.
 
+<<<<<<< HEAD
 #### Standard 1.2
+=======
+##### Standard 1.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A rationale should be presented for each intended interpretation of test scores for a given use, together with a summary of the evidence and theory bearing on the intended interpretation.
 
 **Comment:** The rationale should indicate what propositions are necessary to investigate the intended interpretation. The summary should combine logical analysis with empirical evidence to provide support for the test rationale. Evidence may come from studies conducted locally, in the setting where the test is to be used; from specific prior studies; or from comprehensive statistical syntheses of available studies meeting clearly specified study quality criteria. No type of evidence is inherently preferable to others; rather, the quality and relevance of the evidence to the intended test score interpretation for a given use determine the value of a particular kind ofevidence. A presentation of empirical evidence on any point should give due weight to all relevant findings in the scientific literature, including those inconsistent with the intended interpretation or use. Test developers have the responsibility to provide support for their own recommendations, but test users bear ultimate responsibility for evaluating the quality of the validity evidence provided and its relevance to the local situation.
 
+<<<<<<< HEAD
 #### Standard 1.3
 
 If validity for some common or likely interpretation for a given use has not been evaluated, or if such an interpretation is inconsistent with available evidence, that fact should be made clear and potential users should be strongly cautioned about making unsupported interpretations.
@@ -577,22 +773,41 @@ If validity for some common or likely interpretation for a given use has not bee
 
 If a test score is interpreted for a given use in a way that has not been validated, it is incumbent on the user to justify the new interpretation for that use, providing a rationale and collecting new evidence, if necessary.
 
+=======
+##### Standard 1.3
+
+If validity for some common or likely interpretation for a given use has not been evaluated, or if such an interpretation is inconsistent with available evidence, that fact should be made clear and potential users should be strongly cautioned about making unsupported interpretations.
+**Comment:** If past experience suggests that a test is likely to be used inappropriately for certain kinds of decisions or certain kinds of test takers, specific warnings against such uses should be given. Professional judgment is required to evaluate the extent to which existing validity evidence supports a given test use.
+
+##### Standard 1.4
+
+If a test score is interpreted for a given use in a way that has not been validated, it is incumbent on the user to justify the new interpretation for that use, providing a rationale and collecting new evidence, if necessary.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 **Comment:** Professional judgment is required to evaluate the extent to which existing validity evidence applies in the new situation or to the new group of test takers and to determine what new evidence may be needed. The amount and kinds of new evidence required may be influenced by experience with similar prior test uses or interpretations and by the amount, quality, and relevance of existing data.
 
 A test that has been altered or administered in ways that change the construct underlying the test for use with subgroups of the population requires evidence of the validity of the interpretation made on the basis of the modified test (see chap. 3). For example, if a test is adapted for use with individuals with a particular disability in a way that changes the underlying construct, the modified test should have its own evidence of validity for the intended interpretation.
 
+<<<<<<< HEAD
 #### Standard 1.5
+=======
+##### Standard 1.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When it is clearly stated or implied that a recommended test score interpretation for a given use will result in a specific outcome, the basis for expecting that outcome should be presented, together with relevant evidence.
 
 **Comment:** If it is asserted, for example, that interpreting and using scores on a given test for employee selection will result in reduced employee errors or training costs, evidence in support of that assertion should be provided. A given claim may besupported by logical or theoretical argument as well as empirical data. Appropriate weight should be given to findings in the scientific literature that may be inconsistent with the stated expectation.
 
+<<<<<<< HEAD
 #### Standard 1.6
+=======
+##### Standard 1.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test use is recommended on the grounds that testing or the testing program itself will result in some indirect benefit, in addition to the utility of information from interpretation of the test scores themselves, the recommender should make explicit the rationale for anticipating the indirect benefit. Logical or theoretical arguments and empirical evidence for the indirect benefit should be provided. Appropriate weight should be given to any contradictory findings in the scientific literature, including findings suggesting important indirect outcomes other than those predicted.
 
 **Comment:** Forexample, certain educational testing programs have been advocated on the grounds that they would have a salutary influence on classroom instructional practices or would clarify students' understanding of the kind or level of achievement they were expected to attain. To the extent that such claims enter into the justification for a testing program, they become part of the argument for test use. Evidence for such claims should beexamined—in conjunction with evidence about the validity of intended test score interpretation and evidence about unintended negative consequences of test use—in making an overall decision about test use. Due weight should be given to evidence against such predictions, for example, evidence that under some conditions educational testing may have a negative effect on classroom instruction.
 
+<<<<<<< HEAD
 #### Standard 1.7
 
 If test performance, or a decision made therefrom, is claimed to be essentially unaffected by practice and coaching, then the propensity for test performance to change with these forms of instruction should be documented.
@@ -602,28 +817,54 @@ If test performance, or a decision made therefrom, is claimed to be essentially 
 ### **Cluster 2. Issues Regarding Samples and Settings Used in Validation**
 
 #### Standard 1.8
+=======
+##### Standard 1.7
+
+If test performance, or a decision made therefrom, is claimed to be essentially unaffected by practice and coaching, then the propensity for test performance to change with these forms of instruction should be documented.
+
+**Comment:** Materials to aid in score interpretation should summarize evidence indicating the degree to which improvement with practice or coaching can be expected. Also, materials written for test takers should provide practical guidance about the value of test preparation activities, including coaching.
+
+#### **Cluster 2. Issues Regarding Samples and Settings Used in Validation**
+
+##### Standard 1.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The composition of any sample of test takers from which validity evidence is obtained should be described in as much detail as is practical and permissible, including major relevant sociodemographic and developmental characteristics.
 
 **Comment:** Statistical findings can be influenced by factors affecting the sample on which the results are based. When the sample is intended to represent a population, that population should be described, and attention should be drawn to any systematic factors that may limit the representativeness of the sample. Factors that might reasonably be expected to affect the results include self-selection, attrition, linguistic ability, disability status, and exclusion criteria, among others. If the participants in a validity study are patients, for example, then the diagnoses of the patients are important, as well as other characteristics, such as the severity of the diagnosed conditions. For tests used in employment settings, the employment status (e.g., applicants versus current job holders), the general level of experience and educational background, and the gender and ethnic composition of the sample may be relevant information. For tests used in credentialing, the status of those providing information (e.g., candidates for a credential versus already-credentialed individuals) is important for interpreting the resulting data. For tests used in educational settings, relevant information may include educational background, developmental level, community characteristics, or school admissions policies, as well as the gender and ethnic composition of the sample. Sometimes legal restrictions about privacy preclude obtaining or disclosing such population information or limit the level of particularity at which such data may be disclosed. The specific privacy laws, if any, governing the type of data should be considered, in order to ensure that any description of a population does not have the potential to identify an individual in a manner inconsistent with such standards. The extent of missing data, if any, and the methods for handling missing data (e.g., use of imputation procedures) should be described.
 
+<<<<<<< HEAD
 #### Standard 1.9
+=======
+##### Standard 1.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a validation rests in part on the opinions or decisions of expert judges, observers, or raters, procedures for selecting such experts and for eliciting judgments or ratings should be fully described. The qualifications and experience of the judges should be presented. The description of procedures should include any training and instructions provided, should indicate whether participants reached their decisions independently, and should report the level of agreement reached. If participants interacted with one another or exchanged information, the procedures through which they may have influenced one another should be set forth.
 
 **Comment:** Systematic collection of judgments or opinions may occur at many points in test construction (e.g.,eliciting expert judgments of content appropriateness or adequate content representation), in the formulation of rules or standards for score interpretation (e.g., in setting cut scores), or in test scoring (e.g., rating of essay responses). Whenever such procedures are employed, the quality of the resulting judgments is important to the validation. Level of agreement should bespecified clearly (e.g., whether percent agreement refers to agreement prior to or after a consensus discussion, and whether the criterion for agreement is exact agreement of ratings or agreement within a certain number of scale points.) The basis for specifying certain types of individuals (e.g.,experienced teachers,experienced job incumbents, supervisors) as appropriateexperts for thejudgment or rating task should be articulated. It may be entirely appropriate to have experts work together to reach consensus, but it would not then be appropriate to treat their respective judgments as statistically independent. Different judges may be used for different purposes (e.g., one set may rate items for cultural sensitivity while another may rate for reading level) or for different portions of a test.
 
+<<<<<<< HEAD
 #### Standard 1.10
+=======
+##### Standard 1.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When validity evidence includes statistical analyses of test results, either alone or together with data on other variables, the conditions under which the data were collected should be described in enough detail that users can judge the relevance of the statistical findings to local conditions. Attention should be drawn to any features of a validation data collection that are likely to differ from typical operational testing conditions and that could plausibly influence test performance.
 
 **Comment:** Such conditions might include (but would not be limited to) the following: test-taker motivation or prior preparation, the range of test scores over test takers, the time allowed for test takers to respond or other administrative conditions, the mode of test administration (e.g., unproctored online testing versus proctored on-site testing), examiner training or otherexaminer characteristics, the time intervals separating collection of data on different measures, or conditions that may have changed since the validity evidence was obtained.
 
+<<<<<<< HEAD
 ### **Cluster 3. Specific Forms of Validity Evidence**
 
 **(a) Content-Oriented Evidence**
 
 #### Standard 1.11
+=======
+#### **Cluster 3. Specific Forms of Validity Evidence**
+**(a) Content-Oriented Evidence**
+
+##### Standard 1.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the rationale for test score interpretation for a given use rests in part on the appropriateness of test content, the procedures followed in specifying and generating test content should be described and justified with reference to the intended population to be tested and the construct the test is intended to measure or the domain it is intended to represent. If the definition of the content sampled incorporates criteria such as importance, frequency, or criticality, these criteria should also be clearly explained and justified
 
@@ -631,7 +872,11 @@ When the rationale for test score interpretation for a given use rests in part o
 
  **(b) Evidence Regarding Cognitive Processes**
 
+<<<<<<< HEAD
 #### Standard 1.12
+=======
+##### Standard 1.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If the rationale for score interpretation for a given use depends on premises about the psychological processes or cognitive operations of test takers, then theoretical or empirical evidence in support of those premises should be provided.When statements about the processes employed by observers or scorers are part of the argument for validity, similar information should be provided.
 
@@ -639,19 +884,31 @@ If the rationale for score interpretation for a given use depends on premises ab
 
 **(c) Evidence Regarding Internal Structure**
 
+<<<<<<< HEAD
  #### Standard 1.13
+=======
+##### Standard 1.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If the rationale for a test score interpretation for a given use depends on premises about the relationships among test items or among parts of the test, evidence concerning the internal structure of the test should be provided.
 
 **Comment:** It might be claimed, for example, that a test is essentially unidimensional. Such a claim could besupported by a multivariatestatistical analysis, such as a factor analysis, showing that the score variability attributable to one major dimension was much greater than thescore variability attributable to any other identified dimension, or showing that a single factor adequately accounts for the covariation among test items. When a test provides morethan onescore, theinterrelationships of those scores should be shown to be consistent with the construct(s) being assessed.
 
+<<<<<<< HEAD
 #### Standard 1.14
+=======
+##### Standard 1.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When interpretation of subscores, score differences, or profiles is suggested, the rationale and relevant evidence in support of such interpretation should be provided. Where composite scores are developed, the basis and rationale for arriving at the composites should be given.
 
 **Comment:** When a test provides more than one score, the distinctiveness and reliability of the separate scores should be demonstrated, and the interrelationships of those scores should be shown to be consistent with the construct(s) being assessed. Moreover, evidence for the validity of interpretations of two or more separate scores would not necessarily justify a statistical or substantive interpretation of the difference between them. Rather, therationale and supporting evidence must pertain directly to the specific score, score combination, or score pattern to be interpreted for a given use. When subscores from one test or scores from different tests are combined into a composite, the basis for combining scores and for how scores are combined (e.g., differential weighting versus simple summation) should be specified.
 
+<<<<<<< HEAD
 #### Standard 1.15
+=======
+##### Standard 1.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When interpretation of performance on specific items, or small subsets of items, is suggested,the rationale and relevant evidence in support of such interpretation should be provided. When interpretation of individual item responses is likely but is not recommended by the developer, the user should be warned against making such interpretations.
 
@@ -659,7 +916,11 @@ When interpretation of performance on specific items, or small subsets of items,
 
  **(d) Evidence Regarding Relationships With Conceptually Related Constructs**
 
+<<<<<<< HEAD
 #### Standard 1.16
+=======
+##### Standard 1.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When validity evidence includes empirical analyses of responses to test items together with data on other variables, the rationale for selecting the additional variables should be provided. Where appropriate and feasible, evidence concerning the constructs represented by other variables, as well as their technical properties, should be presented or cited. Attention should be drawn to any likely sources of dependence (or lack of independence) among variables other than dependencies among the construct(s) they represent
 
@@ -669,13 +930,21 @@ the composites were constructed should beexplained (e.g., transformation or stan
 
  **(e) Evidence Regarding Relationships With Criteria**
 
+<<<<<<< HEAD
 #### Standard 1.17
+=======
+##### Standard 1.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When validation relies on evidence that test scores are related to one or more criterion variables, information about the suitability and technical quality of the criteria should be reported.
 
 **Comment:** The description of each criterion variable should include evidence concerning its reliability, the extent to which it represents the intended construct (e.g., task performance on the job), and the extent to which it is likely to be influenced by extraneous sources of variance. Special attention should be given to sources that previous research suggests may introduceextraneous variance that might bias the criterion for or against identifiable groups.
 
+<<<<<<< HEAD
 #### Standard 1.18
+=======
+##### Standard 1.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When it is asserted that a certain level of test performance predicts adequate or inadequate criterion performance, information about the levels of criterion performance associated with given levels of test scores should be provided.
 
@@ -683,25 +952,41 @@ When it is asserted that a certain level of test performance predicts adequate o
 
 as information about the distribution of criterion performances conditional upon a given test score. In the case of categorical rather than continuous variables, techniques appropriate to such data should be used (e.g., the use of logistic regression in the case of a dichotomous criterion). Evidence about the overall association between variables should be supplemented by information about theform of that association and about the variability of that association in different ranges of test scores. Note that data collections employing test takers selected for their extreme scores on one or more measures (extreme groups) typically cannot provide adequate information about the association.
 
+<<<<<<< HEAD
 #### Standard 1.19
+=======
+##### Standard 1.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If test scores are used in conjunction with other variables to predict some outcome or criterion, analyses based on statistical models of the predictor-criterion relationship should include those additional relevant variables along with the test scores.
 
 **Comment:** In general, if several predictors of some criterion are available, the optimum combination of predictors cannot be determined solely from separate, pairwiseexaminations of the criterion variable with each separate predictor in turn, due to intercorrelation among predictors. It is often informative to estimate the increment in predictive accuracy that may be expected when each variable, including the test score, is introduced in addition to all other available variables. As empirically derived weights for combining predictors can capitalize on chance factors in a given sample, analyses involving multiple predictors should be verified by cross-validation or equivalent analysis whenever feasible, and the precision of estimated regression coefficients or other indices should be reported. Cross-validation procedures include formula estimates of validity in subsequent samples and empirical approaches such as deriving weights in one portion of a sample and applying them to an independent subsample.
 
+<<<<<<< HEAD
 #### Standard 1.20
+=======
+##### Standard 1.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When effect size measures (e.g., correlations between test scores and criterion measures, standardized mean test score differences between subgroups) are used to draw inferences that go beyond describing the sample or samples on which data have been collected, indices of the degree of uncertainty associated with these measures (e.g., standard errors, confidence intervals, or significance tests) should be reported.
 
 **Comment:** Effect size measures are usefully paired with indices reflecting their sampling error to make meaningful evaluation possible. There are various possible measures of effect size, each applicable to different settings. In the presentation of indices of uncertainty, standard errors or confidence intervals provide more information and thus are preferred in place of, or as supplements to, significance testing.
 
+<<<<<<< HEAD
 #### Standard 1.21
+=======
+##### Standard 1.21
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When statistical adjustments, such as those for restriction of range or attenuation, are made, both adjusted and unadjusted coefficients, as well as the specific procedure used, and all statistics used in the adjustment, should be reported. Estimates of the construct-criterion relationship that remove the effects of measurement error on the test should be clearly reported as adjusted estimates.
 
 **Comment:** The correlation between two variables, such as test scores and criterion measures, depends on therange of values on each variable. Forexample, the test scores and the criterion values of a selected subset of test takers (e.g., job applicants who have been selected for hire) will typically have a smaller range than the scores of all test takers (e.g., the entire applicant pool.) Statistical methods are available for adjusting the correlation to reflect the population of interest rather than the sample available. Such adjustments are often appropriate, as when results are compared across various situations. The correlation between two variables is also affected by measurement error, and methods are available for adjusting the correlation to estimatethestrength of the correlation net of theeffects of measurement error in either or both variables. Reporting of an adjusted correlation should be accompanied by a statement of the method and the statistics used in making the adjustment.
 
+<<<<<<< HEAD
 #### Standard 1.22
+=======
+##### Standard 1.22
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a meta-analysis is used as evidence of the strength of a test-criterion relationship, the test and the criterion variables in the local situation should be comparable with those in the studies summarized. If relevant research includes credible evidence that any other specific features of the testing application may influence the strength of the test-criterion relationship, the correspondence between those features in the local situation and in the meta-analysis should be reported. Any significant disparities that might limit the applicability of the meta-analytic findings to the local situation should be noted explicitly.
 
@@ -711,7 +996,11 @@ for example, by reporting separate distributions for subsets of studies or by es
 
 This standard addresses the responsibilities of the individual who is drawing on meta-analytic evidence to support a test score interpretation for a given use. In some instances, that individual may also be the one conducting the meta-analysis; in other instances, existing meta-analyses are relied on. In the latter instance, the individual drawing on meta-analytic evidence does not have control over how the meta-analysis was conducted or reported, and must evaluate the soundness of the meta-analysis for the setting in question.
 
+<<<<<<< HEAD
 #### Standard 1.23
+=======
+##### Standard 1.23
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Any meta-analytic evidence used to support an intended test score interpretation for a given use should be clearly described, including methodological choices in identifying and coding studies, correcting for artifacts, and examining potential moderator variables. Assumptions made in correcting for artifacts such as criterion unreliability and range restriction should be presented, and the consequences of these assumptions made clear.
 
@@ -719,7 +1008,11 @@ Any meta-analytic evidence used to support an intended test score interpretation
 
 As in the case of Standard 1.22, the individual who is drawing on meta-analytic evidence to support a test score interpretation for a given use may or may not also be the one conducting the meta-analysis. As Standard 1.22 addresses the reporting of meta-analytic evidence, the individual drawing on existing meta-analytic evidence must evaluate the soundness of the meta-analysis for the setting in question.
 
+<<<<<<< HEAD
 #### Standard 1.24
+=======
+##### Standard 1.24
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a test is recommended for use in assigning persons to alternative treatments, and if outcomes from those treatments can reasonably be compared on a common criterion, then, whenever feasible, supporting evidence of differential outcomes should be provided.
 
@@ -727,7 +1020,11 @@ If a test is recommended for use in assigning persons to alternative treatments,
 
 **(f) Evidence Based on Consequences of Tests**
 
+<<<<<<< HEAD
 #### Standard 1.25
+=======
+##### Standard 1.25
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When unintended consequences result from test use, an attempt should be made to investigate whether such consequences arise from the test's sensitivity to characteristics other than those it is intended to assess or from the test's failure to fully represent the intended construct.
 
@@ -735,9 +1032,15 @@ When unintended consequences result from test use, an attempt should be made to 
 
 question. Ensuring that unintended consequences are evaluated is the responsibility of those making the decision whether to use a particular test, although legal constraints may limit the test user's discretion to discard the results of a previously administered test, when that decision is based on differences in scores for subgroups of different races, ethnicities, or genders. These issues are discussed further in chapter 3.
 
+<<<<<<< HEAD
 # Chapter 2: RELIABILITY/PRECISION AND ERRORS OF MEASUREMENT
 
 ## BACKGROUND
+=======
+## Chapter 2: RELIABILITY/PRECISION AND ERRORS OF MEASUREMENT
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A test, broadly defined, is a set of tasks or stimuli designed to elicit responses that provide a sample of an examinee's behavior or performance in a specified domain. Coupled with thetest is a scoring procedure that enables the scorer to evaluate the behavior or work samples and generate a score. In interpreting and using test scores, it is important to have some indication of their reliability.
 
@@ -761,11 +1064,19 @@ To say that a score includes error implies that there is a hypothetical error-fr
 
 In practice, the reliability/precision of the scores is typically evaluated in terms of various coefficients, including reliability coefficients, generalizability coefficients, and IRT information functions, depending on the focus of the analysis and the measurement model being used. The coefficients tend to have high values when the variability associated with the error is small compared with the observed variation in the scores (or score differences) to be estimated.
 
+<<<<<<< HEAD
 ### Implications for Validity
 
 Although reliability/precision is discussed here as an independent characteristic of test scores, it should berecognized that thelevel of reliability/precision of scores has implications for validity. Reliability/precision of data ultimately bears on the generalizability or dependability of the scores and/or the consistency of classifications of individuals derived from the scores. To the extent that scores are not consistent across replications of the testing procedure (i.e., to the extent that they reflect random errors of measurement), their potential for accurate prediction of criteria, for beneficialexaminee diagnosis, and for wise decision making is limited.
 
 ### Specifications for Replications of the Testing Procedure
+=======
+#### Implications for Validity
+
+Although reliability/precision is discussed here as an independent characteristic of test scores, it should berecognized that thelevel of reliability/precision of scores has implications for validity. Reliability/precision of data ultimately bears on the generalizability or dependability of the scores and/or the consistency of classifications of individuals derived from the scores. To the extent that scores are not consistent across replications of the testing procedure (i.e., to the extent that they reflect random errors of measurement), their potential for accurate prediction of criteria, for beneficialexaminee diagnosis, and for wise decision making is limited.
+
+#### Specifications for Replications of the Testing Procedure
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 As indicated earlier, the general notion of reliability/ precision is defined in terms of consistency over replications of thetesting procedure. Reliability/precision is high if the scores for each person are consistent over replications of the testing procedure and is low if the scores are not consistent over replications.Therefore, in evaluating reliability/precision, it is important to be clear about what constitutes a replication of the testing procedure.
 
@@ -795,7 +1106,11 @@ Measurement error reduces the usefulness of test scores. It limits the extent to
 
 The standard error of measurement, as such, provides an indication of the expected level of random error over score points and replications for a specific population. In many cases, it is useful to have estimates of the standard errors for individual examinees (or for examinees with scores in certain scoreranges).These conditional standard errors are difficult to estimate directly, but can be estimated indirectly. For example, the test information functions based on IRT models can be used to estimate standard errors for different values of a latent ability parameter and/or for different observed scores. In using any of these model-based estimates of conditional standard errors, it is important that the model assumptions be consistent with the data.
 
+<<<<<<< HEAD
 ### **Evaluating Reliability/Precision**
+=======
+#### **Evaluating Reliability/Precision**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Theideal approach to theevaluation of reliability/precision would require many independent replications of the testing procedure on a large sample of test takers.Therange of differences allowed in replications of the testing procedure and the proposed interpretation of the scores provide a framework for investigating reliability/precision.
 
@@ -803,7 +1118,11 @@ For most testing programs, scores are expected to generalize over alternate form
 
 Theinterpretation of reliability/precision analyses depends on the population being tested. For example, reliability or generalizability coefficients derived from scores of a nationally representative sample may differ significantly from those obtained from a more homogeneous sample drawn from one gender, one ethnic group, or one community. Therefore, to the extent feasible (i.e., if sample sizes are large enough), reliability/precision should be estimated separately for all relevant subgroups (e.g., defined in terms of race/ethnicity, gender, language proficiency) in the population. (Also see chap. 3, "Fairness in Testing.")
 
+<<<<<<< HEAD
 ### Reliability/Generalizability Coefficients**
+=======
+#### Reliability/Generalizability Coefficients**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In classical test theory, the consistency of test scores isevaluated mainly in terms of reliability coefficients, defined in terms of the correlation between scores derived from replications of the testing procedure on a sample of test takers. Three broad categories of reliability coefficients arerecognized: (a) coefficients derived from the administration of alternate forms in independent testing sessions (*alternate-form coefficients*); (b) coefficients obtained by administration of the same form on separate occasions (*test-retest coefficients*); and (c) coefficients based on the relationships/interactions among scores derived from individual items or subsets of the items within a test, all data accruing from a single administration (*internal-consistency coefficients*). In addition, where test scoring involves a high level of judgment, indices of scorer consistency are commonly obtained. In formal treatments of classical test theory, reliability can be defined as the ratio of true-score variance to observed score variance, but it isestimated in terms of reliability coefficients of the kinds mentioned above.
 
@@ -819,7 +1138,11 @@ The information function may be viewed as a mathematical statement of the precis
 
 Coefficients (e.g., reliability, generalizability, and IRT-based coefficients) have two major advantages over standard errors. First, as indicated above, they can be used to estimate standard errors (overall and/or conditional) in cases where it would not be possible to do so directly. Second, coefficients (e.g., reliability and generalizability coefficients), which are defined in terms of ratios of variances for scores on the same scale, are invariant over linear transformations of the score scale and can be useful in comparing different testing procedures based on different scales. However, such comparisons are rarely straightforward, because they can depend on the variability of the groups on which the coefficients are based, the techniques used to obtain the coefficients, the sources of error reflected in the coefficients, and the lengths and contents of the instruments being compared.
 
+<<<<<<< HEAD
 ### Factors Affecting Reliability/Precision**
+=======
+#### Factors Affecting Reliability/Precision**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A number of factors can have significant effects on reliability/precision, and in some cases, these factors can lead to misinterpretations of the results, if not taken into account.
 
@@ -831,7 +1154,11 @@ Reliability/precision can also depend on the population for which the procedure 
 
 In addition, reliability/precision can vary from one population to another, even if the variability in the construct of interest in the two populations is the same.The reliability can vary from one population to another because particular sources of error (rater effects, familiarity with formats and instructions, etc.) have more impact in one population than they do in the other. In general, if any aspects of the assessment procedures or the population being assessed are changed in an operational setting, the reliability/precision may change.
 
+<<<<<<< HEAD
 ### Standard Errors of Measurement**
+=======
+#### Standard Errors of Measurement**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standard error of measurement can be used to generate confidence intervals around reported scores. It is therefore generally more informative than a reliability or generalizability coefficient, once a measurement procedure has been adopted and the interpretation of scores has become the user's primary concern.
 
@@ -845,13 +1172,21 @@ Traditional norm-referenced reliability coefficients were developed to evaluate 
 
 Some indices of precision, especially standard errors and conditional standard errors, also depend on the scale in which they are reported. An index stated in terms of raw scores or the trait-level estimates of IRT may convey a very different perception of the error if restated in terms of scale scores. For example, for the raw-score scale, the conditional standard error may appear to be high at one score level and low at another, but when the conditional standard errors are restated in units of scale scores, quite different trends in comparative precision may emerge.
 
+<<<<<<< HEAD
 ### Decision Consistency**
+=======
+#### Decision Consistency**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Wherethe purpose of measurement is classification, some measurement errors are more serious than others. Test takers who are far above or far below the cut score established for pass/fail or for eligibility for a special program can have considerable error in their observed scores without any effect on their classification decisions. Errors of measurement for examinees whose true scores are close to the cut score are more likely to lead to classification errors. The choice of techniques used to quantify reliability/precision should take these circumstances into account. This can be done by reporting the conditional standard error in the vicinity of the cut score or the decisionconsistency/accuracy indices (e.g., percentage of correct decisions, Cohen's kappa), which vary as functions of both score reliability/precision and the location of the cut score.
 
 *Decision consistency* refers to the extent to which the observed classifications of examinees would be the same across replications of the testing procedure. *Decision accuracy* refers to the extent to which observed classifications ofexaminees based on the results of a single replication would agree with their true classification status. Statistical methods are available to calculate indices for both decision consistency and decision accuracy. These methods evaluate the consistency or accuracy of classifications rather than the consistency in scores per se. Note that the degree of consistency or agreement in examinee classification is specific to the cut score employed and its location within the score distribution.
 
+<<<<<<< HEAD
 ### Reliability/Precision of Group Means
+=======
+#### Reliability/Precision of Group Means
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Estimates of mean (or average) scores of groups (or proportions in certain categories) involve sources of error that are different from those that operate at the individual level. Such estimates are often used as measures of program effectiveness (and, under some educational accountability systems, may be used to evaluate the effectiveness of schools and teachers).
 
@@ -859,7 +1194,11 @@ In evaluating group performance by estimating the mean performance or mean impro
 
 Standard errors for individual scores are not appropriate measures of the precision of group averages. A more appropriate statistic is the standard error for the estimates of the group means.
 
+<<<<<<< HEAD
 ### Documenting Reliability/Precision**
+=======
+#### Documenting Reliability/Precision**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Typically, developers and distributors of tests have primary responsibility for obtaining and reporting evidence for reliability/precision (e.g., appropriate standard errors, reliability or generalizability coefficients, or test information functions). The test user must have such data to make an informed choice among alternative measurement approaches and will generally be unable to conduct adequate reliability/precision studies prior to operational use of an instrument.
 
@@ -873,7 +1212,11 @@ If scores areto be used for classification, indices of decision consistency are 
 
 As the foregoing comments emphasize, there is no single, preferred approach to quantification of reliability/precision. No single index adequately conveys all of the relevant information. No one method of investigation is optimal in all situations, nor is the test developer limited to a single approach for any instrument. The choice of estimation techniques and the minimum acceptable level for any index remain a matter of professional judgment.
 
+<<<<<<< HEAD
 ## **STANDARDS FOR RELIABILITY/PRECISION**
+=======
+### **STANDARDS FOR RELIABILITY/PRECISION**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 2.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into eight thematic clusters labeled as follows:
 
@@ -886,82 +1229,138 @@ The standards in this chapter begin with an overarching standard (numbered 2.0),
 - 7. Reliability/Precision of Group Means
 - 8. Documenting Reliability/Precision
 
+<<<<<<< HEAD
 #### Standard 2.0
+=======
+##### Standard 2.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Appropriate evidence of reliability/precision should be provided for the interpretation for each intended score use
 
 **Comment:** The form of the evidence (reliability or generalizability coefficient, information function, conditional standard error, index of decision consistency) for reliability/precision should be appropriate for the intended uses of the scores, the population involved, and the psychometric models used to derive the scores. A higher degree of reliability/precision is required for score uses that have more significant consequences for test takers. Conversely, a lower degree may be acceptable where a decision based on thetest scoreis reversible or dependent on corroboration from other sources of information.
 
+<<<<<<< HEAD
 ### **Cluster 1. Specifications for Replications of the Testing Procedure**
 
 #### Standard 2.1
+=======
+#### **Cluster 1. Specifications for Replications of the Testing Procedure**
+
+##### Standard 2.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The range of replications over which reliability/precision is being evaluated should be clearly stated, along with a rationale for the choice of this definition, given the testing situation.
 
 **Comment:** For any testing program, some aspects of the testing procedure (e.g., time limits and availability of resources such as books, calculators, and computers) are likely to be fixed, and some aspects will be allowed to vary from one administration to another (e.g., specific tasks or stimuli, testing contexts, raters, and, possibly, occasions). Any test administration that maintains fixed conditions and involves acceptable samples of the conditions that are allowed to vary would be considered a legitimate replication of the testing procedure. As a first step in evaluating thereliability/precision of the scores obtained with a testing procedure, it is important to identify the range of conditions of various kinds that are allowed to vary, and over which scores are to be generalized.
 
+<<<<<<< HEAD
 #### Standard 2.2
+=======
+##### Standard 2.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The evidence provided for the reliability/precision of the scores should be consistent with the domain of replications associated with the testing procedures, and with the intended interpretations for use of the test scores.
 
 **Comment:** The evidence for reliability/precision should be consistent with the design of the testing procedures and with the proposed interpretations for use of the test scores. For example, if the test can be taken on any of a range of occasions, and the interpretation presumes that the scores are invariant over these occasions, then any variability in scores over these occasions is a potential source of error. If the tasks or stimuli are allowed to vary over alternate forms of the test, and the observed performances are treated as a sample from a domain of similar tasks, the variability in scores from one form to another would be considered error. If raters are used to assign scores to responses, the variability in scores over qualified raters is a source of error. Different sources of error can be evaluated in a single coefficient or standard error, or they can be evaluated separately, but they should all be addressed in some way. Reports of reliability/precision should specify the potential sources of error included in the analyses.
 
+<<<<<<< HEAD
 ### **Cluster 2. Evaluating Reliability/Precision**
 
 #### Standard 2.3
+=======
+#### **Cluster 2. Evaluating Reliability/Precision**
+
+##### Standard 2.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 For each total score, subscore, or combination of scores that is to be interpreted, estimates of relevant indices of reliability/precision should be reported.
 
 **Comment:** It is not sufficient to report estimates of reliabilities and standard errors of measurement only for total scores when subscores are also interpreted. The form-to-form and day-to-day consistency of total scores on a test may be acceptably high, yet subscores may have unacceptably low reliability, depending on how they are defined and used. Users should be supplied with reliability data for all scores to be interpreted, and these data should be detailed enough to enable the users to judge whether the scores are precise enough for the intended interpretations for use. Composites formed from selected subtests within a test battery are frequently proposed for predictive and diagnostic purposes. Users need information about the reliability of such composites.
 
+<<<<<<< HEAD
 #### Standard 2.4
+=======
+##### Standard 2.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test score interpretation emphasizes differences between two observed scores of an** **individual or two averages of a group, reliability/ precision data, including standard errors, should be provided for such differences.
 
 **Comment:** Observed score differences are used for a variety of purposes. Achievement gains are frequently of interest for groups as well as individuals. In some cases, the reliability/precision of change scores can be much lower than the reliabilities of the separate scores involved. Differences between verbal and performance scores on tests of intelligence and scholastic ability are often employed in the diagnosis of cognitive impairment and learning problems. Psychodiagnostic inferences are frequently drawn from the differences between subtest scores. Aptitude and achievement batteries, interest inventories, and personality assessments are commonly used to identify and quantify the relative strengths and weaknesses, or the pattern of trait levels, of a test taker. When theinterpretation of test scores centers on the peaks and valleys in the examinee's test score profile, the reliability of score differences is critical.
 
+<<<<<<< HEAD
 #### Standard 2.5
+=======
+##### Standard 2.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Reliability estimation procedures should be consistent with the structure of the test.*
 
 **Comment:** A single total score can be computed on tests that are multidimensional. The total score on a test that is substantially multidimensional should be treated as a composite score. If an internal-consistency estimate of total score reliability is obtained by the split-halves procedure, the halves should be comparable in content and statistical characteristics.
 
 In adaptive testing procedures, the set of tasks included in the test and the sequencing of tasks are tailored to the test taker, using model-based algorithms. In this context, reliability/precision can be estimated using simulations based on the model. For adaptive testing, model-based conditional standard errors may be particularly useful and appropriatein evaluating thetechnical adequacy of the procedure.
 
+<<<<<<< HEAD
 ### Cluster 3. Reliability/Generalizability Coefficients**
 
 #### Standard 2.6
+=======
+#### Cluster 3. Reliability/Generalizability Coefficients**
+
+##### Standard 2.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A reliability or generalizability coefficient (or standard error) that addresses one kind of variability should not be interpreted as interchangeable with indices that address other kinds of variability, unless their definitions of measurement error can be considered equivalent.
 
 **Comment:** Internal-consistency, alternate-form, and test-retest coefficients should not be considered equivalent, aseach incorporates a unique definition of measurement error. Error variances derived via item response theory are generally not equivalent to error variances estimated via other approaches. Test developers should state the sources of error that are reflected in, and those that are ignored by, the reported reliability or generalizability coefficients.
 
+<<<<<<< HEAD
 #### Standard 2.7
+=======
+##### Standard 2.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When subjective judgment enters into test scoring, evidence should be provided on both interrater consistency in scoring and within-examinee consistency over repeated measurements. A clear distinction should be made among reliability data based on (a) independent panels of raters scoring the same performances or products, (b) a single panel scoring successive performances or new products, and (c) independent panels scoring successive performances or new products.
 
 **Comment:** Task-to-task variations in the quality of an examinee's performance and rater-to-rater inconsistencies in scoring represent independent sources of measurement error. Reports of reliability/precision studies should make clear which of these sources are reflected in the data. Generalizability studies and variance component analyses can be helpful in estimating the error variances arising from each source of error. These analyses can provideseparateerror varianceestimates for tasks, for judges, and for occasions within the time period of trait stability. Information should be provided on the qualifications and training of the judges used in reliability studies. Interrater or interobserver agreement may be particularly important for ratings and observational data that involve subtle discriminations. It should be noted, however, that when raters evaluate positively correlated characteristics, a favorable or unfavorable assessment of one trait may color their opinions of other traits. Moreover, high interrater consistency does not imply high examinee consistency from task to task. Therefore, interrater agreement does not guarantee high reliability of examinee scores.
 
+<<<<<<< HEAD
 ### **Cluster 4. Factors Affecting Reliability/Precision**
 
 #### Standard 2.8
+=======
+#### **Cluster 4. Factors Affecting Reliability/Precision**
+
+##### Standard 2.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When constructed-response tests are scored locally, reliability/precision data should be gathered and reported for the local scoring when adequatesize samples are available.
 
 **Comment:** For example, many statewide testing programs depend on local scoring of essays, constructed-response exercises, and performance tasks. Reliability/precision analyses can indicate that additional training of scorers is needed and, hence, should be an integral part of program monitoring. Reliability/precision data should be released only when sufficient to yield statistically sound results and consistent with applicable privacy obligations.
 
+<<<<<<< HEAD
 #### Standard 2.9
+=======
+##### Standard 2.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is available in both long and short versions, evidence for reliability/precision should be reported for scores on each version, preferably based on independent administration(s) of each version with independent samples of test takers.
 
 **Comment:** The reliability/precision of scores on each version is best evaluated through an independent administration ofeach, using the designated time limits. Psychometric models can be used to estimate the reliability/precision of a shorter (or longer) version of an existing test, based on data from an administration of the existing test. However, these models generally make assumptions that may not be met (e.g., that the items in the existing test and the items to be added or dropped are all randomly sampled from a single domain). Context effects are commonplace in tests of maximum performance, and the short version of a standardized test often comprises a nonrandom sample of items from the full-length version. As a result, the predicted value of thereliability/precision may not provide a very good estimate of the actual value, and therefore, where feasible, the reliability/precision of both forms should beevaluated directly and independently.
 
+<<<<<<< HEAD
 #### Standard 2.10
+=======
+##### Standard 2.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When significant variations are permitted in tests or test administration procedures, separate reliability/precision analyses should be provided for scores produced under each major variation if adequate sample sizes are available.
 
 **Comment:** To make a test accessible to all examinees, test publishers or users might authorize, or might be legally required to authorize, accommodations or modifications in the procedures that are specified for the administration of a test. For example, audio or large print versions may be used for test takers who are visually impaired. Any alteration in standard testing materials or procedures may have an impact on the reliability/precision of the resulting scores, and therefore, to the extent feasible, the reliability/precision should be examined for all versions of the test and testing procedures.
 
+<<<<<<< HEAD
 #### Standard 2.11
+=======
+##### Standard 2.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test publishers should provide estimates of reliability/precision as soon as feasible for each relevant subgroup for which the test is recommended.**
 
@@ -969,57 +1368,97 @@ Test publishers should provide estimates of reliability/precision as soon as fea
 
 When considering the reliability/precision of test scores for relevant subgroups, it is useful to evaluate and report the standard error of measurement as well as any coefficients that are estimated. Reliability and generalizability coefficients can differ substantially when subgroups have different variances on the construct being assessed. Differences in within-group variability tend to haveless impact on the standard error of measurement.
 
+<<<<<<< HEAD
 #### Standard 2.12
+=======
+##### Standard 2.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a test is proposed for use in several grades or over a range of ages, and if separate norms are provided for each grade or each age range, reliability/precision data should be provided for each age or grade-level subgroup, not just for all grades or ages combined.**
 
 **Comment:** A reliability or generalizability coefficient based on a sample of examinees spanning several grades or a broad range of ages in which average scores are steadily increasing will generally give a spuriously inflated impression of reliability/precision. When a test *is* intended to discriminate within age or grade populations, reliability or generalizability coefficients and standard errors should be reported separately for each subgroup.
 
+<<<<<<< HEAD
 ### **Cluster 5. Standard Errors of Measurement**
 
 #### Standard 2.13
+=======
+#### **Cluster 5. Standard Errors of Measurement**
+
+##### Standard 2.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standard error of measurement, both overall and conditional (if reported), should be provided in units of each reported score.**
 
 **Comment:** The standard error of measurement (overall or conditional) that is reported should be consistent with the scales that are used in reporting scores. Standard errors in scale-score units for the scales used to report scores and/or to make decisions are particularly helpful to the typical test user. The data on examinee performance should be consistent with the assumptions built into any statistical models used to generate scale scores and to estimate the standard errors for these scores.
 
+<<<<<<< HEAD
 #### Standard 2.14
+=======
+##### Standard 2.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When possible and appropriate, conditional standard errors of measurement should be reported at several score levels unless there is evidence that the standard error is constant across score levels. Where cut scores are specified for selection or classification, the standard errors of measurement should be reported in the vicinity of each cut score.
 
 **Comment:** Estimation of conditional standard errors is usually feasible with the sample sizes that are used for analyses of reliability/precision. If it is assumed that the standard error *is* constant over a broad range of score levels, the rationale for this assumption should be presented. The model on which the computation of the conditional standard errors is based should be specified.
 
+<<<<<<< HEAD
 #### Standard 2.15
+=======
+##### Standard 2.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When there is credible evidence for expecting that conditional standard errors of measurement or test information functions will differ substantially for various subgroups, investigation of the extent and impact of such differences should be undertaken and reported as soon as is feasible.
 
 **Comment:** If differences are found, they should be clearly indicated in the appropriate documentation. In addition, if substantial differences do exist, the test content and scoring models should be examined to see if there are legally acceptable alternatives that do not result in such differences.
 
+<<<<<<< HEAD
 ### **Cluster 6. Decision Consistency**
 
 #### Standard 2.16
+=======
+#### **Cluster 6. Decision Consistency**
+
+##### Standard 2.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test or combination of measures is used to make classification decisions, estimates should be provided of the percentage of test takers who would be classified in the same way on two replications of the procedure.
 
 **Comment:** When a test score or composite score is used to make classification decisions (e.g., pass/fail, achievement levels), the standard error of measurement at or near the cut scores has important implications for the trustworthiness of these decisions. However, thestandard error cannot be translated into the expected percentage of consistent or accurate decisions without strong assumptions about the distributions of measurement errors and truescores. Although decision consistency is typically estimated from the administration of a single form, it can and should be estimated directly through the use of a test-retest approach, if consistent with the requirements of test security, and if the assumption of no changein the construct is met and adequate samples are available.
 
+<<<<<<< HEAD
 ### **Cluster 7. Reliability/Precision of Group Means**
 
 #### Standard 2.17
+=======
+#### **Cluster 7. Reliability/Precision of Group Means**
+
+##### Standard 2.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When average test scores for groups are the focus of the proposed interpretation of the test results, the groups tested should generally be regarded as a sample from a larger population, even if all examinees available at the time of measurement are tested. In such cases the standard error of the group mean should be reported, because it reflects variability due to sampling of examinees as well as variability due to individual measurement error.
 
 **Comment:** The overall levels of performance in various groups tend to be the focus in program evaluation and in accountability systems, and the groups that are of interest include all students/clients who could participate in the program over some period. Therefore, the students in a particular class or school at the current time, the current clients of a social service agency, and analogous groups exposed to a program of interest typically constitute a sample in a longitudinal sense. Presumably, comparable groups from thesame population will recur in future years, given static conditions. The factors leading to uncertainty in conclusions about program effectiveness arise from the sampling of persons as well as from individual measurement error.
 
+<<<<<<< HEAD
 #### Standard 2.18
+=======
+##### Standard 2.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the purpose of testing is to measure the performance of groups rather than individuals, subsets of items can be assigned randomly to different subsamples of examinees. Data are aggregated across subsamples and item subsets to obtain a measure of group performance. When such procedures are used for program evaluation or population descriptions, reliability/precision analyses must take the sampling scheme into account.
 
 **Comment:** This type of measurement program is termed *matrix sampling.* It is designed to reduce the time demanded of individual examinees and yet to increase the total number of items on which data can be obtained.This testing approach provides the same type of information about group performances that would be obtained if all examinees had taken all of theitems. Reliability/precision statistics should reflect the sampling plan used with respect to examinees and items.
 
+<<<<<<< HEAD
 ### **Cluster 8. Documenting Reliability/Precision**
 
 #### Standard 2.19
+=======
+#### **Cluster 8. Documenting Reliability/Precision**
+
+##### Standard 2.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Each method of quantifying the reliability/precision of scores should be described clearly and expressed in terms of statistics appropriate to the method. The sampling procedures used to select test takers for reliability/precision analyses and the descriptive statistics on these samples, subject to privacy obligations where applicable, should be reported.
 
@@ -1027,15 +1466,25 @@ Each method of quantifying the reliability/precision of scores should be describ
 
 Because there are many ways of estimating reliability/precision, and each is influenced by different sources of measurement error, it is unacceptable to say simply, "The reliability/precision of scores on test X is .90." A better statement would be, "The reliability coefficient of .90 reported for scores on test X was obtained by correlating scores from forms A and B, administered on successive days. The data were based on a sample of 400 10th-grade students from five middle-class suburban schools in New York State. The demographic breakdown of this group was as follows: . . ." In some cases, for example, when small sample sizes or particularly sensitive data are involved, applicable legal restrictions governing privacy may limit the level of information that should be disclosed.
 
+<<<<<<< HEAD
 #### Standard 2.20
+=======
+##### Standard 2.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If reliability coefficients are adjusted for restriction of range or variability, the adjustment procedure and both the adjusted and unadjusted coefficients should be reported. The standard deviations of the group actually tested and of the target population, as well as the rationale for the adjustment, should be presented.
 
 **Comment:** Application of a correction for restriction in variability presumes that the available sample is not representative (in terms of variability) of the test-taker population to which users might be expected to generalize. The rationale for the correction should consider the appropriateness of such a generalization. Adjustment formulas that presume constancy in the standard error across score levels should not be used unless constancy can be defended.
 
+<<<<<<< HEAD
 # Chapter 3: FAIRNESS IN TESTING**
 
 ## **BACKGROUND**
+=======
+## Chapter 3: FAIRNESS IN TESTING**
+
+### **BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This chapter addresses the importance of fairness as a fundamental issue in protecting test takers and test users in all aspects of testing. The term *fairness* has no single technical meaning and is used in many different ways in public discourse. It is possible that individuals endorse fairness in testing as a desirable social goal, yet reach quite different conclusions about the fairness of a given testing program. A full consideration of the topic would explore the multiple functions of testing in relation to its many goals, including the broad goal of achieving equality of opportunity in our society. It would consider the technical properties of tests, the ways in which test results are reported and used, the factors that affect the validity of score interpretations, and the consequences of test use. A comprehensive analysis of fairness in testing also would examinetheregulations, statutes, and case law that govern test use and the remedies for harmful testing practices.The *Standards* cannot hope to deal adequately with all of these broad issues, some of which have occasioned sharp disagreement among testing specialists and others interested in testing. Our focus must be limited here to delineating the aspects of tests, testing, and test use that relate to fairness as described in this chapter, which are the responsibility of those who develop, use, and interpret the results of tests, and upon which there is general professional and technical agreement.
 
@@ -1053,17 +1502,29 @@ In summary, this chapter interprets fairness as responsiveness to individual cha
 
 These issues are discussed in the sections below and are represented in the standards that follow the chapter introduction.
 
+<<<<<<< HEAD
 ### **General Views of Fairness**
 
 The first view of fairness in testing described in this chapter establishes the principle of fair and equitable treatment of all test takers during the testing process. The second, third, and fourth views presented here emphasize issues of fairness in measurement quality: fairness as the lack or absence of measurement bias, fairness as access to the constructs measured, and fairness as validity of individual test score interpretations for the intended use(s).
 
 #### Fairness in Treatment During the Testing Process
+=======
+#### **General Views of Fairness**
+
+The first view of fairness in testing described in this chapter establishes the principle of fair and equitable treatment of all test takers during the testing process. The second, third, and fourth views presented here emphasize issues of fairness in measurement quality: fairness as the lack or absence of measurement bias, fairness as access to the constructs measured, and fairness as validity of individual test score interpretations for the intended use(s).
+
+##### Fairness in Treatment During the Testing Process
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Regardless of the purpose of testing, the goal of fairness is to maximize, to the extent possible, the opportunity for test takers to demonstrate their standing on the construct(s) the test is intended to measure. Traditionally, careful standardization of tests, administration conditions, and scoring procedures have helped to ensure that test takers have comparable contexts in which to demonstrate the abilities or attributes to be measured. For example, uniform directions, specified time limits, specified room arrangements, use of proctors, and use of consistent security procedures are implemented so that differences in administration conditions will not inadvertently influence the performance of some test takers relative to others. Similarly, concerns for equity in treatment may require, for some tests, that all test takers have qualified test administrators with whom they can communicate and feel comfortable to the extent practicable. Where technology is involved, it is important that examinees have had similar prior exposure to the technology and that the equipment provided to all test takers be of similar processing speed and provide similar clarity and size for images and other media. Procedures for the standardized administration of a test should be carefully documented by the test developer and followed carefully by the test administrator.
 
 Although standardization has been a fundamental principle for assuring that all examinees have the same opportunity to demonstrate their standing on the construct that a test is intended to measure, sometimes flexibility is needed to provide essentially equivalent opportunities for some test takers. In these cases, aspects of a standardized testing process that pose no particular challenge for most test takers may prevent specific groups or individuals from accurately demonstrating their standing with respect to the construct of interest. For example, challenges may arise due to an examinee's disability, cultural background, linguistic background, race, ethnicity, socioeconomic status, limitations that may come with aging, or some combination of these or other factors. In some instances, greater comparability of scores may be attained if standardized procedures are changed to address the needs of specific groups or individuals without any adverse effects on the validity or reliability of the results obtained. For example, a braille test form, a large-print answer sheet, or a screen reader may be provided to enable those with some visual impairments to obtain more equitable access to test content. Legal considerations may also influence how to address individualized needs.
 
+<<<<<<< HEAD
 #### Fairness as Lack of Measurement Bias
+=======
+##### Fairness as Lack of Measurement Bias
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Characteristics of the test itself that are not related to the construct being measured, or the manner in which the test is used, may sometimes result in different meanings for scores earned by members of different identifiable subgroups. For example, *differential item functioning* (DIF) is said to occur when equally able test takers differ in their probabilities of answering a test item correctly as a function of group membership. DIF can be evaluated in a variety of ways. The detection of DIF does not always indicate bias in an item; there needs to be a suitable, substantial explanation for the DIF to justify the conclusion that the item is biased. *Differential test functioning* (DTF) refers to differences in the functioning of tests (or sets of items) for different specially defined groups. When DTF occurs, individuals from different groups who have the same standing on the characteristic assessed by the test do not have the same expected test score.
 
@@ -1075,7 +1536,11 @@ A related issue is the extent to which the construct being assessed hasequivalen
 
 culture may not generalize across borders or cultures. This can lead to invalid test score interpretations. Careful attention to bias in score interpretations should be practiced in such contexts.
 
+<<<<<<< HEAD
 #### Fairness in Access to the Construct(s) as Measured
+=======
+##### Fairness in Access to the Construct(s) as Measured
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The goal that all intended test takers have a full opportunity to demonstrate their standing on the construct being measured has given riseto concerns about accessibility in testing. Accessible testing situations are those that enable all test takers in the intended population, to the extent feasible, to show their status on the target construct(s) without being unduly advantaged or disadvantaged by individual characteristics (e.g., characteristics related to age, disability, race/ethnicity, gender, or language) that are irrelevant to the construct(s) the test is intended to measure. Accessibility is actually a test bias issue because obstacles to accessibility can result in different interpretations of test scores for individuals from different groups. Accessibility also has important ethical and legal ramifications.
 
@@ -1085,7 +1550,11 @@ As discussed later in this chapter, some testtaker characteristics that impede a
 
 Providing access to a test construct becomes particularly challenging for individuals with more than one characteristic that could interfere with test performance; for example, older adults who are not fluent in English or English learners who have moderate cognitive disabilities.
 
+<<<<<<< HEAD
 #### Fairness as Validity of Individual Test Score Interpretations for the Intended Uses
+=======
+##### Fairness as Validity of Individual Test Score Interpretations for the Intended Uses
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 It is important to keep in mind that fairness concerns the validity of individual score interpretations for intended uses. In attempting to ensure fairness, we often generalize across groups of test takers such as individuals with disabilities, older adults, individuals who are learning English, or those from different racial or ethnic groups or different cultural and/or socioeconomic backgrounds; however, this is done for convenience and is not meant to imply that these groups are homogeneous or that, consequently, all members of a group should be treated similarly when making interpretations of test scores for individuals (unless there is validity evidence to support such generalizations). It is particularly important, when drawing inferences about an examinee's skills or abilities, to take into account the individual characteristics of the test taker and how these characteristics may interact with the contextual features of the testing situation.
 
@@ -1097,11 +1566,19 @@ In closing this section on the meanings of fairness, note that the *Standards*' 
 
 In many cases, it is not clear whether the differences are due to real differences between groups in the construct being measured or to some source of bias (e.g., construct-irrelevant variance or construct underrepresentation). In most cases, it may be some combination of real differences and bias. A serious search for possible sources of bias that comes up empty provides reassurance that the potential for bias is limited, but even a very extensive research program cannot rule the possibility out. It is always possible that something was missed, and therefore, prudence would suggest that an attempt be madeto minimizethe differences. For example, some racial and ethnic subgroups have lower mean scores on some standardized tests than do other subgroups. Some of the factors that contribute to these differences are understood (e.g., large differences in family income and other resources, differences in school quality and students' opportunity to learn the material to be assessed), but even where serious efforts have been made to eliminate possible sources of bias in test content and formats, the potential for some score bias cannot be completely ruled out. Therefore, continuing efforts in test design and development to eliminate potential sources of bias without compromising validity, and consistent with legal and regulatory standards, are warranted.
 
+<<<<<<< HEAD
 ### **Threats to Fair and Valid Interpretations of Test Scores**
 
 A prime threat to fair and valid interpretation of test scores comes from aspects of the test or testing process that may produce construct-irrelevant variance in scores that systematically lowers or raises scores for identifiable groups of test takers and results in inappropriate score interpretations for intended uses. Such construct-irrelevant components of scores may be introduced by inappropriate sampling of test content, aspects of the test context such as lack of clarity in test instructions, item complexities that are unrelated to the construct being measured, and/or test response expectations or scoring criteria that may favor one group over another. In addition, opportunity to learn (i.e., the extent to which an examinee has been exposed to instruction or experiences assumed by the test developer and/or user) can influence the fair and valid interpretations of test scores for their intended uses.
 
 #### Test Content
+=======
+#### **Threats to Fair and Valid Interpretations of Test Scores**
+
+A prime threat to fair and valid interpretation of test scores comes from aspects of the test or testing process that may produce construct-irrelevant variance in scores that systematically lowers or raises scores for identifiable groups of test takers and results in inappropriate score interpretations for intended uses. Such construct-irrelevant components of scores may be introduced by inappropriate sampling of test content, aspects of the test context such as lack of clarity in test instructions, item complexities that are unrelated to the construct being measured, and/or test response expectations or scoring criteria that may favor one group over another. In addition, opportunity to learn (i.e., the extent to which an examinee has been exposed to instruction or experiences assumed by the test developer and/or user) can influence the fair and valid interpretations of test scores for their intended uses.
+
+##### Test Content
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 One potential source of construct-irrelevant variance in test scores arises from inappropriate test content, that is, test content that confounds the measurement of the target construct and differentially favors individuals from some subgroups over others. A test intended to measure critical reading, for example, should not include words and expressions especially associated with particular occupations, disciplines, cultural backgrounds, socioeconomic status, racial/ethnic groups, or geographical locations, so as to maximize the measurement of the construct (the ability to read critically) and to minimize confounding of this measurement with prior knowledge and experience that are likely to advantage, or disadvantage, test takers from particular subgroups.
 
@@ -1109,7 +1586,11 @@ Differential engagement and motivational value may also be factors in exacerbati
 
 Depending on the context and purpose of tests, it is both common and advisable for test developers to engage an independent and diverse panel of experts to review test content for language, illustrations, graphics, and other representations that might be differentially familiar or interpreted differently by members of different groups and for material that might be offensive or emotionally disturbing to some test takers.
 
+<<<<<<< HEAD
 #### Test Context
+=======
+##### Test Context
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The term *test context,* as used here, refers to multiple aspects of thetest and testing environment that may affect the performance of an examinee and consequently give rise to construct-irrelevant variancein thetest scores. As research on contextual factors (e.g., stereotype threat) is ongoing, test developers and test users should pay attention to the emerging empirical literature on these topics so that they can use this information if and when the preponderance of evidence dictates that it is appropriate to do so. Construct-irrelevant variance may result from a lack of clarity in test instructions, from unrelated complexity or language demands in test tasks, and/or from other characteristics of test items that are unrelated to the construct but lead some individuals to respond in particular ways. For example, examinees from diverse racial/ethnic, linguistic, or cultural backgrounds or who differ by gender may be poorly assessed by a vocational interest inventory whose questions disproportionately ask about competencies, activities, and interests that are stereotypically associated with particular subgroups.
 
@@ -1117,7 +1598,11 @@ When test settings have an interpersonal context, the interaction of examiner wi
 
 Testing of individuals who are bilingual or multilingual poses special challenges. An individual who knows two or more languages may not test well in one or more of the languages. For example, children from homes whose families speak Spanish may be able to understand Spanish but express themselves best in English or vice versa. In addition, some persons who are bilingual use their native language in most social situations and use English primarily for academic and work-related activities; the use of one or both languages depends on the nature of thesituation. Non-native English speakers who give the impression of being fluent in conversational English may beslower or not completely competent in taking tests that require English comprehension and literacy skills. Thus, in some settings, an understanding of an individual's type and degree of bilingualism or multilingualism is important for testing the individual appropriately. Note that this concern may not apply when the construct of interest is defined as a particular kind of language proficiency (e.g., academic language of the kind found in text books, language and vocabulary specific to workplace and employment testing).
 
+<<<<<<< HEAD
 #### Test Response
+=======
+##### Test Response
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In some cases, construct-irrelevant variance may arise because test items elicit varieties of responses other than those intended or because items can be solved in ways that were not intended. To the extent that such responses are more typical of some subgroups than others, biased score interpretations may result. For example, some clients responding to a neuropsychological test may attempt to provide the answers they think the test administrator expects, as opposed to the answers that best describe themselves.
 
@@ -1125,7 +1610,11 @@ Construct-irrelevant components in test scores may also be associated with test 
 
 In the development and use of scoring rubrics, it is particularly important that credit be awarded for response characteristics central to the construct being measured and not for response characteristics that are irrelevant or tangential to the construct. Scoring rubrics may inadvertently advantage some individuals over others. For example, a scoring rubric for a constructed response item might reserve the highest score level for test takers who provide more information or elaboration than was actually requested. In this situation, test takers who simply follow instructions, or test takers who value succinctness in responses, will earn lower scores; thus, characteristics of the individuals become construct-irrelevant components of the test scores. Similarly, the scoring of open-ended responses may introduce construct-irrelevant variancefor sometest takers if scorers and/or automated scoring routines are not sensitive to the full diversity of ways in which individuals express their ideas. With the advent of automated scoring for complex performance tasks, for example, it is important to examinethe validity of the automated scoring results for relevant subgroups in the testtaking population.
 
+<<<<<<< HEAD
 #### Opportunity to Learn
+=======
+##### Opportunity to Learn
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Finally, *opportunity to learn*— the extent to which individuals have had exposure to instruction or knowledge that affords them the opportunity to learn the content and skills targeted by the test has several implications for the fair and valid interpretation of test scores for their intended uses. Individuals' prior opportunity to learn can be an important contextual factor to consider in interpreting and drawing inferences from test scores. For example, a recent immigrant who has had little prior exposure to school may not have had the opportunity to learn concepts assumed to be common knowledge by a personality inventory or ability measure, even if that measure is administered in the native language of the test taker. Similarly, as another example, there has been considerable public discussion about potential inequities in school resources available to students from traditionally disadvantaged groups, for example, racial, ethnic, language, and cultural minorities and rural students. Such inequities affect the quality of education received. To the extent that inequity exists, the validity of inferences about student ability drawn from achievement test scores may be compromised. Not taking into account prior opportunity to learn could lead to misdiagnosis, inappropriate placement, and/or inappropriate assignment of services, which could havesignificant consequences for an individual.
 
@@ -1135,7 +1624,11 @@ Several important issues arise when opportunity to learn is considered as a comp
 
 It should be noted that concerns about opportunity to learn do not necessarily apply to situations where the same authority is not responsible for both the delivery of instruction and the testing and/or interpretation of results. For example, in college admissions decisions, opportunity to learn may be beyond the control of the test users and it may not influencethe validity of test interpretations for their intended use (e.g., selection and/or admissions decisions). Chapter 12, "Educational Testing and Assessment," provides additional perspective on opportunity to learn.
 
+<<<<<<< HEAD
 ### **Minimizing Construct-Irrelevant Components Through Test Design and Testing Adaptations**
+=======
+#### **Minimizing Construct-Irrelevant Components Through Test Design and Testing Adaptations**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Standardized tests should be designed to facilitate accessibility and minimize construct-irrelevant barriers for all test takers in the target population, as far as practicable. Before considering the need for any assessment adaptations for test takers who may have special needs, the assessment developer first must attempt to improve accessibility within the test itself. Some of these basic principles are included in the test design process called universal design. By using universal design, test developers begin the test development process with an eye toward maximizing fairness. Universal design emphasizes the need to develop tests that are as usable as possible for all test takers in the intended test population, regardless of characteristics such as gender, age, language background, culture, socioeconomic status, or disability.
 
@@ -1149,7 +1642,11 @@ Although the principles of universal design for assessment provide a useful guid
 
 It is important to keep in mind that attention to design and the provision of altered tests do not always ensure that test results will be fair and valid for all examinees. Those who administer tests and interpret test scores need to develop a full understanding of the usefulness and limitations of test design procedures for accessibility and any alterations that are offered.
 
+<<<<<<< HEAD
 #### A Range of Test Adaptations
+=======
+##### A Range of Test Adaptations
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Rather than a simple dichotomy, potential test adaptations reflect a broad range of test changes. At one end of the range are test accommodations. As the term is used in the *Standards,* accommodations consist of relatively minor changes to the presentation and/or format of the test, test ad-
 
@@ -1159,7 +1656,11 @@ ministration, or response procedures that maintain the original construct and re
 
 At the other end of the range are adaptations that transform the construct being measured, including the test content and/or testing conditions, to get a reasonable measure of a somewhat different but appropriate construct for designated test takers. Forexample, in educational testing, different tests addressing alternate achievement standards are designed for students with severe cognitive disabilities for the same subjects in which students without disabilities are assessed. Clearly, scores from these different tests cannot be considered comparable to those resulting from the general assessment, but instead represent scores from a new test that requires the same rigorous development and validation processes as would be carried out for any new assessment. (An expanded discussion of the use of such alternate assessments is found in chap. 12; alternate assessments will not be treated further in the present chapter.) Other adaptations change the intended construct to make it accessible for designated students while retaining as much of the original construct as possible. For example, a reading test adaptation might provide a dyslexic student with a screen reader that reads aloud the passages and the test questions measuring reading comprehension. If the construct is intentionally defined as requiring both the ability to decode and the ability to comprehend written language, the adaptation would require a different interpretation of the test scores as a measure of reading comprehension. Clearly, this adaptation changes the construct being measured, because the student does not have to decode the printed text; but without the adaptation, the student may not be able to demonstrate any standing on the construct of reading comprehension. On the other hand, if the purpose of the reading test is to evaluate comprehension without concern for decoding ability, the adaptation might be judged to support more valid interpretations of some students' reading comprehension and the essence of the relevant parts of the construct might be judged to be intact. The challenge for those who report, interpret, and/or use test scores from adapted tests is to recognize which adaptations provide scores that are comparable to the scores from the original, unadapted assessment and which adaptations do not.This challenge becomes even more difficult when evidence to support the comparability of scores is not available.
 
+<<<<<<< HEAD
 #### Test Accommodations: Comparable Measures That Maintain the Intended Construct
+=======
+##### Test Accommodations: Comparable Measures That Maintain the Intended Construct
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Comparability of scores* enables test users to make comparable inferences based on the scores for all test takers. Comparability also is the defining feature for a test adaptation to be considered an accommodation. Scores from the accommodated version of thetest must yield inferences comparable to those from the standard version; to make this happen is a challenging proposition. On the one hand, common, uniform procedures are a basic underpinning for score validity and comparability. On the other hand, accommodations by their very nature mean that something in the testing circumstance has been changed because adhering to the original standardized procedures would interfere with valid measurement of the intended construct(s) for some individuals.
 
@@ -1179,17 +1680,29 @@ When the testing accommodation employs the use of an interpreter, it is desirabl
 
 Finally, it is important to standardize procedures for implementing accommodations, as far as possible, so that comparability of scores is maintained. Standardized procedures for test accommodations must include rules for determining who is eligible for an accommodation, as well as precisely how the accommodation is to be administered. Test users should monitor adherence to the rules for eligibility and for appropriate administration of the accommodated test.
 
+<<<<<<< HEAD
 #### Test Modifications: Noncomparable Measures That Change the Intended Construct
 
 There may be times when additional flexibility is required to obtain even partial measurement of the construct; that is, it may be necessary to consider a modification to a test that will result in changing the intended construct to provide even limited access to the construct that is being measured. For example, an individual with dyscalculia may have limited ability to do computations without a calculator; however, if provided a calculator, the individual may be able to do the calculations required in the assessment. If the construct being assessed involves broader mathematics skill, the individual may have limited access to the construct being measured without the use of a calculator; with the modification, however, the individual may be able to demonstrate mathematics problem-solving skills, even if he or she is not able to demonstrate computation skills. Because modified assessments are measuring a different construct from that measured by the standardized assessment, it is important to interpret the assessment scores as resulting from a new test and to gather whatever evidence is necessary to evaluate the validity of the interpretations for intended uses of the scores. For norm-based score interpretations, any modification that changes the construct will invalidate the norms for score interpretations. Likewise, if the construct is changed, criterionbased score interpretations from the modified assessment (for example, making classification decisions such as "pass/fail" or assigning categories of mastery such as "basic," "proficient," or "advanced" using cut scores determined on the original assessment) will not be valid.
 
 #### Reporting Scores From Accommodated and Modified Tests
+=======
+##### Test Modifications: Noncomparable Measures That Change the Intended Construct
+
+There may be times when additional flexibility is required to obtain even partial measurement of the construct; that is, it may be necessary to consider a modification to a test that will result in changing the intended construct to provide even limited access to the construct that is being measured. For example, an individual with dyscalculia may have limited ability to do computations without a calculator; however, if provided a calculator, the individual may be able to do the calculations required in the assessment. If the construct being assessed involves broader mathematics skill, the individual may have limited access to the construct being measured without the use of a calculator; with the modification, however, the individual may be able to demonstrate mathematics problem-solving skills, even if he or she is not able to demonstrate computation skills. Because modified assessments are measuring a different construct from that measured by the standardized assessment, it is important to interpret the assessment scores as resulting from a new test and to gather whatever evidence is necessary to evaluate the validity of the interpretations for intended uses of the scores. For norm-based score interpretations, any modification that changes the construct will invalidate the norms for score interpretations. Likewise, if the construct is changed, criterionbased score interpretations from the modified assessment (for example, making classification decisions such as "pass/fail" or assigning categories of mastery such as "basic," "proficient," or "advanced" using cut scores determined on the original assessment) will not be valid.
+
+##### Reporting Scores From Accommodated and Modified Tests
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Typically, test administrators and testing professionals document steps used in making test accommodations or modifications in the test report; clinicians may also include a discussion of the validity of the interpretations of the resulting scores for intended uses. This practice of reporting the nature of accommodations and modifications is consistent with implied requirements to communicateinformation as to the nature of the assessment process if these changes may affect thereliability/precision of test scores or the validity of interpretations drawn from test scores.
 
 The flagging of test score reports can be a controversial issue and subject to legal requirements. When there is clear evidence that scores from regular and altered tests or test administrations are not comparable, consideration should be given to informing score users, potentially by flagging the test results to indicate their special nature, to the extent permitted by law. Where there is credible evidence that scores from regular and altered tests are comparable, then flagging generally is not appropriate. There is little agreement in the field on how to proceed when credible evidence on comparability does not exist. To the extent possible, test developers and/or users should collect evidence to examine the comparability of regular and altered tests or administration procedures for the test's intended purposes.
 
+<<<<<<< HEAD
 #### Appropriate Use of Accommodations or Modifications
+=======
+##### Appropriate Use of Accommodations or Modifications
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Depending on the construct to be measured and the test's purpose, there are some testing situations where accommodations as defined by the *Standards* are not needed or modifications as defined by the *Standards* are not appropriate. First, the reason for the possible alteration, such as English language skills or a disability, may in fact be directly relevant to the focal construct. In employment testing, it would be inappropriate to make changes to the test if the test is designed to assess essential skills required for the job and the test changes would fundamentally alter the constructs being measured. For example, despite increased automation and use of recording devices, some court reporter jobs require individuals to be able to work quickly and accurately. Speed is an important aspect of the construct that cannot be adapted. As another example, a work sample for a customer service job that requires fluent communication in English would not be translated into another language.
 
@@ -1201,7 +1714,11 @@ The effectiveness of a given accommodation also plays a role in determinations o
 
 In summary, fairness is a fundamental issue for valid test score interpretation, and it should therefore be the goal for all testing applications. Fairness is the responsibility of all parties involved in test development, administration, and score interpretation for the intended purposes of the test.
 
+<<<<<<< HEAD
 ## STANDARDS FOR FAIRNESS
+=======
+### STANDARDS FOR FAIRNESS
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 3.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into four thematic clusters labeled as follows:
 
@@ -1210,27 +1727,45 @@ The standards in this chapter begin with an overarching standard (numbered 3.0),
 - 3. Accommodations to Remove Construct-Irrelevant Barriers and Support Valid Interpretations of Scores for Their Intended Uses
 - 4. Safeguards Against Inappropriate Score Interpretations for Intended Uses
 
+<<<<<<< HEAD
 #### Standard 3.0
+=======
+##### Standard 3.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 All steps in the testing process, including test design, validation, development, administration, and scoring procedures, should be designed in such a manner as to minimize construct-irrelevant variance and to promote valid score interpretations for the intended uses for all examinees in the intended population.
 
 **Comment:** The central idea of fairness in testing is to identify and remove construct-irrelevant barriers to maximal performance for any examinee. Removing these barriers allows for the comparable and valid interpretation of test scores for all examinees. Fairness is thus central to the validity and comparability of the interpretation of test scores for intended uses.
 
+<<<<<<< HEAD
 ### **Cluster 1. Test Design, Development, Administration, and Scoring Procedures That Minimize Barriers to Valid Score Interpretations for the Widest Possible Range of Individuals and Relevant Subgroups**
 
 #### Standard 3.1
+=======
+#### **Cluster 1. Test Design, Development, Administration, and Scoring Procedures That Minimize Barriers to Valid Score Interpretations for the Widest Possible Range of Individuals and Relevant Subgroups**
+
+##### Standard 3.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for test development, revision, and administration should design all steps of the testing process to promote valid score interpretations for intended score uses for the widest possible range of individuals and relevant subgroups in the intended population.
 
 **Comment:** Test developers must clearly delineate both the constructs that are to be measured by the test and the characteristics of the individuals and subgroups in theintended population of test takers. Test tasks and items should be designed to maximize access and be free of construct-irrelevant barriers as far as possible for all individuals and relevant subgroups in the intended test-taker population. One way to accomplish these goals is to create the test using principles of universal design, which take account of the characteristics of all individuals for whom thetest is intended and includesuch elements as precisely defining constructs and avoiding, where possible, characteristics and formats of items and tests (forexample, test speededness) that may compromise valid score interpretations for individuals or relevant subgroups. Another principle of universal design is to provide simple, clear, and intuitive testing procedures and instructions. Ultimately, the goal is to design a testing process that will, to the extent practicable, remove potential barriers to the measurement of the intended construct for all individuals, including those individuals requiring accommodations.Test developers need to be knowledgeable about group differences that may interfere with the precision of scores and the validity of test score inferences, and they need to be able to take steps to reduce bias.
 
+<<<<<<< HEAD
 #### Standard 3.2
+=======
+##### Standard 3.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers are responsible for developing tests that measure the intended construct and for minimizing the potential for tests' being affected by construct-irrelevant characteristics, such as linguistic, communicative, cognitive, cultural, physical, or other characteristics.
 
 **Comment:** Unnecessary linguistic, communicative, cognitive, cultural, physical, and/or other characteristics in test item stimulus and/or response requirements can impedesomeindividuals in demonstrating their standing on intended constructs. Test developers should use language in tests that is consistent with the purposes of the tests and that is familiar to as wide a range of test takers as possible. Avoiding the use of language that has different meanings or different connotations for relevant subgroups of test takers will help ensure that test takers who have the skills being assessed are able to understand what is being asked of them and respond appropriately. The level of language proficiency, physical response, or other demands required by the test should be kept to the minimum required to meet work and credentialing requirements and/or to represent the target construct(s). In work situations, the modality in which language proficiency is assessed should be comparable to that required on the job, for example, oral and/or written, comprehension and/or production. Similarly, the physical and verbal demands of response requirements should be consistent with the intended construct.
 
+<<<<<<< HEAD
 #### Standard 3.3
+=======
+##### Standard 3.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for test development should include relevant subgroups in validity, reliability/ precision, and other preliminary studies used when constructing the test.
 
@@ -1242,6 +1777,7 @@ If pilot or field test results indicate that items or tests function differentia
 
 Expert and sensitivity reviews can serve to guard against construct-irrelevant language and images, including those that may offend some individuals or subgroups, and against constructirrelevant context that may be more familiar to some than others. Test publishers often conduct sensitivity reviews of all test material to detect and remove sensitive material from tests (e.g., text, graphics, and other visual representations within the test that could be seen as offensive to some groups and possibly affect the scores of individuals from these groups). Such reviews should be conducted before a test becomes operational.
 
+<<<<<<< HEAD
 #### Standard 3.4
 
 Test takers should receive comparable treatment during the test administration and scoring process.
@@ -1262,6 +1798,21 @@ Test developers should specify and document provisions that have been made to te
 
 #### Standard 3.6
 
+=======
+##### Standard 3.4
+Test takers should receive comparable treatment during the test administration and scoring process.
+**Comment:** Those responsible for testing should adhere to standardized test administration, scoring, and security protocols so that test scores will reflect the construct(s) being assessed and will not be unduly influenced by idiosyncrasies in the testing process. Those responsible for test administration should mitigate the possibility of personal predispositions that might affect the test administration or interpretation of scores.
+Computerized and other forms of technology-based testing add extra concerns for standardization in administration and scoring. Examinees must have access to technology so that aspects of the technology itself do not influence scores. Examinees working on older, slower equipment may be unfairly disadvantaged relative to those working on newer equipment. If computers or other devices differ in speed of processing or movement from one screen to the next, in the fidelity of the visuals, or in other important ways, it is possible that construct-irrelevant factors may influence test performance.
+Issues related to test security and fidelity of administration can also threaten the comparability of treatment of individuals and the validity and fairness of test score interpretations. For example, unauthorized distribution of items to some examinees but not others, or unproctored test administrations where standardization cannot be ensured, could provide an advantage to some test takers over others. In these situations, test results should be interpreted with caution.
+
+##### Standard 3.5
+Test developers should specify and document provisions that have been made to test administration and scoring procedures to remove construct-irrelevant barriers for all relevant subgroups in the test-taker population.
+**Comment:** Test developers should specify how construct-irrelevant barriers were minimized in the test development process for individuals from all relevant subgroups in the intended test population. Test developers and/or users should also document any studies carried out to examine the reliability/precision of scores and validity of scorer interpretations for relevant subgroups of the intended population of test takers for the intended uses of the test scores. Special test administration, scoring, and reporting procedures should be documented and made available to test users.
+
+#### **Cluster 2. Validity of Test Score Interpretations for Intended Uses for the Intended Examinee Population**
+
+##### Standard 3.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Where credible evidence indicates that test scores may differ in meaning for relevant subgroups in the intended examinee population, test developers and/or users are responsible for examining the evidence for validity of score interpretations for intended uses for individuals from those subgroups. What constitutes a significant difference in subgroup scores and what actions are taken in response to such differences may be defined by applicable laws.
 
 **Comment:** Subgroup mean differences do not in and of themselves indicate lack of fairness, but such differences should trigger follow-up studies, where feasible, to identify the potential causes of such differences. Depending on whether subgroup differences are discovered during the development or use phase, either the test developer or the test user is responsible for initiating follow-up inquiries and, as appropriate, relevant studies. The inquiry should investigate construct underrepresentation and sources of construct-irrelevant variance as potential causes of subgroup differences, investigated as feasible, through quantitative and/or qualitative studies. The kinds of validity evidence considered may include analysis of test content, internal structure of test responses, the relationship of test scores to other variables, or the response processes employed by the individual examinees. When
@@ -1270,13 +1821,21 @@ sample sizes are sufficient, studies of score precision and accuracy for relevan
 
 Analyses, where possible, may need to take into account the level of heterogeneity within relevant subgroups, for example, individuals with different disabilities, or linguistic minority examinees at different levels of English proficiency. Differences within these subgroups may influence the appropriateness of test content, the internal structure of the test responses, the relation of test scores to other variables, or the response processes employed by individual examinees.
 
+<<<<<<< HEAD
 #### Standard 3.7
+=======
+##### Standard 3.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When criterion-related validity evidence is used as a basis for test score–based predictions of future performance and sample sizes are sufficient, test developers and/or users are responsible for evaluating the possibility of differential prediction for relevant subgroups for which there is prior evidence or theory suggesting differential prediction.
 
 **Comment:** When sample sizes are sufficient, differential prediction is often examined using regression analysis. One approach to regression analysis examines slope and intercept differences between targeted groups (e.g., Black and White samples), while another examines systematic deviations from a common regression line for the groups of interest. Both approaches can account for the possibility of predictive bias and/or differences in heterogeneity between groups and provide valuable information for the examination of differential predictions. In contrast, correlation coefficients provide inadequate evidence for or against a differential prediction hypothesis if groups or treatments are found to have unequal means and variances on the test and the criterion. It is particularly important in the context of testing for high-stakes purposes that test developers and/or users examine differential prediction and avoid the use of correlation coefficients in situations where groups or treatments result in unequal means or variances on the test and criterion.
 
+<<<<<<< HEAD
 #### Standard 3.8
+=======
+##### Standard 3.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When tests require the scoring of constructed responses, test developers and/or users should collect and report evidence of the validity of score interpretations for relevant subgroups in the intended population of test takers for the intended uses of the test scores.
 
@@ -1286,9 +1845,15 @@ For human scoring, scoring procedures should be designed with the intent that th
 
 Automated scoring algorithms may be used to score complex constructed responses, such asessays, either as the sole determiner of the score or in conjunction with a score provided by a human scorer. Scoring algorithms need to be reviewed for potential sources of bias. The precision of scores and validity of score interpretations resulting from automated scoring should be evaluated for all relevant subgroups of the intended population.
 
+<<<<<<< HEAD
 ### **Cluster 3. Accommodations to Remove Construct-Irrelevant Barriers and Support Valid Interpretations of Scores for Their Intended Uses**
 
 #### Standard 3.9
+=======
+#### **Cluster 3. Accommodations to Remove Construct-Irrelevant Barriers and Support Valid Interpretations of Scores for Their Intended Uses**
+
+##### Standard 3.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers and/or test users are responsible for developing and providing test accommodations, when appropriate and feasible, to remove construct-irrelevant barriers that otherwise would interfere with examinees' ability to demonstrate their standing on the target constructs.
 
@@ -1298,7 +1863,11 @@ An appropriate accommodation is one that responds to specific individual charact
 
 Test modifications that change the construct that the test is measuring may be needed for some examinees to demonstrate their standing on some aspect of the intended construct. If an assessment is modified to improve access to theintended construct for designated individuals, the modified assessment should betreated like a newly developed assessment that needs to adhereto thetest standards for validity, reliability/precision, fairness, and so forth.
 
+<<<<<<< HEAD
 #### Standard 3.10
+=======
+##### Standard 3.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test accommodations are permitted, test developers and/or test users are responsible for documenting standard provisions for using the accommodation and for monitoring the appropriate implementation of the accommodation.
 
@@ -1310,7 +1879,11 @@ Test administrators and users should also provide those who have a role in deter
 
 The test administrator or appropriate representative of the test user should document any use of accommodations. For large-scale education assessments, test users also should monitor the appropriate use of accommodations.
 
+<<<<<<< HEAD
 #### Standard 3.11
+=======
+##### Standard 3.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is changed to remove barriers to the accessibility of the construct being measured, test developers and/or users are responsible for obtaining and documenting evidence of the validity of score interpretations for intended uses of the changed test, when sample sizes permit.
 
@@ -1322,13 +1895,21 @@ Evidenceshould be provided for recommended alterations. If a test developer reco
 
 When tests are linguistically simplified to remove construct-irrelevant variance, test developers and/or users are responsible for documenting evidence of the comparability of scores from the linguistically simplified tests to the original test, when sample sizes permit.
 
+<<<<<<< HEAD
 #### Standard 3.12
+=======
+##### Standard 3.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is translated and adapted from one language to another, test developers and/or test users are responsible for describing the methods used in establishing the adequacy of the adaptation and documenting empirical or logical evidence for the validity of test score interpretations for intended use.
 
 **Comment:** The term *adaptation* is used here to describe changes made to tests translated from one language to another to reduce construct-irrelevant variance that may arise due to individual or subgroup characteristics. In this case the translation/adaptation process involves not only translating the language of the test so that it is suitable for thesubgroup taking thetest, but also addressing any construct-irrelevant linguistic and cultural subgroup characteristics that may interfere with measurement of the intended construct(s). When multiple language versions of a test are intended to provide comparable scores, test developers should describe in detail the methods used for test translation and adaptation and should report evidence of test score validity pertinent to the linguistic and cultural groups for whom the test is intended and pertinent to the scores' intended uses. Evidence of validity may include empirical studies and/or professional judgment documenting that the different language versions measure comparable or similar constructs and that the score interpretations from the two versions have comparable validity for their intended uses. For example, if a test is translated and adapted into Spanish for use with Central American, Cuban, Mexican, Puerto Rican, South American, and Spanish populations, the validity of test score interpretations for specific uses should be evaluated with members of each of these groups separately, wherefeasible. Wheresamplesizes permit,evidence of score accuracy and precision should be provided for each group, and test properties for each subgroup should be included in test manuals.
 
+<<<<<<< HEAD
 #### Standard 3.13
+=======
+##### Standard 3.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A test should be administered in the language that is most relevant and appropriate to the test purpose.
 
@@ -1338,7 +1919,11 @@ Professional judgment needs to be used to determine the most appropriate procedu
 
 Determination of a test taker's most proficient language for test administration does not automatically guarantee validity of score inferences for the intended use. For example, individuals may be more proficient in one language than another, but not necessarily developmentally proficient in either; disconnects between the language of construct acquisition and that of assessment also can compromise appropriate interpretation of the test taker's scores.
 
+<<<<<<< HEAD
 #### Standard 3.14
+=======
+##### Standard 3.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When testing requires the use of an interpreter, the interpreter should follow standardized procedures and, to the extent feasible, be sufficiently fluent in the language and content of the test and the examinee's native language and culture to translate the test and related testing materials and to explain the examinee's test responses, as necessary.
 
@@ -1350,15 +1935,25 @@ Unless a test has been standardized and normed with the use of interpreters, the
 
 When a test is likely to require the use of interpreters, the test developer should provide clear guidance on how interpreters should be selected and their role in administration.
 
+<<<<<<< HEAD
 ### **Cluster 4. Safeguards Against Inappropriate ScoreInterpretations for Intended  Uses**
 
 #### Standard 3.15
+=======
+#### **Cluster 4. Safeguards Against Inappropriate ScoreInterpretations for Intended  Uses**
+
+##### Standard 3.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers and publishers who claim that a test can be used with examinees from specific subgroups are responsible for providing the necessary information to support appropriate test score interpretations for their intended uses for individuals from these subgroups.
 
 **Comment:** Test developers should include in test manuals and instructions for score interpretation explicit statements about the applicability of the test for relevant subgroups.Test developers should provide evidence of the applicability of the test for relevant subgroups and make explicit cautions against foreseeable (based on prior experience or other relevant sources such as research literature) misuses of test results.
 
+<<<<<<< HEAD
 #### Standard 3.16
+=======
+##### Standard 3.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When credible research indicates that test scores for some relevant subgroups are differentially affected by construct-irrelevant characteristics of the test or of the examinees, when legally permissible, test users should use the test only for those subgroups for which there is sufficient evidence of validity to support score interpretations for the intended uses.
 
@@ -1368,7 +1963,11 @@ There may be occasions when examinees request or demand to take a version of the
 
 In some cases, such as when a test will distribute benefits or burdens (such as qualifying for an honors class or denial of a promotion in a job), the law may limit the extent to which a test user may evaluate some groups under the test and other groups under a different test.
 
+<<<<<<< HEAD
 #### Standard 3.17
+=======
+##### Standard 3.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When aggregate scores are publicly reported for relevant subgroups— for example, males and females, individuals of differing socioeconomic status, individuals differing by race/ethnicity, individuals with different sexual orientations, individuals with diverse linguistic and cultural backgrounds, individuals with disabilities, young children or older adults— test users are responsible for providing evidence of comparability and for including cautionary statements whenever credible research or theory indicates that test scores may not have comparable meaning across these subgroups.
 
@@ -1376,7 +1975,11 @@ When aggregate scores are publicly reported for relevant subgroups— for exampl
 
 Terminology for describing specific subgroups for which valid test score inferences can and cannot be drawn should be as precise as possible, and categories should be consistent with the intended uses of the results. For example, the terms *Latino* or *Hispanic* can be ambiguous if not specifically defined, in that they may denote individuals of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish-culture origin, regardless of race/ethnicity, and may combine those who are recent immigrants with those who are U.S. native born, those who may not be proficient in English, and those of diverse socioeconomic background. Similarly, theterm "individuals with disabilities" encompasses a wide range of specific conditions and background characteristics. Even references to specific categories of individuals with disabilities, such as hearing impaired, should be accompanied by an explanation of the meaning of the term and an indication of the variability of individuals within the group.
 
+<<<<<<< HEAD
 #### Standard 3.18
+=======
+##### Standard 3.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In testing individuals for diagnostic and/or special program placement purposes, test users should not use test scores as the sole indicators to characterize an individual's functioning, competence, attitudes, and/or predispositions. Instead, multiple sources of information should be used, alternative explanations for test performance should be considered, and the professional judgment of someone familiar with the test should be brought to bear on the decision.
 
@@ -1386,7 +1989,11 @@ Opportunity to learn is another variable that may need to be taken into account 
 
 Inferences about test takers' general language proficiency should be based on tests that measure a range of language features, not a single linguistic skill. A more complete range of communicative abilities (e.g., word knowledge, syntax as well as cultural variation) will typically need to be assessed. Test users areresponsiblefor interpreting individual scores in light of alternative explanations and/or relevant individual variables noted in the test manual.
 
+<<<<<<< HEAD
 #### Standard 3.19
+=======
+##### Standard 3.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In settings where the same authority is responsible for both provision of curriculum and high-stakes decisions based on testing of examinees' curriculum mastery, examinees should not suffer permanent negative consequences if evidence indicates that they have not had the opportunity to learn the test content.
 
@@ -1394,7 +2001,11 @@ In settings where the same authority is responsible for both provision of curric
 
 Note that this standard is not applicable in situations where different authorities are responsible for curriculum, testing, and/or interpretation and use of results. Forexample, opportunity to learn may be beyond the knowledge or control of test users, and it may not influencethe validity of test interpretations such as predictions of future performance.
 
+<<<<<<< HEAD
 #### Standard 3.20
+=======
+##### Standard 3.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a construct can be measured in different ways that are equal in their degree of construct representation and validity (including freedom from construct-irrelevant variance), test users should consider, among other factors, evidence of subgroup differences in mean scores or in percentages of examinees whose scores exceed the cut scores, in deciding which test and/or cut scores to use.
 
@@ -1402,9 +2013,15 @@ When a construct can be measured in different ways that are equal in their degre
 
 ![](_page_83_Figure_0.jpeg)
 
+<<<<<<< HEAD
 # Chapter 4:  TEST DESIGN AND DEVELOPMENT**
 
 ## BACKGROUND
+=======
+## Chapter 4:  TEST DESIGN AND DEVELOPMENT**
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Test development* is the process of producing a measure of some aspect of an individual's knowledge, skills, abilities, interests, attitudes, or other characteristics by developing questions or tasks and combining them to form a test, according to a specified plan. The steps and considerations for this process are articulated in the test design plan. Test design begins with consideration of expected interpretations for intended uses of the scores to be generated by the test. The content and format of the test are then specified to provide evidence to support the interpretations for intended uses. Test design also includes specification of test administration and scoring procedures, and of how scores are to be reported. Questions or tasks (hereafter referred to as *items*) are developed following the test specifications and screened using criteria appropriate to the intended uses of the test. Procedures for scoring individual items and the test as a whole are also developed, reviewed, and revised as needed.Test design is commonly iterative, with adjustments and revisions made in response to data from tryouts and operational use.
 
@@ -1416,25 +2033,43 @@ In addition, test developers should respect the rights of participants in the de
 
 This chapter describes four phases of the test development process leading from the original statement of purpose(s) to the final product: (a) development and evaluation of the test specifications; (b) development, tryout, and evaluation of the items; (c) assembly and evaluation of new test forms; and (d) development of procedures and materials for administration and scoring. What follows is a description of typical test development procedures, although there may be sound reasons that some of the steps covered in the description are followed in some settings and not in others.
 
+<<<<<<< HEAD
 ### **Test Specifications**
 
 #### General Considerations
+=======
+#### **Test Specifications**
+
+##### General Considerations
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In nearly all cases, test development is guided by a set of test specifications. The nature of these specifications and the way in which they are created may vary widely as a function of the nature of the test and its intended uses. The term *test specifications* is sometimes limited to description of the content and format of the test. In the *Standards*, test specifications are defined more broadly to also include documentation of the purpose and intended uses of the test, as well as detailed decisions about content, format, test length, psychometric characteristics of the items and test, delivery mode, administration, scoring, and score reporting.
 
 Responsibility for developing test specifications also varies widely across testing programs. For most commercial tests, test specifications are created by the test developer. In other contexts, such as tests used for educational accountability, many aspects of thetest specifications areestablished through a public policy process. As discussed in the introduction, the generic term *test developer* is used in this chapter in preference to other terms, such as *test publisher*, to cover both thoseresponsible for developing and those responsible for implementing test specifications across a wide range of test development processes.
 
+<<<<<<< HEAD
 #### Statement of Purpose and Intended Uses
+=======
+##### Statement of Purpose and Intended Uses
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The process of developing educational and psychological tests should begin with a statement of the purpose(s) of the test, the intended users and uses, the construct or content domain to be measured, and the intended examinee population. Tests of the same construct or domain can differ in important ways because factors such as purpose, intended uses, and examinee population may vary. In addition, tests intended for diverse examinee populations must be developed to minimize construct-irrelevant factors that may unfairly depress or inflate some examinees' performance. In many cases, accommodations and/or alternative versions of tests may need to be specified to remove irrelevant barriers to performance for particular subgroups in the intended examinee population.
 
 Specification of intended uses will include an indication of whether the test score interpretations will be primarily *norm-referenced* or *criterion-referenced*. When scores are norm-referenced, relative score interpretations are of primary interest. A score for an individual or for a definable group is ranked within a distribution of scores or compared with the average performance of test takers in a reference population (e.g., based on age, grade, diagnostic category, or job classification). When interpretations are criterion-referenced, absolute score interpretations are of primary interest. The meaning of such scores does not depend on rank information. Rather, the test score conveys directly a level of competence in some defined criterion domain. Both relative and absolute interpretations are often used with a given test, but the test developer determines which approach is most relevant to specific uses of the test.
 
+<<<<<<< HEAD
 #### Content Specifications
 
 The first step in developing test specifications is to extend the original statement of purpose(s), and the construct or content domain being considered, into a framework for the test that describes the extent of the domain, or the scope of the construct to be measured. *Content specifications,* sometimes referred to as *content frameworks,* delineate the aspects (e.g., content, skills, processes, and diagnostic features) of the construct or domain to be measured. The specifications should address questions about what is to be included, such as "Does eighth-grade mathematics include algebra?" "Does verbal ability include text comprehension as well as vocabulary?" "Does self-esteem include both feelings and acts?" The delineation of the content specifications can be guided by theory or by an analysis of the content domain (e.g., an analysis of job requirements in the case of many credentialing and employment tests).The content specifications serve as a guide to subsequent test evaluation. The chapter on validity provides a more thorough discussion of the relationships among the construct or content domain, the test framework, and the purpose(s) of the test.
 
 #### Format Specifications
+=======
+##### Content Specifications
+
+The first step in developing test specifications is to extend the original statement of purpose(s), and the construct or content domain being considered, into a framework for the test that describes the extent of the domain, or the scope of the construct to be measured. *Content specifications,* sometimes referred to as *content frameworks,* delineate the aspects (e.g., content, skills, processes, and diagnostic features) of the construct or domain to be measured. The specifications should address questions about what is to be included, such as "Does eighth-grade mathematics include algebra?" "Does verbal ability include text comprehension as well as vocabulary?" "Does self-esteem include both feelings and acts?" The delineation of the content specifications can be guided by theory or by an analysis of the content domain (e.g., an analysis of job requirements in the case of many credentialing and employment tests).The content specifications serve as a guide to subsequent test evaluation. The chapter on validity provides a more thorough discussion of the relationships among the construct or content domain, the test framework, and the purpose(s) of the test.
+
+##### Format Specifications
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Once decisions have been made about what the test is to measure and what meaning its scores are intended to convey, the next step is to create format specifications. Format specifications delineate the format of items (i.e., tasks or questions); the response format or conditions for responding; and the type of scoring procedures. Although format decisions are often driven by considerations of expediency, such as ease of responding or cost of scoring, validity considerations must not be overlooked. For example, if test questions require test takers to possess significant linguistic skill to interpret them but the test is not intended as a measure of linguistic skill, the complexity of the questions may lead to construct-irrelevant variance in test scores. This would be unfair to test takers with limited linguistic skills, thereby reducing the validity of the test scores as a measure of the intended content. Format specifications should include a rationale for how the chosen format supports the validity, reliability, and fairness of intended uses of the resulting scores.
 
@@ -1456,6 +2091,7 @@ The specifications for the portfolio indicate who is responsible for selecting i
 
 Specifications for how portfolios are scored and by whom will vary as a function of the use of the portfolio scores. Centralized evaluation of portfolios is common where portfolios are used in high-stakes decisions. The more standardized the contents and procedures for collecting and scoring material, the more comparable the scores from the resulting portfolios will be. Regardless of the methods used, all performance assessments, simulations, and portfolios are evaluated by the same standards of technical quality as other forms of tests.
 
+<<<<<<< HEAD
 #### Test Length
 
 Test developers frequently follow *test blueprints* that specify the number of items for each content area to be included in each test form. Specifications for test length must balance testing time requirements with the precision of the resulting scores, with longer tests generally leading to more precise scores. Test developers frequently follow test blueprints that provide guidance on the number or percentage of items for each area of content and that may also include specification of the distribution of items by cognitive requirements or by item format.Test length and blueprint specifications are often updated based on data from tryouts on time requirements, content coverage, and score precision. When tests are administered adaptively, test length (the number of items administered to each examinee) is determined by stopping rules, which may be based on a fixed number of test questions or may be based on a desired level of score precision.
@@ -1465,6 +2101,17 @@ Test developers frequently follow *test blueprints* that specify the number of i
 Psychometric specifications indicate desired statistical properties of items (e.g., difficulty, discrimination, and inter-item correlations) as well as the desired statistical properties of the whole test, including the nature of the reporting scale, test difficulty and precision, and the distribution of items across content or cognitive categories. When psychometric indices of the items are estimated using item response theory (IRT), the fit of the model to the data is also evaluated. This is accomplished by evaluating the extent to which the assumptions underlying the item response model (e.g., unidimensionality and local independence) are satisfied.
 
 #### Scoring Specifications
+=======
+##### Test Length
+
+Test developers frequently follow *test blueprints* that specify the number of items for each content area to be included in each test form. Specifications for test length must balance testing time requirements with the precision of the resulting scores, with longer tests generally leading to more precise scores. Test developers frequently follow test blueprints that provide guidance on the number or percentage of items for each area of content and that may also include specification of the distribution of items by cognitive requirements or by item format.Test length and blueprint specifications are often updated based on data from tryouts on time requirements, content coverage, and score precision. When tests are administered adaptively, test length (the number of items administered to each examinee) is determined by stopping rules, which may be based on a fixed number of test questions or may be based on a desired level of score precision.
+
+##### Psychometric Specifications
+
+Psychometric specifications indicate desired statistical properties of items (e.g., difficulty, discrimination, and inter-item correlations) as well as the desired statistical properties of the whole test, including the nature of the reporting scale, test difficulty and precision, and the distribution of items across content or cognitive categories. When psychometric indices of the items are estimated using item response theory (IRT), the fit of the model to the data is also evaluated. This is accomplished by evaluating the extent to which the assumptions underlying the item response model (e.g., unidimensionality and local independence) are satisfied.
+
+##### Scoring Specifications
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test specifications will describe how individual test items are to be scored and how item scores are to be combined to yield one or more overall test scores. All types of items requiresomeindication of how to scoretheresponses. For selected-response items, one of the response options is considered the correct response in some testing programs. In other testing programs, each response option may yield a different item score. For short-answer items, a list of acceptable responses may suffice, although more general scoring instructions are sometimes required. Extended-response items require more detailed rules for scoring, sometimes called *scoring rubrics.* Scoring rubrics specify the criteria for evaluating performance and may vary in the degree of judgment entailed, the number of score levels employed, and the ways in which criteria for each score level are described. It is common practice for test developers to provide scorers with examples of performances at each of the score levels to help clarify the criteria.
 
@@ -1474,17 +2121,29 @@ When scoring procedures require human judgment, the scoring specifications shoul
 
 Scoring specifications will also include whether test scores are simple sums of item scores, involve differential weighting of items or sections, or are based on a more complex measurement model. If an IRT model is used, specifications should indicate the form of the model, how model parameters are to be estimated, and how model fit is to be evaluated.
 
+<<<<<<< HEAD
 #### Test Administration Specifications
 
 Test administration specifications describe how the test is to be administered. Administration procedures include mode of test delivery (e.g., paper-and-pencil or computer based), time limits, accommodation procedures, instructions and materials provided to examiners and examinees, and procedures for monitoring test taking and ensuring test security. For tests administered by computer, administration specifications will also include a description of any hardware and software requirements, including connectivity considerations for Web-based testing.
 
 #### Refining the Test Specifications
+=======
+##### Test Administration Specifications
+
+Test administration specifications describe how the test is to be administered. Administration procedures include mode of test delivery (e.g., paper-and-pencil or computer based), time limits, accommodation procedures, instructions and materials provided to examiners and examinees, and procedures for monitoring test taking and ensuring test security. For tests administered by computer, administration specifications will also include a description of any hardware and software requirements, including connectivity considerations for Web-based testing.
+
+##### Refining the Test Specifications
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 There is often a subtle interplay between the process of conceptualizing a construct or content domain and the development of a test of that construct or domain. The specifications for the test provide a description of how the construct or domain will be represented and may need to be refined as development proceeds. The procedures used to develop items and scoring rubrics and to examine item and test characteristics may often contribute to clarifying the specifications. The extent to which the construct is fully defined a priori is dependent on the testing application. In many testing applications, well-defined and detailed test specifications guide the development of items and their associated scoring rubrics and procedures. In some areas of psychological measurement, test development may be less dependent on an a priori defined framework and may rely more on a databased approach that results in an empirically derived definition of the construct being measured. In such instances, items are selected primarily on the basis of their empirical relationship with an external criterion, their relationships with one another, or the degree to which they discriminate among groups of individuals. For example, items for a test for sales personnel might be selected based on the correlations of item scores with productivity measures of current sales personnel. Similarly, an inventory to help identify different patterns of psychopathology might be developed using patients from different diagnostic subgroups. When test development relies on a data-based approach, some items will likely be selected based on chance occurrences in the data. Cross-validation studies are routinely conducted to determine the tendency to select items by chance, which involves administering the test to a comparable sample that was not involved in the original test development effort.
 
 In other testing applications, however, the test specifications are fixed in advance and guide the development of items and scoring procedures. Empirical relationships may then be used to inform decisions about retaining, rejecting, or modifying items. Interpretations of scores from tests developed by this process have the advantage of a theoretical and an empirical foundation for the underlying dimensions represented by the test.
 
+<<<<<<< HEAD
 #### Considerations for Adaptive Testing
+=======
+##### Considerations for Adaptive Testing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In adaptive testing, test items or sets of items are selected as the test is being administered based on thetest taker's responses to prior items. Specification of item selection algorithms may involve consideration of content coverage as well as increasing the precision of the score estimate. When several items are tied to a single passage or task, more complex algorithms for selecting the next passage or task are needed. In some instances, a larger number of items are developed for each passage or task and the selection algorithm chooses specific items to administer based on content and precision considerations. Specifications must also indicate whether a fixed number of items are to be administered or whether the test is to continue until precision or content coverage criteria are met.
 
@@ -1492,11 +2151,19 @@ The use of adaptive testing and related computer-based testing models also invol
 
 The development of items for adaptive testing typically requires a greater proportion of items to be developed at high or low levels of difficulty relative to the targeted testing population. Tryout data for items developed for use in adaptive tests should be examined for possible context effects to assess how much item parameters might shift when items are administered in different orders. In addition, if items are associated with a common passage or stimulus, development should be informed by an understanding of how item selection will work. Forexample, the approach to developing items associated with a passage may differ depending on whether the item selection algorithm selects all of the available items related to the passage or is able to choose subsets of the available items related to the passage. Because of the issues that arise when items or tasks are nested within common passages or stimuli, variations on adaptive testing are often considered. Forexample, *multistage testing* begins with a set of routing items. Once these are given and scored, the computer branches to item groups that are explicitly targeted to appropriate difficulty levels, based on the evaluation of examinees' observed performance on the routing items. In general, the special requirements of adaptive testing necessitate some shift in the way in which items are developed and tried out. Although the fundamental principles of quality item development are no different, greater attention must be given to the interactions among content, format, and item difficulty to achieve item pools that are best suited to this testing approach.
 
+<<<<<<< HEAD
 #### Systems Supporting Item and Test Development
 
 The increased reliance on technology and the need for speed and efficiency in the test development process require consideration of the systems supporting item and test development. Such systems can enhance good item and test development practice by facilitating item/task authoring and reviewing, providing item banking and automated tools to assist with test form development, and integrating item/task statistical information with item/task text and graphics. These systems can be developed to comply with interoperability and accessibility standards and frameworks that make it easier for test users to transition their testing programs from one test developer to another. Although thespecifics of item databases and supporting systems are outside the scope of the *Standards*, the increased availability of such systems compels those responsible for developing such tests to consider applying technology to test design and development. Test developers should evaluate costs and benefits of different applications, considering issues such as speed of development, transportability across testing platforms, and security.
 
 ### **Item Development and Review**
+=======
+##### Systems Supporting Item and Test Development
+
+The increased reliance on technology and the need for speed and efficiency in the test development process require consideration of the systems supporting item and test development. Such systems can enhance good item and test development practice by facilitating item/task authoring and reviewing, providing item banking and automated tools to assist with test form development, and integrating item/task statistical information with item/task text and graphics. These systems can be developed to comply with interoperability and accessibility standards and frameworks that make it easier for test users to transition their testing programs from one test developer to another. Although thespecifics of item databases and supporting systems are outside the scope of the *Standards*, the increased availability of such systems compels those responsible for developing such tests to consider applying technology to test design and development. Test developers should evaluate costs and benefits of different applications, considering issues such as speed of development, transportability across testing platforms, and security.
+
+#### **Item Development and Review**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The test developer usually assembles an item pool that consists of more questions or tasks than are needed to populate the test form or forms to be built. This allows the test developer to select a set
 
@@ -1510,13 +2177,21 @@ Test developers sometimes use approaches involving structured interviews or thin
 
 Additional steps are involved in the evaluation of scoring rubrics for extended-response items or performance tasks. Test developers must identify responses that illustrate each scoring level, for use in training and checking scorers. Developers also identify responses at the borders between adjacent score levels for use in more detailed discussions during scorer training. Statistical analyses of scoring consistency and accuracy (agreement with scores assigned by experts) should be included in the analysis of tryout data.
 
+<<<<<<< HEAD
 ### **Assembling and Evaluating Test Forms**
+=======
+#### **Assembling and Evaluating Test Forms**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The next step in test development is to assemble items into one or more test forms or to identify one or more pools of items for an adaptive or multistage test. The test developer is responsible for documenting that the items selected for the test meet therequirements of thetest specifications. In particular, the set of items selected for a new test form or an item pool for an adaptive test must meet both content and psychometric specifications. In addition, editorial and content reviews are commonly conducted to replace items that are too similar to other items or that may provide clues to the answers to other items in the same test form or item pool. When multiple forms of a test are prepared, the test specifications govern each of the forms.
 
 New test forms are sometimes tried out or field tested prior to operational use. The purpose of a field test is to determine whether items function as intended in the context of the new test form and to assess statistical properties, such as score precision or reliability, of the new form. When field tests are conducted, all relevant examinee groups should be included so that results and conclusions will generalize to the intended operational use of the new test forms and support further analyses of the fairness of the new forms.
 
+<<<<<<< HEAD
 ### **Developing Procedures and Materials for Administration and Scoring**
+=======
+#### **Developing Procedures and Materials for Administration and Scoring**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Many interested persons (e.g., practitioners, teachers) may be involved in developing items and scoring rubrics, and/or evaluating the subsequent performances. If a participatory approach is used, participants' knowledge about the domain being assessed and their ability to apply the scoring rubrics are of critical importance. Equally important for thoseinvolved in developing tests and evaluating performances is their familiarity with the nature of the population being tested. Relevant characteristics of the population being tested may include the typical range of expected skill levels, familiarity with the response modes required of them, typical ways in which knowledge and skills are displayed, and the primary language used.
 
@@ -1526,11 +2201,19 @@ For computer-administered tests, administration procedures must be consistent wi
 
 Test security procedures should also be implemented in conjunction with both administration and scoring of the tests. Such procedures often includetracking and storage of materials;encryption of electronic transmission of exam content and scores; nondisclosure agreements for test takers, scorers, and administrators; and procedures for monitoring examinees during the testing session. In addition, for testing programs that reuse test items or test forms, security procedures should include evaluation of changes in item statistics to assess the possibility of a security breach. Test developers or users might consider monitoring of websites for possible disclosure of test content.
 
+<<<<<<< HEAD
 ### **Test Revisions**
 
 Tests and their supporting documents (e.g., test manuals, technical manuals, user guides) should be reviewed periodically to determine whether revisions are needed. Revisions or amendments are necessary when new research data, significant changes in the domain, or new conditions of test use and interpretation suggest that the test is no longer optimal or fully appropriate for some of its intended uses. As an example, tests are revised if the test content or language has become outdated and, therefore, may subsequently affect the validity of the test score interpretations. However, outdated norms may not have the same implications for revisions as an outdated test. For example, it may be necessary to update the norms for an achievement test after a period of rising or falling achievement in the norming population, or when there are changes in the test-taking population; but the test content itself may continue to be as relevant as it was when the test was developed. The timing of the need for review will vary as a function of test content and intended use(s). For example, tests of mastery of educational or training curricula should be reviewed whenever the corresponding curriculum is updated. Tests assessing psychological constructs should be reviewed when research suggests a revised conceptualization of the construct.
 
 ## **STANDARDS FOR TEST DESIGN AND DEVELOPMENT**
+=======
+#### **Test Revisions**
+
+Tests and their supporting documents (e.g., test manuals, technical manuals, user guides) should be reviewed periodically to determine whether revisions are needed. Revisions or amendments are necessary when new research data, significant changes in the domain, or new conditions of test use and interpretation suggest that the test is no longer optimal or fully appropriate for some of its intended uses. As an example, tests are revised if the test content or language has become outdated and, therefore, may subsequently affect the validity of the test score interpretations. However, outdated norms may not have the same implications for revisions as an outdated test. For example, it may be necessary to update the norms for an achievement test after a period of rising or falling achievement in the norming population, or when there are changes in the test-taking population; but the test content itself may continue to be as relevant as it was when the test was developed. The timing of the need for review will vary as a function of test content and intended use(s). For example, tests of mastery of educational or training curricula should be reviewed whenever the corresponding curriculum is updated. Tests assessing psychological constructs should be reviewed when research suggests a revised conceptualization of the construct.
+
+### **STANDARDS FOR TEST DESIGN AND DEVELOPMENT**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 4.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into four thematic clusters labeled as follows:
 
@@ -1539,21 +2222,35 @@ The standards in this chapter begin with an overarching standard (numbered 4.0),
 - 3. Standards for Developing Test Administration and Scoring Procedures and Materials
 - 4. Standards for Test Revision
 
+<<<<<<< HEAD
 #### Standard 4.0
+=======
+##### Standard 4.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests and testing programs should be designed and developed in a way that supports the validity of interpretations of the test scores for their intended uses. Test developers and publishers should document steps taken during the design and development process to provide evidence of fairness, reliability, and validity for intended uses for individuals in the intended examinee population.
 
 **Comment:** Specific standards for designing and developing tests in a way that supports intended uses are described below. Initial specifications for a test, intended to guide the development process, may be modified or expanded as development proceeds and new information becomes available. Both initial and final documentation of test specifications and development procedures provide a basis on which external experts and test users can judge the extent to which intended uses have been or are likely to be supported, leading to valid interpretations of test results for all individuals. Initial test specifications may be modified as evidence is collected during development and implementation of the test.
 
+<<<<<<< HEAD
 ### **Cluster 1. Standards for Test Specifications**
 
 #### Standard 4.1
+=======
+#### **Cluster 1. Standards for Test Specifications**
+
+##### Standard 4.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test specifications should describe the purpose(s) of the test, the definition of the construct or domain measured, the intended examinee population, and interpretations for intended uses. The specifications should include a rationale supporting the interpretations and uses of test results for the intended purpose(s).
 
 **Comment:** The adequacy and usefulness of test interpretations depend on the rigor with which the purpose(s) of the test and the domain represented by thetest have been defined and explicated. The domain definition should be sufficiently detailed and delimited to show clearly what dimensions of knowledge, skills, cognitive processes, attitudes, values, emotions, or behaviors are included and what dimensions are excluded. A clear description will enhance accurate judgments by reviewers and others about the degree of congruence between the defined domain and the test items. Clear specification of the intended examinee population and its characteristics can help to guard against construct-irrelevant characteristics of item content and format. Specifications should include plans for collecting evidence of the validity of the intended interpretations of the test scores for their intended uses.Test developers should also identify potential limitations on test use or possible inappropriate uses.
 
+<<<<<<< HEAD
 #### Standard 4.2
+=======
+##### Standard 4.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In addition to describing intended uses of the test, the test specifications should define the content of the test, the proposed test length, the item formats, the desired psychometric properties of the test items and the test, and the ordering of items and sections. Test specifications should also specify the amount of time allowed for testing; directions for the test takers; procedures to be used for test administration, including permissible variations; any materials to be used; and scoring and reporting procedures. Specifications for computer-based tests should include a description of any hardware and software requirements.
 
@@ -1561,33 +2258,55 @@ In addition to describing intended uses of the test, the test specifications sho
 
 The types of items, the response formats, the scoring procedures, and the test administration procedures should be selected based on the purpose(s) of the test, the domain to be measured, and the intended test takers.To the extent possible, test content and administration procedures should be chosen so that intended inferences from test scores are equally valid for all test takers. Some details of the test specifications may be revised on the basis of initial pilot or field tests. For example, specifications of the test length or mix of item types might be modified based on initial data to achieve desired precision of measurement.
 
+<<<<<<< HEAD
 #### Standard 4.3
+=======
+##### Standard 4.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers should document the rationale and supporting evidence for the administration, scoring, and reporting rules used in computeradaptive, multistage-adaptive, or other tests delivered using computer algorithms to select items. This documentation should include procedures used in selecting items or sets of items for administration, in determining the starting point and termination conditions for the test, in scoring the test, and in controlling item exposure.
 
 **Comment:** If a computerized adaptive test is intended to measure a number of different content subcategories, item selection procedures should ensure that the subcategories are adequately represented by the items presented to the test taker. Common rationales for computerized adaptive tests arethat score precision is increased, particularly for high- and low-scoring examinees, or that comparable precision is achieved while testing time is reduced. Note that these tests are subject to the same requirements for documenting the validity of score interpretations for their intended use as other types of tests. Test specifications should include plans to collect evidence required for such documentation.
 
+<<<<<<< HEAD
 #### Standard 4.4
+=======
+##### Standard 4.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If test developers prepare different versions of a test with some change to the test specifications, they should document the content and psychometric specifications of each version. The documentation should describe the impact of differences among versions on the validity of score interpretations for intended uses and on the precision and comparability of scores.
 
 **Comment:** Test developers may have a number of reasons for creating different versions of a test, such as allowing different amounts of time for test administration by reducing or increasing the number of items on the original test, or allowing administration to different populations by translating test questions into different languages. Test developers should document the extent to which the specifications differ from those of the original test, provide a rationale for the different versions, and describe the implications of such differences for interpreting thescores derived from the different versions.Test developers and users should monitor and document any psychometric differences among versions of the test based on evidence collected during development and implementation. Evidence of differences may involve judgments when the number of examinees receiving a particular version is small (e.g., a braille version). Note that these requirements are in addition to the normal requirements for demonstrating the equivalency of scores from different forms of the same test. When different languages are used in different test versions, the procedures used to develop and check translations into each language should be documented.
 
+<<<<<<< HEAD
 #### Standard 4.5
+=======
+##### Standard 4.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If the test developer indicates that the conditions of administration are permitted to vary from one test taker or group to another, permissible variation in conditions for administration should be identified. A rationale for permitting the different conditions and any requirements for permitting the different conditions should be documented.
 
 **Comment:** Variation in conditions of administration may reflect administration constraints in different locations or, more commonly, may be designed as testing accommodations for specific examinees or groups of examinees. One example of a common variation is the use of computer administration of a test form in some locations and paper-and-pencil administration of the same form in other locations. Another example is small-group or one-on-one administration for test takers whose test performance might be limited by distractions in large group settings. Test accommodations, as discussed in chapter 3 ("Fairness in Testing"), are changes made in a test to increase fairness for individuals who otherwise would be disadvantaged by construct-irrelevant features of test items. Test developers should specify procedures for monitoring variations and for collecting evidence to show that the target construct is or is not altered by allowable variations.These procedures should be documented based on data collected during implementation.
 
+<<<<<<< HEAD
 #### Standard 4.6
+=======
+##### Standard 4.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When appropriate to documenting the validity of test score interpretations for intended uses, relevant experts external to the testing program should review the test specifications to evaluate their appropriateness for intended uses of the test scores and fairness for intended test takers. The purpose of the review, the process by which the review is conducted, and the results of the review should be documented. The qualifications, relevant experiences, and demographic characteristics of expert judges should also be documented.
 
 **Comment:** A number of factors may be considered in deciding whether external review of test specifications is needed, including theextent of intended use, whether score interpretations may have important consequences, and the availability of external experts. Expert review of the test specifications may serve many useful purposes, such as helping to ensure content quality and representativeness. Use of experts external to the test development process supports objectivity in judgments of the quality of the test specifications. Review of thespecifications prior to starting item development can avoid significant problems during subsequent test item reviews. The expert judges may include individuals representing defined populations of concern to the test specifications. For example, if the test is to be administered to different linguistic and cultural groups, the expert review typically includes members of these groups and experts on testing issues specific to these groups.
 
+<<<<<<< HEAD
 ### **Cluster 2. Standards for Item Development and Review**
 
 #### Standard 4.7
+=======
+#### **Cluster 2. Standards for Item Development and Review**
+
+##### Standard 4.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The procedures used to develop, review, and try out items and to select items from the item pool should be documented.
 
@@ -1595,7 +2314,11 @@ The procedures used to develop, review, and try out items and to select items fr
 
 are important aspects of test development documentation.Typically, several groups of individuals participate in the test development process, including item writers and individuals participating in reviews for item and test content, for sensitivity, or for other purposes.
 
+<<<<<<< HEAD
 #### Standard 4.8
+=======
+##### Standard 4.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The test review process should include empirical analyses and/or the use of expert judges to review items and scoring criteria. When expert judges are used, their qualifications, relevant experiences, and demographic characteristics should be documented, along with the instructions and training in the item review process that the judges receive.
 
@@ -1603,7 +2326,11 @@ The test review process should include empirical analyses and/or the use of expe
 
 Studies of the alignment of test forms to content specifications are sometimes conducted to support interpretations that test scores indicate mastery of targeted test content. Experts independent of the test developers judge the degree to which item content matches content categories in the test specifications and whether test forms provide balanced coverage of the targeted content.
 
+<<<<<<< HEAD
 #### Standard 4.9
+=======
+##### Standard 4.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When item or test form tryouts are conducted, the procedures used to select the sample(s) of test takers as well as the resulting characteristics of the sample(s)should be documented. The sample(s) should be as representative as possible of the population(s) for which the test is intended.
 
@@ -1611,7 +2338,11 @@ When item or test form tryouts are conducted, the procedures used to select the 
 
 To the extent feasible, item and test form tryouts should include relevant examinee groups. Where sample size permits, test developers should determine whether item scores have different relationships to the construct being measured for different groups (differential item functioning). When testing accommodations are designed for specific examinee groups, information on item performance under accommodated conditions should also be collected. For relatively small groups, qualitative information may be useful. For example, test-taker interviews might be used to assess the effectiveness of accommodations in removing irrelevant variance.
 
+<<<<<<< HEAD
 #### Standard 4.10
+=======
+##### Standard 4.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test developer evaluates the psychometric properties of items, the model used for that purpose (e.g., classical test theory, item response theory, or another model) should be documented. The sample used for estimating item properties should be described and should be of adequate size and diversity for the procedure. The process by which items are screened and the data used for screening, such as item difficulty, item discrimination, or differential item functioning (DIF) for major examinee groups, should also be documented. When model-based methods (e.g., IRT) are used to estimate item parameters in test development, the item response model, estimation procedures, and evidence of model fit should be documented.
 
@@ -1621,7 +2352,11 @@ Statistics used for flagging items that function differently for different group
 
 Test developers should consider how any differences between the administration conditions of the field test and the final form might affect item performance. Conditions that can affect item statistics include motivation of the test takers, item position, time limits, length of test, mode of testing (e.g., paper-and-pencil versus computer administered), and use of calculators or other tools.
 
+<<<<<<< HEAD
 #### Standard 4.11
+=======
+##### Standard 4.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers should conduct cross-validation studies when items or tests are selected primarily on the basis of empirical relationships rather than on the basis of content or theoretical considerations. The extent to which the different studies show consistent results should be documented.
 
@@ -1629,33 +2364,55 @@ Test developers should conduct cross-validation studies when items or tests are 
 
 Statistical optimization techniques such as stepwise regression are sometimes used to develop test composites or to select tests for further use in a test battery. As with the empirical selection of items, capitalization on chance can occur. Crossvalidation on an independent sample or the use of a formula that predicts the shrinkage of correlations in an independent sample may provide a less biased index of the predictive power of the tests or composite.
 
+<<<<<<< HEAD
 #### Standard 4.12
+=======
+##### Standard 4.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers should document the extent to which the content domain of a test represents the domain defined in the test specifications.
 
 **Comment:** Test developers should provideevidence of the extent to which the test items and scoring criteria yield scores that represent the defined domain. This affords a basis to help determine whether performance on thetest can be generalized to the domain that is being assessed. This is especially important for tests that contain a small number of items, such as performance assessments. Such evidence may be provided by expert judges. In some situations, an independent study of the alignment of test questions to the content specifications is conducted to validate the developer's internal processing forensuring appropriate content coverage.
 
+<<<<<<< HEAD
 #### Standard 4.13
+=======
+##### Standard 4.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When credible evidence indicates that irrelevant variance could affect scores from the test, then to the extent feasible, the test developer should investigate sources of irrelevant variance. Where possible, such sources of irrelevant variance should be removed or reduced by the test developer.
 
 **Comment:** A variety of methods may be used to check for the influence of irrelevant factors, including analyses of correlations with measures of other relevant and irrelevant constructs and, in some cases, deeper cognitive analyses (e.g., use of follow-up probes to identify relevant and irrelevant reasons for correct and incorrect responses) of examinee standing on the targeted construct. A deeper understanding of irrelevant sources of variance may also lead to refinement of the description of the construct under examination.
 
+<<<<<<< HEAD
 #### Standard 4.14
+=======
+##### Standard 4.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 For a test that has a time limit, test development research should examine the degree to which scores include a speed component and should evaluate the appropriateness of that component, given the domain the test is designed to measure.
 
 **Comment:** At a minimum, test developers should examinethe proportion ofexaminees who complete the entire test, as well as the proportion who fail to respond to (omit) individual test questions. Where speed is a meaningful part of the target construct, the distribution of the number of items answered should be analyzed to check for appropriate variability in the number of items attempted as well as the number of correct responses. When speed is not a meaningful part of the target construct, time limits should be determined so that examinees will have adequate time to demonstrate the targeted knowledge and skill.
 
+<<<<<<< HEAD
 ### **Cluster 3. Standards for Developing Test Administration and Scoring Procedures and Materials**
 
 #### Standard 4.15
+=======
+#### **Cluster 3. Standards for Developing Test Administration and Scoring Procedures and Materials**
+
+##### Standard 4.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The directions for test administration should be presented with sufficient clarity so that it is possible for others to replicate the administration conditions under which the data on reliability, validity, and (where appropriate) norms were obtained. Allowable variations in administration procedures should be clearly described. The process for reviewing requests for additional testing variations should also be documented.
 
 **Comment:** Because all people administering tests, including those in schools, industry, and clinics, need to follow test administration procedures carefully, it is essential that test administrators receive detailed instructions on test administration guidelines and procedures.Testing accommodations may be needed to allow accurate measurement of intended constructs for specific groups of test takers, such as individuals with disabilities and individuals whose native language is not English. (See chap. 3, "Fairness in Testing.")
 
+<<<<<<< HEAD
 #### Standard 4.16
+=======
+##### Standard 4.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The instructions presented to test takers should contain sufficient detail so that test takers can respond to a task in the manner that the test developer intended. When appropriate, sample materials, practice or sample questions, criteria for scoring, and a representative item identified with each item format or major area in the test's classification or domain should be provided to the test takers prior to the administration of the test, or should be included in the testing material as part of the standard administration instructions.
 
@@ -1665,19 +2422,31 @@ Instructions and any practice materials should be available in formats that can 
 
 The extent and nature of practice materials and directions depend on expected levels of knowledge among test takers. For example, in using a novel test format, it may be very important to provide the test taker with a practice opportunity as part of the test administration. In some testing situations, it may be important for the instructions to address such matters as time limits and the effects that guessing has on test scores. If expansion or elaboration of the test instructions is permitted, the conditions under which this may be done should be stated clearly in the form of general rules and by giving representative examples. If no expansion or elaboration is to be permitted, this should be stated explicitly. Test developers should include guidance for dealing with typical questions from test takers. Test administrators should be instructed on how to deal with questions that may arise during the testing period.
 
+<<<<<<< HEAD
 #### Standard 4.17
+=======
+##### Standard 4.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a test or part of a test is intended for research use only and is not distributed for operational use, statements to that effect should be displayed prominently on all relevant test administration and interpretation materials that are provided to the test user.
 
 **Comment:** This standard refers to tests that are intended for research use only. It does not refer to standard test development functions that occur prior to the operational use of a test (e.g., item and form tryouts).There may belegal requirements to inform participants of how the test developer will use the data generated from the test, including the user's personally identifiable information, how that information will be protected, and with whom it might be shared.
 
+<<<<<<< HEAD
 #### Standard 4.18
+=======
+##### Standard 4.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Procedures for scoring and, if relevant, scoring criteria, should be presented by the test developer with sufficient detail and clarity to maximize the accuracy of scoring. Instructions for using rating scales or for deriving scores obtained by coding, scaling, or classifying constructed responses should be clear. This is especially critical for extended-response items such as performance tasks, portfolios, and essays.
 
 **Comment:** In scoring more complex responses, test developers must provide detailed rubrics and training in their use. Providing multiple examples of responses at each score level for use in training scorers and monitoring scoring consistency is also common practice, although these are typically added to scoring specifications during item development and tryouts. For monitoring scoring effectiveness, consistency criteria for qualifying scorers should be specified, as appropriate, along with procedures, such as double-scoring of some or all responses. As appropriate, test developers should specify selection criteria for scorers and procedures for training, qualifying, and monitoring scorers. If different groups of scorers are used with different administrations, procedures for checking the comparability of scores generated by the different groups should be specified and implemented.
 
+<<<<<<< HEAD
 #### Standard 4.19
+=======
+##### Standard 4.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When automated algorithms are to be used to score complex examinee responses, characteristics of responses at each score level should be documented along with the theoretical and empirical bases for the use of the algorithms.
 
@@ -1685,7 +2454,11 @@ When automated algorithms are to be used to score complex examinee responses, ch
 
 Because automated scoring algorithms are often considered proprietary, their developers are rarely willing to reveal scoring and weighting rules in public documentation. Also, in some cases, full disclosure of details of the scoring algorithm might result in coaching strategies that would increase scores without any real change in the construct(s) being assessed. In such cases, developers should describe the general characteristics of scoring algorithms. They may also have the algorithms reviewed by independent experts, under conditions of nondisclosure, and collect independent judgments of the extent to which the resulting scores will accurately implement intended scoring rubrics and befreefrom bias for intended examinee subpopulations.
 
+<<<<<<< HEAD
 #### Standard 4.20
+=======
+##### Standard 4.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The process for selecting, training, qualifying, and monitoring scorers should be specified by the test developer. The training materials, such as the scoring rubrics and examples of test takers' responses that illustrate the levels on the rubric score scale, and the procedures for training scorers should result in a degree of accuracy and agreement among scorers that allows the scores to be interpreted as originally intended by the test developer. Specifications should also describe processes for assessing scorer consistency and potential drift over time in raters' scoring.
 
@@ -1693,41 +2466,69 @@ The process for selecting, training, qualifying, and monitoring scorers should b
 
 of prescored responses for use in training and for judging scoring accuracy.The basis for determining scoring consistency (e.g., percentage of exact agreement, percentage within one score point, or some other index of agreement) should be indicated. Information on scoring consistency is essential to estimating the precision of resulting scores.
 
+<<<<<<< HEAD
 #### Standard 4.21
+=======
+##### Standard 4.21
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test users are responsible for scoring and scoring requires scorer judgment, the test user is responsible for providing adequate training and instruction to the scorers and for examining scorer agreement and accuracy. The test developer should document the expected level of scorer agreement and accuracy and should provide as much technical guidance as possible to aid test users in satisfying this standard.
 
 **Comment:** A common practice of test developers is to provide training materials (e.g., scoring rubrics, examples of test takers' responses at each score level) and procedures when scoring is done by test users and requires scorer judgment.Training provided to support local scoring should include standards for checking scorer accuracy during training and operational scoring. Training should also cover any special consideration for test-taker groups that might interact differently with the task to be scored.
 
+<<<<<<< HEAD
 #### Standard 4.22
+=======
+##### Standard 4.22
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test developers should specify the procedures used to interpret test scores and, when appropriate, the normative or standardization samples or the criterion used.
 
 **Comment:** Test specifications may indicate that the intended scores should be interpreted as indicating an absolute level of the construct being measured or as indicating standing on the construct relative to other examinees, or both. In absolute score interpretations, the score or average is assumed to reflect directly a level of competence or mastery in some defined criterion domain. In relative score interpretations the status of an individual (or group) is determined by comparing the score (or mean score) with the performance of others in one or more defined populations. Tests designed to facilitate one type of interpretation may function less effectively for the other type of interpretation. Given appropriate test design and adequate supporting data, however, scores arising from norm-referenced testing programs may provide reasonable absolute score interpretations, and scores arising from criterionreferenced programs may provide reasonable relative score interpretations.
 
+<<<<<<< HEAD
 #### Standard 4.23
+=======
+##### Standard 4.23
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test score is derived from the differential weighting of items or subscores, the test developer should document the rationale and process used to develop, review, and assign item weights. When the item weights are obtained based on empirical data, the sample used for obtaining item weights should be representative of the population for which the test is intended and large enough to provide accurate estimates of optimal weights. When the item weights are obtained based on expert judgment, the qualifications of the judges should be documented.
 
 **Comment:** Changes in the population of test takers, along with other changes, for example in instructions, training, or job requirements, may affect the original derived item weights, necessitating subsequent studies. In many cases, content areas are weighted by specifying a different number of items from different areas. The rationale for weighting the different content areas should also be documented and periodically reviewed.
 
+<<<<<<< HEAD
 ### **Cluster 4. Standards for Test Revision**
 
 #### Standard 4.24
+=======
+#### **Cluster 4. Standards for Test Revision**
+
+##### Standard 4.24
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test specifications should be amended or revised when new research data, significant changes in the domain represented, or newly recommended conditions of test use may reduce the validity of test score interpretations. Although a test that remains useful need not be withdrawn or revised simply because of the passage of time, test developers and test publishers are responsible for monitoring changing conditions and for amending, revising, or withdrawing the test as indicated.
 
 **Comment:** Test developers need to consider a number of factors that may warrant the revision of a test, including outdated test content and language, new evidence of relationships among measured or predicted constructs, or changes to test frameworks to reflect changes in curriculum, instruction, or job requirements. If an older version of a test is used when a newer version has been published or made available, test users are responsible for providing evidence that the older version is as appropriate as the new version for that particular test use.
 
+<<<<<<< HEAD
 #### Standard 4.25
+=======
+##### Standard 4.25
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When tests are revised, users should be informed of the changes to the specifications, of any adjustments made to the score scale, and of the degree of comparability of scores from the original and revised tests. Tests should be labeled as "revised" only when the test specifications have been updated in significant ways.
 
 **Comment:** It is the test developer's responsibility to determine whether revisions to a test would influence test score interpretations. If test score interpretations would be affected by the revisions, it is appropriate to label the test "revised." When tests are revised, the nature of the revisions and their implications for test score interpretations should be documented. Examples of changes that require consideration include adding new areas of content, refining content descriptions, redistributing the emphasis across different content areas, and even just changing item format specifications. Note that creating a new test form using the same specifications is not considered a revision within the context of this standard.
 
+<<<<<<< HEAD
 # Chapter 5: SCORES, SCALES, NORMS, SCORE AND CUT SCORES**
 
 ## **BACKGROUND**
+=======
+## Chapter 5: SCORES, SCALES, NORMS, SCORE AND CUT SCORES**
+
+### **BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test scores are reported on scales designed to assist in score interpretation. Typically, scoring begins with responses to separate test items. These item scores are combined, sometimes by addition, to obtain a raw score when using classical test theory or to produce an IRT score when using *item response theory* (IRT) or other model-based techniques. Raw scores and IRT scores often are difficult to interpret in the absence of further information. Interpretation may be facilitated by converting raw scores or IRT scores to scale scores*.* Examples include various scale scores used on college admissions tests and those used to report results for intelligence tests or vocational interest and personality inventories. The process of developing a score scale is referred to as *scaling a test.* Scale scores may aid interpretation by indicating how a given score compares with those of other test takers, by enhancing the comparability of scores obtained through different forms of a test, and by helping to prevent confusion with other scores.
 
@@ -1737,7 +2538,11 @@ Decisions about how many scale score points to use often are based on test score
 
 In addition to facilitating interpretations of scores on a single test form, scale scores often are created to enhance comparability across *alternate forms* of the same test, by using equating methods. *Score linking* is a general term for methods used to develop scales with similar scale properties. Score linking includes equating and other methods for transforming scores to enhancetheir comparability on tests designed to measure different constructs (e.g., related subtests in a battery). Linking methods are also used to relate scale scores on different measures of similar constructs (e.g., tests of a particular construct from different test developers) and to relate scale scores on tests that measure similar constructs given under different modes of administration (e.g., computer and paper-andpencil administrations). *Vertical scaling methods* sometimes are used to place scores from different levels of an achievement test on a single scale to facilitate inferences about growth or development. The degree of score comparability that results from the application of a linking procedure varies along a continuum. Equating is intended to allow scores on alternate test forms to be used interchangeably, whereas comparability of scores associated with other types of linking may be more restricted.
 
+<<<<<<< HEAD
 ### **Interpretations of Scores**
+=======
+#### **Interpretations of Scores**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 An individual's raw scores or scale scores often are compared with the distribution of scores for one
 
@@ -1753,13 +2558,21 @@ Interpretations based on cut scores may likewise be either criterion referenced 
 
 Criterion-referenced interpretations based on cut scores are sometimes criticized on the grounds that there is rarely a sharp distinction between those just below and those just above a cut score. A neuropsychological test may be helpful in diagnosing some particular impairment, for example, but the probability that the impairment is present is likely to increase continuously as a function of the test score rather than to change sharply at a particular score. Cut scores may aid in formulating rules for reaching decisions on the basis of test performance. It should be recognized, however, that thelikelihood of misclassification will generally be relatively high for persons with scores close to the cut scores.
 
+<<<<<<< HEAD
 ### **Norms**
+=======
+#### **Norms**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The validity of norm-referenced interpretations depends in part on the appropriateness of the reference group to which test scores are compared. Norms based on hospitalized patients, for example, might be inappropriate for some interpretations of nonhospitalized patients' scores. Thus, it is important that reference populations be carefully defined and clearly described. Validity of such interpretations also depends on the accuracy with which norms summarize the performance of the reference population. That population may be small enough that essentially the entire population can be tested (e.g., all test takers at a given grade level in a given district tested on thesame occasion). Often, however, only a sample of examinees from the reference population is tested. It is then important that the norms be based on a technically sound, representative sample of test takers of sufficient size. Patients in a few hospitals in a small geographic region are unlikely to be representative of all patients in the United States, for example. Moreover, the usefulness of norms based on a given sample may diminish over time. Thus, for tests that have been in use for a number of years, periodic review is generally required to ensure the continued utility of their norms. Renorming may be required to maintain the validity of norm-referenced test score interpretations.
 
 More than one reference population may be appropriatefor thesametest. Forexample, achievement test performance might be interpreted by reference to local norms based on sampling from a particular school district for use in making local instructional decisions, or to norms for a state or type of community for usein interpreting statewide testing results, or to national norms for use in making comparisons with national groups. For other tests, norms might be based on occupational or educational classifications. Descriptive statistics for all examinees who happen to be tested during a given period of time (sometimes called *user norms* or *program norms*) may be useful for some purposes, such as describing trends over time. But there must be a sound reason to regard that group of test takers as an appropriate basis for such inferences. When there is a suitable rationale for using such a group, the descriptive statistics should be clearly characterized as being based on a sample of persons routinely tested as part of an ongoing program.
 
+<<<<<<< HEAD
 ### **Score Linking**
+=======
+#### **Score Linking**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Score linking* is a general term that refers to relating scores from different tests or test forms. When different forms of a test are constructed to the same content and statistical specifications and administered under the same conditions, they are referred to as alternate forms or sometimes *parallel* or *equivalent* forms. The process of placing raw scores from such alternate forms on a common scale is referred to as *equating.* Equating involves small statistical adjustments to account for minor differences in the difficulty of the alternate forms. After equating, alternate forms of the same test yield scale scores that can be used interchangeably even though they are based on different sets of items. In many testing programs that administer tests multiple times, concerns with test security may be raised if the same form is used repeatedly. In other testing programs, the same test takers may be measured repeatedly, perhaps to measure change in levels of psychological dysfunction, attitudes, or educational achievement. In these cases, reusing the same test items may result in biased estimates of change. Score equating allows for the use of alternate forms, thereby avoiding these concerns.
 
@@ -1796,7 +2609,11 @@ Many other examples of linking exist that may not result in interchangeable scor
 
 Processes used to facilitate comparisons may be described with terms such as *linking, calibration, concordance, vertical scaling, projection,* or *moderation.* These processes may be technically sound and may fully satisfy desired goals of comparability for one purpose or for one relevant subgroup of examinees, but they cannot be assumed to be stable over time or invariant across multiple subgroups of the examinee population, nor is there any assurance that scores obtained using different tests will be equally precise. Thus, their use for other purposes or with other populations than the originally intended population may require additional support. Forexample, a score conversion that was accurate for a group of native speakers might systematically overpredict or underpredict the scores of a group of nonnative speakers.
 
+<<<<<<< HEAD
 ### **Cut Scores**
+=======
+#### **Cut Scores**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A critical step in the development and use of some tests is to establish one or more cut scores dividing thescorerangeto partition the distribution of scores into categories. These categories may be used just for descriptive purposes or may be used to distinguish among examinees for whom different programs are deemed desirable or different predictions are warranted. An employer may determine a cut score to screen potential employees or to promote current employees; proficiency levels of "basic," "proficient," and "advanced" may be established using standard-setting methods to set cut scores on a statetest of mathematics achievement in fourth grade; educators may want to use test scores to identify students who are prepared to go on to college and take credit-bearing courses; or in granting a professional license, a state may specify a minimum passing score on a licensure test.
 
@@ -1812,7 +2629,11 @@ In the final example, that of a professional licensure examination, the cut scor
 
 Cut scores embody value judgments as well as technical and empirical considerations. Where the results of the standard-setting process have highly significant consequences, those involved in the standard-setting process should be concerned that the process by which cut scores are determined be clearly documented and that it be defensible. When standard-setting involves judges or subject matter experts, their qualifications and the process by which they were selected are part of that documentation. Care must be taken to ensure that these persons understand what they are to do and that their judgments are as thoughtful and objective as possible. The process must be such that well-qualified participants can apply their knowledge and experience to reach meaningful and relevant judgments that accurately reflect their understandings and intentions. A sufficiently large and representative group of participants should be involved to provide reasonable assurance that the expert ratings across judges are sufficiently reliable and that the results of the judgments would not vary greatly if the process were replicated.
 
+<<<<<<< HEAD
 ## **STANDARDS FOR SCORES, SCALES, NORMS, SCORE LINKING, AND CUT SCORES**
+=======
+### **STANDARDS FOR SCORES, SCALES, NORMS, SCORE LINKING, AND CUT SCORES**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 5.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into four thematic clusters labeled as follows:
 
@@ -1821,141 +2642,237 @@ The standards in this chapter begin with an overarching standard (numbered 5.0),
 - 3. Score Linking
 - 4. Cut Scores
 
+<<<<<<< HEAD
 #### Standard 5.0
+=======
+##### Standard 5.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test scores should be derived in a way that supports the interpretations of test scores for the proposed uses of tests. Test developers and users should document evidence of fairness, reliability, and validity of test scores for their proposed use.
 
 **Comment:** Specific standards for various uses and interpretations of test scores and score scales are described below.Theseincludestandards for normreferenced and criterion-referenced interpretations, interpretations of cut scores, interchangeability of scores on alternate forms following equating, and score comparability following the use of other procedures for scorelinking. Documentation supporting such interpretations provides a basis for external experts and test users to judge the extent to which the interpretations are likely to be supported and can lead to valid interpretations of scores for all individuals in the intended examinee population.
 
+<<<<<<< HEAD
 ### **Cluster 1. Interpretations of Scores**
 
 #### Standard 5.1
+=======
+#### **Cluster 1. Interpretations of Scores**
+
+##### Standard 5.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should be provided with clear explanations of the characteristics, meaning, and intended interpretation of scale scores, as well as their limitations.
 
 **Comment:** Illustrations of appropriate and inappropriate interpretations may be helpful, especially for types of scales or interpretations that are unfamiliar to most users. This standard pertains to score scales intended for criterion-referenced as well as norm-referenced interpretations. All scores (raw scores or scale scores) may be subject to misinterpretation. If the nature or intended uses of a scale are novel, it is especially important that its uses, interpretations, and limitations be clearly described.
 
+<<<<<<< HEAD
 #### Standard 5.2
+=======
+##### Standard 5.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The procedures for constructing scales used for reporting scores and the rationale for these procedures should be described clearly.
 
 **Comment:** When scales, norms, or other interpretive systems are provided by the test developer, technical documentation should describe their rationale and enable users to judge the quality and precision of the resulting scale scores. For example, the test developer should describe any normative, content, or score precision information that is incorporated into the scale and provide a rationale for the number of score points that are used.This standard pertains to scorescales intended for criterion-referenced as well as norm-referenced interpretations.
 
+<<<<<<< HEAD
 #### Standard 5.3
+=======
+##### Standard 5.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If there is sound reason to believe that specific misinterpretations of a score scale are likely, test users should be explicitly cautioned.
 
 **Comment:** Test publishers and users can reduce misinterpretations of scale scores if they explicitly describe both appropriate uses and potential misuses. For example, a score scale point originally defined as the mean of some reference population should no longer be interpreted as representing average performance if the scale is held constant over time and the examinee population changes. Similarly, caution is needed if score meanings may vary for some test takers, such as the meaning of achievement scores for students who have not had adequate opportunity to learn the material covered by the test.
 
+<<<<<<< HEAD
 #### Standard 5.4
+=======
+##### Standard 5.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When raw scores are intended to be directly interpretable, their meanings, intended interpretations, and limitations should be described and justified in the same manner as is done for scale scores.
 
 **Comment:** In some cases the items in a test are a representative sample of a well-defined domain of items with regard to both content and item difficulty. The proportion answered correctly on the test may then be interpreted as an estimate of the proportion of items in the domain that could be answered correctly. In other cases, different interpretations may be attached to scores above or below a particular cut score. Support should be offered for any such interpretations recommended by the test developer.
 
+<<<<<<< HEAD
 #### Standard 5.5
+=======
+##### Standard 5.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When raw scores or scale scores are designed for criterion-referenced interpretation, including the classification of examinees into separate categories, the rationale for recommended score interpretations should be explained clearly.
 
 **Comment:** Criterion-referenced interpretations are score-based descriptions or inferences that do not take the form of comparisons of an examinee's test performance with the test performance of other examinees. Examples include statements that some psychopathology is likely present, that a prospective employee possesses specific skills required in a given position, or that a child scoring above a certain score point can successfully apply a given set of skills. Such interpretations may refer to the absolute levels of test scores or to patterns of scores for an individual examinee. Whenever the test developer recommends such interpretations, the rationale and empirical basis should be presented clearly. Serious efforts should be made whenever possible to obtain independent evidence concerning the soundness of such score interpretations.
 
+<<<<<<< HEAD
 #### Standard 5.6
+=======
+##### Standard 5.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Testing programs that attempt to maintain a common scale over time should conduct periodic checks of the stability of the scale on which scores are reported.
 
 **Comment:**The frequency of such checks depends on various characteristics of the testing program. In some testing programs, items are introduced into and retired from item pools on an ongoing basis. In other cases, the items in successive test forms may overlap very little, or not at all. In either case, if a fixed scale is used for reporting, it is important to ensure that the meaning of the scale scores does not change over time. When scales are based on the subsequent application of precalibrated item parameter estimates using item responsetheory, periodic analyses of item parameter stability should be routinely undertaken.
 
+<<<<<<< HEAD
 #### Standard 5.7
+=======
+##### Standard 5.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When standardized tests or testing procedures are changed for relevant subgroups of test takers, the individual or group making the change should provide evidence of the comparability of scores on the changed versions with scores obtained on the original versions of the tests. If evidence is lacking, documentation should be provided that cautions users that scores from the changed test or testing procedure may not be comparable with those from the original version.
 
 **Comment:** Sometimes it becomes necessary to change original versions of a test or testing procedure when the test is given to relevant subgroups of the testing population, for example, individuals with disabilities or individuals with diverse linguistic and cultural backgrounds. A test may be translated into braille so that it is accessible to individuals who are blind, or the testing procedure may be changed to include extra time for certain groups of examinees. These changes may or may not have an effect on the underlying constructs that are measured by the test and, consequently, on the score conversions used with the test. If scores on the changed test will be compared with scores on the original test, the test developer should provide empirical evidence of the comparability of scores on the changed and original test whenever sample sizes are sufficiently large to provide this type of evidence.
 
+<<<<<<< HEAD
 ### Cluster 2. Norms**
 
 #### Standard 5.8
+=======
+#### Cluster 2. Norms**
+
+##### Standard 5.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Norms, if used, should refer to clearly described populations. These populations should include individuals or groups with whom test users will ordinarily wish to compare their own examinees.
 
 **Comment:** It is theresponsibility of test developers to describe norms clearly and the responsibility of test users to use norms appropriately. Users need to know the applicability of a test to different groups. Differentiated norms or summary information about differences between gender, racial/ethnic, language, disability, grade, or age groups, for example, may be useful in some cases.The permissible uses of such differentiated norms and related information may be limited by law. Users also need to be alerted to situations in which norms are less appropriate for some groups or individuals than others. On an occupational interest inventory, for example, norms for persons actually engaged in an occupation may be inappropriate for interpreting the scores of persons not so engaged.
 
+<<<<<<< HEAD
 #### Standard 5.9
+=======
+##### Standard 5.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Reports of norming studies should include precise specification of the population that was sampled, sampling procedures and participation rates, any weighting of the sample, the dates of testing,and descriptive statistics. Technical documentation should indicate the precision of the norms themselves.**
 
 **Comment:** The information provided should be sufficient to enable users to judge the appropriateness of the norms for interpreting the scores of local examinees. The information should be presented so as to comply with applicable legal requirements and professional standards relating to privacy and data security.
 
+<<<<<<< HEAD
 #### Standard 5.10
+=======
+##### Standard 5.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When norms are used to characterize examinee groups, the statistics used to summarize each group's performance and the norms to which those statistics are referred should be defined clearly and should support the intended use or interpretation.
 
 **Comment:** It is not possible to determine the percentile rank of a school's average test score if all that is known is the percentile rank of each of that school's students. It may sometimes be useful to develop special norms for group means, but when the sizes of the groups differ materially or when some groups are much more heterogeneous than others, the construction and interpretation of group norms is problematic. One common and acceptable procedure is to report the percentile rank of the median group member, for example, the median percentile rank of the pupils tested in a given school.
 
+<<<<<<< HEAD
 #### Standard 5.11
+=======
+##### Standard 5.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a test publisher provides norms for use in test score interpretation, then as long as the test remains in print, it is the test publisher's responsibility to renorm the test with sufficient frequency to permit continued accurate and appropriate score interpretations.
 
 **Comment:** Test publishers should ensure that up-to-date norms are readily available or provide evidence that older norms are still appropriate. However, it remains the test user's responsibility to avoid inappropriate use of norms that are out of date and to strive to ensure accurate and appropriate score interpretations.
 
+<<<<<<< HEAD
 ### **Cluster 3. Score **
 
 #### Standard 5.12
+=======
+#### **Cluster 3. Score **
+
+##### Standard 5.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A clear rationale and supporting evidence should be provided for any claim that scale scores earned on alternate forms of a test may be used interchangeably.
 
 **Comment:** For scores on alternate forms to be used interchangeably, the alternate forms must be built to common detailed content and statistical specifications. Adequate data should be collected and appropriate statistical methodology should be applied to conduct the equating of scores on alternate test forms. The quality of the equating should be evaluated to assess whether the resulting scale scores on the alternate forms can be used interchangeably.
 
+<<<<<<< HEAD
 #### Standard 5.13
+=======
+##### Standard 5.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When claims of form-to-form score equivalence are based on equating procedures, detailed technical information should be provided on the method by which equating functions were established and on the accuracy of the equating functions.
 
 **Comment:** Evidence should be provided to show that equated scores on alternate forms measure essentially the same construct with very similar levels of reliability and conditional standard errors of measurement and that theresults are appropriate for relevant subgroups. Technical information should include the design of the equating study, the statistical methods used, the size and relevant characteristics ofexamineesamples used in equating studies, and the characteristics of any anchor tests or anchor items. For tests for which equating is conducted prior to operational use (i.e., preequating), documentation of the item calibration process should be provided and the adequacy of theequating functions should beevaluated following operational administration. When equivalent forms of computer-based tests are constructed dynamically, the algorithms used should be documented and the technical characteristics of alternate forms should be evaluated based on simulation and/or analysis of administration data. Standard errors of equating functions should be estimated and reported whenever possible. Sample sizes permitting, it may be informative to assess whether equating functions developed for relevant subgroups of examinees are similar. It may also be informative to use two or more anchor forms and to conduct the equating using each of the anchors. To be most useful, equating error should be presented in units of the reported score scale. For testing programs with cut scores, equating error near the cut score is of primary importance.
 
+<<<<<<< HEAD
 #### Standard 5.14
+=======
+##### Standard 5.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In equating studies that rely on the statistical equivalence of examinee groups receiving different forms, methods of establishing such equivalence should be described in detail.
 
 **Comment:** Certain equating designs rely on the random equivalence of groups receiving different forms. Often, one way to ensure such equivalence is to mix systematically different test forms and then distribute them in a random fashion so that roughly equal numbers of examinees receive each form. Because administration designs intended to yield equivalent groups are not always adhered to in practice, the equivalence of groups should be evaluated statistically.
 
+<<<<<<< HEAD
 #### Standard 5.15
+=======
+##### Standard 5.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In equating studies that employ an anchor test design, the characteristics of the anchor test and its similarity to the forms being equated should be presented, including both content specifications and empirically determined relationships among test scores. If anchor items are used in the equating study, the representativeness and psychometric characteristics of the anchor items should be presented.
 
 **Comment:** Scores on tests or test forms may be equated via common items embedded within each of them, or a common test administered together with each of them. These common items or tests are referred to as *linking items, common items, anchor items,* or *anchor tests.* Statistical procedures applied to anchor items make assumptions that substitute for the equivalence achieved with an equivalent groups design. Performances on these items are the only empirical evidence used to adjust for differences in ability between groups before making adjustments for test difficulty. With such approaches, the quality of the resulting equating depends strongly on the number of the anchor items used and how well the anchor items proportionally reflect the content and statistical characteristics of the test. The content of the anchor items should be exactly the same in each test form to be equated. The anchor items should be in similar positions to help reduce error in equating due to item context effects. In addition, checks should be made to ensure that, after controlling for examinee group differences, the anchor items have similar statistical characteristics on each test form.
 
+<<<<<<< HEAD
 #### Standard 5.16
+=======
+##### Standard 5.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test scores are based on model-based psychometric procedures, such as those used in computerized adaptive or multistage testing, documentation should be provided to indicate that the scores have comparable meaning over alternate sets of test items.**
 
 **Comment:** When model-based psychometric procedures are used, technical documentation should be provided that supports the comparability of scores over alternate sets of items. Such documentation should include the assumptions and procedures that were used to establish comparability, including clear descriptions of model-based algorithms, software used, quality control procedures followed, and technical analyses conducted that justify the use of the psychometric models for the particular test scores that are intended to be comparable.
 
+<<<<<<< HEAD
 #### Standard 5.17
+=======
+##### Standard 5.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When scores on tests that cannot be equated are linked, direct evidence of score comparability should be provided, and the examinee population for which score comparability applies should be specified clearly. The specific rationale and the evidence required will depend in part on the intended uses for which score comparability is claimed.**
 
 **Comment:** Support should be provided for any assertion that linked scores obtained using tests built to different content or statistical specifications, tests that use different testing materials, or tests that are administered under different test administration conditions are comparablefor theintended purpose. For these links, the examinee population for which score comparability is established should be specified clearly. This standard applies, for example, to tests that differ in length, tests administered in different formats (e.g., paper-and-pencil and computer-based tests), test forms designed for individual versus group administration, tests that are vertically scaled, computerized adaptive tests, tests that are revised substantially, tests given in different languages, tests administered under various accommodations, tests measuring different constructs, and tests from different publishers.
 
+<<<<<<< HEAD
 #### Standard 5.18
+=======
+##### Standard 5.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When linking procedures are used to relate scores on tests or test forms that are not closely parallel, the construction, intended interpretation, and limitations of those linkings should be described clearly.
 
 **Comment:** Various linkings have been conducted relating scores on tests developed at different levels of difficulty, relating earlier to revised forms of published tests, creating concordances between different tests of similar or different constructs, or for other purposes. Such linkings often are useful, but they may also be subject to misinterpretation. The limitations of such linkings should be described clearly. Detailed technical information should be provided on the linking methodology and the quality of thelinking.Technical information about the linking should include, as appropriate, the reliability of the sets of scores being linked, the correlation between test scores, an assessment of content similarity, the conditions of measurement for each test, the data collection design, the statistical methods used, the standard errors of the linking function, evaluations of sampling stability, and assessments of score comparability.
 
+<<<<<<< HEAD
 #### Standard 5.19
+=======
+##### Standard 5.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When tests are created by taking a subset of the items in an existing test or by rearranging items, evidence should be provided that there are no distortions of scale scores, cut scores, or norms for the different versions or for score linkings between them.**
 
 **Comment:** Some tests and test batteries are published in both a full-length version and a survey or short version. In other cases, multiple versions of a single test form may be created by rearranging its items. It should not be assumed that performance data derived from the administration of items as part of the initial version can be used to compute scale scores, compute linked scores, construct conversion tables, approximate norms, or approximate cut scores for alternative intact tests. Caution is required in cases where context effects are likely, including speeded tests, long tests where fatigue may be a factor, adaptive tests, and tests developed from calibrated item pools. Options for gathering evidence related to context effects might include examinations of model-data fit, operational recalibrations of item parameter estimates initially derived using pretest data, and comparisons of performance on original and revised test forms as administered to randomly equivalent groups.
 
+<<<<<<< HEAD
 #### Standard 5.20
+=======
+##### Standard 5.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If test specifications are changed from one version of a test to a subsequent version, such changes should be identified, and an indication should be given that converted scores for the two versions may not be strictly equivalent, even when statistical procedures have been used to link scores from the different versions. When substantial changes in test specifications occur, scores should be reported on a new scale, or a clear statement should be provided to alert users that the scores are not directly comparable with those on earlier versions of the test.**
 
 **Comment:** Major shifts sometimes occur in the specifications of tests that are used for substantial periods of time. Often such changes take advantage of improvements in item types or shifts in content that have been shown to improve validity and therefore are highly desirable. It is important to recognize, however, that such shifts will result in scores that cannot be made strictly interchangeable with scores on an earlier form of the test, even when statistical linking procedures are used. To assess score comparability, it is advisable to evaluate the relationship between scores on the old and new versions.
 
+<<<<<<< HEAD
 ### **Cluster 4. Cut Scores**
 
 #### Standard 5.21
+=======
+#### **Cluster 4. Cut Scores**
+
+##### Standard 5.21
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When proposed score interpretations involve one or more cut scores, the rationale and procedures used for establishing cut scores should be documented clearly.
 
@@ -1963,21 +2880,35 @@ When proposed score interpretations involve one or more cut scores, the rational
 
 test design. Adequate precision in regions of score scales where cut scores areestablished is prerequisite to reliable classification ofexaminees into categories. If standard setting employs data on the score distributions for criterion groups or on the relation of test scores to one or more criterion variables, those data should be summarized in technical documentation. If a judgmental standard-setting process is followed, the method employed should be described clearly, and the precise nature and reliability of the judgments called for should be presented, whether those arejudgments of persons, of item or test performances, or of other criterion performances predicted by test scores. Documentation should also include the selection and qualifications of standard-setting panel participants, training provided, any feedback to participants concerning the implications of their provisional judgments, and any opportunities for participants to confer with one another. Where applicable, variability over participants should be reported. Whenever feasible, an estimate should be provided of the amount of variation in cut scores that might beexpected if thestandard-setting procedure were replicated with a comparable standard-setting panel.
 
+<<<<<<< HEAD
 #### Standard 5.22
+=======
+##### Standard 5.22
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When cut scores defining pass-fail or proficiency levels are based on direct judgments about the adequacy of item or test performances, the judgmental process should be designed so that the participants providing the judgments can bring their knowledge and experience to bear in a reasonable way.
 
 **Comment:** Cut scores are sometimes based on judgments about the adequacy of item or test performances (e.g., essay responses to a writing prompt) or proficiency expectations (e.g., the scale score that would characterize a borderline examinee). The procedures used to elicit such judgments should result in reasonable, defensible proficiency standards that accurately reflect the standard-setting participants' values and intentions. Reaching such judgments may be most straightforward when participants are asked to consider kinds of performances with which they are familiar and for which they have formed clear conceptions of adequacy or quality. When the responses elicited by a test neither sample nor closely simulate the use of tested knowledge or skills in the actual criterion domain, participants are not likely to approach the task with such clear understandings of adequacy or quality. Special care must then be taken to ensure that participants have a sound basis for making thejudgments requested.Thorough familiarity with descriptions of different proficiency levels, practice in judging task difficulty with feedback on accuracy, the experience of actually taking a form of the test, feedback on the pass rates entailed by provisional proficiency standards, and other forms of information may be beneficial in helping participants to reach sound and principled decisions.
 
+<<<<<<< HEAD
 #### Standard 5.23
+=======
+##### Standard 5.23
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When feasible and appropriate, cut scores defining categories with distinct substantive interpretations should be informed by sound empirical data concerning the relation of test performance to the relevant criteria.
 
 **Comment:** In employment settings where it has been established that test scores are related to job performance, the precise relation of test and criterion may have little bearing on the choice of a cut score, if the choice is based on the need for a predetermined number of candidates. However, in contexts where distinct interpretations are applied to different score categories, the empirical relation of test to criterion assumes greater importance. For example, if a cut score is to be set on a high school mathematics test indicating readiness for college-level mathematics instruction, it may be desirable to collect empirical data establishing a relationship between test scores and grades obtained in relevant college courses. Cut scores used in interpreting diagnostic tests may beestablished on the basis ofempirically determined score distributions for criterion groups. With many achievement or proficiency tests, such as those used in credentialing, suitable criterion groups (e.g., successful versus unsuccessful practitioners) are often unavailable. Nevertheless, when appropriate and feasible, the test developer should investigate and report the relation between test scores and performance in relevant practical settings. Professional judgment is required to determine an appropriate standard-setting approach (or combination of approaches) in any given situation. In general, one would not expect to find a sharp difference in levels of the criterion variable between those just below and those just above the cut score, but evidence should be provided, where feasible, of a relationship between test and criterion performance over a score interval that includes or approaches the cut score.
 
+<<<<<<< HEAD
 # Chapter 6: TEST ADMINISTRATION, SCORING, REPORTING, AND INTERPRETATION**
 
 ## **BACKGROUND**
+=======
+## Chapter 6: TEST ADMINISTRATION, SCORING, REPORTING, AND INTERPRETATION**
+
+### **BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The usefulness and interpretability of test scores require that a test be administered and scored according to the test developer's instructions. When directions, testing conditions, and scoring follow the same detailed procedures for all test takers, the test is said to be standardized. Without such standardization, the accuracy and comparability of score interpretations would be reduced. For tests designed to assess the test taker's knowledge, skills, abilities, or other personal characteristics, standardization helps to ensure that all test takers have the same opportunity to demonstrate their competencies. Maintaining test security also helps ensure that no one has an unfair advantage. The importance of adherence to appropriate standardization of administration procedures increases with the stakes of the test.
 
@@ -2001,7 +2932,11 @@ Some further issues of administration and scoring are discussed in chapter 4, "T
 
 Test users and those who receive test materials, test scores, and ancillary information such as test takers' personally identifiable information are responsiblefor appropriately maintaining thesecurity and confidentiality of that information.
 
+<<<<<<< HEAD
 ## **STANDARDS FOR TEST ADMINISTRATION, SCORING, REPORTING, AND INTERPRETATION**
+=======
+### **STANDARDS FOR TEST ADMINISTRATION, SCORING, REPORTING, AND INTERPRETATION**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 6.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into three thematic clusters labeled as follows:
 
@@ -2009,15 +2944,25 @@ The standards in this chapter begin with an overarching standard (numbered 6.0),
 - 2. Test Scoring
 - 3. Reporting and Interpretation
 
+<<<<<<< HEAD
 #### Standard 6.0
+=======
+##### Standard 6.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 To support useful interpretations of score results, assessment instruments should have established procedures for test administration, scoring, reporting, and interpretation. Those responsible for administering, scoring, reporting, and interpreting should have sufficient training and supports to help them follow the established procedures. Adherence to the established procedures should be monitored, and any material errors should be documented and, if possible, corrected.
 
 **Comment:** In order to support the validity of score interpretations, administration should follow any and all established procedures, and compliance with such procedures needs to be monitored.
 
+<<<<<<< HEAD
 ### **Cluster 1. Test Administration**
 
 #### Standard 6.1
+=======
+#### **Cluster 1. Test Administration**
+
+##### Standard 6.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test administrators should follow carefully the standardized procedures for administration and scoring specified by the test developer and any instructions from the test user.
 
@@ -2031,13 +2976,21 @@ Test developers should specify the standardized administration conditions that s
 
 Characteristics such as time limits, choices about item types and response formats, complex interfaces, and instructions that potentially add construct-irrelevant variance should be scrutinized in terms of the test purpose and the constructs being measured. Appropriate usability and empirical research should be carried out, as feasible, to document and ideally minimize the impact of sources or conditions that contributeto construct-irrelevant variability.
 
+<<<<<<< HEAD
 #### Standard 6.2
+=======
+##### Standard 6.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When formal procedures have been established for requesting and receiving accommodations, test takers should be informed of these procedures in advance of testing.
 
 **Comment:** When testing programs haveestablished procedures and criteria for identifying and providing accommodations for test takers, the procedures and criteria should be carefully followed and documented. Ideally, these procedures include how to consider the instances when some alternative may be appropriate in addition to those accommodations foreseen and specified by the test developer. Test takers should be informed of any testing accommodations that may be available to them and the process and requirements, if any, for obtaining needed accommodations. Similarly, in educational settings, appropriateschool personnel and parents/legal guardians should be informed of the requirements, if any, for obtaining needed accommodations for students being tested.
 
+<<<<<<< HEAD
 #### Standard 6.3
+=======
+##### Standard 6.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Changes or disruptions to standardized test administration procedures or scoring should be documented and reported to the test user.
 
@@ -2045,39 +2998,65 @@ Changes or disruptions to standardized test administration procedures or scoring
 
 affected the results, and perhaps certain cautions. For example, test users may need to be informed about the comparability of scores when modifications are provided (see chap. 3, "Fairness in Testing," and chap. 9, "The Rights and Responsibilities of Test Users"). If a deviation or change to a standardized test administration procedure is judged significant enough to adversely affect the validity of score interpretation, then appropriate action should be taken, such as not reporting the scores, invalidating the scores, or providing opportunities for readministration under appropriate circumstances. Testing environments that are not monitored (e.g., in temporary conditions or on the Internet) should meet these standardized administration conditions; otherwise, the report on scores should note that standardized conditions were not guaranteed.
 
+<<<<<<< HEAD
 #### Standard 6.4
+=======
+##### Standard 6.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The testing environment should furnish reasonable comfort with minimal distractions to avoid construct-irrelevant variance.
 
 **Comment:** Test developers should provide information regarding the intended test administration conditions and environment. Noise, disruption in the testing area, extremes of temperature, poor lighting, inadequate work space, illegible materials, and malfunctioning computers are among the conditions that should be avoided in testing situations, unless measuring the construct requires such conditions. The testing site should be readily accessible. Technology-based administrations should avoid distractions such as equipment or Internet-connectivity failures, or large variations in the time taken to present test items or score responses. Testing sessions should be monitored where appropriate to assist the test taker when a need arises and to maintain proper administrative procedures. In general, the testing conditions should be equivalent to those that prevailed when norms and other interpretative data were obtained.
 
+<<<<<<< HEAD
 #### Standard 6.5
+=======
+##### Standard 6.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test takers should be provided appropriate instructions, practice, and other support necessary to reduce construct-irrelevant variance.
 
 **Comment:** Instructions to test takers should clearly indicate how to make responses, except when doing so would obstruct measurement of the intended construct (e.g., when an individual's spontaneous approach to the test-taking situation is being assessed). Instructions should also be given in the use of any equipment or software likely to be unfamiliar to test takers, unless accommodating to unfamiliar tools is part of what is being assessed. The functions or interfaces of computer-administered tests may be unfamiliar to some test takers, who may need to be shown how to log on, navigate, or access tools. Practice opportunities should be given when equipment is involved, unless use of the equipment is being assessed. Some test takers may need practice responding with particular means required by the test, such as filling in a multiple-choice "bubble" or interacting with a multimedia simulation. Where possible, practice responses should be monitored to confirm that the test taker is making acceptable responses. If a test taker is unable to use the equipment or make the responses, it may be appropriate to consider alternative testing modes. In addition, test takers should be clearly informed on how their rate of work may affect scores, and how certain responses, such as not responding, guessing, or responding incorrectly, will be treated in scoring, unless such directions would undermine the construct being assessed.
 
+<<<<<<< HEAD
 #### Standard 6.6
+=======
+##### Standard 6.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Reasonable efforts should be made to ensure the integrity of test scores by eliminating opportunities for test takers to attain scores by fraudulent or deceptive means.
 
 **Comment:** In testing programs where the results may be viewed as having important consequences, score integrity should be supported through active efforts to prevent, detect, and correct scores obtained by fraudulent or deceptive means. Such efforts may include, when appropriate and practicable, stipulating requirements for identification, constructing seating charts, assigning test takers to seats, requiring appropriate space between seats, and providing continuous monitoring of thetesting process.Test developers should design test materials and procedures to minimizethe possibility of cheating. A local change in the date or time of testing may offer an opportunity for cheating. Test administrators should be trained on how to take appropriate precautions against and detect opportunities to cheat, such as opportunities afforded by technology that would allow a test taker to communicate with an accomplice outsidethetesting area, or technology that would allow a test taker to copy test information for subsequent disclosure.Test administrators should follow established policies for dealing with any instances of testing irregularity. In general, steps should be taken to minimize the possibility of breaches in test security, and to detect any breaches. In any evaluation of work products (e.g., portfolios) steps should be taken to ensure that the product represents the test taker's own work, and that the amount and kind of assistance provided is consistent with the intent of the assessment. Ancillary documentation, such as the date when the work was done, may be useful. Testing programs may use technologies during scoring to detect possible irregularities, such as computer analyses of erasure patterns, similar answer patterns for multiple test takers, plagiarism from online sources, or unusual item parameter shifts. Users of such technologies are responsible for their accuracy and appropriate application. Test developers and test users may need to monitor for disclosure of test items on the Internet or from other sources. Testing programs with high-stakes consequences should have defined policies and procedures for detecting and processing potential testing irregularities— including a process by which a person charged with an irregularity can qualify for and/or present an appeal— and for invalidating test scores and providing opportunity for retesting.
 
+<<<<<<< HEAD
 #### Standard 6.7
+=======
+##### Standard 6.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users have the responsibility of protecting the security of test materials at all times.
 
 **Comment:** Those who have test materials under their control should, with due consideration of ethical and legal requirements, take all steps necessary to ensure that only individuals with legitimate needs and qualifications for access to test materials are able to obtain such access before the test administration, and afterwards as well, if any part of the test will be reused at a later time. Concerns with inappropriate access to test materials include inappropriate disclosure of test content, tampering with test responses or results, and protection of test taker's privacy rights. Test users must balance test security with the rights of all test takers and test users. When sensitive test documents are at issue in court or in administrative agency challenges, it is important to identify security and privacy concerns and needed protections at the outset. Parties should ensure that the release or exposure of such documents (including specific sections of those documents that may warrant redaction) to third parties, experts, and the courts/agencies themselves are consistent with conditions (often reflected in protective orders) that do not result in inappropriate disclosure and that do not risk unwarranted release beyond the particular setting in which the challenge has occurred. Under certain circumstances, when sensitive test documents are challenged, it may be appropriate to employ an independent third party, using a closely supervised secure procedure to conduct a review of the relevant materials rather than placing tests, manuals, or a test taker's test responses in the public record. Those who have confidential information related to testing, such as registration information, scheduling, and payments, have similar responsibility for protecting that information. Those with test materials under their control should use and disclose such information only in accordance with any applicable privacy laws.
 
+<<<<<<< HEAD
 ### **Cluster 2. Test Scoring**
 
 #### Standard 6.8
+=======
+#### **Cluster 2. Test Scoring**
+
+##### Standard 6.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for test scoring should establish scoring protocols. Test scoring that involves human judgment should include rubrics, procedures, and criteria for scoring. When scoring of complex responses is done by computer, the accuracy of the algorithm and processes should be documented.
 
 **Comment:** A scoring protocol should beestablished, which may be as simple as an answer key for multiple-choice questions. For constructed responses, scorers— humans or machine programs— may be provided with scoring rubrics listing acceptable alternative responses, as well as general criteria. A common practice of test developers is to provide scoring training materials, scoring rubrics, and examples of test takers' responses at each score level. When tests or items are used over a period of time, scoring materials should be reviewed periodically.
 
+<<<<<<< HEAD
 #### Standard 6.9
+=======
+##### Standard 6.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for test scoring should establish and document quality control processes and criteria. Adequate training should be provided. The quality of scoring should be monitored and documented. Any systematic source of scoring errors should be documented and corrected.
 
@@ -2087,53 +3066,89 @@ Typically, those responsible for scoring will document the procedures followed f
 
 When scoring is done locally and requires scorer judgment, the test user is responsible for providing adequate training and instruction to the scorers and for examining scorer agreement and accuracy.Theexpected level of scorer agreement and accuracy should be documented, as feasible.
 
+<<<<<<< HEAD
 ### **Cluster 3. Reporting and Interpretation**
 
 #### Standard 6.10
+=======
+#### **Cluster 3. Reporting and Interpretation**
+
+##### Standard 6.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test score information is released, those responsible for testing programs should provide interpretations appropriate to the audience. The interpretations should describe in simple language what the test covers, what scores represent, the precision/reliability of the scores, and how scores are intended to be used.
 
 **Comment:**Test users should consult theinterpretive material prepared by the test developer and should revise or supplement the material as necessary to present the local and individual results accurately and clearly to the intended audience, which may include clients, legal representatives, media, referral sources, test takers, parents, or teachers. Reports and feedback should be designed to support valid interpretations and use, and minimize potential negative consequences. Score precision might be depicted by error bands or likely score ranges, showing the standard error of measurement. Reports should include discussion of any administrative variations or behavioral observations in clinical settings that may affect results and interpretations.Test users should avoid misinterpretation and misuse of test score information. While test users are primarily responsible for avoiding misinterpretation and misuse, theinterpretive materials prepared by the test developer or publisher may address common misuses or misinterpretations. To accomplish this, developers of reports and interpretive materials may conduct research to help verify that reports and materials can be interpreted as intended (e.g., focus groups with representative end-users of the reports). The test developer should inform test users of changes in the test over time that may affect test score interpretation, such as changes in norms, test content frameworks, or scale score meanings.
 
+<<<<<<< HEAD
 #### Standard 6.11
+=======
+##### Standard 6.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When automatically generated interpretations of test response protocols or test performance are reported, the sources, rationale, and empirical basis for these interpretations should be available, and their limitations should be described.
 
 **Comment:** Interpretations of test results are sometimes automatically generated,either by a computer program in conjunction with computer scoring, or by manually prepared materials. Automatically generated interpretations may not be able to take into consideration the context of the individual's circumstances. Automatically generated interpretations should be used with care in diagnostic settings, because they may not take into account other relevant information about the individual test taker that provides context for test results, such as age, gender, education, prior employment, psychosocial situation, health, psychological history, and symptomatology. Similarly, test developers and test users of automatically generated interpretations of academic performance and accompanying prescriptions for instructional follow-up should report the bases and limitations of the interpretations.Test interpretations should not imply that empirical evidence exists for a relationship among particular test results, prescribed interventions, and desired outcomes, unless empirical evidence is available for populations similar to those representative of the test taker.
 
+<<<<<<< HEAD
 #### Standard 6.12
+=======
+##### Standard 6.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When group-level information is obtained by aggregating the results of partial tests taken by individuals, evidence of validity and reliability/precision should be reported for the level of aggregation at which results are reported. Scores should not be reported for individuals without appropriate evidence to support the interpretations for intended uses.
 
 **Comment:** Large-scale assessments often achieve efficiency by "matrix sampling" the content domain by asking different test takers different questions. The testing then requires less time from each test taker, while the aggregation of individual results provides for domain coverage that can be adequate for meaningful group- or program-level interpretations, such as for schools or grade levels within a locality or particular subject areas. However, because the individual is administered only an incomplete test, an individual score would have limited meaning, if any.
 
+<<<<<<< HEAD
 #### Standard 6.13
+=======
+##### Standard 6.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a material error is found in test scores or other important information issued by a testing organization or other institution, this information and a corrected score report should be distributed as soon as practicable to all known recipients who might otherwise use the erroneous scores as a basis for decision making. The corrected report should be labeled as such. What was done to correct the reports should be documented. The reason for the corrected score report should be made clear to the recipients of the report.
 
 **Comment:** A material error is one that could change the interpretation of the test score and make a difference in a significant way. An example is an erroneous test score(e.g., incorrectly computed or fraudulently obtained) that would affect an important decision about the test taker, such as a credentialing decision or the awarding of a high school diploma. Innocuous typographical errors would be excluded. Timeliness is essential for decisions that will be made soon after the test scores are received. Where test results have been used to inform high-stakes decisions, corrective actions by test users may be necessary to rectify circumstances affected by erroneous scores, in addition to issuing corrected reports. The reporting or corrective actions may not be possible or practicable in certain work or other settings.Test users should develop a policy of how to handle material errors in test scores and should document what was done in the case of suspected or actual material errors.
 
+<<<<<<< HEAD
 #### Standard 6.14
+=======
+##### Standard 6.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Organizations that maintain individually identifiable test score information should develop a clear set of policy guidelines on the duration of retention of an individual's records and on the availability and use over time of such data for research or other purposes. The policy should be documented and available to the test taker. Test users should maintain appropriate data security, which should include administrative, technical, and physical protections.
 
 **Comment:** In some instances, test scores become obsolete over time, no longer reflecting the current state of the test taker. Outdated scores should generally not be used or made available, except for research purposes. In other cases, test scores obtained in past years can be useful, as in longitudinal assessment or the tracking of deterioration of function or cognition. The key issue is the valid use of the information. Organizations and individuals who maintain individually identifiable test score information should be aware of and comply with legal and professional requirements. Organizations and individuals who maintain test scores on individuals may be requested to provide data to researchers or other third-party users. Where data release is deemed appropriate and is not prohibited by statutes or regulations, the test user should protect the confidentiality of the test takers through appropriate policies, such as deidentifying test data or requiring nondisclosure and confidentiality of the data. Organizations and individuals who maintain or use confidential information about test takers or their scores should have and implement an appropriate policy for maintaining security and integrity of the data, including protecting from accidental or deliberate modification as well as preventing loss or unauthorized destruction. In some cases, organizations may need to obtain test takers' consent to use or disclose records. Adequate security and appropriate protocols should be established when confidential test data are made part of a larger record (e.g., an electronic medical record) or merged into a data warehouse. If records are to be released for clinical and/or forensic evaluations, care should be taken to releasethem to appropriately licensed individuals, with appropriate signed release authorization by the test taker or appropriate legal authority.
 
+<<<<<<< HEAD
 #### Standard 6.15
+=======
+##### Standard 6.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When individual test data are retained, both the test protocol and any written report should also be preserved in some form.
 
 **Comment:**The protocol may be needed to respond to a possible challenge from a test taker or to facilitate interpretation at a subsequent time. The protocol would ordinarily be accompanied by testing materials and test scores. Retention of more detailed records of responses would depend on circumstances and should be covered in a retention policy. Record keeping may be subject to legal and professional requirements. Policy for the release of any test information for other than research purposes is discussed in chapter 9, "The Rights and Responsibilities of Test Users."
 
+<<<<<<< HEAD
 #### Standard 6.16
+=======
+##### Standard 6.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Transmission of individually identified test scores to authorized individuals or institutions should be done in a manner that protects the confidential nature of the scores and pertinent ancillary information.
 
 **Comment:** Care is always needed when communicating thescores of identified test takers, regardless of the form of communication. Similar care may be needed to protect the confidentiality of ancillary information, such as personally identifiable information on disability status for students or clinical test scores shared between practitioners. Appropriate caution with respect to confidential information should be exercised in communicating face to face, as well as by telephone, fax, and other forms of written communication. Similarly, transmission of test data through electronic media and transmission and storage on computer networks including wireless transmission and storage or processing on the Internet— require caution to maintain appropriate confidentiality and security. Data integrity must also be maintained by preventing inappropriate modification of results during such transmissions. Test users are responsible for understanding and adhering to applicable legal obligations in their data management, transmission, use, and retention practices, including collection, handling, storage, and disposition.Test users should set and follow appropriatesecurity policies regarding confidential test data and other assessment information. Release of clinical raw data, tests, or protocols to third parties should follow laws, regulations, and guidelines provided by professional organizations and should take into account the impact of availability of tests in public domains (e.g., court proceedings) and the potential for violation of intellectual property rights.
 
+<<<<<<< HEAD
 # Chapter 7: SUPPORTING DOCUMENTATION FOR TESTS**
 
 ## **BACKGROUND**
+=======
+## Chapter 7: SUPPORTING DOCUMENTATION FOR TESTS**
+
+### **BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This chapter provides general standards for the preparation and publication of test documentation by test developers, publishers, and other providers of tests. Other chapters contain specific standards that should be useful in the preparation of materials to be included in a test's documentation. In addition, test users may have their own documentation requirements. The rights and responsibilities of test users are discussed in chapter 9.
 
@@ -2149,7 +3164,11 @@ Test documents need to include enough information to allow test users and review
 
 In addition to technical documentation, descriptive materials are needed in some settings to inform examinees and other interested parties about the nature and content of a test.The amount and type of information provided will depend on the particular test and application. For example, in situations requiring informed consent, information should be sufficient for test takers (or their representatives) to make a sound judgment about the test. Such information should be phrased in nontechnical language and should contain information that is consistent with the use of the test scores and is sufficient to help the user make an informed decision. The materials may include a general description and rationale for the test; intended uses of thetest results; sampleitems or completesample tests; and information about conditions of test administration, confidentiality, and retention of test results. For some applications, however, the true nature and purpose of thetest are purposely hidden or disguised to prevent faking or response bias. In these instances, examinees may be motivated to reveal more or less of a characteristic intended to be assessed. Hiding or disguising the true nature or purpose of a test is acceptable provided that the actions involved are consistent with legal principles and ethical standards.
 
+<<<<<<< HEAD
 ## STANDARDS FOR SUPPORTING DOCUMENTATION FOR TESTS**
+=======
+### STANDARDS FOR SUPPORTING DOCUMENTATION FOR TESTS**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 7.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into four thematic clusters labeled as follows:
 
@@ -2158,7 +3177,11 @@ The standards in this chapter begin with an overarching standard (numbered 7.0),
 - 3. Content of Test Documents: Test Administration and Scoring
 - 4. Timeliness of Delivery of Test Documents
 
+<<<<<<< HEAD
 #### Standard 7.0
+=======
+##### Standard 7.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Information relating to tests should be clearly documented so that those who use tests can make informed decisions regarding which test to use for a specific purpose, how to administer the chosen test, and how to interpret test scores.**
 
@@ -2172,15 +3195,25 @@ Test documents should provide sufficient detail to permit reviewers and research
 
 Test documentation will also help those who are affected by the score interpretations to decide whether to participate in the testing program or how to participate if participation is not optional.
 
+<<<<<<< HEAD
 ### **Cluster 1. Content of Test Documents: Appropriate Use**
 
 #### Standard 7.1
+=======
+#### **Cluster 1. Content of Test Documents: Appropriate Use**
+
+##### Standard 7.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The rationale for a test, recommended uses of the test, support for such uses, and information that assists in score interpretation should be documented. When particular misuses of a test can be reasonably anticipated, cautions against such misuses should be specified.
 
 **Comment:** Test publishers should make every effort to caution test users against known misuses of tests. However, test publishers cannot anticipate all possible misuses of a test. If publishers do know of persistent test misuse by a test user, additional educational efforts, including providing information regarding potential harm to theindividual, organization, or society, may be appropriate.
 
+<<<<<<< HEAD
 #### Standard 7.2
+=======
+##### Standard 7.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The population for whom a test is intended and specifications for the test should be documented. If normative data are provided, the procedures used to gather the data should be explained; the norming population should be described in terms of relevant demographic variables; and the year(s) in which the data were collected should be reported.
 
@@ -2188,41 +3221,69 @@ The population for whom a test is intended and specifications for the test shoul
 
 Other documentation can assist the user in identifying the appropriate normative information to use to interpret test scores appropriately. For example, the time of year in which the normative data were collected may be relevant in some educational settings. In organizational settings, information on the context in which normative data were gathered (e.g., in concurrent or predictive studies; for development or selection purposes) may also have implications for which norms are appropriate for operational use.
 
+<<<<<<< HEAD
 #### Standard 7.3
+=======
+##### Standard 7.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the information is available and appropriately shared, test documents should cite a representative set of the studies pertaining to general and specific uses of the test.
 
 **Comment:** If a study cited by the test publisher is not published, summaries should be made available on request to test users and researchers by the publisher.
 
+<<<<<<< HEAD
 ### **Cluster 2. Content of Test Documents: Test Development**
 
 #### Standard 7.4
+=======
+#### **Cluster 2. Content of Test Documents: Test Development**
+
+##### Standard 7.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test documentation should summarize test development procedures, including descriptions and the results of the statistical analyses that were used in the development of the test, evidence of the reliability/precision of scores and the validity of their recommended interpretations, and the methods for establishing performance cut scores.
 
 **Comment:** When applicable, test documents should include descriptions of the procedures used to develop items and create the item pool, to create tests or forms of tests, to establish scales for reported scores, and to set standards and rules for cut scores or combining scores. Test documents should also provide information that allows the user to evaluate bias or fairness for all relevant groups of intended test takers when it is meaningful and feasible for such studies to be conducted. In addition, other statistical data should be provided as appropriate, such as item-level information, information on the effects of various cut scores (e.g., number of candidates passing at potential cut scores, level of adverse impact at potential cut scores), information about raw scores and reported scores, normative data, the standard errors of measurement, and a description of the procedures used to equate multiple forms. (See chaps. 3 and 4 for more information on the evaluation of fairness and on procedures and statistics commonly used in test development.)
 
+<<<<<<< HEAD
 #### Standard 7.5
+=======
+##### Standard 7.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test documents should record the relevant characteristics of the individuals or groups of individuals who participated in data collection efforts associated with test development or validation (e.g., demographic information, job status, grade level); the nature of the data that were contributed (e.g., predictor data, criterion data); the nature of judgments made by subject matter experts (e.g., content validation linkages); the instructions that were provided to participants in data collection efforts for their specific tasks; and the conditions under which the test data were collected in the validity study.
 
 **Comment:** Test developers should describe the relevant characteristics of those who participated in various steps of the test development process and what tasks each person or group performed. For example, the participants who set the test cut scores and their relevant expertise should be documented. Depending on the use of the test results, relevant characteristics of the participants may include race/ethnicity, gender, age, employment status, education, disability status, and primary language. Descriptions of the tasks and the specific instructions provided to the participants may help future test users select and subsequently use the test appropriately. Testing conditions, such as the extent of proctoring in the validity study, may have implications for the generalizability of the results and should be documented. Any changes to the standardized testing conditions, such as accommodations or modifications made to the test or test administration, should also be documented. Test developers and users should take care to comply with applicable legal requirements and professional standards relating to privacy and data security when providing the documentation required by this standard.
 
+<<<<<<< HEAD
 #### Standard 7.6
+=======
+##### Standard 7.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is available in more than one language, the test documentation should provide information on the procedures that were employed to translate and adapt the test. Information should also be provided regarding the reliability/precision and validity evidence for the adapted form when feasible.
 
 **Comment:** In addition to providing information on translation and adaptation procedures, the test documents should include the demographics of translators and samples of test takers used in the adaptation process, as well as information on any score interpretation issues for each language into which the test has been translated and adapted. Evidence of reliability/precision, validity, and comparability of translated and adapted scores should be provided in test documentation when feasible. (See Standard 3.14, in chap. 3, for further discussion of translations.)
 
+<<<<<<< HEAD
 ### **Cluster 3. Content of Test Documents: Test Administration and Scoring**
 
 #### Standard 7.7
+=======
+#### **Cluster 3. Content of Test Documents: Test Administration and Scoring**
+
+##### Standard 7.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test documents should specify user qualifications that are required to administer and score a test, as well as the user qualifications needed to interpret the test scores accurately.
 
 **Comment:** Statements of user qualifications should specify the training, certification, competencies, and experience needed to allow access to a test or scores obtained with it. When user qualifications are expressed in terms of the knowledge, skills, abilities, and other characteristics required to administer, score, and interpret a test, the test documentation should clearly define the requirements so the user can properly evaluate the competence of administrators.
 
+<<<<<<< HEAD
 #### Standard 7.8
+=======
+##### Standard 7.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test documentation should include detailed instructions on how a test is to be administered and scored.
 
@@ -2232,7 +3293,11 @@ scores to use (or whether to use cut scores) in interpreting scores. If the test
 
 If a test is designed so that more than one method can be used for administration or for recording responses— such as marking responses in a test booklet, on a separate answer sheet, or via computer— then the manual should clearly document the extent to which scores arising from application of these methods are interchangeable. If the scores are not interchangeable, this fact should be reported, and guidance should be given on the comparability of scores obtained under the various conditions or methods of administration.
 
+<<<<<<< HEAD
 #### Standard 7.9
+=======
+##### Standard 7.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If test security is critical to the interpretation of test scores, the documentation should explain the steps necessary to protect test materials and to prevent inappropriate exchange of information during the test administration session.
 
@@ -2242,27 +3307,45 @@ In many situations, test scores should also be maintained securely. For example,
 
 on how test scores are stored and who is authorized to see the scores.
 
+<<<<<<< HEAD
 #### Standard 7.10
+=======
+##### Standard 7.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests that are designed to be scored and interpreted by test takers should be accompanied by scoring instructions and interpretive materials that are written in language the test takers can understand and that assist them in understanding the test scores.
 
 **Comment:** If a test is designed to be scored by test takers or its scores interpreted by test takers, the publisher and test developer should develop procedures that facilitate accurate scoring and interpretation. Interpretive material may include information such as the construct that was measured, the test taker's results, and the comparison group. The appropriate language for the scoring procedures and interpretive materials is one that meets the particular language needs of the test taker. Thus, the scoring and interpretive materials may need to be offered in the native language of the test taker to be understood.
 
+<<<<<<< HEAD
 #### Standard 7.11
+=======
+##### Standard 7.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Interpretive materials for tests that include case studies should provide examples illustrating the diversity of prospective test takers.
 
 **Comment:** When case studies can assist the user in the interpretation of the test scores and profiles, the case studies should be included in the test documentation and represent members of the subgroups for which the test is relevant. To illustrate the diversity of prospective test takers, case studies might cite examples involving women and men of different ages, individuals differing in sexual orientation, persons representing various racial/ethnic or cultural groups, and individuals with disabilities. Test developers may wish to inform users that the inclusion of such examples is intended to illustrate the diversity of prospective test takers and not to promote interpretation of test scores in a manner that conflicts with legal requirements such as race or gender norming in employment contexts.
 
+<<<<<<< HEAD
 #### Standard 7.12
+=======
+##### Standard 7.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test scores are used to make predictions about future behavior, the evidence supporting those predictions should be provided to the test user.
 
 **Comment:** The test user should be informed of any cut scores or rules for combining raw or reported scores that are necessary for understanding scoreinterpretations. A description of both the group of judges used in establishing the cut scores and the methods used to derive the cut scores should be provided. When security or proprietary reasons necessitate the withholding of cut scores or rules for combining scores, the owners of the intellectual property are responsible for documenting evidence in support of the validity of interpretations for intended uses. Such evidence might be provided, for example, by reporting thefinding of an independent review of the algorithms by qualified professionals. When any interpretations of test scores, including computer-generated interpretations, are provided, a summary of theevidencesupporting theinterpretations should be given, as well as the rules and guidelines used in making the interpretations.
 
+<<<<<<< HEAD
 ### **Cluster 4. Timeliness of Delivery of Test Documents**
 
 #### Standard 7.13
+=======
+#### **Cluster 4. Timeliness of Delivery of Test Documents**
+
+##### Standard 7.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Supporting documents (e.g., test manuals, technical manuals, user's guides, and supplemental material) should be made available to the appropriate people in a timely manner.
 
@@ -2270,7 +3353,11 @@ Supporting documents (e.g., test manuals, technical manuals, user's guides, and 
 
 The test developer or publisher should judge carefully which information should be included in first editions of the test manual, technical manual, or user's guide and which information can be provided in supplements. For low-volume, unpublished tests, the documentation may be relatively brief. When the developer is also the user, documentation and summaries are still necessary.
 
+<<<<<<< HEAD
 #### Standard 7.14
+=======
+##### Standard 7.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When substantial changes are made to a test, the test's documentation should be amended, supplemented, or revised to keep information for users current and to provide useful additional information or cautions.
 
@@ -2278,9 +3365,15 @@ When substantial changes are made to a test, the test's documentation should be 
 
 Sometimes it is necessary to change a test or testing procedure to remove construct-irrelevant variance that may arise due to the characteristics of an individual that are unrelated to the construct being measured (e.g., when testing individuals with disabilities). When a test or testing procedures are altered, the documentation for the test should include a discussion of how the alteration may affect the validity and comparability of the test scores, and evidence should be provided to demonstrate the effect of the alteration on the scores obtained from the altered test or testing procedures, if sample size permits.
 
+<<<<<<< HEAD
 # Chapter 8: THE RIGHTS AND RESPONSIBILITIES OF TEST TAKERS**
 
 ## BACKGROUND**
+=======
+## Chapter 8: THE RIGHTS AND RESPONSIBILITIES OF TEST TAKERS**
+
+### BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This chapter addresses issues of fairness from the point of view of the individual test taker. Most aspects of fairness affect the validity of interpretations of test scores for their intended uses.The standards in this chapter address test takers' rights and responsibilities with regard to test security, their access to test results, and their rights when irregularities in their testing process are claimed. Other issues of fairness are addressed in chapter 3 ("Fairness in Testing"). General considerations concerning reports of test results are covered in chapter 6 ("Test Administration, Scoring, Reporting, and Interpretation"). Issues related to test takers' rights and responsibilities in clinical or individual settings are also discussed in chapter 10 ("Psychological Testing and Assessment").
 
@@ -2298,7 +3391,11 @@ The validity of score interpretations rests on the assumption that a test taker 
 
 Sometimes, testing programs usespecial scores, statistical indicators, and other indirect information about irregularities in testing to examine whether the test scores have been obtained fairly. Unusual patterns of responses, large changes in test scores upon retesting, responsespeed, and similar indicators may trigger careful scrutiny of certain testing protocols and test scores.The details of the procedures for detecting problems are generally kept secure to avoid compromising their use. However, test takers should be informed that in special circumstances, such as response or test score anomalies, their test responses may receive special scrutiny. Test takers should beinformed that their score may be canceled or other action taken if evidence of impropriety or fraud is discovered.
 
+<<<<<<< HEAD
 ## **STANDARDS FOR TEST TAKERS' RIGHTS AND RESPONSIBILITIES**
+=======
+### **STANDARDS FOR TEST TAKERS' RIGHTS AND RESPONSIBILITIES**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 8.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into four thematic clusters labeled as follows:
 
@@ -2307,15 +3404,25 @@ The standards in this chapter begin with an overarching standard (numbered 8.0),
 - 3. Test Takers' Rights to Fair and Accurate Score Reports
 - 4. Test Takers' Responsibilities for Behavior Throughout the Test Administration Process
 
+<<<<<<< HEAD
 #### Standard 8.0
+=======
+##### Standard 8.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test takers have the right to adequate information to help them properly prepare for a test so that the test results accurately reflect their standing on the construct being assessed and lead to fair and accurate score interpretations. They also have the right to protection of their personally identifiable score results from unauthorized access, use, or disclosure. Further, test takers have the responsibility to represent themselves accurately in the testing process and to respect copyright in test materials.
 
 **Comment:** Specific standards for test takers' rights and responsibilities are described below. These include standards for the kinds of information that should be provided to test takers prior to testing so they can properly prepare to take the test and so that their results accurately reflect their standing on the construct being assessed. Standards also cover test takers' access to their test results; protection of the results from unauthorized access, use, or disclosure by others; and test takers' rights to fair and accurate score reports. In addition, standards in this chapter address the responsibility of test takers to represent themselves fairly and accurately during the testing process and to respect the confidentiality of copyright in all test materials.
 
+<<<<<<< HEAD
 ### **Cluster 1. Test Takers' Rights to Information Prior to Testing**
 
 #### Standard 8.1
+=======
+#### **Cluster 1. Test Takers' Rights to Information Prior to Testing**
+
+##### Standard 8.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Information about test content and purposes that is available to any test taker prior to testing should be available to all test takers. Shared information should be available free of charge and in accessible formats.
 
@@ -2323,7 +3430,11 @@ Information about test content and purposes that is available to any test taker 
 
 It merits noting that while general information about test content and purpose should be made available to all test takers, some organizations may supplement this information with additional training or coaching. For example, some employers may teach basic skills to workers to help them qualify for higher level positions. Similarly, one teacher in a school may choose to drill students on a topic that will be tested while other teachers focus on other topics.
 
+<<<<<<< HEAD
 #### Standard 8.2
+=======
+##### Standard 8.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test takers should be provided in advance with as much information about the test, the testing process, the intended test use, test scoring criteria, testing policy, availability of accommodations, and confidentiality protection as is consistent with obtaining valid responses and making appropriate interpretations of test scores.
 
@@ -2333,13 +3444,21 @@ In most testing situations, test takers should be informed about the intended us
 
 as cheating, that could result in their being prohibited from completing the test or receiving test scores, or could make them subject to other sanctions. Test takers should be informed, at least in a general way, if there will be special scrutiny of testing protocols or score patterns to detect breaches of security, cheating, or other improper behavior.
 
+<<<<<<< HEAD
 #### Standard 8.3
+=======
+##### Standard 8.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the test taker is offered a choice of test format, information about the characteristics of each format should be provided.
 
 **Comment:** Test takers sometimes may choose between paper-and-pencil administration of a test and computer administration. Some tests are offered in different languages. Sometimes, an alternative assessment is offered. Test takers need to know the characteristics of each alternative that is available to them so that they can make an informed choice.
 
+<<<<<<< HEAD
 #### Standard 8.4
+=======
+##### Standard 8.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Informed consent should be obtained from test takers, or from their legal representatives when appropriate, before testing begins, except (a) when testing without consent is mandated by law or governmental regulation, (b) when testing is conducted as a regular part of school activities, or (c) when consent is clearly implied, such as in employment settings. Informed consent may be required by applicable law and professional standards.
 
@@ -2347,29 +3466,49 @@ Informed consent should be obtained from test takers, or from their legal repres
 
 Consent is not required when testing is legally mandated, as in the case of a court-ordered psychological assessment, although there may be legal requirements for providing information about the testing session outcomes to the test taker. Nor is consent typically required in educational settings for tests administered to all pupils. When testing is required for employment, credentialing, or educational admissions, applicants, by applying, have implicitly given consent to the testing. When feasible, the person explaining the reason for a test should be experienced in communicating with individuals within the intended population for the test (e.g., individuals with disabilities or from different linguistic backgrounds).
 
+<<<<<<< HEAD
 ### **Cluster 2. Test Takers' Rights to Access Their Test Results and to Be Protected From Unauthorized Use of Test Results**
 
 #### Standard 8.5
+=======
+#### **Cluster 2. Test Takers' Rights to Access Their Test Results and to Be Protected From Unauthorized Use of Test Results**
+
+##### Standard 8.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Policies for the release of test scores with identifying information should be carefully considered and clearly communicated to those who have access to the scores. Policies should make sure that test results containing the names of individual test takers or other personal identifying information are released only to those who have a legitimate, professional interest in the test takers and are permitted to access such information under applicable privacy laws, who are covered by the test takers' informed consent documents, or who are otherwise permitted by law to access the results.
 
 **Comment:** Test results of individuals identified by name, or by some other information by means of which a person can be readily identified, or readily identified when the information is combined with other information, should be kept confidential. In some situations, information may be provided on a confidential basis to other practitioners with a legitimate interest in the particular case, consistent with legal and ethical considerations, including, as applicable, privacy laws. Information may be provided to researchers if several conditions are all met: (a) each test taker's confidentiality is maintained, (b) the intended use is consistent with accepted research practice, (c) the use is in compliance with current legal and institutional requirements for subjects' rights and with applicable privacy laws, and (d) the use is consistent with the test taker's informed consent documents that are on file or with the conditions of implied consent that are appropriate in some settings.
 
+<<<<<<< HEAD
 #### Standard 8.6
+=======
+##### Standard 8.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test data maintained or transmitted in data files, including all personally identifiable information (not just results), should be adequately protected from improper access, use, or disclosure, including by reasonable physical, technical, and administrative protections as appropriate to the particular data set and its risks, and in compliance with applicable legal requirements. Use of facsimile transmission, computer networks, data banks, or other electronic data-processing or transmittal systems should be restricted to situations in which confidentiality can be reasonably assured. Users should develop and/or follow policies, consistent with any legal requirements, for whether and how test takers may review and correct personal information.
 
 **Comment:** Risk of compromise is reduced by avoiding identification numbers or codes that are linked to individuals and used for other purposes (e.g., Social Security numbers or employee IDs). If facsimile or computer communication is used to transmit test responses to another site for scoring or if scores are similarly transmitted, reasonable provisions should be made to keep the information confidential, such as encrypting the information. In some circumstances, applicable data security laws may requirethat specific measures be taken to protect the data. In most cases, these policies will be developed by the owner of the data.
 
+<<<<<<< HEAD
 ### Cluster 3. Test Takers' Rights to Fair and Accurate Score Reports
 
 #### Standard 8.7
+=======
+#### Cluster 3. Test Takers' Rights to Fair and Accurate Score Reports
+
+##### Standard 8.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When score reporting assigns scores of individual test takers into categories, the labels assigned to the categories should be chosen to reflect intended inferences and should be described precisely.
 
 **Comment:** When labels are associated with test results, care should be taken to avoid labels with unnecessarily stigmatizing implications. For example, descriptivelabels such as "basic," "proficient," and "advanced" would carry less stigmatizing interpretations than terms such as "poor" or "unsatisfactory." In addition, information should be provided regarding the accuracy of score classifications (e.g., decision accuracy and decision consistency).
 
+<<<<<<< HEAD
 #### Standard 8.8
+=======
+##### Standard 8.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test scores are used to make decisions about a test taker or to make recommendations to a test taker or a third party, the test taker should have timely access to a copy of any report of test scores and test interpretation, unless that right has been waived explicitly in the test taker's informed consent document or implicitly through the application procedure in education, credentialing, or employment testing or is prohibited by law or court order.
 
@@ -2377,33 +3516,57 @@ When test scores are used to make decisions about a test taker or to make recomm
 
 results are used solely for the purpose of aiding selection decisions, waivers of access are often a condition of employment applications, although access to test information may often be appropriately required in other circumstances.
 
+<<<<<<< HEAD
 ### Cluster 4. Test Takers' Responsibilities for Behavior Throughout the Test Administration Process
 
 #### Standard 8.9
+=======
+#### Cluster 4. Test Takers' Responsibilities for Behavior Throughout the Test Administration Process
+
+##### Standard 8.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test takers should be made aware that having someone else take the test for them, disclosing confidential test material, or engaging in any other form of cheating is unacceptable and that such behavior may result in sanctions.
 
 **Comment:** Although the *Standards* cannot regulate test takers' behavior, test takers should be made aware of their personal and legal responsibilities. Arranging for someone else to impersonate the test taker constitutes fraud. In tests designed to measure a test taker's independent thinking, providing responses that make use of the work of others without attribution or that were prepared by someone other than the test taker constitutes plagiarism. Disclosure of confidential testing material for the purpose of giving other test takers advance knowledge interferes with the validity of test score interpretations; and circulation of test items in print or electronic form may constitute copyright infringement. In licensure and certification tests, such actions may compromise public health and safety. In general, the validity of test score interpretations is compromised by inappropriate test disclosure.
 
+<<<<<<< HEAD
 #### Standard 8.10
 
 In educational and credentialing testing programs, when an individual score report is expected to be significantly delayed beyond a brief investigative period because of possible irregularities such as suspected misconduct, the test taker should be notified and given the reason for the investigation.Reasonable efforts should be made to expedite the review and to protect the interests of the test taker. The test taker should be notified of the disposition when the investigation is closed.
 
 #### Standard 8.11
+=======
+##### Standard 8.10
+
+In educational and credentialing testing programs, when an individual score report is expected to be significantly delayed beyond a brief investigative period because of possible irregularities such as suspected misconduct, the test taker should be notified and given the reason for the investigation.Reasonable efforts should be made to expedite the review and to protect the interests of the test taker. The test taker should be notified of the disposition when the investigation is closed.
+
+##### Standard 8.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational and credentialing testing programs, when it is deemed necessary to cancel or withhold a test taker's score because of possible testing irregularities, including suspected misconduct, the type of evidence and the general procedures to be used to investigate the irregularity should be explained to all test takers whose scores are directly affected by the decision. Test takers should be given a timely opportunity to provide evidence that the score should not be canceled or withheld. Evidence considered in deciding on the final action should be made available to the test taker on request.
 
 **Comment:** Any form of cheating or behavior that reduces the validity and fairness of the interpretations of test results should be investigated promptly, with appropriate action taken. A test score may be withheld or canceled because of suspected misconduct by the test taker or because of some anomaly involving others, such as theft or administrative mishap. An avenue of appeal should be available and made known to candidates whose scores may be amended or withheld. Some testing organizations offer the option of a prompt and freeretest or arbitration of disputes.Theinformation provided to the test takers should be specific enough for them to understand the evidence that is being used to support the contention of a testing irregularity but not specific enough to divulge trade secrets or to facilitate cheating.
 
+<<<<<<< HEAD
 #### Standard 8.12
+=======
+##### Standard 8.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational and credentialing testing programs, a test taker is entitled to fair treatment and a reasonable resolution process, appropriate to the particular circumstances, regarding charges associated with testing irregularities, or challenges issued by the test taker regarding accuracies of the scoring or scoring key. Test takers are entitled to be informed of any available means of recourse.
 
 **Comment:** When a test taker's score is questioned and invalidated, or when a test taker seeks a review or revision of his or her score or of some other aspect of the testing, scoring, or reporting process, the test taker is entitled to some orderly process for effective input into or review of the decision making of the test administrator or test user. Depending on the magnitude of the consequences associated with the test, this process can range from an internal review of all relevant data by a test administrator, to an informal conversation with an examinee, to a full administrative hearing. The greater the consequences, the greater the extent of procedural protections that should be made available. Test takers should also be made aware of procedures for recourse, possible fees associated with recourse procedures, expected time for resolution, and any other significant related issues, including consequences for the test taker. Some testing programs advise that the test taker may be represented by an attorney, although possibly at the test taker's expense. Depending on the circumstances and context, principles of due process under law may be relevant to the process afforded to test takers.
 
+<<<<<<< HEAD
 # Chapter 9: THE RIGHTS AND RESPONSIBILITIES OF TEST USERS**
 
 ## BACKGROUND
+=======
+## Chapter 9: THE RIGHTS AND RESPONSIBILITIES OF TEST USERS**
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The previous chapters have dealt primarily with the responsibilities of those who develop, promote, evaluate, or mandate the administration of tests and with the rights and responsibilities of test takers. The present chapter centers attention on the responsibilities of those who may be considered the users of tests. Test users are professionals who select the specific instruments or supervise test administration— on their own authority or at the behest of others— as well as all other professionals who actively participate in the interpretation and use of test results. They include psychologists, educators, employers, test developers, test publishers, and other professionals. Given the reliance on test results in many settings, pressure has typically been placed on test users to explain test-based decisions and testing practices; in many circumstances, test users have legal obligations to document the validity and fairness of those decisions and practices. The standards in this chapter provide guidance with regard to test administration procedures and decision making in which tests play a part. Thus, the present chapter includes standards of a general nature that apply in almost all testing contexts.
 
@@ -2435,7 +3598,11 @@ In some instances, users may be obligated to collect additional evidence about a
 
 Some of the standards that follow reiterate ideas contained in other chapters, principally chapter 3 ("Fairness in Testing"), chapter 6 ("Test Administration, Scoring, Reporting, and Interpretation"), chapter 8 ("The Rights and Responsibilities ofTestTakers"), chapter 10 ("Psychological Testing and Assessment"), chapter 11 ("Workplace Testing and Credentialing"), and chapter 12 ("EducationalTesting and Assessment").This repetition is intentional. It permits an enumeration in one chapter of the major obligations that must be assumed largely by the test administrator and user, although these responsibilities may refer to topics that are covered more fully in other chapters.
 
+<<<<<<< HEAD
 ## STANDARDS FOR TEST USERS' RIGHTS AND RESPONSIBILITIES 
+=======
+### STANDARDS FOR TEST USERS' RIGHTS AND RESPONSIBILITIES 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter begin with an overarching standard (numbered 9.0), which is designed to convey the central intent or primary focus of the chapter. The overarching standard may also be viewed as the guiding principle of the chapter, and is applicable to all tests and test users. All subsequent standards have been separated into three thematic clusters labeled as follows:
 
@@ -2443,139 +3610,233 @@ The standards in this chapter begin with an overarching standard (numbered 9.0),
 - 2. Dissemination of Information
 - 3. Test Security and Protection of Copyrights
 
+<<<<<<< HEAD
 #### Standard 9.0
+=======
+##### Standard 9.0
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users are responsible for knowing the validity evidence in support of the intended interpretations of scores on tests that they use, from test selection through the use of scores, as well as common positive and negative consequences of test use. Test users also have a legal and ethical responsibility to protect the security of test content and the privacy of test takers and should provide pertinent and timely information to test takers and other test users with whom they share test scores.
 
 **Comment:** Test users are professionals who fall into several categories, including those who administer tests and those who interpret and use the results of tests. Test users who interpret and usetheresults of tests areresponsiblefor ascertaining that thereis appropriate validity evidencesupporting their interpretations and uses of test results. In some circumstances, test users are also legally responsible for ascertaining the effect of their testing practices on relevant subgroups and for considering appropriate measures if negative consequences exist. In addition, although test users are often required to share the results of tests with test takers and other groups of test users, they must also remember that test content has to be protected to maintain the integrity of test scores, and that test takers have reasonable expectations of privacy, which may be specified in certain federal or state laws and regulations.
 
+<<<<<<< HEAD
 ### **Cluster 1. Validity of [Interpretations](#page-5-0)**
 
 #### Standard 9.1
+=======
+#### **Cluster 1. Validity of Interpretations**
+
+##### Standard 9.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Responsibility for test use should be assumed by or delegated to only those individuals who have the training, professional credentials, and/or experience necessary to handle this responsibility. All special qualifications for test administration or interpretation specified in the test manual should be met.
 
 **Comment:** Test users should only interpret the scores of test takers whose special needs or characteristics are within the range of the test users' qualifications.This standard has special significance in areas such as clinical testing, forensic testing, personality testing, testing in special education, testing of people with disabilities or limited exposure to the dominant culture, testing of English language learners, and in other such situations where the potential impact is great. When the situation or test-taker group falls outside the user's experience, assistance should be obtained. A number of professional organizations have codes of ethics that specify the qualifications required of those who administer tests and interpret scores within the organizations' scope of practice. Ultimately, the professional is responsible for ensuring that the clinical training requirements, ethical codes, and legal standards for administering and interpreting tests are met.
 
+<<<<<<< HEAD
 #### Standard 9.2
+=======
+##### Standard 9.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Prior to the adoption and use of a published test, the test user should study and evaluate the materials provided by the test developer. Of particular importance are materials that summarize the test's purposes, specify the procedures for test administration, define the intended population(s) of test takers, and discuss the score interpretations for which validity and reliability/precision data are available.
 
 **Comment:** A prerequisite to sound test use is knowledge of the materials accompanying the instrument. At a minimum, these include manuals provided by the test developer. Ideally, the user should be conversant with relevant studies reported in the professional literature, and should be able to discriminate between appropriate and inappropriate tests for the intended use with the intended population. The level of score reliability/precision and the types of validity evidence required for sound score interpretations depend on the test's role in the assessment process and the potential impact of the process on the people involved. The test user should be aware of legal restrictions that may constrain the use of the test. On occasion, professional judgment may lead to the use of instruments for which there is littleevidence of validity of thescoreinterpretations for the chosen use. In these situations, the user should not imply that the scores, decisions, or inferences are based on well-documented evidence with respect to reliability or validity.
 
+<<<<<<< HEAD
 #### Standard 9.3
+=======
+##### Standard 9.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The test user should have a clear rationale for the intended uses of a test or evaluation procedure in terms of the validity of interpretations based on the scores and the contribution the scores make to the assessment and decision-making process.
 
 **Comment:** The test user should be clear about the reasons that a test is being given. In other words, justification for the role of each instrument in selection, diagnosis, classification, and decision making should be arrived at before test administration, not afterwards. In some cases, the reasons for the referrals provide the rationale for the choice of the tests, inventories, and diagnostic procedures to be used, and the rationale may also be supported in printed materials prepared by the test publisher. The rationale may come from other sources as well, such as the empirical literature.
 
+<<<<<<< HEAD
 #### Standard 9.4
+=======
+##### Standard 9.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is to be used for a purpose for which little or no validity evidence is available, the user is responsible for documenting the rationale for the selection of the test and obtaining evidence of the reliability/precision of the test scores and the validity of the interpretations supporting the use of the scores for this purpose.
 
 **Comment:** The individual who uses test scores for purposes that are not specifically recommended by the test developer is responsible for collecting the necessary validity evidence. Support for such uses may sometimes be found in the professional literature. If previous evidence is not sufficient, then additional data should be collected over time as the test is being used. The provisions of this standard should not be construed as prohibiting the generation of hypotheses from test data. However, these hypotheses should be clearly labeled as tentative. Interested parties should be made aware of the potential limitations of the test scores in such situations.
 
+<<<<<<< HEAD
 #### Standard 9.5
+=======
+##### Standard 9.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should be alert to the possibility of scoring errors and should take appropriate action when errors are suspected.
 
 **Comment:** The costs of scoring errors are great, particularly in high-stakes testing programs. In some cases, rescoring may be requested by the test taker. If such a test-taker right is recognized in published materials, it should be respected. However, test users should not depend entirely on test takers to alert them to the possibility of scoring errors. Monitoring scoring accuracy should be a routine responsibility of testing program administrators wherever feasible, and rescoring should be done when mistakes are suspected.
 
+<<<<<<< HEAD
 #### Standard 9.6
+=======
+##### Standard 9.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should be alert to potential misinterpretations of test scores; they should take steps to minimize or avoid foreseeable misinterpretations and inappropriate uses of test scores.
 
 **Comment:** Untrained audiences may adopt simplistic interpretations of test results or may attribute high or low scores or averages to a single causal factor. Test users can sometimes anticipate such misinterpretations and should try to prevent them. Obviously, not every unintended interpretation can be anticipated, and unforeseen negative consequences can occur. What is required is a reasonable effort to encourage sound interpretations and uses and to address any negative consequences that occur.
 
+<<<<<<< HEAD
 #### Standard 9.7
+=======
+##### Standard 9.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should verify periodically that their interpretations of test data continue to be appropriate, given any significant changes in the population of test takers, the mode(s) of test administration, or the purposes in testing.
 
 **Comment:** Over time, a gradual change in the characteristics of an examinee population may significantly affect the accuracy of inferences drawn from group averages. Modifications in test administration in response to unforeseen circumstances also may affect interpretations.
 
+<<<<<<< HEAD
 #### Standard 9.8
+=======
+##### Standard 9.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test results are released to the public or to policy makers, those responsible for the release should provide and explain any supplemental information that will minimize possible misinterpretations of the data.
 
 **Comment:** Test users have a responsibility to report results in ways that facilitate the intended interpretations for the proposed use(s) of the scores, and this responsibility extends beyond the individual test taker to any individuals or groups who are provided with test scores. Test users in group testing situations areresponsibleforensuring that the individuals who use the test results are trained to interpret the scores properly. Preliminary briefings prior to the release of test results can give reporters, policy makers, or members of the public an opportunity to assimilate relevant data. Misinterpretation often can be the result of inadequate presentation of information that bears on test score interpretation.
 
+<<<<<<< HEAD
 #### Standard 9.9
+=======
+##### Standard 9.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test user contemplates an alteration in test format, mode of administration, instructions, or the language used in administering a test, the user should have a sound rationale and empirical evidence, when possible, for concluding that the reliability/precision of scores and the validity of interpretations based on the scores will not be compromised.
 
 **Comment:** In some instances, minor changes in format or mode of administration may bereasonably expected, without evidence, to have little or no effect on test scores, classification decisions, and/or appropriateness of norms. In other instances, however, changes in the format or administrative procedures could have significant effects on the validity of interpretations of the scores— that is, these changes modify or change the construct being assessed. If a given modification becomes widespread,evidencefor validity should be gathered; if appropriate, norms should also be developed under the modified conditions.
 
+<<<<<<< HEAD
 #### Standard 9.10
+=======
+##### Standard 9.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should not rely solely on computergenerated interpretations of test results.
 
 **Comment:** The user of automatically generated scoring and reporting services has the obligation to be familiar with the principles on which such interpretations were derived. All users who are making inferences and decisions on the basis of these reports should have the ability to evaluate a computer-based score interpretation in the light of other relevant evidence on each test taker. Automated narrative reports can be misleading, if used in isolation, and are not a substitute for sound professional judgment.
 
+<<<<<<< HEAD
 #### Standard 9.11
+=======
+##### Standard 9.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When circumstances require that a test be administered in the same language to all examinees in a linguistically diverse population, the test user should investigate the validity of the score interpretations for test takers with limited proficiency in the language of the test.
 
 **Comment:** The achievement, abilities, and traits of examinees who do not speak the language of the test as their primary language may be mismeasured by the test, even if administering an alternative test is legally unacceptable. Sound practice requires ongoing evaluation of data to provide evidence supporting the use of the test with all linguistic groups or evidence to challenge the use of the test when language proficiency is not relevant.
 
+<<<<<<< HEAD
 #### Standard 9.12
+=======
+##### Standard 9.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a major purpose of testing is to describe the status of a local, regional, or particular examinee population, the criteria for inclusion or exclusion of individuals should be adhered to strictly.
 
 **Comment:** Biased results can arise from the exclusion of particular subgroups of examinees. Thus, decisions to exclude or include examinees should be based on appropriately representing the population.
 
+<<<<<<< HEAD
 ##W# Standard 9.13
+=======
+##### Standard 9.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational, clinical, and counseling settings, a test taker's score should not be interpreted in isolation; other relevant information that may lead to alternative explanations for the examinee's test performance should be considered.
 
 **Comment:** It is neither necessary nor feasible to make an intensive review of every test taker's score. In some settings, there may be little or no collateral information of value. In counseling, clinical, and educational settings, however, considerablerelevant information is sometimes available. Obvious alternative explanations of low scores include low motivation, limited fluency in the language of the test, limited opportunity to learn, unfamiliarity with cultural concepts on which test items are based, and perceptual or motor impairments. The test user corroborates results from testing with additional information from a variety of sources, such as interviews and results from other tests (e.g., to address the concept of reliability of performance across time and/or tests). When an inference is based on a single study or based on studies with samples that are not representative of the test takers, the test user should be more cautious about the inference that is made. In clinical and counseling settings, the test user should not ignore how well the test taker is functioning in daily life. If tests are being administered by computers and other electronic devices or via the Internet, test users still have a responsibility to provide support for the interpretation of test scores, including considerations of alternative explanations, when appropriate.
 
+<<<<<<< HEAD
 #### Standard 9.14
+=======
+##### Standard 9.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should inform individuals who may need accommodations in test administration (e.g., older adults, test takers with disabilities, or English language learners) about the availability of accommodations and, when required, should see that these accommodations are appropriately made available.
 
 **Comment:** Appropriate accommodations depend on the nature of the test and the needs of the test takers, and should be in keeping with the documentation provided with the test. Test users should inform test takers of the availability of accommodations, and the onus may then fall on the test takers or their guardians to request accommodations and provide documentation in support of their requests. Test users should be able to indicate the information or evidence (e.g., test manual, research study) used to choose an appropriate accommodation.
 
+<<<<<<< HEAD
 ### Cluster 2. Dissemination of Information**
 
 #### Standard 9.15
+=======
+#### Cluster 2. Dissemination of Information**
+
+##### Standard 9.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who have a legitimate interest in an assessment should be informed about the purposes of testing, how tests will be administered, the factors considered in scoring examinee responses, how the scores will be used, how long the records will be retained, and to whom and under what conditions the records may be released.
 
 **Comment:** Individuals with a legitimate interest in assessment results include, but may not be limited to, test takers, parents or guardians of test takers, educators, and courts. This standard has greater relevance and application to educational and clinical testing than to employment testing. In most uses of tests for screening job applicants and applicants to educational programs, for licensing professionals and awarding credentials, or for measuring achievement, the purposes of testing and the uses to be made of the test scores are obvious to the test takers. Nevertheless, it is wise to communicate this information at least briefly even in these settings. In some situations, however, the rationale for the testing may be clear to relatively few test takers. In such settings, a more detailed and explicit discussion may be warranted. Retention of records, security requirements, and privacy of records are often governed by legal requirements or institutional practices, even in situations where release of records would clearly benefit the examinees. Prior to testing, where appropriate, the test user should tell the test taker who will have access to the test results and the written report, how the test results will be shared with the test taker, and whether and under what conditions the test results will be shared with a third party or the public (e.g., in court proceedings).
 
+<<<<<<< HEAD
 #### Standard 9.16
+=======
+##### Standard 9.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Unless circumstances clearly require that test results be withheld, a test user is obligated to provide a timely report of the results to the test taker and others entitled to receive this information.
 
 **Comment:** The nature of score reports is often dictated by practical considerations. In some cases (e.g., with some certification or employment tests), only a brief printed report may be feasible. In other cases, it may be desirable to provide both an oral and a written report. The interpretation should vary according to the level of sophistication of the recipient. When the examinee is a young child, an explanation of the test results is typically provided to parents or guardians. Feedback in the form of a score report or interpretation is not always provided when tests are administered for personnel selection or promotion, or in certain other circumstances. In some cases, federal or state privacy laws may govern the scope of information disclosed and to whom it may be disclosed.
 
+<<<<<<< HEAD
 #### Standard 9.17
+=======
+##### Standard 9.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a test taker or test user is concerned about the integrity of the test taker's scores, the test user should inform the test taker of his or her relevant rights, including the possibility of appeal and representation by counsel.
 
 **Comment:** Proctors in entrance or licensuretesting programs may report irregularities in the test administration process that result in challenges from test takers (e.g., fire alarm in building or temporary failure of Internet access). Other challenges may be raised by test users (e.g., university admissions officers) when test scores are grossly inconsistent with other applicant information. Test takers should be apprised of their rights, if any, in such situations.
 
+<<<<<<< HEAD
 #### Standard 9.18
+=======
+##### Standard 9.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should explain to test takers their opportunities, if any, to retake an examination; users should also indicate whether any earlier as well as later scores will be reported to those entitled to receive the score reports.
 
 **Comment:** Some testing programs permit test takers to retake an examination several times, to cancel scores, or to have scores withheld from potential recipients. Test takers and other score recipients should be informed of such privileges, if any, and the conditions under which they apply.
 
+<<<<<<< HEAD
 #### Standard 9.19
+=======
+##### Standard 9.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users are obligated to protect the privacy of examinees and institutions that are involved in a testing program, unless a disclosure of private information is agreed upon or is specifically authorized by law.
 
 **Comment:** Protection of the privacy of individual examinees is a well-established principle in psychological and educational measurement. Storage and transmission of this type of information should meet existing professional and legal standards, and care should be taken to protect the confidentiality of scores and ancillary information (e.g., disability status). In certain circumstances, test users and testing agencies may adopt more stringent restrictions on the communication and sharing of test results than relevant law dictates. Privacy laws may apply to certain types of information, and similar or more rigorous standards sometimes arise through the codes of ethics adopted by relevant professional organizations. In some testing programs the conditions for disclosure are stated to the examinee prior to testing, and taking the test can constitute agreement to the disclosure of test score information as specified. In other programs, the test taker or his or her parents or guardians must formally agree to any disclosure of test information to individuals or agencies other than those specified in the test administrator's published literature. Applicable privacy laws, if any, may govern and allow (as in the case of school districts for accountability purposes) or prohibit (as in clinical settings) the disclosure of test information. It should be noted that the right of the public and the media to examine the aggregate test results of public school systems is often guaranteed by law. This may often include test scores disaggregated by demographic subgroups when the numbers aresufficient to yield statistically sound results and to prevent the identification of individual test takers.
 
+<<<<<<< HEAD
 #### Standard 9.20
+=======
+##### Standard 9.20
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In situations where test results are shared with the public, test users should formulate and share the established policy regarding the release of the results (e.g., timeliness, amount of detail) and apply that policy consistently over time.
 
 **Comment:** Test developers and test users should consider the practices of the communities they serve and facilitate the creation of common policies regarding the release of test results. For example, in many states, the release of data from large-scale educational tests is often required by law. However, even when the release of data is not required but is routinely done, test users should have clear policies governing the release procedures. Different policies without appropriate rationales can confuse the public and lead to unnecessary controversy.
 
+<<<<<<< HEAD
 ### **Cluster 3. Test Security and Protection of Copyrights**
 
 #### Standard 9.21
+=======
+#### **Cluster 3. Test Security and Protection of Copyrights**
+
+##### Standard 9.21
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users have the responsibility to protect the security of tests, including that of previous editions.
 
@@ -2583,13 +3844,21 @@ Test users have the responsibility to protect the security of tests, including t
 
 prohibitions also apply to outdated and previous editions of tests; test users should help to ensure that test materials are securely disposed of when no longer in use (e.g., upon retirement or after purchase of a new edition). Consistency and clarity in the definition of acceptable and unacceptable practices is critical in such situations. When tests are involved in litigation, inspection of the instruments should be restricted— to theextent permitted by law— to those who are obligated legally or by professional ethics to safeguard test security.
 
+<<<<<<< HEAD
 #### Standard 9.22
+=======
+##### Standard 9.22
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users have the responsibility to respect test copyrights, including copyrights of tests that are administered via electronic devices.
 
 **Comment:** Legally and ethically, test users may not reproduce or create electronic versions of copyrighted materials for routine test use without consent of the copyright holder.These materials in both paper and electronic form— include test items, test protocols, ancillary forms such as answer sheets or profile forms, scoring templates, conversion tables of raw scores to reported scores, and tables of norms. Storage and transmission of test information should satisfy existing legal and professional standards.
 
+<<<<<<< HEAD
 #### Standard 9.23
+=======
+##### Standard 9.23
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test users should remind all test takers, including those taking electronically administered tests, and others who have access to test materials that copyright policies and regulations may prohibit the disclosure of test items without specific authorization.
 
@@ -2597,9 +3866,15 @@ Test users should remind all test takers, including those taking electronically 
 
 **PART III Testing Applications**
 
+<<<<<<< HEAD
 # Chapter 10: PSYCHOLOGICAL TESTING AND ASSESSMENT**
 
 ## BACKGROUND**
+=======
+## Chapter 10: PSYCHOLOGICAL TESTING AND ASSESSMENT**
+
+### BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This chapter addresses issues important to professionals who use psychological tests to assess individuals. Topics covered in this chapter include test selection and administration, test score interpretation, use of collateral information in psychological testing, types of tests, and purposes of psychological testing. The types of psychological tests reviewed in this chapter include cognitive and neuropsychological, problem behavior, family and couples, social and adaptive behavior, personality, and vocational. In addition, the chapter includes an overview of five common uses of psychological tests: for diagnosis; neuropsychological evaluation; intervention planning and outcome evaluation; judicial and governmental decisions; and personal awareness, social identity, and psychological health, growth, and action.Thestandards in this chapter are applicable to settings where indepth assessment of people, individually or in groups, is conducted. Psychological tests are used in several other contexts as well, most notably in employment and educational settings.Tests designed to measure specific job-related characteristics across multiple candidates for selection purposes are treated in the text and standards of chapter 11; tests used in educational settings are addressed in depth in chapter 12.
 
@@ -2611,7 +3886,11 @@ The tasks involved in a psychological assessment— collecting, evaluating, inte
 
 The interpretation of test and inventory scores can be a valuable part of the assessment process and, if used appropriately, can provide useful information to test takers as well as to other users of the test interpretation. For example, the results of tests and inventories may be used to assess the psychological functioning of an individual; to assign diagnostic classification; to detect and characterize neuropsychological impairment, developmental delays, and learning disabilities; to determine the validity of a symptom; to assess cognitive and personality strengths or mental health and emotional behavior problems; to assess vocational interests and values; to determine developmental stages; to assist in health decision making; or to evaluate treatment outcomes. Test results also may provide information used to make decisions that have a powerful and lasting impact on people's lives (e.g., vocational and educational decisions; diagnoses; treatment plans, including plans for psychopharmacological intervention; intervention and outcome evaluations; health decisions; disability determinations; decisions on parole sentencing, civil commitment, child custody, and competency to stand trial; personal injury litigation; and death penalty decisions).
 
+<<<<<<< HEAD
 ### **Test Selection and Administration**
+=======
+#### **Test Selection and Administration**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The selection and administration of psychological tests and inventories often is individualized for each participant. However, in some settings predetermined tests may be taken by all participants, and interpretations of results may be provided in a group setting.
 
@@ -2635,7 +3914,11 @@ Inappropriate effort on the part of the person being assessed may affect theresu
 
 Professionals are responsible for protecting the confidentiality and security of the test results and the testing materials. Storage and transmission of this type of information should satisfy relevant professional and legal standards.
 
+<<<<<<< HEAD
 ### **Test Score Interpretation**
+=======
+#### **Test Score Interpretation**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test scores used in psychological assessment ideally are interpreted in light of a number of factors, including the available normative data appropriate to the characteristics of the test taker, the psychometric properties of the test, indicators of effort, the circumstances of the test taker at the time the test is given, the temporal stability of the constructs being measured, and the effects of moderator variables and demographic characteristics on test results. The professional rarely has the resources available to personally conduct the research or to assemble representative norms that, in some types of assessment, might be needed to make accurate inferences about each individual test taker's past, current, and future functioning. Therefore, the professional may need to rely on the research and the body of scientific knowledge available for the test that support appropriateinferences. Presentation of validity and reliability/precision evidence often is not needed in the written report summarizing the findings of the assessment, but the professional should strive to understand, and be prepared to articulate, such evidence as the need arises.
 
@@ -2645,6 +3928,7 @@ Threats to the interpretability of obtained scores are minimized by clearly defi
 
 For some purposes, including career counseling and neuropsychological assessment, batteries of tests arefrequently used. Forexample, career counseling batteries may includetests of abilities, values, interests, and personality. Neuropsychological batteries may include measures of orientation, attention, communication skills, executive function, fluency, visual-motor and visual-spatial skills, problem solving, organization, memory, intelligence, academic achievement, and/or personality, along with tests ofeffort. When psychological test batteries incorporate multiple methods and scores, patterns of test results frequently areinterpreted as reflecting a construct oreven an interaction among constructs underlying test performance. Interactions among the constructs underlying configurations of test outcomes may be postulated on the basis of test score patterns. The literature reporting evidence of reliability/precision and validity of configurations of scores that supports the proposed interpretations should be identified when possible. However, it is understood that little, if any, literature exists that describes the validity of interpretations of scores from highly customized or flexible batteries of tests.The professional should recognizethat variability in scores on different tests within a battery commonly occurs in the general population, and should use baserate data, when available, to determine whether the observed variability isexceptional. If theliterature is incomplete, the resulting inferences may be presented with the qualification that they are hypotheses for future verification rather than probabilistic statements regarding thelikelihood of some behavior that imply some known validity evidence.
 
+<<<<<<< HEAD
 ### **Collateral Information Used in Psychological Testing and Assessment**
 
 Test scores that are used as part of a psychological assessment are best interpreted in the context of the test taker's personal history and other relevant traits and personal characteristics. The quality of interpretations made from psychological tests and assessments often can be enhanced by obtaining credible collateral information from various thirdparty sources, such as significant others, teachers, health professionals, and school, legal, military, and employment records.The quality of collateral information is enhanced by using various methods to acquire it. Structured behavioral observations, checklists, ratings, and interviews are a few of the methods that may be used, along with objective test scores to minimize the need for the scorer to rely on individual judgment. For example, an evaluation of career goals may be enhanced by obtaining a history of employment as well as by administering tests to assess academic aptitude and achievement, vocational interests, work values, personality, and temperament. The availability of information on multiple traits or attributes, when acquired from various sources and through the use of various methods, enables professionals to assess more accurately an individual's psychosocial functioning and facilitates more effective decision making. When using collateral data, the professional should take steps to ascertain their accuracy and reliability, especially when the data come from third parties who may have a vested interest in the outcome of the assessment.
@@ -2654,6 +3938,17 @@ Test scores that are used as part of a psychological assessment are best interpr
 For purposes of this chapter, the types of psychological tests have been divided into six categories: cognitive and neuropsychological tests; problem behavior tests; family and couples tests; social and adaptive behavior tests; personality tests; and vocational tests.
 
 #### Cognitive and Neuropsychological Testing and Assessment
+=======
+#### **Collateral Information Used in Psychological Testing and Assessment**
+
+Test scores that are used as part of a psychological assessment are best interpreted in the context of the test taker's personal history and other relevant traits and personal characteristics. The quality of interpretations made from psychological tests and assessments often can be enhanced by obtaining credible collateral information from various thirdparty sources, such as significant others, teachers, health professionals, and school, legal, military, and employment records.The quality of collateral information is enhanced by using various methods to acquire it. Structured behavioral observations, checklists, ratings, and interviews are a few of the methods that may be used, along with objective test scores to minimize the need for the scorer to rely on individual judgment. For example, an evaluation of career goals may be enhanced by obtaining a history of employment as well as by administering tests to assess academic aptitude and achievement, vocational interests, work values, personality, and temperament. The availability of information on multiple traits or attributes, when acquired from various sources and through the use of various methods, enables professionals to assess more accurately an individual's psychosocial functioning and facilitates more effective decision making. When using collateral data, the professional should take steps to ascertain their accuracy and reliability, especially when the data come from third parties who may have a vested interest in the outcome of the assessment.
+
+#### **Types of Psychological Testing and Assessment**
+
+For purposes of this chapter, the types of psychological tests have been divided into six categories: cognitive and neuropsychological tests; problem behavior tests; family and couples tests; social and adaptive behavior tests; personality tests; and vocational tests.
+
+##### Cognitive and Neuropsychological Testing and Assessment
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests often are used to assess various classes of cognitive and neuropsychological functioning, including intelligence, broad ability domains, and more focused domains (e.g., abstract reasoning and categorical thinking; academic achievement; attention; cognitive ability; executive function; language; learning and memory; motor and sensorimotor functions and lateral preferences; and perception and perceptual organization/integration). Overlap may occur in the constructs that are assessed by tests of differing functions or domains. In common with other types of tests, cognitive and neuropsychological tests require a minimally sufficient level of test-taker capacity to maintain attention as well as appropriate effort. For example, when administering cognitive and neuropsychological tests, some professionals first administer tests to assess basic domains (e.g., attention) and end with administration of tests to assess more complex domains (e.g., executive function).
 
@@ -2675,6 +3970,7 @@ Tests often are used to assess various classes of cognitive and neuropsychologic
 
 **Perception and perceptual organization/integration.** This class of functioning involves reasoning and judgment as they relate to the processing and elaboration of complex sensory combinations and inputs. Tests of perception may emphasize immediate perceptual processing but also may require conceptualizations that involve some reasoning and judgmental processes. Some tests have motor components ranging from making simple movements to building complex constructions. These tests assess activities ranging from perceptual speed to choice reaction time, to complex information processing and visual-spatial reasoning.
 
+<<<<<<< HEAD
 #### Problem Behavior Testing and Assessment
 
 Problem behaviors include behavioral adjustment difficulties that interfere with a person's effective functioning in daily life situations. Tests are used to assess the individual's behavior and self-perceptions for differential diagnosis and educational classification for a variety of emotional and behavioral disorders and to aid in the development of treatment plans. In some cases (e.g., death penalty evaluations), retrospective analysis is required and multiple sources of information help provide the most comprehensive assessment possible. Observing a person in her or his environment often is helpful for understanding fully the specific demands of the environment, not only to offer a more comprehensive assessment but to provide more useful recommendations.
@@ -2688,6 +3984,21 @@ Family testing addresses the issues of family dynamics, cohesion, and interperso
 Measures of social and adaptive behaviors assess motivation and ability to care for oneself and relate to others. Social and adaptive behaviors are based on a repertoire of knowledge, skills, and abilities that enable a person to meet the daily demands and expectations of the environment, such as eating, dressing, working, participating in leisure activities, using transportation, interacting with peers, communicating with others, making purchases, managing money, maintaining a schedule, living independently, being socially responsive, and engaging in healthy behaviors.
 
 #### Personality Testing and Assessment
+=======
+##### Problem Behavior Testing and Assessment
+
+Problem behaviors include behavioral adjustment difficulties that interfere with a person's effective functioning in daily life situations. Tests are used to assess the individual's behavior and self-perceptions for differential diagnosis and educational classification for a variety of emotional and behavioral disorders and to aid in the development of treatment plans. In some cases (e.g., death penalty evaluations), retrospective analysis is required and multiple sources of information help provide the most comprehensive assessment possible. Observing a person in her or his environment often is helpful for understanding fully the specific demands of the environment, not only to offer a more comprehensive assessment but to provide more useful recommendations.
+
+##### Family and Couples Testing and Assessment
+
+Family testing addresses the issues of family dynamics, cohesion, and interpersonal relations among family members, including partners, parents, children, and extended family members. Tests developed to assess families and couples are distinguished by whether they measure the interaction patterns of partial or whole families, in both cases requiring simultaneous focus on two or more family members in terms of their transactions. Testing with couples may address factors such as issues of intimacy, compatibility, shared interests, trust, and spiritual beliefs.
+
+##### Social and Adaptive Behavior Testing and Assessment
+
+Measures of social and adaptive behaviors assess motivation and ability to care for oneself and relate to others. Social and adaptive behaviors are based on a repertoire of knowledge, skills, and abilities that enable a person to meet the daily demands and expectations of the environment, such as eating, dressing, working, participating in leisure activities, using transportation, interacting with peers, communicating with others, making purchases, managing money, maintaining a schedule, living independently, being socially responsive, and engaging in healthy behaviors.
+
+##### Personality Testing and Assessment
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The assessment of personality requires a synthesis of aspects of an individual's functioning that contribute to the formulation and expression of thoughts, attitudes, emotions, and behaviors. Some of these aspects are stable over time; others change with age or are situation specific. Cognitive and emotional functioning may be considered separately in assessing an individual, but their influences are interrelated. For example, a person whose perceptions are highly accurate, or who is relatively stable emotionally, may be able to control suspiciousness better than a person whose perceptions are inaccurate or distorted or who is emotionally unstable.
 
@@ -2697,7 +4008,11 @@ Personality tests may be designed to assess normal or abnormal attitudes, feelin
 
 Other personality tests are designed specifically to measure constructs underlying abnormal functioning and psychopathology. Developers of some of these tests use previously diagnosed individuals to construct their scales and basetheir interpretations on the association between the test's scale scores, within a given range, and the behavioral correlates of persons who scored within that range, as compared with clinical samples. If interpretations made from scores go beyond the theory that guided the test's construction, then evidence of the validity of the interpretations should be collected and analyzed from additional relevant data.
 
+<<<<<<< HEAD
 #### Vocational Testing and Assessment
+=======
+##### Vocational Testing and Assessment
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Vocational testing generally includes the measurement of interests, work needs, and values, as well as consideration and assessment of related elements of career development, maturity, and indecision. Academic achievement and cognitive abilities, discussed earlier in thesection on cognitive ability, also areimportant components in vocational testing and assessment. Results from these tests often are used to enhance personal growth and understanding and for career counseling, outplacement counseling, and vocational decision making. These interventions frequently take place in the context of educational and vocational rehabilitation. However, vocational testing may also be used in the workplace as part of corporate programs for career planning.
 
@@ -2707,11 +4022,19 @@ Vocational testing generally includes the measurement of interests, work needs, 
 
 **Measures of career development, maturity, and indecision.** Additional areas of vocational assessment include measures of career development and maturity and measures of career indecision. Inventories that measure career development and maturity typically elicit self-descriptions in response to items that inquire about individuals' knowledge of the world of work; self-appraisal of their decision-making skills; attitudes toward careers and career choices; and the degree to which the individuals already have engaged in career planning. Measures of career indecision usually are constructed and standardized to assess both the level of career indecision of a test taker and the reasons for, or antecedents of, this indecision. Results from tests such as these are often used with individuals and groups to guide the design and delivery of career services and to evaluate the effectiveness of career interventions.
 
+<<<<<<< HEAD
 ### **Purposes of Psychological Testing and Assessment**
 
 For purposes of this chapter, psychological test uses have been divided into five categories: testing for diagnosis; testing for neuropsychological evaluations; testing for intervention planning and outcome evaluation; testing for judicial and governmental decisions; and testing for personal awareness, social identity, and psychological health, growth, and action. However, these categories are not always mutually exclusive.
 
 #### Testing for Diagnosis
+=======
+#### **Purposes of Psychological Testing and Assessment**
+
+For purposes of this chapter, psychological test uses have been divided into five categories: testing for diagnosis; testing for neuropsychological evaluations; testing for intervention planning and outcome evaluation; testing for judicial and governmental decisions; and testing for personal awareness, social identity, and psychological health, growth, and action. However, these categories are not always mutually exclusive.
+
+##### Testing for Diagnosis
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Diagnosis* refers to a process that includes the collection and integration of test results with prior and current information about a person, together with relevant contextual conditions, to identify characteristics of healthy psychological functioning as well as psychological disorders. Disorders may manifest themselves in information obtained during the testing of an individual's cognitive, emotional, adaptive, behavioral, personality, neuropsychological, physical, or social attributes.
 
@@ -2727,6 +4050,7 @@ Diagnoses made with the help of test scores typically are based on empirically d
 
 The professional often can enhance the diagnostic interpretations derived from test scores by integrating the test results with inferences made from other sources of information regarding the test taker's functioning, such as self-reported history, information provided by significant others, or systematic observations in the natural environment or in the testing setting. In arriving at a diagnosis, a professional also looks for information that does not corroborate the diagnosis, and in those instances, places appropriate limits on the degree of confidence placed in the diagnosis. When relevant to a referral decision, the professional should acknowledge alternative diagnoses that may require consideration. Particular attention should be paid to all relevant available data before concluding that a test taker falls into a diagnostic category. Cultural competency is paramount in the effort to avoid misdiagnosing or overpathologizing culturally appropriate behavior, affect, or cognition. Tests also are used to assess the appropriateness of continuing the initial diagnosis, especially after a course of treatment or if the client's psychological functioning has changed over time.
 
+<<<<<<< HEAD
 #### Testing for Neuropsychological Evaluations
 
 Neuropsychological testing analyzes the test taker's current psychological and behavioral status, including manifestations of neurological, neuropathological, and neurochemical changes that may arise during development or from psychopathology, bodily and/or brain injury, or illness. The purposes of neuropsychological testing typically include, but are not limited to, the following: differential diagnosis associated with the sources of cognitive, perceptual, and personality dysfunction; differential diagnosis between two or moresuspected etiologies of cerebral dysfunction; evaluation of impaired functioning secondary to a cortical or subcortical event;establishment of neuropsychological baseline measurements for monitoring progressive cerebral disease or recovery effects; comparison of test results before and after pharmacologic, surgical, behavioral, or psychological interventions; identification of patterns of higher cortical functions and dysfunctions for theformulation of rehabilitation strategies and for the design of remedial procedures; and characterization of brain behavior functions to assist in criminal and civil legal actions.
@@ -2736,6 +4060,17 @@ Neuropsychological testing analyzes the test taker's current psychological and b
 Professionals often rely on test results for assistance in planning,executing, and evaluating interventions. Therefore, their awareness of validity information that supports or does not support the relationships among test results, prescribed interventions, and desired outcomes is important. Interventions may be used to prevent the onset of one or more symptoms, to remediate deficits, and to provide for a person's basic physical, psychological, and social needs to enhance quality of life. Intervention planning typically occurs following an evaluation of the nature, evolution, and severity of a disorder and a review of personal and contextual conditions that may affect its resolution. Subsequentevaluations that require the repeated administration of the sametest may occur in an effort to further diagnose the nature and severity of the disorder, to review the effects of interventions, to revise the interventions as needed, and to meet ethical and legal standards.
 
 #### Testing for Judicial and Governmental Decisions
+=======
+##### Testing for Neuropsychological Evaluations
+
+Neuropsychological testing analyzes the test taker's current psychological and behavioral status, including manifestations of neurological, neuropathological, and neurochemical changes that may arise during development or from psychopathology, bodily and/or brain injury, or illness. The purposes of neuropsychological testing typically include, but are not limited to, the following: differential diagnosis associated with the sources of cognitive, perceptual, and personality dysfunction; differential diagnosis between two or moresuspected etiologies of cerebral dysfunction; evaluation of impaired functioning secondary to a cortical or subcortical event;establishment of neuropsychological baseline measurements for monitoring progressive cerebral disease or recovery effects; comparison of test results before and after pharmacologic, surgical, behavioral, or psychological interventions; identification of patterns of higher cortical functions and dysfunctions for theformulation of rehabilitation strategies and for the design of remedial procedures; and characterization of brain behavior functions to assist in criminal and civil legal actions.
+
+##### Testing for Intervention Planning and Outcome Evaluation
+
+Professionals often rely on test results for assistance in planning,executing, and evaluating interventions. Therefore, their awareness of validity information that supports or does not support the relationships among test results, prescribed interventions, and desired outcomes is important. Interventions may be used to prevent the onset of one or more symptoms, to remediate deficits, and to provide for a person's basic physical, psychological, and social needs to enhance quality of life. Intervention planning typically occurs following an evaluation of the nature, evolution, and severity of a disorder and a review of personal and contextual conditions that may affect its resolution. Subsequentevaluations that require the repeated administration of the sametest may occur in an effort to further diagnose the nature and severity of the disorder, to review the effects of interventions, to revise the interventions as needed, and to meet ethical and legal standards.
+
+##### Testing for Judicial and Governmental Decisions
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Clients may voluntarily seek psychological assessment to assist in matters before a court of law or other government agency. Conversely, courts or other government agencies sometimes require a person to submit involuntarily to a psychological assessment that may involve a wide range of psychological tests. The goal of these psychological assessments is to provide important information to a third party (e.g., test taker's attorney, opposing attorney, judge, or administrative board) about the psychological functioning of the test taker that has bearing on the legal issues in question. Informed consent generally should be obtained; informed consent for children or mentally incompetent individuals (e.g., individuals with dementia) should be obtained from legal guardians. At the outset of the evaluation for judicial and government decisions, the professional should explain the intended purposes of the evaluation and identify who is expected to have access to the test results and the report. Often, the professional and the test taker are not fully aware of legal issues or parameters that impinge on theevaluation, and if the test taker declines to proceed after being notified of the nature and purpose of the examination, the professional, as appropriate, may attempt to administer the assessment, postpone the assessment, advise the test taker to contact her or his attorney, or notify the individual or agency requesting the assessment about the test taker's unwillingness to proceed.
 
@@ -2745,7 +4080,11 @@ Sometests areintended to provideinformation about a client's functioning that he
 
 Protecting the confidentiality of a test taker's test results and of the test instrument itself poses particular challenges for professionals involved with attorneys, judges, jurors, and other legal decision makers. The test taker has the right to expect that test results will be communicated only to persons who are legally authorized to receive them and that other information from the testing session that is not relevant to the evaluation will not be reported. The professional should be apprised of possible threats to confidentiality and test security (e.g., releasing the test questions, the examinee's responses, or raw or standardized scores on tests to another qualified professional) and should seek, if necessary, appropriate legal and professional remedies.
 
+<<<<<<< HEAD
 #### Testing for Personal Awareness, Social Identity, and Psychological Health, Growth, and Action
+=======
+##### Testing for Personal Awareness, Social Identity, and Psychological Health, Growth, and Action
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests and inventories frequently are used to provide information to help individuals understand themselves, identify their own strengths and weaknesses, and clarify issues important to their own development. For example, test results from personality inventories may help test takers better understand themselves and their interactions with others. Measures of ethnic identity and acculturation two components of social identity— that assess the cognitive, affective, and behavioral facets of the ways in which people identify with their cultural backgrounds, also may be informative.
 
@@ -2755,11 +4094,19 @@ Results from interest inventories and tests of ability may be useful to individu
 
 Test results may be used in several ways for self-exploration, growth, and decision making. First, the results can provide individuals with new information that allows them to comparethemselves with others or to evaluate themselves by focusing on self-descriptions and self-characterizations.Test results may also serve to stimulate discussions between test taker and professional, to facilitate test-taker insights, to provide directions for future treatment considerations, to help individuals identify strengths and weaknesses, and to provide the professional with a general framework for organizing and integrating information about an individual. Testing for personal growth may take place in training and development programs, within an educational curriculum, during psychotherapy, in rehabilitation programs as part of an educational or career-planning process, or in other situations.
 
+<<<<<<< HEAD
 ### Summary
 
 The responsible use of tests in psychological practice requires a commitment by the professional to develop and maintain the necessary knowledge and competence to select, administer, and interpret tests and inventories as crucial elements of the psychological testing and assessment process (see chap. 9). The standards in this chapter provide a framework for guiding the professional toward achieving relevance and effectiveness in the use of psychological tests within the boundaries or limits defined by the professional's educational, experiential, and ethical foundations. Earlier chapters and standards that are relevant to psychological testing and assessment describe general aspects of test quality (chaps. 1 and 2), fairness (chap. 3), test design and development (chap. 4), and test administration (chap. 6). Chapter 11 discusses test uses for the workplace, including credentialing, and the importance of collecting data that provide evidence of a test's accuracy for predicting job performance; chapter 12 discusses educational applications; and chapter 13 discusses test use in program evaluation and public policy.
 
 ## STANDARDS FOR PSYCHOLOGICAL TESTING AND ASSESSMENT**
+=======
+#### Summary
+
+The responsible use of tests in psychological practice requires a commitment by the professional to develop and maintain the necessary knowledge and competence to select, administer, and interpret tests and inventories as crucial elements of the psychological testing and assessment process (see chap. 9). The standards in this chapter provide a framework for guiding the professional toward achieving relevance and effectiveness in the use of psychological tests within the boundaries or limits defined by the professional's educational, experiential, and ethical foundations. Earlier chapters and standards that are relevant to psychological testing and assessment describe general aspects of test quality (chaps. 1 and 2), fairness (chap. 3), test design and development (chap. 4), and test administration (chap. 6). Chapter 11 discusses test uses for the workplace, including credentialing, and the importance of collecting data that provide evidence of a test's accuracy for predicting job performance; chapter 12 discusses educational applications; and chapter 13 discusses test use in program evaluation and public policy.
+
+### STANDARDS FOR PSYCHOLOGICAL TESTING AND ASSESSMENT**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter have been separated into five thematic clusters labeled as follows:
 
@@ -2769,15 +4116,25 @@ The standards in this chapter have been separated into five thematic clusters la
 - 4. Test Interpretation
 - 5. Test Security
 
+<<<<<<< HEAD
 ### Cluster 1. Test User 
 
 #### Standard 10.1
+=======
+#### Cluster 1. Test User 
+
+##### Standard 10.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who use psychological tests should confine their testing and related assessment activities to their areas of competence, as demonstrated through education, training, experience, and appropriate credentials.
 
 **Comment:** Responsible use and interpretation of test scores require appropriate levels of experience, sound professional judgment, and understanding of the empirical and theoretical foundations of tests. For many assessments, competency also requires sufficient familiarity with the population of which the test taker is a member to facilitate test selection, test administration, and test score interpretation. For example, when personality tests and neuropsychological tests are administered as part of a psychological assessment of an individual, the test scores must be understood in the context of the individual's physical and psychological state; cultural and linguistic development; and educational, gender, health, and occupational background. Scoring also must take into account other evidence relevant to the tests used. Test score interpretation requires professionally responsible judgment that is exercised within the boundaries of knowledge and skill afforded by the professional'seducation, training, and supervised experience, as well as the context in which the assessment is being performed.
 
+<<<<<<< HEAD
 #### Standard 10.2
+=======
+##### Standard 10.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who select tests and draw inferences from test scores should be familiar with the relevant evidence of validity and reliability/precision for the intended uses of the test scores and assessments, and should be prepared to articulate a logical analysis that supports all facets of the assessment and the inferences made from the assessment.
 
@@ -2785,41 +4142,69 @@ Those who select tests and draw inferences from test scores should be familiar w
 
 When potential inferences derived from psychological test scores are not supported by current data yet may hold promise for future validation, they may be described by the test developer and test user as hypotheses for further validation in test score interpretation. Those receiving interpretations of such results should be cautioned that such inferences do not yet have adequately demonstrated evidence of validity and should not be the basis for a diagnostic decision or prognostic formulation.
 
+<<<<<<< HEAD
 #### Standard 10.3
+=======
+##### Standard 10.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Professionals should verify that persons under their supervision have appropriate knowledge and skills to administer and score tests.
 
 **Comment:** Individuals administering tests but not involved in their selection or interpretation should be supervised by a professional. They should have knowledge of, as well as experience with, the test takers' presenting problems (e.g., brain injury) and the test settings (e.g., clinical, forensic).
 
+<<<<<<< HEAD
 ### Cluster 2. Test Selection
 
 #### Standard 10.4
+=======
+#### Cluster 2. Test Selection
+
+##### Standard 10.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests that are combined to form a battery of tests should be appropriate for the purposes of the assessment.
 
 **Comment:** For example, in a neuropsychological assessment for evidence of an injury to an area of the brain, it is necessary to select a combination of tests with known diagnostic sensitivity and specificity to impairments arising from trauma to specific regions of the brain.
 
+<<<<<<< HEAD
 #### Standard 10.5
+=======
+##### Standard 10.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests selected for use in psychological testing should be suitable for the characteristics and background of the test taker.
 
 **Comment:** When tests are part of a psychological assessment, the professional generally should take into account characteristics of the individual test taker, including age and developmental level, race/ethnicity, gender, and linguistic and/or physical characteristics that may affect the ability of the test taker to meet the requirements of the test. The professional should also take into account the availability of norms and evidence of validity for a population representative of the test taker. If no normative or validity studies are available for a relevant population, test interpretations should be qualified and presented as hypotheses rather than conclusions.
 
+<<<<<<< HEAD
 #### Standard 10.6
+=======
+##### Standard 10.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When differential diagnosis is needed, the professional should choose, if possible, a test or tests for which there is credible evidence that the scores of the test(s) distinguish between the two or more diagnostic groups of concern rather than merely distinguishing abnormal cases from the general population.
 
 **Comment:** Professionals will find it particularly helpful if evidence of validity is in a form that enables them to determine how much confidence can be placed in interpretations for an individual. Differences between group means and their statistical significance provide inadequate information regarding validity for individual diagnostic purposes. Additional information that might be considered includes effect sizes or a table showing the degree of overlap of predictor distributions among different criterion groups.
 
+<<<<<<< HEAD
 ### Cluster 3. Test Administration
 
 #### Standard 10.7
+=======
+#### Cluster 3. Test Administration
+
+##### Standard 10.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Prior to testing, professionals and test administrators should provide the test taker, or appropriate others as applicable, with introductory information in a manner understandable to the test taker.
 
 **Comment:** The goal of optimal test administration is to reduce error in the measurement of the construct. Forexample, thetest taker should understand parameters surrounding the test, such as testing time limits, feedback or lack thereof, and opportunities to take breaks. In addition, the test taker should have an understanding of the limits of confidentiality, who will have access to the test results, whether and when test results or decisions based on the scores will be shared with the test taker, whether thetest taker will have an opportunity to retest, and under what circumstances retesting could occur.
 
+<<<<<<< HEAD
 #### Standard 10.8
+=======
+##### Standard 10.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Professionals and test administrators should follow administration instructions, including calibration of technical equipment and verification of scoring accuracy and replicability, and should provide settings for testing that facilitate the performance of test takers.
 
@@ -2827,57 +4212,95 @@ Professionals and test administrators should follow administration instructions,
 
 In some cases, testing may be conducted in a realistic setting to determine how a test taker responds in thesesettings. Forexample, an assessment for an attention disorder may be conducted in a noisy or distracting environment rather than in an environment that typically protects the test taker from such external threats to performance efficiency.
 
+<<<<<<< HEAD
 #### Standard 10.9
+=======
+##### Standard 10.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Professionals should take into account the purpose of the assessment, the construct being measured, and the capabilities of the test taker when deciding whether technology-based administration of tests should be used.
 
 **Comment:** Quality control should be integral to the administration of computerized or technology-based tests. Some technology-based tests may require that test takers have an opportunity to receive instruction and to practice prior to the test administration, unless assessing ability to use the equipment is the purpose of the test. The professional is responsible for determining whether the technology-based administration of the test should be proctored, or whether technical support staff are necessary to assist with the use of the test equipment and software. The interpreter of the test scores should be informed if the test was unproctored or if no support staff were available.
 
+<<<<<<< HEAD
 ### Cluster 4. Test Interpretation
 
 #### Standard 10.10
+=======
+#### Cluster 4. Test Interpretation
+
+##### Standard 10.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who select tests and interpret test results should not allow individuals or groups with vested interests in the outcomes of an assessment to have an inappropriate influence on the interpretation of the assessment results.
 
 **Comment:** Individuals or groups with a vested interest in the significance or meaning of the findings from psychological testing may include but are not limited to employers, health professionals, legal representatives, school personnel, third-party payers, and family members. In some instances, legal requirements may limit a professional's ability to prevent inappropriate interpretations of assessments from affecting decisions, but professionals have an obligation to document any disagreement in such circumstances.
 
+<<<<<<< HEAD
 #### Standard 10.11
+=======
+##### Standard 10.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Professionals should share test scores and interpretations with the test taker when appropriate or required by law. Such information should be expressed in language that the test taker or, when appropriate, the test taker's legal representative, can understand.
 
 **Comment:** Test scores and interpretations should be expressed in terms that can be understood readily by the test taker or others entitled to the results. In most instances, a report should be generated and made available to the referral source. That report should adhere to standards required by the profession and/or the referral source, and the information should be documented in a manner that is understandable to the referral source. In some clinical situations, providing feedback to the test taker may actually cause harm. Care should be taken to minimize unintended consequences of test feedback. Any disclosure of test results to an individual or any decision not to release such results should be consistent with applicable legal standards, such as privacy laws.
 
+<<<<<<< HEAD
 #### Standard 10.12
+=======
+##### Standard 10.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In psychological assessment, the interpretation of test scores or patterns of test battery results should consider other factors that may influence a particular testing outcome. Where appropriate,a description of such factors and an analysis of the alternative hypotheses or explanations regarding what may have contributed to the pattern of results should be included in the report.
 
 **Comment:** Many factors (e.g., culture, gender, race/ethnicity,educational level,effort,employment status, left- or right-handedness, current mental state, health status, linguistic preference, and testing situation) may influence individual test results and the overall outcome of the psychological assessment. When preparing test score interpretations and reports drawn from an assessment, professionals should consider the extent to which these factors may introduce construct-irrelevant variance into the test results. The interpretation of test results in the assessment process also should be informed, when possible or appropriate, by an analysis of stylistic and other qualitative features of test-taking behavior that may be obtained from observations, interviews, and historical information. Inclusion of qualitative information may assist in understanding the outcome of tests and evaluations. In addition, tests of faking or effort often are used to determine the possibility of deception or malingering.
 
+<<<<<<< HEAD
 #### Standard 10.13
+=======
+##### Standard 10.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the validity of a diagnosis is appraised by evaluating the level of agreement between interpretations of the test scores and the diagnosis, the diagnostic terms or categories employed should be carefully defined or identified.
 
 **Comment:** Two diagnostic systems typically used are psychiatric (i.e., based on the *Diagnostic and Statistical Manual of Mental Disorders*) and health related (i.e., based on the*International Classification of Disease*). As applicable, the system used to diagnose the test taker should be noted. Some syndromes (e.g., Mild Cognitive Impairment, Social Learning Disability) do not appear in either system; for these, a description of the deficits should be used, with the closest diagnosis possible.
 
+<<<<<<< HEAD
 #### Standard 10.14
+=======
+##### Standard 10.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Criterion-related evidence of validity should be available when recommendations or decisions are presented by the professional as having an actuarial basis.
 
 **Comment:** Test score interpretations should not imply thatempiricalevidenceexists for a relationship among particular test results, prescribed interventions, and desired outcomes, unless such evidence is available for populations similar to those representative of the examinee.
 
+<<<<<<< HEAD
 #### Standard 10.15
+=======
+##### Standard 10.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The interpretation of test or test battery results for diagnostic purposes should be based on multiple sources of test and collateral information and on an understanding of the normative, empirical, and theoretical foundations, as well as the limitations, of such tests and data.
 
 **Comment:** A given pattern of test performances represents a cross-sectional view of the individual being assessed within a particular context. The interpretation of findings derived from a complex battery of tests in such contexts requires appropriate education about, supervised experience with, and knowledge of procedural, theoretical, and empirical limitations of the tests and the evaluation procedure.
 
+<<<<<<< HEAD
 #### Standard 10.16
+=======
+##### Standard 10.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If a publisher suggests that tests are to be used in combination with one another, the professional should review the recommended procedures and evidence for combining tests and determine whether the rationale provided by the publisher is appropriate for the specific combination of tests and their intended uses.
 
 **Comment:** For example, if measures of intelligence are packaged with measures of memory, or if measures of interests and personality styles are packaged together, then supporting reliability/precision and validity data for such combinations of the test scores and interpretations should be available.
 
+<<<<<<< HEAD
 #### Standard 10.17
+=======
+##### Standard 10.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who use computer-generated interpretations of test data should verify that the quality of the evidence of validity is sufficient for the interpretations.
 
@@ -2885,15 +4308,25 @@ Those who use computer-generated interpretations of test data should verify that
 
 ### Cluster 5. Test Security
 
+<<<<<<< HEAD
 #### Standard 10.18
+=======
+##### Standard 10.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Professionals and others who have access to test materials and test results should maintain the confidentiality of the test results and testing materials consistent with scientific, professional, legal, and ethical requirements. Tests (including obsolete versions) should not be made available to the public or resold to unqualified test users.
 
 **Comment:** Professionals should be knowledgeable about and should conform to record-keeping and confidentiality guidelines required by applicable federal law and within the jurisdictions where they practice, as well as guidelines of the professional organizations to which they belong. The test publisher, the test user, the test taker, and third parties (e.g., school, court, employer) may have different levels of understanding or recognition of the need for confidentiality of test materials. To the extent possible, the professional who uses tests is responsible for managing the confidentiality of test information across all parties. It is important for the professional to be aware of possible threats to confidentiality and the legal and professional remedies available. Professionals also are responsible for maintaining the security of testing materials and respecting the copyrights of all tests. Distribution, display, or resale of test materials (including obsoleteeditions) to unauthorized recipients infringes the copyright of the materials and compromises test security. When it is necessary to reveal test content in the process ofexplaining results or in a court proceeding, this should happen in a controlled environment. When possible, copies of the content should not be distributed, or should be distributed in a manner that protects test security to the extent possible.
 
+<<<<<<< HEAD
 # Chapter 11: WORKPLACE TESTING AND CREDENTIALING
 
 ## BACKGROUND
+=======
+## Chapter 11: WORKPLACE TESTING AND CREDENTIALING
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Organizations use employment testing for many purposes, including employeeselection, placement, and promotion. *Selection* generally refers to decisions about which individuals willenter the organization; *placement* refers to decisions about how to assign individuals to positions within the organization; and *promotion* refers to decisions about which individuals within the organization will advance. What all three have in common is a focus on the prediction of future job behaviors, with the goal of influencing organizational outcomes such as efficiency, growth, productivity, and employee motivation and satisfaction.
 
@@ -2903,9 +4336,15 @@ Testing is also conducted in workplaces for a variety of purposes other than sta
 
 As described in chapter 3, the ideal of fairness in testing is achieved if a given test score has the same meaning for all individuals and is not substantially influenced by construct-irrelevant barriers to individuals' performance. Forexample, a visually impaired person may have difficulty reading questions on a personality inventory or other vocational assessment provided in small print. Young people justentering the workforce may beless sophisticated in test-taking strategies than more experienced job applicants, and their scores may suffer. A person unfamiliar with computer technology may have difficulty with the user interface for a computer simulation assessment. In each of these cases, performance is hindered by a source of variance that is unrelated to the construct of interest. Sound testing practice involves careful monitoring of all aspects of the assessment process and appropriate action when needed to prevent undue disadvantages or advantages for some candidates caused by factors unrelated to the construct being assessed.
 
+<<<<<<< HEAD
 ### Employment Testing
 
 #### The Influence of Context on Test Use
+=======
+#### Employment Testing
+
+##### The Influence of Context on Test Use
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Employment testing involves using test information to aid in personnel decision making. Both the content and the context of employment testing vary widely. Content may cover various domains of knowledge, skills, abilities, traits, dispositions, values, and other individual characteristics. Some contextual features represent choices made by the employing organization; others represent constraints that must be accommodated by the employing organization. Decisions about the design, evaluation, and implementation of a testing system are specific to the context in which thesystem is to be used. Important contextual features include the following:
 
@@ -2933,7 +4372,11 @@ skills, abilities, and other characteristics projected to be necessary for perfo
 
 Thus, test use by employers is conditioned by contextual features. Knowledge of these features plays an important part in the professional judgment that will influence both the types of testing system developed and the strategies used to evaluate critically the validity of interpretations of test scores for proposed uses of the tests.
 
+<<<<<<< HEAD
 ### The Validation Process in Employment Testing
+=======
+##### The Validation Process in Employment Testing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The validation process often begins with a job analysis in which information about job duties and tasks, responsibilities, worker characteristics, and other relevant information is collected. This information provides an empirical basis for articulating what is meant by *job performance* in the job under consideration, for developing measures of job performance, and for hypothesizing characteristics of individuals that may be predictive of performance.
 
@@ -2965,7 +4408,11 @@ For many testing applications, there is a considerable cumulative body of resear
 
 Thus, multiple sources of data and multiple lines of evidence can be drawn upon to evaluate the linkage between a predictor measure and the criterion construct domain of interest. There is no single preferred method of inquiry for establishing this linkage. Rather, the test user must consider the specifics of the testing situation and apply professional judgment in developing a strategy for testing the hypothesis of a linkage between the predictor measure and the criterion domain.
 
+<<<<<<< HEAD
 ### Bases for Evaluating Employment Test Use
+=======
+##### Bases for Evaluating Employment Test Use
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Although a primary goal of employment testing is the accurate prediction of subsequent job behaviors or job outcomes, it is important to recognize that there are limits to the degree to which such criteria can be predicted. Perfect prediction is an unattainable goal. First, behavior in work settings is influenced by a wide variety of organizational and extra-organizational factors, including supervisor and peer coaching, formal and informal training, job design, organizational structures and systems, and family responsibilities, among others. Second, behavior in work settings is also influenced by a wide variety of individual characteristics, including knowledge, skills, abilities, personality, and work attitudes, among others. Thus, any single characteristic will be only an imperfect predictor, and even complex selection systems only focus on the set of constructs deemed most critical for the job, rather than on all characteristics that can influence job behavior. Third, some measurement error always occurs, even in well-developed test and criterion measures.
 
@@ -2973,7 +4420,11 @@ Thus, testing systems cannot be judged against a standard of perfect prediction.
 
 Decisions about test use are often influenced by additional considerations, including utility (i.e., cost-benefit) and return on investment, value judgments about therelativeimportance of selecting for one criterion domain versus others, concerns about applicant reactions to test content and processes, the availability and appropriateness of alternative selection methods, and statutory or regulatory requirements governing test use, fairness, and policy objectives such as workforce diversity. Organizational values necessarily come into play in decisions about test use; thus, even organizations with comparable evidence supporting an intended inference drawn from test scores may reach different conclusions about whether to use any particular test.
 
+<<<<<<< HEAD
 ### Testing in Professional and Occupational Credentialing
+=======
+#### Testing in Professional and Occupational Credentialing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests are widely used in the credentialing of persons for many occupations and professions. Licensing requirements are imposed by federal, state, and local governments to ensure that those who are licensed possess knowledge and skills in sufficient degreeto perform important occupational activities safely and effectively. Certification plays a similar role in many occupations not regulated by governments and is often a necessary precursor to advancement. Certification has also become widely used to indicate that a person has specific skills (e.g., operation of specialized auto repair equipment) or knowledge (e.g., estate planning), which may be only a part of their occupational duties. Licensure and certification will here generically be called *credentialing.*
 
@@ -3005,7 +4456,11 @@ Issues of cheating and test security are of special importance for testing pract
 
 Fairness and access, discussed in chapter 3, are important for licensing and certification testing. An evaluation of an accommodation or modification for a credentialing test should take into consideration the critical functions performed in the work targeted by the test. In the case of credentialing tests, the criticality of job functions is informed by the public interest as well as the nature of the work itself. When a condition limits an individual's ability to perform a critical function of a job, an accommodation or modification of the licensing or certification exam may not be appropriate (i.e., some changes may fundamentally alter factors that the examination is designed to measure for protection of the public's health, safety, and welfare).
 
+<<<<<<< HEAD
 ## STANDARDS FOR WORKPLACE TESTING AND CREDENTIALING
+=======
+### STANDARDS FOR WORKPLACE TESTING AND CREDENTIALING
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter have been separated into three thematic clusters labeled as follows:
 
@@ -3013,15 +4468,25 @@ The standards in this chapter have been separated into three thematic clusters l
 - 2. Standards for Employment Testing
 - 3. Standards for Credentialing
 
+<<<<<<< HEAD
 ### **Cluster 1. Standards Generally Applicable to Both Employment Testing and Credentialing**
 
 #### Standard 11.1
+=======
+#### **Cluster 1. Standards Generally Applicable to Both Employment Testing and Credentialing**
+
+##### Standard 11.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Prior to development and implementation of an employment or credentialing test, a clear statement of the intended interpretations of test scores for specified uses should be made. The subsequent validation effort should be designed to determine how well this has been achieved for all relevant subgroups.
 
 **Comment:** The objectives of employment and credentialing tests can vary considerably. Some employment tests aim to screen out those least suited for the job in question, while others are designed to identify those best suited for the job. Employment tests also vary in the aspects of job behavior they are intended to predict, which may include quantity or quality of work output, tenure, counterproductive behavior, and teamwork, among others. Credentialing tests and some employment tests are designed to identify candidates who have met some specified level of proficiency in a target domain of knowledge, skills, or judgment.
 
+<<<<<<< HEAD
 #### Standard 11.2
+=======
+##### Standard 11.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Evidence of validity based on test content requires a thorough and explicit definition of the content domain of interest.
 
@@ -3031,7 +4496,11 @@ of thetasks that are performed and/or the knowledge, skills, abilities, and othe
 
 For credentialing tests, the target content domain generally consists of the knowledge, skills, and judgment required for effective performance. The target content domain should be clearly defined so it can be linked to test content.
 
+<<<<<<< HEAD
 #### Standard 11.3
+=======
+##### Standard 11.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test content is a primary source of validity evidence in support of the interpretation for the use of a test for employment decisions or credentialing, a close link between test content and the job or professional/occupational requirements should be demonstrated.
 
@@ -3039,7 +4508,11 @@ When test content is a primary source of validity evidence in support of the int
 
 When evidence of validity based on test content is presented for a job or class of jobs, the evidence should include a description of the major job characteristics that a test is meant to sample. It is often valuable to also include information about the relative frequency, importance, or criticality of the elements. For a credentialing examination, the evidence should include a description of the major responsibilities, tasks, and/or activities performed by practitioners that the test is meant to sample, as well as the underlying knowledge and skills required to perform those responsibilities, tasks, and/or activities.
 
+<<<<<<< HEAD
 #### Standard 11.4
+=======
+##### Standard 11.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When multiple test scores or test scores and nontest information are integrated for the purpose of making a decision, the role played by each should be clearly explicated, and the inference made from each source of information should be supported by validity evidence.
 
@@ -3047,51 +4520,85 @@ When multiple test scores or test scores and nontest information are integrated 
 
 In employment testing, a decision maker may integrate test scores with interview data, reference checks, and many other sources of information in making employment decisions. The inferences drawn from test scores should be limited to those for which validity evidence is available. For example, viewing a high test score as indicating overall job suitability, and thus precluding the need for reference checks, would be an inappropriate inference from a test measuring a single narrow, albeit relevant, domain, such as job knowledge. In other circumstances, decision makers integrate scores across multiple tests, or across multiple scales within a given test.
 
+<<<<<<< HEAD
 ### **Cluster 2. Standards for Employment Testing**
 
 #### Standard 11.5
+=======
+#### **Cluster 2. Standards for Employment Testing**
+
+##### Standard 11.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is used to predict a criterion, the decision to conduct local empirical studies of predictor-criterion relationships and the interpretation of the results should be grounded in knowledge of relevant research.
 
 **Comment:** The cumulative literature on the relationship between a particular type of predictor and type of criterion may be sufficiently large and consistent to support the predictor-criterion relationship without additional research. In some settings, the cumulative research literature may be so substantial and so consistent that a dissimilar finding in a local study should be viewed with caution unless the local study is exceptionally sound. Local studies are of greatest value in settings where the cumulative research literature is sparse (e.g., due to the novelty of the predictor and/or criterion used), where the cumulative record is inconsistent, or where the cumulative literature does not include studies similar to the study from the local setting (e.g., a study of a test with a large cumulative literature dealing exclusively with production jobs and a local setting involving managerial jobs).
 
+<<<<<<< HEAD
 #### Standard 11.6
+=======
+##### Standard 11.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Reliance on local evidence of empirically determined predictor-criterion relationships as a validation strategy is contingent on a determination of technical feasibility.
 
 **Comment:** Meaningful evidence of predictor-criterion relationships is conditional on a number of features, including (a) the job's being relatively stable rather than in a period of rapid evolution; (b) the availability of a relevant and reliable criterion measure; (c) the availability of a sample reasonably representative of the population of interest; and (d) an adequatesamplesizeforestimating the strength of the predictor-criterion relationship. If any of these conditions is not met, some alternative validation strategy should be used. For example, as noted in the comment to Standard 11.5, the cumulative research literature may provide strong evidence of validity.
 
+<<<<<<< HEAD
 #### Standard 11.7
+=======
+##### Standard 11.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When empirical evidence of predictor-criterion relationships is part of the pattern of evidence used to support test use, the criterion measure(s) used should reflect the criterion construct domain of interest to the organization. All criteria used should represent important work behaviors or work outputs, either on the job or in job-relevant training, as indicated by an appropriate review of information about the job.
 
 **Comment:** When criteria are constructed to represent job activities or behaviors (e.g., supervisory ratings of subordinates on important job dimensions), systematic collection of information about the job should inform the development of the criterion measures. However, there is no clear choice among the many available job analysis methods. Note that job analysis is not limited to direct observation of the job or direct sampling of subject matter experts; large-scale job-analytic databases often provide useful information. There is not a clear need for job analysis to support criterion use when measures such as absenteeism, turnover, or accidents are the criteria of interest.
 
+<<<<<<< HEAD
 #### Standard 11.8
+=======
+##### Standard 11.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Individuals conducting and interpreting empirical studies of predictor-criterion relationships should identify artifacts that may have influenced study findings, such as errors of measurement, range restriction, criterion deficiency, criterion contamination, and missing data. Evidence of the presence or absence of such features, and of actions taken to remove or control their influence, should be documented and made available as needed.
 
 **Comment:** Errors of measurement in the criterion and restrictions on the variability of predictor or criterion scores systematically reduce estimates of the relationship between predictor measures and the criterion construct domain, but procedures for correction for the effects of these artifacts are available. When these procedures are applied, both corrected and uncorrected values should be presented, along with therationalefor the correction procedures chosen. Statistical significance tests for uncorrected correlations should not be used with corrected correlations. Other features to be considered include issues such as missing data for some variables for some individuals, decisions about the retention or removal of extreme data points, the effects of capitalization on chance in selecting predictors from a larger set on the basis of strength of predictor-criterion relationships, and the possibility of spurious predictor-criterion relationships, as in the case of collecting criterion ratings from supervisors who know selection test scores. Chapter 3, on fairness, describes additional issues that should be considered.
 
+<<<<<<< HEAD
 #### Standard 11.9
+=======
+##### Standard 11.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Evidence of predictor-criterion relationships in a current local situation should not be inferred from a single previous validation study unless the previous study of the predictor-criterion relationships was done under favorable conditions (i.e., with a large sample size and a relevant criterion) and the current situation corresponds closely to the previous situation.
 
 **Comment:** Close correspondence means that the criteria (e.g., the job requirements or underlying psychological constructs) are substantially the same (e.g., as is determined by a job analysis), and that the predictor is substantially the same. Judgments about the degree of correspondence should be based on factors that are likely to affect the predictor-criterion relationship. For example, a test of situational judgment found to predict performance of managers in one country may or may not predict managerial performancein another country with a very different culture.
 
+<<<<<<< HEAD
 #### Standard 11.10
+=======
+##### Standard 11.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If tests are to be used to make job classification decisions (e.g., if the pattern of predictor scores will be used to make differential job assignments), evidence that scores are linked to different levels or likelihoods of success among jobs, job groups, or job levels is needed.
 
 **Comment:** As noted in chapter 1, it is possible for tests to be highly predictive of performance for different jobs but not provide evidence of differential success among the jobs. For example, the same people may be predicted to be successful for each of the jobs.
 
+<<<<<<< HEAD
 #### Standard 11.11
+=======
+##### Standard 11.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If evidence based on test content is a primary source of validity evidence supporting the use of a test for selection into a particular job, a similar inference should be made about the test in a new situation only if the job and situation are substantially the same as the job and situation where the original validity evidence was collected.
 
 **Comment:** Appropriate test use in this context requires that the critical job content factors be substantially the same (e.g., as is determined by a job analysis) and that the reading level of the test material not exceed that appropriate for the new job. In addition, the original meaning of the test materials should not be substantially changed in the new situation. For example, "*salt* is to *pepper*" may be the correct answer to the analogy item "*white* is to *black*" in a culture where people ordinarily use black pepper, but the item would have a different meaning in a culture where white pepper is the norm.
 
+<<<<<<< HEAD
 #### Standard 11.12
+=======
+##### Standard 11.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the use of a given test for personnel selection relies on relationships between a predictor construct domain that the test represents and a criterion construct domain, two links need to be established. First, there should be evidence that the test scores are reliable and that the test content adequately samples the predictor construct domain; and second, there should be evidence for the relationship between the predictor construct domain and major factors of the criterion construct domain.
 
@@ -3099,9 +4606,15 @@ When the use of a given test for personnel selection relies on relationships bet
 
 For example, a test of cognitive ability might be used to predict performance in a job that is complex and requires sophisticated analysis of many factors. Here, the predictor construct domain would be cognitive ability, and verifying the first link would entail demonstrating that the test is an adequate measure of the cognitive ability domain. The second linkage might be supported by multiple lines of evidence, including a compilation of research findings showing a consistent relationship between cognitive ability and performance on complex tasks, and by judgments from subject matter experts regarding the importance of cognitive ability for performance in the performance domain.
 
+<<<<<<< HEAD
 ### **Cluster 3. Standards for Credentialing**
 
 #### Standard 11.13
+=======
+#### **Cluster 3. Standards for Credentialing**
+
+##### Standard 11.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The content domain to be covered by a credentialing test should be defined clearly and justified in terms of the importance of the content for credential-worthy performance in an occupation or profession. A rationale and evidence should be provided to support the claim that the knowledge or skills being assessed are required for credential-worthy performance in that occupation
 
@@ -3111,27 +4624,45 @@ and are consistent with the purpose for which the credentialing program was inst
 
 In tests used for licensure, knowledge and skills that may be important to success but are not directly related to the purpose of licensure (e.g., protecting the public) should not beincluded. For example, in accounting, marketing skills may be important for success, and assessment of those skills might have utility for organizations selecting accountants for employment. However, lack of those skills may not present a threat to the public, and thus the skills would appropriately be excluded from this licensing examination. The fact that successful practitioners possess certain knowledge or skills is relevant but not persuasive. Such information needs to be coupled with an analysis of the purpose of a credentialing program and the reasons that the knowledge or skills are required in an occupation or profession.
 
+<<<<<<< HEAD
 #### Standard 11.14
+=======
+##### Standard 11.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Estimates of the consistency of test-based credentialing decisions should be provided in addition to other sources of reliability evidence.
 
 **Comment:** The standards for decision consistency described in chapter 2 are applicable to tests used for licensure and certification. Other types of reliability estimates and associated standard errors of measurement may also be useful, particularly the conditional standard error at the cut score. However, the consistency of decisions on whether to certify is of primary importance.
 
+<<<<<<< HEAD
 #### Standard 11.15
+=======
+##### Standard 11.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Rules and procedures that are used to combine scores on different parts of an assessment or scores from multiple assessments to determine the overall outcome of a credentialing test should be reported to test takers, preferably before the test is administered.
 
 **Comment:** In some credentialing cases, candidates may be required to score at or above a specified minimum on each of several tests. In other cases, the pass-fail decision may be based solely on a total composite score. If tests will be combined into a composite, candidates should be provided information about the relative weighting of the tests. It is not always possible to inform candidates of the exact weights prior to test administration because the weights may depend on empirical properties of thescore distributions (e.g., their variances). However, candidates should be informed of the intention of weighting (e.g., test A contributes 25% and test B contributes 75% to the total score).
 
+<<<<<<< HEAD
 #### Standard 11.16
+=======
+##### Standard 11.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The level of performance required for passing a credentialing test should depend on the knowledge and skills necessary for credential-worthy performance in the occupation or profession and should not be adjusted to control the number or proportion of persons passing the test.
 
 **Comment:** The cut score should be determined by a careful analysis and judgment of credentialworthy performance (see chap. 5). When there are alternate forms of a test, the cut score should refer to the same level of performance for all forms.
 
+<<<<<<< HEAD
 # Chapter 12: EDUCATIONAL TESTING AND ASSESSMENT**
 
 ## BACKGROUND
+=======
+## Chapter 12: EDUCATIONAL TESTING AND ASSESSMENT**
+
+### BACKGROUND
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Educational testing has a long history of use for informing decisions about learning, instruction, and educational policy. Results of tests are used to make judgments about the status, progress, or accomplishments of individual students, as well as entities such as schools, school districts, states, or nations. Tests used in educational settings represent a variety of approaches, ranging from traditional multiple-choice and open-ended item formats to performance assessments, including scorable portfolios. As noted in the introductory chapter, a distinction is sometimes made between the terms *test* and *assessment*, the latter term encompassing broader sources of information than a score on a single instrument. In this chapter we use both terms, sometimes interchangeably, because the standards discussed generally apply to both.
 
@@ -3143,11 +4674,19 @@ Both the introductory discussion and the standards provided in this chapter are 
 
 addressed in chapter 13 ("Uses ofTests for Program Evaluation, Policy Studies, and Accountability").
 
+<<<<<<< HEAD
 ### **Design and Development of Educational Assessments**
 
 Educational tests are designed and developed to provide scores that support interpretations for the intended test purposes and uses. Design and development of educational tests, therefore, begins by considering test purpose. Once a test's purposes are established, considerations related to the specifics of test design and development can be addressed.
 
 #### Major Purposes of Educational Testing
+=======
+#### **Design and Development of Educational Assessments**
+
+Educational tests are designed and developed to provide scores that support interpretations for the intended test purposes and uses. Design and development of educational tests, therefore, begins by considering test purpose. Once a test's purposes are established, considerations related to the specifics of test design and development can be addressed.
+
+##### Major Purposes of Educational Testing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Although educational tests are used in a variety of ways, most address at least one of three major purposes: (a) to make inferences that inform teaching and learning at theindividual or curricular level; (b) to make inferences about outcomes for individual students and groups of students; and (c) to inform decisions about students, such as certifying students' acquisition of particular knowledge and skills for promotion, placement in special instructional programs, or graduation.
 
@@ -3185,7 +4724,11 @@ Tests used to place students in appropriate college-level or remedial courses pl
 
 Results from educational tests may also inform decisions related to placing students in special instructional programs, including those for students with disabilities, English learners, and gifted and talented students. Test scores alone should never be used as the sole basis for including any student in special education programming, or excluding any student from such programming. Test scores should beinterpreted in the context of thestudent's history, functioning, and needs. Nevertheless, test results may provide an important basis for determining whether a student has a disability and what the student's educational needs are.
 
+<<<<<<< HEAD
 #### Development of Educational Tests
+=======
+##### Development of Educational Tests
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 As with all tests, once the construct and purposes of an educational test have been delineated, consideration must be given to theintended population of test takers, as well as to practical issues such as available testing time and the resources available to support the development effort. In the development of educational tests, focus is placed on measuring the knowledge, skills, and abilities of all examinees in the intended population without introducing any advantages or disadvantages because of individual characteristics (e.g., age, culture, disability, gender, language, race/ethnicity) that are irrelevant to the construct the test is intended to measure. The principles of universal design— an approach to assessment development that attempts to maximize the accessibility of a test for all of its intended examinees— provide one basis for developing educational assessments in this manner. Paramount in the process is explicit documentation of the steps taken during the development process to provide evidence of fairness, reliability/precision, and validity for the test's intended uses. The higher the stakes associated with the assessment, the more attention needs to be paid to such documentation. More detailed considerations related to the development ofeducational tests are discussed in the chapters on fairness in testing (chap. 3) and test design and development (chap. 4).
 
@@ -3195,15 +4738,25 @@ Technology is often used in educational settings to present testing material and
 
 Interpretations of scores on technology-based tests are evaluated by the same standards for validity, reliability/precision, and fairness as tests administered through more traditional means. It isespecially important that test takers befamiliarized with the assessment technologies so that any unfamiliarity with an input device or assessment interface does not lead to inferences based on construct-irrelevant variance. Furthermore, explicit consideration of sources of construct-irrelevant varianceshould be part of the validation framework as new technologies or interfaces are incorporated into assessment programs. Finally, it is important to describe scoring algorithms used in technology-based tests and the expert models on which they may be based, and to provide technical data supporting their use in the testing system documentation. Such documentation, however, should stop short of jeopardizing the security of the assessment in ways that could adversely affect the validity of score interpretations.
 
+<<<<<<< HEAD
 #### Assessments Serving Multiple Purposes
+=======
+##### Assessments Serving Multiple Purposes
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 By evaluating students' knowledge and skills relative to a specific set of academic goals, test results may serve a variety of purposes, including improving instruction to better meet student needs; evaluating curriculum and instruction district-wide; identifying students, schools and/or teachers who need help; and/or predicting each student's likelihood of success on a summative assessment. It is important to validate the interpretations made from test scores on such assessments for each of their intended uses.
 
 There are often tensions associated with using educational assessments for multiple purposes. For example, a test developed to monitor the progress or growth of individual students across school years is unlikely to also effectively provide detailed and actionable diagnostic information about students' strengths and weaknesses. Similarly, an assessment designed to be given several times over the course of the school year to predict student performance on a year-end summative assessment is unlikely to provide useful information about student learning with respect to particular instructional units. Most educational tests will serve one purpose better than others; and the more purposes an educational test is purported to serve, the less likely it is to serve any of those purposes effectively. For this reason, test developers and users should design and/or select educational assessments to achieve the purposes they believe are most important, and they should consider whether additional purposes can be fulfilled and should monitor the appropriateness of any identified additional uses.
 
+<<<<<<< HEAD
 ### **Use and Interpretation of Educational Assessments**
 
 #### Stakes and Consequences of Assessment
+=======
+#### **Use and Interpretation of Educational Assessments**
+
+##### Stakes and Consequences of Assessment
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The importance of the results of testing programs for individuals, institutions, or groups is often referred to as the *stakes* of the testing program. When the stakes for an individual are high, and important decisions depend substantially on test performance, the responsibility for providing evidence supporting a test's intended purposes is greater than might be expected for tests used in low-stakes settings. Although it is never possible to achieve perfect accuracy in describing an individual's performance, efforts need to be made to minimize errors of measurement or errors in classifying individuals into categories such as "pass,","fail," "admit," or "reject." Further, supporting the validity of interpretations for high-stakes purposes, whether individual or institutional, typically entails collecting sound collateral information that can be used to assist in understanding the factors that contributed to test results and to provide corroborating evidence that supports inferences based on the results. For example, test results can be influenced by multiple factors, both institutional and individual, such as the quality of education provided, students' exposure to education (e.g., through regular school attendance), and students' motivation to perform well on the test. Collecting this type of information can contribute to appropriate interpretations of test results.
 
@@ -3213,7 +4766,11 @@ Many types of educational tests are viewed as tools of educational policy. Beyon
 
 teaching and learning), to collect information that bears on these issues, and to make decisions about the uses of assessments that take this information into account.
 
+<<<<<<< HEAD
 #### Assessments for Students With Disabilities and English Language Learners
+=======
+##### Assessments for Students With Disabilities and English Language Learners
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In the 1999 edition of the *Standards*, the material on educational testing for special populations focused primarily on individualized diagnostic assessment and educational placement for students with special needs. Since then, requirements stemming from federal legislation have significantly increased the participation of special populations in large-scale educational assessment programs. Special populations have also become more diverse and now represent a larger percentage of those test takers who participate in general education programs. More students are being diagnosed with disabilities, and more of these students are included in general education programs and in state standards-based assessments. In addition, the number of students who are English language learners has grown dramatically, and the number included in educational assessments has increased accordingly.
 
@@ -3253,21 +4810,35 @@ Aspects of the test that may result in construct-irrelevant variance for student
 
 Many types of tests are used in individualized and special needs testing. These include tests of cognitive abilities, academic achievement, learning processes, visual and auditory memory, speech and language, vision and hearing, and behavior and personality. These tests typically are used in conjunction with other assessment methods such as interviews, behavioral observations, and reviews of records— for purposes of identifying and placing students with disabilities. Regardless of the qualities being assessed and the data collection methods employed, assessment data used in making special education decisions are evaluated in terms of evidence supporting intended interpretations as related to the specific needs of the students. The data must also be judged in terms of their usefulness for designing appropriate educational programs for students who havespecial needs. For further information, see chapter 10 ("Psychological Testing and Assessment").
 
+<<<<<<< HEAD
 #### Assessment Literacy and Professional Development
+=======
+##### Assessment Literacy and Professional Development
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Assessment literacy* can be broadly defined as knowledge about the basic principles of sound assessment practice, including terminology, the development and use of assessment methodologies and techniques, and familiarity with standards by which the quality of testing practices are judged. The results of educational assessments are used in decision making across a variety of settings in classrooms, schools, districts, and states. Given the range and complexity of test purposes, it is important for test developers and those responsible for educational testing programs to encourage educators to be informed consumers of the tests and to fully understand and appropriately use results that are reported to them. Similarly, as test users, it is the responsibility of educators to pursue and attain assessment literacy as it pertains to their roles in the education system.
 
 Test sponsors and test developers can promote educator assessment literacy in a variety of ways, including workshops, development of written materials and media, and collaboration with educators in the test development process (e.g., development of content standards, item writing and review, and standard setting). In particular, thoseresponsible foreducational testing programs should incorporate assessment literacy into the ongoing professional development of educators. In addition, regular attempts should be made to educate other major stakeholders in the educational process, including parents, students, and policy makers.
 
+<<<<<<< HEAD
 ### **Administration, Scoring, and Reporting of Educational Assessments**
 
 #### Administration of Educational Tests
+=======
+#### **Administration, Scoring, and Reporting of Educational Assessments**
+
+##### Administration of Educational Tests
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Most educational tests involve standardized procedures for administration.Theseinclude directions to test administrators and examinees, specifications for testing conditions, and scoring procedures. Because educational tests typically are administered by school personnel, it is important for the sponsoring agency to provide appropriate oversight to the process and for schools to assign local roles and responsibilities (e.g., testing coordination) for training those who will administer the test. Similarly, test developers have an obligation to support the test administration process and to provide resources to help solve problems when they arise. For example, with high-stakes tests administered by computer,effectivetechnical support to the local administration is critical and should involve personnel who understand the context of the testing program as well as the technical aspects of the delivery system.
 
 Those responsible for educational testing programs should have formal procedures for granting testing accommodations and involve qualified personnel in the associated decision-making process. For students with disabilities, changes in both instruction and assessment are typically specified in an individualized education program (IEP). For English languagelearners, schools may use guidance from the state or district to match students' language proficiency and instructional experience with appropriate language accommodations. Test accommodations should be chosen by qualified personnel on the basis of the individual student's needs. It is particularly important in large-scale assessment programs to establish clear policies and procedures for assigning and using accommodations.These steps help to maintain the comparability of scores for students testing with accommodations on academic assessments across districts and schools. Once selected, accommodations should be used consistently for both instruction and assessment, and test administrators should be fully familiar with procedures for accommodated testing. Additional information related to test administration accommodations is provided in chapter 3 ("Fairness in Testing").
 
+<<<<<<< HEAD
 #### Weighted and Composite Scoring
+=======
+##### Weighted and Composite Scoring
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Scoring educational tests and assessments requires developing rules for combining scores on items and/or tasks to obtain a total score and, in some cases, for combining multiple scores into an overall composite. Scores from multipletests aresometimes combined into linear composites using nominal weights, which are assigned to each component score in accordance with a logical judgment of its relative importance. Nominal weights may sometimes be misleading because the variance of the composite is also determined by the variances and covariances of the individual component scores. As a result, the "effective weight" of each component may not reflect the nominal weighting. When composite scores are used, differences between nominal and effective weights should be understood and documented.
 
@@ -3275,7 +4846,11 @@ For a single test, total scores are often based on a simple sum of the item and 
 
 In addition, test developers should discuss with policy makers the various methods of combining the results from different educational tests used to make decisions about students, and should clearly document and communicate the methods, also known as *decision rules.* For example, as part of graduation requirements, a state may require a student to achieve established levels of performance on multiple tests measuring different content areas using either a noncompensatory or a compensatory decision rule. Under a noncompensatory decision rule, the student has to achieve a determined level of performance on each test; under a compensatory decision rule, the student may only have to achieve a certain total composite score based on a combination of scores across tests. For a high-stakes decision, such as one related to graduation, the rules used to combine scores across tests should be established with a clear understanding of the associated implications. In these situations, important consequences such as passing rates and classification error rates will differ depending on the rules for combining test results. Test developers should document and communicate these implications to policy makers to encourage policy decisions that are fully informed.
 
+<<<<<<< HEAD
 #### Reporting Scores
+=======
+##### Reporting Scores
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Score reports for educational assessments should support the interpretations and decisions of their intended audiences, which include students, teachers, parents, principals, policy makers, and other educators. Different reports may be developed and produced for different audiences, and the score report layouts may differ accordingly. For example, reports prepared for individual students and parents may include background information about the purpose of the assessment, definitions of performance categories, and more user-friendly representations of measurement error (e.g., error bands around graphical score displays). Those who develop such reports should strive to provide information that can help students make productive decisions about their own learning. In contrast, reports prepared for principals and district-level personnel may include more detailed summaries but less foundational information because these individuals typically have a much better understanding of assessments.
 
@@ -3289,7 +4864,11 @@ Technology also facilitates close alignment of instructional materials with ther
 
 When results are reported for large-scale assessments, the test sponsors or users should prepare accompanying guidance to promote sound use and valid interpretations of the data by the media and other stakeholders in the assessment process. Such communications should address likely testing consequences (both positive and negative), as well as anticipated misuses of the results.
 
+<<<<<<< HEAD
 ## STANDARDS FOR EDUCATIONAL TESTING AND ASSESSMENT**
+=======
+### STANDARDS FOR EDUCATIONAL TESTING AND ASSESSMENT**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter have been separated into three thematic clusters labeled as follows:
 
@@ -3299,21 +4878,35 @@ The standards in this chapter have been separated into three thematic clusters l
 
 Users of educational tests for evaluation, policy, or accountability should also refer to the standards in chapter 13 ("Uses of Tests for Program Evaluation, Policy Studies, and Accountability").
 
+<<<<<<< HEAD
 ### **Cluster 1. Design and Development of Educational Assessments**
 
 #### Standard 12.1
+=======
+#### **Cluster 1. Design and Development of Educational Assessments**
+
+##### Standard 12.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When educational testing programs are mandated by school, district, state, or other authorities, the ways in which test results are intended to be used should be clearly described by those who mandate the tests. It is also the responsibility of those who mandate the use of tests to monitor their impact and to identify and minimize potential negative consequences as feasible. Consequences resulting from the uses of the test, both intended and unintended, should also be examined by the test developer and/or user.
 
 **Comment:** Mandated testing programs are often justified in terms of their potential benefits for teaching and learning. Concerns have been raised about the potential negative impact of mandated testing programs, particularly when they directly result in important decisions for individuals or institutions. There is concern that some schools are narrowing their curriculum to focus exclusively on the objectives tested, encouraging instructional or administrative practices designed simply to raise test scores rather than improve the quality of education, and losing higher numbers of students because many drop out after failing tests. The need to monitor the impact of educational testing programs relates directly to fairness in testing, which requires ensuring that scores on a given test reflect the same construct and have essentially the same meaning for all individuals in the intended testtaker population. Consistent with appropriate testing objectives, potential negative consequences should be monitored and, when identified, should be addressed to the extent possible. Depending on the intended use, the person responsible for examining the consequences could be the mandating authority, the test developer, or the user.
 
+<<<<<<< HEAD
 #### Standard 12.2
+=======
+##### Standard 12.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, when a test is designed or used to serve multiple purposes, evidence of validity, reliability/precision, and fairness should be provided for each intended use.
 
 **Comment:** In educational testing, it has become common practice to use the same test for multiple purposes. For example, interim/benchmark tests may be used for a variety of purposes, including diagnosing student strengths and weaknesses, monitoring individual student growth, providing information to assist in instructional planning for individuals or groups of students, and evaluating schools or districts. No test will serve all purposes equally well. Choices in test design and development thatenhance validity for one purpose may diminish validity for other purposes. Different purposes may require different kinds of technical evidence, and appropriate evidence of validity, reliability/precision, and fairness for each purpose should be provided by the test developer. If the test user wishes to use the test for a purpose not supported by the available evidence, it is incumbent on the user to provide the necessary additional evidence. See chapter 1 ("Validity").
 
+<<<<<<< HEAD
 #### Standard 12.3
+=======
+##### Standard 12.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for the development and use of educational assessments should design all relevant steps of the testing process to promote
 
@@ -3321,39 +4914,65 @@ access to the construct for all individuals and subgroups for whom the assessmen
 
 **Comment:** It is important in educational contexts to provide for all students— regardless of their individual characteristics— the opportunity to demonstrate their proficiency on the construct being measured. Test specifications should clearly specify all relevant subgroups in the target population, including those for whom the test may not allow demonstration of knowledge and skills. Items and tasks should be designed to maximize access to the test content for all individuals in the intended test-taker population. Tools and strategies should be implemented to familiarize all test takers with the technology and testing format used, and the administration and scoring approach should avoid introducing any construct-irrelevant variance into the testing process. In situations where individual characteristics such as English language proficiency, cultural or linguistic background, disability, or age are believed to interfere with access to the construct(s) that the test is intended to measure, appropriate adaptations should be provided to allow access to the content, context, and response formats of the test items. These may include both accommodations (changes that are assumed to preserve the construct being measured) and modifications (changes that are assumed to make an altered version of the construct accessible). Additional considerations related to fairness and accessibility in educational tests and assessments are provided in chapter 3 ("Fairness in Testing").
 
+<<<<<<< HEAD
 #### Standard 12.4
+=======
+##### Standard 12.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When a test is used as an indicator of achievement in an instructional domain or with respect to specified content standards, evidence of the extent to which the test samples the range of knowledge and elicits the processes reflected in the target domain should be provided. Both the tested and the target domains should be described in sufficient detail for their relationship to be evaluated. The analyses should make explicit those aspects of the target domain that the test represents, as well as those aspects that the test fails to represent.
 
 **Comment:** Tests are commonly developed to monitor the status or progress of individuals and groups with respect to local, state, national, or professional content standards. Rarely can a single test cover the full range of performances reflected in the content standards. In developing a new test or selecting an existing test, appropriate interpretation of test scores as indicators of performance on these standards requires documenting and evaluating both the relevance of the test to the standards and the extent to which the test is aligned to the standards. Such alignment studies should address multiple criteria, including not only alignment of the test with the content areas covered by the standards but also alignment with the standards in terms of the range and complexity of knowledge and skills that students are expected to demonstrate. Further, conducting studies of the cognitive strategies and skills employed by test takers, or studies of the relationships between test scores and other performance indicators relevant to the broader target domain, enables evaluation of the extent to which generalizations to that domain are supported. This information should be made available to all who use the test or interpret the test scores.
 
+<<<<<<< HEAD
 #### Standard 12.5
+=======
+##### Standard 12.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Local norms should be developed when appropriate to support test users' intended interpretations.
 
 **Comment:** Comparison of examinees' scores to local as well as more broadly representative norm groups can be informative. Thus, sample size permitting, local norms are often useful in conjunction with published norms, especially if the local population differs markedly from the population on which published norms are based. In some cases, local norms may be used exclusively.
 
+<<<<<<< HEAD
 #### Standard 12.6
+=======
+##### Standard 12.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Documentation of design, models, and scoring algorithms should be provided for tests administered and scored using multimedia or computers.
 
 **Comment:** Computer and multimedia tests need to be held to the same requirements of technical quality as other tests. For example, the use of technology-enhanced item formats should be supported with evidence that the formats are a feasible way to collect information about the construct, that they do not introduce construct-irrelevant variance, and that steps have been taken to promote accessibility for all students.
 
+<<<<<<< HEAD
 ### Cluster 2. Use and Interpretation of Educational Assessments**
 
 #### Standard 12.7
+=======
+#### Cluster 2. Use and Interpretation of Educational Assessments**
+
+##### Standard 12.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, test users should take steps to prevent test preparation activities and distribution of materials to students that may adversely affect the validity of test score inferences.
 
 **Comment:** In most educational testing contexts, the goal is to use a sample of test items to make inferences to a broader domain. When inappropriate test preparation activities occur, such as excessive teaching of items that are equivalent to those on the test, the validity of test score inferences is adversely affected.The appropriateness of test preparation activities and materials can be evaluated, for example, by determining the extent to which they reflect thespecific test items and by considering the extent to which test scores may be artificially raised as a result, without increasing students' level of genuine achievement.
 
+<<<<<<< HEAD
 #### Standard 12.8
+=======
+##### Standard 12.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test results contribute substantially to decisions about student promotion or graduation, evidence should be provided that students have had an opportunity to learn the content and skills measured by the test.
 
 **Comment:** Students, parents, and educational staff should be informed of the domains on which the students will be tested, the nature of the item types, and the criteria for determining mastery. Reasonable efforts should be made to document the provision of instruction on the tested content and skills, even though it may not be possible or feasible to determine the specific content of instruction for every student. In addition and as appropriate, evidence should also be provided that students have had the opportunity to become familiar with the mode of administration and item formats used in testing.
 
+<<<<<<< HEAD
 #### Standard 12.9
+=======
+##### Standard 12.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Students who must demonstrate mastery of certain skills or knowledge before being promoted or granted a diploma should have a reasonable number of opportunities to succeed on alternate forms of the test or be provided with technically sound alternatives to demonstrate mastery of the same skills or knowledge. In most circumstances, when students are provided with multiple opportunities to demonstrate mastery, the time interval between the opportunities should allow students to obtain the relevant instructional experiences.
 
@@ -3361,13 +4980,21 @@ Students who must demonstrate mastery of certain skills or knowledge before bein
 
 as the primary assessment. In particular, evidence should be provided that the alternative approach measures the same skills and has the same passing expectations as the primary assessment.
 
+<<<<<<< HEAD
 #### Standard 12.10
+=======
+##### Standard 12.10
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, a decision or characterization that will have major impact on a student should take into consideration not just scores from a single test but other relevant information.
 
 **Comment:** In general, multiple measures or data sources will often enhance the appropriateness of decisions about students in educational settings and thereforeshould be considered by test sponsors and test users in establishing decision rules and policy. It is important that in addition to scores on a single test, other relevant information (e.g., school coursework, classroom observation, parental reports, other test scores) be taken into account when warranted. These additional data sources should demonstrate information relevant to the intended construct. For example, it may not be advisable or lawful to automatically accept students into a gifted program if their IQ is measured to be above 130 without considering additional relevant information about their performance. Similarly, some students with measured IQs below 130 may be accepted based on other measures or data sources, such as a test of creativity, a portfolio of student work, or teacher recommendations. In these cases, other evidence of gifted performance serves to compensate for the lower IQ test score.
 
+<<<<<<< HEAD
 #### Standard 12.11
+=======
+##### Standard 12.11
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When difference or growth scores are used for individual students, such scores should be clearly defined, and evidence of their validity, reliability/ precision, and fairness should be reported.
 
@@ -3375,25 +5002,41 @@ When difference or growth scores are used for individual students, such scores s
 
 In cases where growth scores are predicted for individual students, results based on different versions of tests taken over time may be used. For example, math scores in Grades 3, 4, and 5 may be used to predict the expected math score in Grade 6. In such cases, if complex statistical models are used to predict scores for individual students, the method for constructing the models should be made explicit and should be justified, and supporting technical and interpretive information should be provided to the score users. Chapter 13 ("Uses ofTests for Program Evaluation, Policy Studies, and Accountability") addresses the application of more complex models to groups or systems within accountability settings.
 
+<<<<<<< HEAD
 #### Standard 12.12
+=======
+##### Standard 12.12
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When an individual student's scores from different tests are compared, any educational decision based on the comparison should take into account the extent of overlap between the two constructs and the reliability or standard error of the difference score.
 
 **Comment:** When difference scores between two tests are used to aid in making educational decisions, it is important that the two tests be placed on a common scale,either by standardization or by some other means, and, if appropriate, normed on the same population at about the same time. In addition, the reliability and standard error of the difference scores between the two tests are affected by the relationship between the constructs measured by the tests as well as by the standard errors of measurement of the scores of the two tests. For example, when scores on a nonverbal ability measure are compared with achievement test scores, the overlapping nature of the two constructs may render the reliability of the difference scores lower than test users normally would expect. If the ability and/or achievement tests involve a significant amount of measurement error, this will also reduce the confidence that can be placed in the difference scores. All these factors affect the reliability of difference scores between tests and should be considered when such scores are used as a basis for making important decisions about a student. This standard is also relevant in comparisons of subscores or scores from different components of the same test, such as may be reported for multiple aptitude test batteries, educational tests, and/or selection tests.
 
+<<<<<<< HEAD
 #### Standard 12.13
+=======
+##### Standard 12.13
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When test scores are intended to be used as part of the process for making decisions about educational placement, promotion, implementation of individualized educational programs, or provision of services for English language learners, then empirical evidence documenting the relationship among particular test scores, the instructional programs, and desired student outcomes should be provided. When adequate empirical evidence is not available, users should be cautioned to weigh the test results accordingly in light of other relevant information about the students.
 
 **Comment:** The use of test scores for placement or promotion decisions should be supported by evidence about the relationship between the test scores and the expected benefits of the resulting educational programs. Thus, empirical evidence should be gathered to support the use of a test by a community college to place entering students in different mathematics courses. Similarly, in special education, when test scores are used in the development of specific educational objectives and instructional strategies, evidence is needed to show that the prescribed instruction is (a) directly linked to the test scores, and (b) likely to enhance student learning. When there is limited evidence about the relationship among test results, instructional plans, and student achievement outcomes, test developers and users should stress the tentative nature of the test-based recommendations and encourage teachers and other decision makers to weigh the usefulness of the test scores in light of other relevant information about the students.
 
+<<<<<<< HEAD
 #### Standard 12.14
+=======
+##### Standard 12.14
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, those who supervise others in test selection, administration, and score interpretation should be familiar with the evidence for the reliability/precision, the validity of the intended interpretations, and the fairness of the scores. They should be able to articulate and effectively train others to articulate a logical explanation of the relationships among the tests used, the purposes served by the tests, and the interpretations of the test scores for the intended uses.
 
 **Comment:** Appropriate interpretations of scores on educational tests depend on the effective training of individuals who carry out test administration and on the appropriate education of those who make use of test results. Establishing ongoing professional development programs that include a focus on improving the assessment literacy of teachers and stakeholders is one mechanism by which those who are responsible for test use in educational settings can facilitate the validity of test scoreinterpretations. Establishing educational requirements (e.g., an advanced degree, relevant coursework, or attendance at workshops provided by the test developer or test sponsor) are other strategies that might be used to provide documentation of qualifications and expertise.
 
+<<<<<<< HEAD
 #### Standard 12.15
+=======
+##### Standard 12.15
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for educational testing programs should take appropriate steps to verify that the individuals who interpret the test results to make decisions within the school context are qualified to do so or are assisted by and consult with persons who are so qualified.
 
@@ -3403,35 +5046,59 @@ and the availability of experts to answer questions that arise as test results a
 
 The interpretation of some test scores is sufficiently complex to require that the user have relevant training and experience or be assisted by and consult with persons who have such training and experience. Examples of such tests include individually administered intelligence tests, interest inventories, growth scores on state assessments, projective tests, and neuropsychological tests.
 
+<<<<<<< HEAD
 ### **Cluster 3. Administration, Scoring, and Reporting of Educational Assessments**
 
 #### Standard 12.16
+=======
+#### **Cluster 3. Administration, Scoring, and Reporting of Educational Assessments**
+
+##### Standard 12.16
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for educational testing programs should provide appropriate training, documentation, and oversight so that the individuals who administer and score the test(s) are proficient in the appropriate test administration and scoring procedures and understand the importance of adhering to the directions provided by the test developer.
 
 **Comment:** In addition to being familiar with standardized test administration documentation and procedures (including test security protocols), it is important fortest coordinators and test administrators to be familiar with materials and procedures for accommodations and modifications for testing. Test developers should therefore provide appropriate manuals and training materials that specifically address accommodated administrations.Test coordinators and test administrators should also receive information about the characteristics of thestudent populations included in the testing program.
 
+<<<<<<< HEAD
 #### Standard 12.17
+=======
+##### Standard 12.17
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, reports of group differences in test scores should be accompanied by relevant contextual information, where possible, to enable meaningful interpretation of the differences. Where appropriate contextual information is not available, users should be cautioned against misinterpretation.
 
 **Comment:** Differences in test scores between relevant subgroups (e.g., classified by gender, race/ethnicity, school/district, or geographical region) can be influenced, for example, by differences in student characteristics, in course-taking patterns, in curriculum, in teachers' qualifications, or in parental educational levels. Differences in performance of cohorts of students across time may be influenced by changes in the population of students tested or changes in learning opportunities for students. Users should be advised to consider the appropriate contextual information and be cautioned against misinterpretation.
 
+<<<<<<< HEAD
 #### Standard 12.18
+=======
+##### Standard 12.18
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, score reports should be accompanied by a clear presentation of information on how to interpret the scores, including the degree of measurement error associated with each score or classification level, and by supplementary information related to group summary scores.In addition, dates of test administration and relevant norming studies should be included in score reports.
 
 **Comment:** Score information should be communicated in a way that is accessible to persons receiving the score report. Empirical research involving score report users can help to improve the clarity of reports. For instance, the degree of uncertainty in the scores might be represented by presenting standard errors of measurement graphically; or the probability of misclassification associated with performance levels might be provided. Similarly, when average or summary scores for groups of students are reported, they should be supplemented with additional information about the sample sizes and the shapes or dispersions of score distributions. Particular care should be taken to portray subscore information in score reports in ways that facilitate proper interpretation. Score reports should include the date of administration so that score users can consider the validity of inferences as time passes. Score reports should also include the dates of relevant norming studies so users can consider the age of the norms in making inferences about student performance.
 
+<<<<<<< HEAD
 #### Standard 12.19
+=======
+##### Standard 12.19
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In educational settings, when score reports include recommendations for instructional intervention or are linked to recommended plans or materials for instruction, a rationale for and evidence to support these recommendations should be provided.
 
 **Comment:** Technology is making it increasingly possible to assign particular instructional interventions to students based on assessment results. Specific digital content (e.g., worksheets or lessons) may be made available to students using a rulesbased interpretation of their performance on a standards-based test. In such instances, documentation supporting the appropriateness of instructional assignments should be provided. Similarly, when the pattern of subscores on a test is used to assign students to particular instructional interventions, it is important to provide both a rationale and empirical evidence to support the claim that these assignments are appropriate. In addition, users should be advised to consider such pedagogical recommendations in conjunction with other relevant information about students' strengths and weaknesses.
 
+<<<<<<< HEAD
 # Chapter 13: USES OF TESTS FOR PROGRAM EVALUATION, POLICY STUDIES, AND ACCOUNTABILITY
 
 ## BACKGROUND**
+=======
+## Chapter 13: USES OF TESTS FOR PROGRAM EVALUATION, POLICY STUDIES, AND ACCOUNTABILITY
+
+### BACKGROUND**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Tests are widely used to inform decisions as part of public policy. One example is the use of tests in the context of the design and evaluation of programs or policy initiatives. *Program evaluation* is the set of procedures used to make judgments about a program's design, its implementation, and its outcomes. *Policy studies* are somewhat broader than program evaluations; they contribute to judgments about plans, principles, or procedures enacted to achieve broad public goals. Tests often provide the data that are analyzed to estimate the effect of a policy, program, or initiative on outcomes such as student achievement or motivation. A second broad category of test use in policy settings is in *accountability systems,* which attach consequences (e.g., rewards and sanctions) to the performance of institutions (such as schools or school districts) or individuals (such as teachers or mental health care providers). Program evaluations, policy studies, and accountability systems should not necessarily be viewed as discrete categories. They are frequently adopted in combination with one another, as is the case when accountability systems impose requirements or recommendations to use test results for evaluating programs adopted by schools or districts.
 
@@ -3439,7 +5106,11 @@ The uses of tests for program evaluations, policy studies, and accountability sh
 
 The contexts in which testing for evaluation and accountability takes place vary in the stakes for test takers and for those who are responsible for promoting specific outcomes (such as teachers or health care providers). Testing programs for institutions can have high stakes when the aggregate performance of a sample or of theentire population of test takers is used to make inferences about the quality of services provided and, as a result, decisions are made about institutional status, rewards, or sanctions. For example, the quality of reading curriculum and instruction may be judged in part on the basis of results of testing for levels of attainment reached by groups of students. Similarly, aggregated scores on psychological tests are sometimes used to evaluate the effectiveness of treatment provided by mental health programs or agencies and may be included in accountability systems. Even when test results are reported in the aggregate and intended for low-stakes purposes, the public release of data may be used to inform judgments about program quality, personnel, or educational programs and may influence policy decisions.
 
+<<<<<<< HEAD
 ### Evaluationof Programs and Policy Initiatives
+=======
+#### Evaluationof Programs and Policy Initiatives
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 As noted earlier, program evaluation typically involves making judgments about a single program, whereas policy studies address plans, principles, or procedures enacted to achieve broad public goals. Policy studies may address policies at various levels of government, including local, state, federal, and international, and may be conducted in both public and private organizational or institutional contexts. There is no sharp distinction between policy studies and program evaluations, and in many instances there is substantial overlap between the two types of investigations. Test results are often one important source of evidence for the initiation, continuation, modification, termination, or expansion of various programs and policies.
 
@@ -3455,7 +5126,11 @@ Evaluations and policy studies sometimes rely on *secondary data analysis:* anal
 
 Interpretation of test scores in program evaluation and policy studies usually entails complex analysis of a number of variables. For example, some programs are mandated for a broad population; others target only certain subgroups. Some are designed to affect attitudes, beliefs, or values; others are intended to have a more direct impact on behavior, knowledge, or skills. It is important that the participants included in any study meet the specified criteria for participating in the program or policy under review, so that appropriate interpretation of test results will be possible. Test results will reflect not only the effects of rules for participant selection and the impact on the participants of taking part in programs or treatments, but also the characteristics of the participants. Relevant background information about clients or students may be obtained to strengthen the inferences derived from the test results. Valid interpretations may depend on additional considerations that have nothing to do with the appropriateness of the test or its technical quality, including study design, administrative feasibility, and the quality of other available data. This chapter focuses on testing and does not deal with these other considerations in any substantial way. In order to develop defensible conclusions, however, investigators conducting program evaluations and policy studies should supplement test results with data from other sources.These data may include information about program characteristics, delivery, costs, client backgrounds, degree of participation, and evidence of side effects. Because test results lend important weight to evaluation and policy studies, it is critical that any tests used in theseinvestigations be sensitive to the questions of the study and appropriate for the test takers.
 
+<<<<<<< HEAD
 ### **Test-Based Accountability Systems**
+=======
+#### **Test-Based Accountability Systems**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The inclusion of test scores in educational accountability systems has become common in the United States and in other nations. Most testbased educational accountability in the United States takes place at the K–12 level, but many of the issues raised in the K–12 context are relevant to efforts to adopt outcomes-based accountability in postsecondary education. In addition, accountability systems may incorporate information from longitudinal data systems linking students' performance on tests and other indicators, including systems that capture a cohort's performance from preschool through higher education and into the workforce. Test-based accountability sometimes occurs in sectors other than education; oneexample is the use of psychological tests to create measures of effectiveness for providers of mental health care. These uses of tests raise issues similar to those that arise in educational contexts.
 
@@ -3469,7 +5144,11 @@ stable over time and across students and items. These assumptions must besupport
 
 Similarly, the choice of specific rules and data that are used to create an accountability index should reflect the goals and values of those who are developing the accountability system, as well as the inferences that the system is designed to support. For example, if a primary goal of an accountability system is to identify teachers who are effective at improving student achievement, the accountability index should be based on assessments that are closely aligned with the content the teacher is expected to cover, and should take into account factors outside the teacher's control. The process typically involves decisions such as whether to measure percentages above a cut score or an average of scale scores, whether to measure status or growth, how to combine information for multiple subjects and grade levels, and whether to measure performance against a fixed target or use a rank-based approach. The development of an accountability index also involves political considerations, such as how to balance technical concerns and transparency.
 
+<<<<<<< HEAD
 ### **Issues in Program and Policy Evaluation and Accountability**
+=======
+#### **Issues in Program and Policy Evaluation and Accountability**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Test results are sometimes used as one way to motivate program administrators or other service providers as well as to infer institutionaleffectiveness. This use of tests, including the public reporting of results, is thought to encourage an institution to improve its services for its clients. For example, in some test-based accountability systems, consistently poor results on achievement tests at the school level may result in interventions that affect the school's staffing or operations.Theinterpretation of test results is especially complex when tests are used both as an institutional policy mechanism and as a measure of effectiveness. For example, a policy or program may be based on the assumption that providing clear goals and general specifications of test content (such as the types of topics, constructs, cognitive domains, and response formats included in the test) may be a reasonable strategy to communicate new expectations to educators. Yet the desire to influence test or evaluation results to show acceptable institutional performance could lead to inappropriate testing practices, such as teaching the test items in advance, modifying test administration procedures, discouraging certain students or clients from participating in the testing sessions, or focusing teaching exclusively on testtaking skills. These responses illustrate that the more an indicator is used for decision making, the more likely it is to become corrupted and distort the process that it was intended to measure. Undesirable practices such as excessive emphasis on test-taking skills might replace practices aimed at helping the test takers learn the broader domains measured by the test. Because results derived from such practices may lead to spuriously high estimates of performance, the diligent investigator should estimatetheimpact of changes in teaching practices that may result from testing in order to interpret the test results appropriately. Looking at possible inappropriate consequences of tests as well as their benefits will result in more accurate assessment of policy claims that particular types of testing programs lead to improved performance.
 
@@ -3479,13 +5158,21 @@ Public policy decisions are rarely based solely on the results of empirical stud
 
 It isessential that all tests used in accountability, program evaluation, or policy contexts meet the standards for validity, reliability, and fairness appropriate to the intended test score interpretations and use. Moreover, as described in chapter 6, tests should be administered by personnel who are appropriately trained to implement the test administration procedures. It is also essential that assistance be provided to those responsible for interpreting study results for practitioners, the lay public, and the media. Careful communication about goals, procedures, findings, and limitations increases the likelihood that the interpretations of the results will be accurate and useful.
 
+<<<<<<< HEAD
 ### **Additional Considerations**
+=======
+#### **Additional Considerations**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This chapter and its associated standards are directed to users of tests in program evaluations,
 
 policy studies, and accountability systems. Users include those who mandate, design, or implement these evaluations, studies, or systems and those who make decisions based on the information they provide. Users include, among others, psychologists who develop,evaluate, orenforce policies, as well as educators, administrators, and policy makers who are engaged in efforts to measure school performance or evaluate the effectiveness of education policies or programs. In addition to the standards below, users should consider other available documents containing relevant standards.
 
+<<<<<<< HEAD
 ## STANDARDS FOR USES OF TESTS FOR PROGRAM EVALUATION, POLICY STUDIES, AND ACCOUNTABILITY
+=======
+### STANDARDS FOR USES OF TESTS FOR PROGRAM EVALUATION, POLICY STUDIES, AND ACCOUNTABILITY
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The standards in this chapter have been separated into two thematic clusters labeled as follows:
 
@@ -3494,21 +5181,35 @@ The standards in this chapter have been separated into two thematic clusters lab
 
 Users of educational tests for evaluation, policy, or accountability should also refer to the standards in chapter 12 ("Educational Testing and Assessment") and to the other standards in this volume.
 
+<<<<<<< HEAD
 ### **Cluster 1. Design and Development of Testing Programs and Indices for Program Evaluation, Policy Studies, and Accountability Systems**
 
 #### Standard 13.1
+=======
+#### **Cluster 1. Design and Development of Testing Programs and Indices for Program Evaluation, Policy Studies, and Accountability Systems**
+
+##### Standard 13.1
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Users of tests who conduct program evaluations or policy studies, or monitor outcomes, should clearly describe the population that the program or policy is intended to serve and should document the extent to which the sample of test takers is representative of that population. In addition, when matrix sampling procedures are used, rules for sampling items and test takers should be provided, and error calculations must take the sampling scheme into account. When multiple studies are combined as part of a program evaluation or policy study, information about the samples included in each individual study should be provided.
 
 **Comment:** It is important to provide information about sampling weights that may need to be applied for accurate inferences about performance. When matrix sampling is used, documentation should address the limitations that stem from this sampling approach, such as the difficulty in creating individual-level scores. Test developers should also report appropriate sampling error variance estimates if simple random sampling was not used.
 
+<<<<<<< HEAD
 #### Standard 13.2
+=======
+##### Standard 13.2
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When change or gain scores are used, the procedures for constructing the scores, as well as their technical qualities and limitations, should be reported. In addition, the time periods between test administrations should be reported, and care should be taken to avoid practice effects.
 
 **Comment:** The use of change or gain scores presumes that the same test, equivalent forms of the test, or forms of a vertically scaled test are used and that the test (or form or vertical scale) is not materially altered between administrations. The standard error of the difference between scores on pretests and posttests, the error associated with regression of posttest scores on pretest scores, or relevant data from other methods for examining change, such as those based on structural equation modeling, should be reported. In addition to technical or methodological considerations, details related to test administration may also be relevant to interpreting change or gain scores. For example, it is important to consider that the error associated with change scores is higher than the error associated with the original scores on which they are based. If change scores are used, information about the reliability/precision of these scores should be reported. It is also important to report the time period between administrations of tests; and if the same test is used on multiple occasions, the possibility of practice effects (i.e., improved performance due to familiarity with the test items) should be examined.
 
+<<<<<<< HEAD
 #### Standard 13.3
+=======
+##### Standard 13.3
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When accountability indices, indicators of effectiveness in program evaluations or policy studies, or other statistical models (such as value-added models) are used, the method for constructing such indices, indicators, or models should be described and justified, and their technical qualities should be reported.
 
@@ -3520,15 +5221,25 @@ nontest information is included in an accountability index, the rules for combin
 
 When indices combine scores from tests administered under standard conditions with those that involve modifications or other changes to administration conditions, there should be a clear rationale for combining the information into a single index, and the implications for validity and reliability should be examined.
 
+<<<<<<< HEAD
 ### Cluster 2. Interpretations and Uses of Information From Tests Used in Program Evaluation, Policy Studies, and Accountability Systems
 
 #### Standard 13.4
+=======
+#### Cluster 2. Interpretations and Uses of Information From Tests Used in Program Evaluation, Policy Studies, and Accountability Systems
+
+##### Standard 13.4
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Evidence of validity, reliability, and fairness for each purpose for which a test is used in a program evaluation, policy study, or accountability system should be collected and made available.
 
 **Comment:** Evidence should be provided of the suitabili ty of a test for use in program evaluation, policy studies, or accountability systems, including the relevance of the test to the goals of the program, policy, or system under study and the suitability of the test for the populations involved. Those responsible for the release or reporting of test results should provide and explain any supplemental information that will minimize possible misinterpretations or misuse of the data. In particular, if an evaluation or accountability system is designed to support interpretations regarding the effectiveness of a program, institution, or provider, the validity of these interpretations for the intended uses should be investigated and documented. Reports should include cautions against making unwarranted inferences, such as holding health care providers accountable for test-score changes that may not be under their control. If the use involves a classification of persons, institutions, or programs into distinct categories, the consistency, accuracy, and fairness of the classifications should be reported. If the same test is used for multiple purposes (e.g., monitoring achievement of individual students; providing information to assist in instructional planning for individuals or groups of students; evaluating districts, schools, or teachers), evidence related to the validity of interpretations for each of these uses should be gathered and provided to users, and the potential negative effects for certain uses (e.g., improving instruction) that might result from unintended uses (e.g., high-stakes accountability) need to be considered and mitigated. When tests are used to evaluate the performance of personnel, the suitability of the tests for different groups of personnel (e.g., regular teachers, special education teachers, principals) should beexamined.
 
+<<<<<<< HEAD
 #### Standard 13.5
+=======
+##### Standard 13.5
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those responsible for the development and use of tests for evaluation or accountability purposes should take steps to promote accurate interpretations and appropriate uses for all groups for which results will be applied.
 
@@ -3538,19 +5249,31 @@ When test results are used to support actions regarding program or policy adopti
 
 Often, the test results for program evaluation or policy analysis are analyzed well after the tests have been given. When this is the case, the user should investigate and describe the context in which the tests were given. Factors such as inclusion/exclusion rules, test purpose, content sampling,instructional alignment, and the attachment of high stakes can affect the aggregated results and should be made known to the audiences for the evaluation or analysis.
 
+<<<<<<< HEAD
 #### Standard 13.6
+=======
+##### Standard 13.6
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Reports of group differences in test performance should be accompanied by relevant contextual information, where possible, to enable meaningful interpretation of the differences. If appropriate contextual information is not available, users should be cautioned against misinterpretation
 
 **Comment:** Observed differences in average test scores between groups (e.g., classified by gender, race/ethnicity, disability, language proficiency, socioeconomic status, or geographical region) can be influenced by differences in factors such as opportunity to learn, training experience, effort, instructor quality, and level and type of parental support. In education, differences in group performance across time may beinfluenced by changes in the population of those tested (including changes in sample size) or changes in their experiences. Users should be advised to consider the appropriate contextual information when interpreting these group differences and when designing policies or practices to address those differences. In addition, if evaluations involve comparisons of test scores across national borders, evidence for the comparability of scores should be provided.
 
+<<<<<<< HEAD
 #### Standard 13.7
+=======
+##### Standard 13.7
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When tests are selected for use in evaluation or accountability settings, the ways in which the test results are intended to be used, and the consequences they are expected to promote, should be clearly described, along with cautions against inappropriate uses.
 
 **Comment:** In some contexts, such as evaluation of a specific curriculum program, a test may have a limited purpose and may not be intended to promote specific outcomes other than informing the evaluation. In other settings, particularly with test-based accountability systems, the use of tests is often justified on the grounds that it will improve the quality of education by providing useful information to decision makers and by creating incentives to promote better performance by educators and students. These kinds of claims should be made explicit when the system is mandated or adopted, and evidence to support their validity should be provided when available. The collection and reporting ofevidencefor a particular validity claim should be incorporated into the program design. A given claim for the benefits of test use, such as improving students' achievement, may besupported by logical or theoretical argument as well as empirical data. Due weight should be given to findings in the scientific literature that may be inconsistent with the stated claim.
 
+<<<<<<< HEAD
 #### Standard 13.8
+=======
+##### Standard 13.8
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Those who mandate the use of tests in policy, evaluation, and accountability contexts and those who use tests in such contexts should monitor their impact and should identify and minimize negative consequences.
 
@@ -3558,7 +5281,11 @@ Those who mandate the use of tests in policy, evaluation, and accountability con
 
 Some consequences can be anticipated on the basis of past research and understanding of how peoplerespond to incentives. Forexample, research shows thateducational accountability tests influence curriculum and instruction by signaling what is important for students to know and be able to do.This influence can be positiveif a testencourages a focus on valuable learning outcomes, but it is negativeif it narrows the curriculum in unintended ways. These and other common negative consequences, such as possible motivational impact on teachers and students (even when test results are used as intended) and increasing dropout rates, should be studied and the results taken into consideration. The integrity of test results should be maintained by striving to eliminate practices designed to raise test scores without improving perform ance on the construct or domain measured by the test. In addition, administering an audit measure (i.e., another measure of the tested construct) may detect possible corruption of scores.
 
+<<<<<<< HEAD
 #### Standard 13.9
+=======
+##### Standard 13.9
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In evaluation or accountability settings, test results should be used in conjunction with information from other sources when the use of the additional information contributes to the validity of the overall interpretation.
 
@@ -3568,6 +5295,7 @@ In the case of value-added modeling, some researchers have argued for the inclus
 
 An additional type of information that is relevant to the interpretation of test results in policy settings is the degree of motivation of the test takers. It is important to determine whether test takers regard the test experience seriously, particularly when individual scores are not reported to test takers or when the scores are not associated with consequences for the test takers. Decision criteria regarding whether to include scores from individuals with questionable motivation should be clearly documented.
 
+<<<<<<< HEAD
 # GLOSSARY*
 
 This glossary provides definitions of terms as used in the text and standards. For many of the terms, multiple definitions can be found in the literature; also, technical usage may differ from common usage.
@@ -4012,6 +5740,231 @@ This glossary provides definitions of terms as used in the text and standards. F
 
 # INDEX
 
+=======
+## GLOSSARY*
+
+This glossary provides definitions of terms as used in the text and standards. For many of the terms, multiple definitions can be found in the literature; also, technical usage may differ from common usage.
+**ability parameter:** In item response theory (IRT), a theoretical value indicating the level of a test taker on the ability or trait measured by the test; analogous to the concept of true score in classical test theory.
+**ability testing:** The use of tests to evaluate the current performance of a person in some defined domain of cognitive, psychomotor, or physical functioning.
+**accessibility:** The degree to which the items or tasks on a testenable as many test takers as possibleto demonstrate their standing on the target construct without being impeded by characteristics of the item that are irrelevant to the construct being measured. A test that ranks high on this criterion is referred to as *accessible*
+**accommodations/test accommodations:** Adjustments that do not alter the assessed construct that are applied to test presentation, environment, content, format (including response format), or administration conditions for particular test takers, and that are embedded within assessments or applied after the assessment is designed. Tests or assessments with such accommodations, and their scores, aresaid to be *accommodated*. Accommodated scores should be sufficiently comparable to unaccommodated scores that they can be aggregated together.
+**accountability index:** A number or label that reflects a set of rules for combining scores and other information to form conclusions and inform decision making in an accountability system.
+**accountability system:** A system that imposes student performance-based rewards or sanctions on institutions such as schools or school systems or on individuals such as teachers or mental health care providers.
+**acculturation:** A process related to the acquisition of cultural knowledge and artifacts that is developmental in nature and dependent upon time of exposure and opportunity for learning.
+**achievement levels/proficiency levels:** Descriptions of test takers' levels of competency in a particular area of knowledge or skill, usually defined in terms of categories ordered on a continuum, for example from "basic" to "advanced," or "novice" to "expert." The categories constitute broad ranges for classifying performance. See *cut score.*
+### **achievement standards:** See *performance standards.*
+**achievement test:** A test to measure the extent of knowledge or skill attained by a test taker in a content domain in which the test taker has received instruction.
+**adaptation/test adaptation:** 1. Any change in test content, format (including response format), or administration conditions that is made to increase a test's accessibility for individuals who otherwise would face construct-irrelevant barriers on the original test. An adaptation may or may not change the meaning of the construct being measured or alter score interpretations. An adaptation that changes score meaning is referred to as a *modification;* an adaptation that does not change the score meaning is referred to as an *accommodation* (see definitions in this glossary). 2. Change made to a test that has been translated into the language of a target group and that takes into account the nuances of the language and culture of that group.
+**adaptive test:** A sequential form of individual testing in which successive items, or sets of items, in the test are selected for administration based primarily on their psychometric properties and content, in relation to the test taker's responses to previous items.
+**adjusted validity or reliability coefficient:** A validity or reliability coefficient— most often, a productmoment correlation— that has been adjusted to offset the effects of differences in score variability, criterion variability, or the unreliability of test and/or criterion scores. See *restriction of range or variability.*
+**aggregate score:** A total score formed by combining scores on the same test or across test components. The scores may be raw or standardized. The components of the aggregate score may be weighted or not, depending on the interpretation to be given to the aggregate score. **alignment:** The degree to which the content and cognitive demands of test questions match targeted content and cognitive demands described in the test specifications.
+**alternate assessments/alternate tests:** Assessments or tests used to evaluate the performance of students in educational settings who are unable to participate in standardized accountability assessments, even with accommodations. Alternate assessments or tests typically measure achievement relative to alternate content standard
+**alternate forms:** Two or more versions of a test that are considered interchangeable, in that they measure the same constructs in the same ways, are built to the same content and statistical specifications, and are administered under the same conditions using the same directions. See *equivalent forms, parallel forms*.
+**alternate or alternative standards:** Content and performance standards in educational assessment for students with significant cognitive disabilities.
+**analytic scoring:** A method of scoring constructed responses (such as essays) in which each critical dimension of a particular performance is judged and scored separately, and the resultant values are combined for an overall score. In some instances, scores on the separate dimensions may also be used in interpreting performance. Contrast with *holistic scoring.*
+**anchor items:** Items administered with each of two or more alternate forms of a test for the purpose of equating the scores obtained on these alternate forms.
+**anchor test:** A set of anchor items used for equating.
+**assessment:** Any systematic method of obtaining information, used to draw inferences about characteristics of people, objects, or programs; a systematic process to measure or evaluate the characteristics or performance of individuals, programs, or other entities, for purposes of drawing inferences; sometimes used synonymously with *test.*
+**assessment literacy:** Knowledge about testing that supports valid interpretations of test scores for their intended purposes, such as knowledge about test development practices, test score interpretations, threats to valid score interpretations, score reliability and precision, test administration, and use.
+**automated scoring:** A procedure by which constructed response items are scored by computer using a rulesbased approach.
+**battery:** A set of tests usually administered as a unit. The scores on the tests usually are scaled so that they can readily be compared or used in combination for decision making.
+**behavioral science:** A scientific discipline, such as sociology, anthropology, or psychology, in which the actions and reactions of humans and animals are studied through observational and experimental methods.
+**benchmark assessments:** Assessments administered in educational settings at specified times during a curriculum sequence, to evaluate students' knowledge and skills relative to an explicit set of longer-term learning goals. See *interim assessments or tests.*
+**bias:** 1. In test fairness, construct underrepresentation or construct-irrelevant components of test scores that differentially affect the performance of different groups of test takers and consequently the reliability/precision and validity of interpretations and uses of their test scores. 2. In statistics or measurement, systematic error in a test score. See *construct underrepresentation, construct-irrelevant variance, fairness, predictive bias.*
+**bilingual/multilingual:** Having a degree of proficiency in two or more languages.
+**calibration:** 1. In linking test scores, the process of relating scores on one test to scores on another that differ in reliability/precision from those on the first test, so that scores have the same relative meaning for a group of test takers. 2. In item response theory, the process of estimating the parameters of the item response function. 3. In scoring constructed response tasks, procedures used during training and scoring to achieve a desired level of scorer agreement.
+**certification:** A process by which individuals are recognized (or certified) as having demonstrated some level of knowledge and skill in some domain. See *licensing, credentialing.*
+**classical test theory:** A psychometric theory based on the view that an individual's observed score on a test is the sum of a true score component for the test taker and an independent random error component.
+**classification accuracy:** Degree to which the assignment of test takers to specific categories is accurate; the degree to which false positive and false negative classifications are avoided. See *sensitivity, specificity.*
+**coaching:** Planned short-term instructional activities for prospective test takers provided prior to the test administration for the primary purpose of improving their test scores. Activities that approximate the instruction provided by regular school curricula or training programs are not typically referred to as coaching.
+**coefficient alpha:** An internal-consistency reliability coefficient based on the number of parts into which a test is partitioned (e.g., items, subtests, or raters), the interrelationships of the parts, and the total test score variance. Also called *Cronbach's alpha* and, for dichotomous items, *KR-20.* See *internal-consistency coefficient, reliability coefficient.*
+**cognitive assessment:** The process of systematically collecting test scores and related data to make judgments about an individual's ability to perform various mental activities involved in the processing, acquisition, retention, conceptualization, and organization of sensory, perceptual, verbal, spatial, and psychomotor information.
+**cognitive lab:** A method of studying the cognitive processes that test takers use when completing a task such as solving a mathematics problem or interpreting a passage of text, typically involving test takers' thinking aloud while responding to the task and/or responding to interview questions after completing the task.
+**cognitive science:**The interdisciplinary study of learning and information processing.
+**comparability/score comparability:** In test linking, the degree of score comparability resulting from the application of a linking procedure. Score comparability varies along a continuum that depends on the type of linking conducted. See *alternate forms*, *equating, calibration, linking, moderation, projection, vertical scaling***.**
+**composite score:** A score that combines several scores according to a specified formula.
+**computer-administered test:** A test administered by a computer; test takers respond by using a keyboard, mouse, or other response devices.
+**computer-based mastery test:** A test administered by computer that indicates whether the test taker has achieved a specified level of competence in a certain domain, rather than thetest takers' degree of achievement in that domain. See *mastery test.*
+### **computer-based test:** See *computer-administered test.*
+**computer-prepared interpretive report:** A programmed interpretation of a test taker's test results, based on empirical data and/or expert judgment using various formats such as narratives, tables, and graphs. Sometimes referred to as *automated scoring* or *narrative report.*
+**computerized adaptive test:** An adaptivetest administered by computer. See *adaptive test.*
+**concordance:** In linking test scores for tests that measure similar constructs, the process of relating a score on one test to a score on another, so that the scores have the same relative meaning for a group of test takers.
+**conditional standard error of measurement:** The standard deviation of measurement errors that affect the scores of test takers at a specified test score level.
+**confidence interval:** An interval within which the parameter of interest will be included with a specified probability.
+**consequences:**The outcomes, intended and unintended, of using tests in particular ways in certain contexts and with certain populations.
+**construct:** The concept or characteristic that a test is designed to measure.
+**construct domain:** The set of interrelated attributes (e.g., behaviors, attitudes, values) that are included under a construct's label.
+**construct equivalence:** 1. The extent to which a construct measured by one test is essentially the same as the construct measured by another test. 2. The degree to which a construct measured by a test in one cultural or linguistic group is comparableto the construct measured by the same test in a different cultural or linguistic group.
+**construct-irrelevant variance:** Variance in test-taker scores that is attributable to extraneous factors that distort the meaning of the scores and thereby decrease the validity of the proposed interpretation.
+**construct underrepresentation:** The extent to which a test fails to capture important aspects of the construct domain that the test is intended to measure, resulting in test scores that do not fully represent that construct.
+**constructed-response items, tasks, or exercises:** Items, tasks, or exercises for which test takers must create their own responses or products rather than choose a response from a specified set. Short-answer items require a few words or a number as an answer; extendedresponse items require at least a few sentences and may include diagrams, mathematical proofs, essays, or problem solutions such as network repairs or other work products.
+**content domain:** The set of behaviors, knowledge, skills, abilities, attitudes, or other characteristics to be measured by a test, represented in detailed test specifications and often organized into categories by which items are classified.
+**content-related validity evidence:** Evidence based on test content that supports the intended interpretation of test scores for a given purpose. Such evidence may address issues such as the fidelity of test content to performance in the domain in question and the degree to which test content representatively samples a domain, such as a course curriculum or job.
+**content standard:** In educational assessment, a statement of content and skills that students are expected to learn in a subject matter area, often at a particular grade or at the completion of a particular level of schooling.
+**convergent evidence:** Evidence based on the relationship between test scores and other measures of the same or related construct.
+**credentialing:** Granting to a person, by some authority, a credential, such as a certificate, license, or diploma, that signifies an acceptable level of performance in some domain of knowledge or activity.
+**criterion domain:** The construct domain of a variable that is used as a criterion. See *construct domain.*
+**criterion-referenced score interpretation:** The meaning of a test score for an individual or of an average score for a defined group, indicating the individual's or group's level of performance in relationship to some defined criterion domain. Examples of criterionreferenced interpretations include comparisons to cut scores, interpretations based on expectancy tables, and domain-referenced score interpretations. Contrast with *norm-referenced score interpretation*.
+**cross-validation:** A procedure in which a scoring system for predicting performance, derived from one sample, is applied to a second sample to investigate the stability of prediction of the scoring system.
+**cut score:** A specified point on a score scale, such that scores at or above that point are reported, interpreted, or acted upon differently from scores below that point. **differential item functioning (DIF):** For a particular item in a test, a statistical indicator of the extent to which different groups of test takers who are at the same ability level have different frequencies of correct responses or, in some cases, different rates of choosing various item options
+**differential test functioning (DTF):** Differential performance at the test or dimension level indicating that individuals from different groups who have the same standing on the characteristic assessed by a test do not have the same expected test score.
+**discriminant evidence:** Evidence indicating whether two tests interpreted as measures of different constructs are sufficiently independent (uncorrelated) that they do, in fact, measure two distinct constructs.
+**documentation:** The body of literature (e.g., test manuals, manual supplements, research reports, publications, user's guides) developed by a test's author, developer, user, and/or publisher to support test score interpretations for their intended use.
+**domain or content sampling:** The process of selecting test items, in a systematic way, to represent the total set of items measuring a domain.
+**effort:** The extent to which a test taker appropriately participates in test taking.
+**empirical evidence:** Evidence based on some form of data, as opposed to that based on logic or theory.
+**English language learner (ELL):** An individual who is not yet proficient in English. An ELL may be an individual whose first language is not English, a language minority individual just beginning to learn English, or an individual who has developed considerable proficiency in English. Related terms include *English learner (EL), limited English proficient* (LEP), *English as a second language* (ESL), and *culturally and linguistically diverse.*
+**equated forms:** Alternate forms of a test whose scores have been related through a statistical process known as equating, which allows scale scores on equated forms to be used interchangeably.
+**equating:** A process for relating scores on alternate forms of a test so that they have essentially the same meaning. The equated scores are typically reported on a common score scale.
+**equivalent forms:** See *alternate forms, parallel forms.*
+**error of measurement:** The difference between an observed score and the corresponding true score. See *standard error of measurement, systematic error, random error, true score.*
+**factor:** Any variable, real or hypothetical, that is an aspect of a concept or construct.
+**factor analysis:** Any of several statistical methods of describing the interrelationships of a set of variables by statistically deriving new variables, called *factors,* that are fewer in number than the original set of variables.
+**fairness:** The validity of test score interpretations for intended use(s) for individuals from all relevant subgroups. A test that is fair minimizes the construct-irrelevant variance associated with individual characteristics and testing contexts that otherwise would compromise the validity of scores for some individuals.
+**fake bad:** Exaggerate or falsify responses to test items in an effort to appear impaired.
+**fake good:** Exaggerate or falsify responses to test items in an effort to present oneself in an overly positive way.
+**false negative:** An error of classification, diagnosis, or selection leading to a determination that an individual does not meet the standard based on an assessment for inclusion in a particular group, when, in truth, he or she does meet the standard (or would, absent measurement error). See *sensitivity, specificity.*
+**false positive:** An error of classification, diagnosis, or selection leading to a determination that an individual meets the standard based on an assessment for inclusion in a particular group, when, in truth, he or she does not meet thestandard (or would not, absent measurement error). See *sensitivity, specificity.*
+**field test:** A test administration used to check the adequacy of testing procedures and the statistical characteristics of new test items or new test forms. A field test is generally more extensive than a pilot test. See *pilot test.*
+**flag:** An indicator attached to a test score, a test item, or other entity to indicate a special status. A flagged test score generally signifies a score obtained from a modified test resulting in a change in the underlying construct measured by the test. Flagged scores may not be comparable to scores that are not flagged.
+**formative assessment:** An assessment process used by teachers and students during instruction that provides feedback to adjust ongoing teaching and learning with the goal of improving students' achievement of intended instructional outcomes.
+**gain score:** In testing, the difference between two scores obtained by a test taker on the same test or two equated tests taken on different occasions, often before and after some treatment.
+**generalizability coefficient:** An index of reliability/precision based on generalizability theory (G theory). A generalizability coefficient is the ratio of universe score variance to observed score variance, where the observed score variance is equal to the universe score variance plus the total error variance. See *generalizability theory*.
+**generalizability theory:** Methodological framework for evaluating reliability/precision in which various sources of error variance are estimated through the application of the statistical techniques of analysis of variance. The analysis indicates the generalizability of scores beyond the specific sample of items, persons, and observational conditions that were studied. Also called *G theory.*
+**group testing:** Testing for groups of test takers, usually in a group setting, typically with standardized administration procedures and supervised by a proctor or test administrator.
+**growth models:** Statistical models that measure students' progress on achievement tests by comparing the test scores of the same students over time. See *value-added modeling.*
+**high-stakes test:** A test used to provide results that have important, direct consequences for individuals, programs, or institutions involved in the testing. Contrast with *low-stakes test.*
+**holistic scoring:** A method of obtaining a score on a test, or a test item, based on a judgment of overall performance using specified criteria. Contrast with *analytic scoring.*
+**individualized education program (IEP):** A documented plan that delineates special education services for a special-needs student and that includes any adaptations that are required in the regular classroom or for assessments and any additional special programs or services.
+**informed consent:** The agreement of a person, or that person's legal representative, for some procedure to be performed on or by the individual, such as taking a test or completing a questionnaire.
+**intelligence test:** A test designed to measure an individual's level of cognitive functioning in accord with some recognized theory of intelligence. See *cognitive assessment.*
+**interim assessments or tests:** Assessments administered during instruction to evaluate students' knowledge and skills relative to a specific set of academic goals to inform policy-maker or educator decisions at the classroom, school, or district level. See *benchmark assessments*.
+**internal-consistency coefficient:** An index of the reliability of test scores derived from the statistical interrelationships among item responses or scores on separate parts of a test. See *coefficient alpha, split-halves reliability coefficient*.
+**internal structure:** In test analysis, the factorial structure of item responses or subscales of a test.
+**interpreter:** Someone who facilitates cross-cultural communication by converting concepts from one language to another (including sign language).
+**interrater agreement/consistency:** Thelevel of consistency with which two or more judges rate the work or performance of test takers. See *interrater reliability.*
+**interrater reliability:** The level of consistency in rank ordering of ratings across raters. See *interrater agreement.*
+**intrarater reliability:** The level of consistency among repetitions of a single rater in scoring test takers' responses. Inconsistencies in thescoring process resulting from influences that are internal to the rater rather than true differences in test takers' performances result in low intrarater reliability.
+**inventory:** A questionnaire or checklist that elicits information about an individual's personal opinions, interests, attitudes, preferences, personality characteristics, motivations, or typical reactions to situations and problems.
+**item:** A statement, question, exercise, or task on a test for which the test taker is to select or construct a response, or perform a task. See *prompt.*
+**item characteristic curve (ICC):** A mathematical function relating the probability of a certain item response, usually a correct response, to the level of the attribute measured by the item. Also called *item response curve, item response function*.
+**item context effect:** Influence of item position, other items administered, timelimits, administration conditions, and so forth, on item difficulty and other statistical item characteristics.
+**item pool/item bank:** The collection or set of items from which a test or test scale's items are selected during test development, or the total set of items from which a particular subset is selected for a test taker during adaptive testing.
+**item response theory (IRT):** A mathematical model of the functional relationship between performance on a test item, the test item's characteristics, and the test taker's standing on the construct being measured.
+**job analysis:** The investigation of positions or job classes to obtain information about job duties and tasks, responsibilities, necessary worker characteristics (e.g. knowledge, skills, and abilities), working conditions, and/or other aspects of the work. See *practice analysis.*
+**job/job classification:** A group of positions that are similar enough in duties, responsibilities, necessary worker characteristics, and other relevant aspects that they may be properly placed under the same job title.
+**job performance measurement:** Measurement of an incumbent's observed performance of a job as evaluated by a job sample test, an assessment of job knowledge, or ratings of the incumbent's actual performance on the job. See *job sample test.*
+**job sample test:** A test of the ability of an individual to perform thetasks comprised by a job. See*job performance measurement.*
+**licensing:** The granting, usually by a government agency, of an authorization or legal permission to practice an occupation or profession. See *certification, credentialing.*
+**linking/score linking:** The process of relating scores on tests. See *alternate forms*, *equating, calibration, moderation, projection, vertical scaling.*
+**local evidence:** Evidence(usually related to reliability/precision or validity) collected for a specific test and a specific set of test takers in a single institution or at a specific location.
+**local norms:** Norms by which test scores are referred to a specific, limited reference population of particular interest to the test user (e.g., population of a locale, organization, or institution). Local norms are not intended to be representative of populations beyond that limited setting.
+**low-stakes test:** A test used to provide results that have only minor or indirect consequences for individuals, programs, or institutions involved in the testing. Contrast with *high-stakes test*.
+**mastery test:** A test designed to indicate whether a test taker has attained a prescribed level of competence, or mastery, in a domain. See *cut score, computer-based mastery test.*
+**matrix sampling:** A measurement format in which a large set of test items is organized into a number of relatively short item sets, each of which is randomly assigned to a subsample of test takers, thereby avoiding the need to administer all items to all test takers. Equivalence of the short item sets, or subsets, is not assumed
+**meta-analysis:** A statistical method of research in which the results from independent, comparable studies are combined to determine the size of an overall effect or the degree of relationship between two variables.
+**moderation:** A process of relating scores on different tests so that scores have the same relative meaning.
+**moderator variable:** A variable that affects the direction or strength of the relationship between two other variables.
+**modification/test modification:** A change in test content, format (including response formats), and/or administration conditions that is made to increase accessibility for some individuals but that also affects the construct measured and, consequently, results in scores that differ in meaning from scores from the unmodified assessment.
+**neuropsychological assessment:** A specialized type of psychological assessment of normal or pathological processes affecting the central nervous system and the resulting psychological and behavioral functions or dysfunctions.
+**norm-referenced score interpretation:** A score interpretation based on a comparison of a test taker's performance with the distribution of performance in a specified reference population*.* Contrast *criterionreferenced score interpretation.*
+**norms:** Statistics or tabular data that summarize the distribution or frequency of test scores for one or more specified groups, such as test takers of various ages or grades, usually designed to represent some larger population, referred to as the *reference population.* See *local norms.*
+**operational use:** The actual use of a test, after initial test development has been completed, to inform an interpretation, decision, or action, based in part or wholly on test scores.
+**opportunity to learn:** The extent to which test takers have been exposed to the tested constructs through their educational program and/or have had exposure to or experience with the language or the majority culture required to understand the test.
+**parallel forms:** In classical test theory, strictly parallel test forms that are assumed to measure the same construct and to have the same means and the same standard deviations in the populations of interest. See *alternate forms*.
+**percentile:** The score on a test below which a given percentage of scores for a specified population occurs.
+**percentile rank:** The rank of a given score based on the percentage of scores in a specified score distribution that are below the score being ranked.
+**performance assessments:** Assessments for which the test taker actually demonstrates the skills the test is intended to measure by doing tasks that require those skills.
+**performance level:** Label or brief statement classifying a test taker's competency in a particular domain, usually defined by a range of scores on a test. For example, labels such as "basic" to "advanced," or "novice" to "expert," constitute broad ranges for classifying proficiency. See *achievement levels, cut score, performance-level descriptor, standard setting.*
+**performance-level descriptor:** Descriptions of what test takers know and can do at specific performance levels.
+**performance standards:** Descriptions of levels of knowledge and skill acquisition contained in content standards, as articulated through performance-level labels (e.g., "basic," "proficient," "advanced"); statements of what test takers at different performance levels know and can do; and cut scores or ranges of scores on the scale of an assessment that differentiate levels of performance. See *cut score, performance level, performance-level descriptor*.
+**personality inventory:** An inventory that measures one or more characteristics that are regarded generally as psychological attributes or interpersonal tendencies.
+**pilot test:** A test administered to a sample of test takers to try out some aspects of the test or test items, such as instructions, time limits, item response formats, or item response options. See *field test.*
+**policy study:** A study that contributes to judgments about plans, principles, or procedures enacted to achieve broad public goals.
+**portfolio:** In assessment, a systematic collection of educational or work products that have been compiled or accumulated over time, according to a specific set of principles or rules.
+**position:** In employment contexts, the smallest organizational unit, a set of assigned duties and responsibilities that are performed by a person within an organization.
+**practice analysis:** An investigation of a certain occupation or profession to obtain descriptive information about the activities and responsibilities of the occupation or profession and about the knowledge, skills, and abilities needed to engage successfully in the occupation or profession. See *job analysis.*
+**precision of measurement:** The impact of measurement error on the outcome of the measurement. See *standard error of measurement, error of measurement, reliability/precision.*
+**predictive bias:** Thesystematic under- or over-prediction of criterion performance for people belonging to groups differentiated by characteristics not relevant to the criterion performance.
+**predictive validity evidence:** Evidence indicating how accurately test data collected at one time can predict criterion scores that are obtained at a later time.
+**proctor:** In test administration, a person responsible for monitoring the testing process and implementing the test administration procedures.
+**program evaluation:** The collection and synthesis of evidence about the use, operation, and effects of a program; the set of procedures used to make judgments about a program's design, implementation, and outcomes.
+**projection:** A method of score linking in which scores on one test are used to predict scores on another test for a group of test takers, often using regression methodology.
+**prompt/item prompt/writing prompt:** The question, stimulus, or instruction that elicits a test taker's response.
+**proprietary algorithms:** Procedures, often computer code, used by commercial publishers or test developers that are not revealed to the public for commercial reasons.
+**psychodiagnosis:** Formalization or classification of functional mental health status based on psychological assessment.
+**psychological assessment:** An examination of psychological functioning that involves collecting, evaluating, and integrating test results and collateral information, and reporting information about an individual.
+**psychological testing:** The use of tests or inventories to assess particular psychological characteristics of an individual.
+**random error:** A nonsystematic error; a component of test scores that appears to have no relationship to other variables.
+**random sample:** A selection from a defined population of entities according to a random process with the selection of each entity independent of the selection of other entities. See *sample.*
+**raw score:** A score on a test that is calculated by counting the number of correct answers, or more generally, a sum or other combination of item scores.
+**reference population:** The population of test takers to which individual test takers are compared through the test norms. The reference population may be defined in terms of test taker age, grade, clinical status at the time of testing, or other characteristics. See *norms.*
+**relevant subgroup:** A subgroup of the population for which a test is intended that is identifiable in some way that is relevant to the interpretation of test scores for their intended purposes.
+**reliability coefficient:** A unit-free indicator that reflects the degree to which scores are free of random measurement error. See *generalizability theory.*
+**reliability/precision:** The degree to which test scores for a group of test takers are consistent over repeated applications of a measurement procedure and hence are inferred to be dependable and consistent for an individual test taker; the degree to which scores are free of random errors of measurement for a given group. See *generalizability theory, classical test theory, precision of measurement.*
+**response bias:** A test taker's tendency to respond in a particular way or styleto items on a test (e.g., acquiescence, choice of socially desirable options, choice of "true" on a true-false test) that yields systematic, constructirrelevant error in test scores.
+**response format:** The mechanism that a test taker uses to respond to a test item, such as selecting from a list of options (multiple-choice question) or providing a written response (fill-in or written response to an openended or constructed-response question); oral response; or physical performance.
+**response protocol:** A record of the responses given by a test taker to a particular test.
+**restriction of range or variability:** Reduction in the observed score variance of a test-taker sample, compared with the variance of the entire test-taker population, as a consequence of constraints on the process of sampling test takers. See *adjusted validity or reliability coefficient.*
+**retesting:** A repeat administration of a test, using either the same test or an alternate form, sometimes with additional training or education between administrations.
+**rubric:** See *scoring rubric.*
+**sample:** A selection of a specified number of entities, called *sampling units* (test takers, items, etc.), from a larger specified set of possible entities, called the *population.* See *random sample, stratified random sample.*
+**scale:** 1. The system of numbers, and their units, by which a value is reported on some dimension of measurement. 2. In testing, the set of items or subtests used to measure a specific characteristic (e.g., a test of verbal ability or a scale of extroversion-introversion).
+**scale score:** A score obtained by transforming raw scores. Scale scores are typically used to facilitate interpretation.
+**scaling:** The process of creating a scale or a scale score to enhance test score interpretation by placing scores from different tests or test forms on a common scale or by producing scale scores designed to support score interpretations. See *scale.*
+**school district:** A local education agency administered by a public board of education or other public authority that oversees public elementary or secondary schools in a political subdivision of a state.
+**score:** Any specific number resulting from the assessment of an individual, such as a raw score, a scale score, an estimate of a latent variable, a production count, an absence record, a course grade, or a rating.
+**scoring rubric:** The established criteria, including rules, principles, and illustrations, used in scoring constructed responses to individual tasks and clusters of tasks.
+**screening test:** A test that is used to make broad categorizations of test takers as a first step in selection decisions or diagnostic processes.
+**selection:** The acceptance or rejection of applicants for a particular educational or employment opportunity.
+**sensitivity:** In classification, diagnosis, and selection, the proportion of cases that are assessed as meeting or predicted to meet the criteria and which, in truth, do meet the criteria.
+**specificity:** In classification, diagnosis, and selection, the proportion of cases that are assessed as not meeting or predicted to not meet the criteria and which, in truth, do not meet the criteria.
+**speededness:** The extent to which test takers' scores depend on the rate at which work is performed as well as on the correctness of the responses. The term is not used to describe tests of speed.
+**split-halves reliability coefficient:** An internal-consistency coefficient obtained by using half the items on a test to yield one score and the other half of the items to yield a second, independent score. See *internal-consistency coefficient, coefficient alpha.*
+**stability:** The extent to which scores on a test are essentially invariant over time, assessed by correlating the test scores of a group of individuals with scores on the same test or an equated test taken by the same group at a later time. See *test-retest reliability coefficient*.
+**standard error of measurement:** The standard deviation of an individual's observed scores from repeated administrations of a test (or parallel forms of a test) under identical conditions. Because such data generally cannot be collected, the standard error of measurement is usually estimated from group data. See *error of measurement.*
+**standard setting:** The process, often judgment based, of setting cut scores using a structured procedure that seeks to map test scores into discrete performance levels that are usually specified by performance-level descriptors.
+**standardization:** 1. In test administration, maintaining a consistent testing environment and conducting tests according to detailed rules and specifications, so that testing conditions are the same for all test takers on the same and multiple occasions. 2. In test development, establishing a reporting scale using norms based on the test performance of a representativesample of individuals from the population with which the test is intended to be used.
+**standards-based assessment:** Assessment of an individual's standing with respect to systematically described content and performance standards.
+**stratified random sample:** A set of random samples, each of a specified size, from each of several different sets, which are viewed as strata of a population. See *random sample, sample.*
+**summative assessment:** The assessment of a test taker's knowledge and skills typically carried out at the completion of a program of learning, such as the end of an instructional unit.
+**systematic error:** An error that consistently increases or decreases the scores of all test takers or some subset of test takers, but is not related to the construct that the test is intended to measure. See *bias.*
+**technical manual:** A publication prepared by test developers and/or publishers to provide technical and psychometric information about a test.
+**test:** An evaluative device or procedure in which a systematic sample of a test taker's behavior in a specified domain is obtained and scored using a standardized process.
+**test design:** The process of developing detailed specifications for what a test is to measure and the content, cognitive level, format, and types of test items to be used.
+**test developer:** The person(s) or organization responsible for the design and construction of a test and for the documentation regarding its technical quality for an intended purpose.
+**test development:** The process through which a test is planned, constructed,evaluated, and modified, including consideration of content, format, administration, scoring, item properties, scaling, and technical quality for the test's intended purpose.
+**test documents:** Documents such as test manuals, technical manuals, user's guides, specimen sets, and directions for test administrators and scorers that provide information forevaluating the appropriateness and technical adequacy of a test for its intended purpose.
+**test form:** A set of test items or exercises that meet requirements of the specifications for a testing program. Many testing programs use alternate test forms, each built according to the same specifications but with some or all of the test items unique to each form. See *alternate forms.*
+**test format/mode:** The manner in which test content is presented to the test taker: with paper and pencil, via computer terminal or Internet, or orally by an examiner.
+**test information function:** A mathematical function relating each level of an ability or latent trait, as defined under item response theory (IRT), to the reciprocal of the corresponding conditional measurement error variance.
+**test manual:** A publication prepared by test developers and/or publishers to provide information on test administration, scoring, and interpretation and to provide selected technical data on test characteristics. See *user's guide, technical manual.*
+**test modification:** Changes made in the content, format, and/or administration procedure of a test to increase the accessibility of the test for test takers who are unable to take the original test under standard testing conditions. In contrast to test accommodations, test modifications change the construct being measured by the test to some extent and hence change score interpretations. See *adaptation/test adaptation, modification/test modification.* Contrast with *accommodations/test accommodations.*
+**test publisher:** An entity, individual, organization, or agency that produces and/or distributes a test.
+**test-retest reliability coefficient:** A reliability coefficient obtained by administering the same test a second time to the same group after a time interval and correlating the two sets of scores; typically used as a measure of stability of the test scores. See *stability.*
+**test security:** Protection of the content of a test from unauthorized release or use, to protect the integrity of the test scores so they are valid for their intended use.
+**test specifications:** Documentation of the purpose and intended uses of a test as well as of the test's content, format, length, psychometric characteristics (of the items and test overall), delivery mode, administration, scoring, and score reporting.
+**test-taking strategies:** Strategies that test takers might use while taking a test to improve their performance, such as time management or theelimination of obviously incorrect options on a multiple-choice question before responding to the question.
+**test user:** A person or entity responsible for the choice and administration of a test, for the interpretation of test scores produced in a given context, and for any decisions or actions that are based, in part, on test scores.
+**timed test:** A test administered to test takers who are allotted a prescribed amount of time to respond to the test.
+**top-down selection:** Selection of applicants on the basis of rank-ordered test scores from highest to lowest.
+**true score:** In classical test theory, the average of the scores that would be earned by an individual on an unlimited number of strictly parallel forms of the same test.
+**unidimensional test:** A test that measures only one dimension or only one latent variable.
+**universal design:** An approach to assessment development that attempts to maximize the accessibility of a test for all of its intended test takers.
+**universe score:** In generalizability theory, the expected value over all possible replications of a procedure for the test taker. See *generalizability theory.*
+**user norms:** Descriptive statistics (including percentile ranks) for a group of test takers that does not represent a well-defined reference population, for example, all persons tested during a certain period of time, or a set of self-selected test takers. See *local norms, norms.*
+**user's guide:** A publication prepared by test developers and/or publishers to provide information on a test's purpose, appropriate uses, proper administration, scoring procedures, normative data, interpretation of results, and case studies. See *test manual.*
+**validation:** The process through which the validity of a proposed interpretation of test scores for their intended uses is investigated.
+**validity:** The degree to which accumulated evidence and theory support a specific interpretation of test scores for a given use of a test. If multiple interpretations of a test score for different uses are intended, validity evidence for each interpretation is needed.
+**validity argument:** An explicit justification of the degree to which accumulated evidence and theory support the proposed interpretation(s) of test scores for their intended uses.
+**validity generalization:** Application of validity evidence obtained in one or more situations to other similar situations on the basis of methods such as metaanalysis.
+**value-added modeling:** Estimating the contribution of individual schools or teachers to student performance by means of complex statistical techniques that use multiple years of student outcome data, which typically are standardized test scores. See *growth models.*
+**variance components:** Variances accruing from the separate constituent sources that are assumed to contribute to the overall variance of observed scores. Such variances, estimated by methods of the analysis of variance, often reflect situation, location, time, test form, rater, and related effects. See *generalizability theory.*
+**vertical scaling:** In test linking, the process of relating scores on tests that measure the same construct but differ in difficulty. Typically used with achievement and ability tests with content or difficulty that spans a variety of grade or age levels.
+**vocational assessment:** A specialized type of psychological assessment designed to generate hypotheses and inferences about interests, work needs and values, career development, vocational maturity, and indecision.
+**weighted scores/scoring:** A method of scoring a test in which a different number of points is awarded for a correct (or diagnostically relevant) response for different items. In some cases, the scoring formula awards differing points for each different response to the same item.
+# INDEX
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Abbreviated test form, [44](#page-54-0)[–45](#page-55-0), [107](#page-117-0) Accommodations, [45,](#page-55-0) [59](#page-69-0)[–61](#page-71-0) appropriateness, [62,](#page-72-0) [67](#page-77-0)[–69,](#page-79-0) [115,](#page-125-0) [145,](#page-155-0) [190](#page-200-0) documenting, [67,](#page-77-0) [88](#page-98-0) English language learners (ELL), [191](#page-201-0) meaning, [58,](#page-68-0) [190](#page-200-0) score comparability, [59](#page-69-0) (*see also* Modifications) Accountability index, [206](#page-216-0), [209](#page-219-0)–[211](#page-221-0) measures, reliability/precision, [40](#page-50-0) opportunity to learn, [57](#page-67-0) systems, [203](#page-213-0) Achievement standards (*see* Performance standards) Adaptations, [50](#page-60-0), [58–](#page-68-0)[59](#page-69-0) alternate assessments, [189](#page-199-0)[–190](#page-200-0) employment testing, [177](#page-187-0) test-taker responsibilities, [132](#page-142-0) test-user responsibilities, [144](#page-154-0) translations, [60](#page-70-0) (*see also* Accommodations, Modifications) Adaptive testing item selection, [81,](#page-91-0) [89,](#page-99-0) [98](#page-108-0) reliability/precision, [43](#page-53-0) score comparability, [106](#page-116-0) specifications, [80–](#page-90-0)[81](#page-91-0), [86](#page-96-0) Admissions testing, [186](#page-196-0)[–187](#page-197-0) Aggregate scores, [71](#page-81-0), [119](#page-129-0)–[120](#page-130-0), [190](#page-200-0), [210](#page-220-0) Alignment, [15,](#page-25-0) [26,](#page-36-0) [87](#page-97-0)–[89,](#page-99-0) [185,](#page-195-0) [196](#page-206-0) Alternate assessments, [189](#page-199-0)[–190](#page-200-0) Anchor test design, [98](#page-108-0), [105](#page-115-0)–[106](#page-116-0) Assessment formative, [184](#page-194-0) meaning, [2](#page-12-0), [183](#page-193-0) psychological, [151](#page-161-0) summative, [184](#page-194-0) Assessment literacy, [192](#page-202-0) Attenuation, [29,](#page-39-0) [47,](#page-57-0) [180](#page-190-0) Bias, [49,](#page-59-0) [51](#page-61-0)–[54,](#page-64-0) [211](#page-221-0) cultural, [52](#page-62-0)–[53,](#page-63-0) [55](#page-65-0)–[56,](#page-66-0) [60](#page-70-0), [64](#page-74-0)
 
 predictive, [51](#page-61-0)–[52,](#page-62-0) [66](#page-76-0) (*see also* Differential item functioning, Differential prediction, Differential test functioning)
@@ -4019,6 +5972,7 @@ predictive, [51](#page-61-0)–[52,](#page-62-0) [66](#page-76-0) (*see also* Di
 Certification testing, [136,](#page-146-0) [169,](#page-179-0) [174–](#page-184-0)[175](#page-185-0) Change scores (*see* Growth measures) Cheating, [116](#page-126-0)[–117,](#page-127-0) [132,](#page-142-0) [136](#page-146-0)[–137](#page-147-0)
 
 Classical test theory, [33](#page-43-0)–[35,](#page-45-0) [37,](#page-47-0) [88](#page-98-0) Classification, [30](#page-40-0), [181](#page-191-0) decision consistency, [40](#page-50-0)[–41,](#page-51-0) [46,](#page-56-0) [136](#page-146-0) score labels, [136](#page-146-0) Clinical assessment (*see* Psychological assessment) Coaching (*see* Practice effects) Cognitive labs, [82](#page-92-0) Collateral information, [155](#page-165-0), [167](#page-177-0) Composite scores, [27](#page-37-0), [43,](#page-53-0) [93](#page-103-0), [182](#page-192-0), [193](#page-203-0), [210](#page-220-0) Computer adaptive testing (*see* Adaptive testing) Computer-administered tests, [83,](#page-93-0) [112,](#page-122-0) [116,](#page-126-0) [145,](#page-155-0) [153,](#page-163-0) [166,](#page-176-0) [188,](#page-198-0) [197](#page-207-0) Concordance (*see* Score linking) Consequential evidence (*see* Validation evidence, Unintended consequences) Construct, [11](#page-21-0) Construct irrelevance, [12,](#page-22-0) [54–](#page-64-0)[56,](#page-66-0) [64](#page-74-0), [67,](#page-77-0) [90](#page-100-0), [154](#page-164-0) Construct underrepresentation, [12,](#page-22-0) [154](#page-164-0) accommodations, [60](#page-70-0) Content standards, [185](#page-195-0) Content validation evidence, [14–](#page-24-0)[15](#page-25-0) Context effects, [45](#page-55-0) Copyright protection, [147](#page-157-0)–[148](#page-158-0) Credentialing test (*see* Licensing, Certification testing) Criterion variable, [17,](#page-27-0) [172,](#page-182-0) [180](#page-190-0) Criterion-referenced interpretation, [96](#page-106-0) Cross-validation, [28](#page-38-0), [89](#page-99-0) Cut scores, [46,](#page-56-0) [96,](#page-106-0) [100](#page-110-0)–[101,](#page-111-0) [107](#page-117-0)[–109,](#page-119-0) [129,](#page-139-0) [176](#page-186-0) adjusting, [177,](#page-187-0) [182](#page-192-0) standard setting, [176](#page-186-0) Decision accuracy, [40,](#page-50-0) [136](#page-146-0) Decision consistency, [40–](#page-50-0)[41,](#page-51-0) [44](#page-54-0) estimating, [46](#page-56-0) reporting, [46,](#page-56-0) [136,](#page-146-0) [182](#page-192-0) Difference scores, [43](#page-53-0) Differential item functioning (DIF), [16,](#page-26-0) [51](#page-61-0), [82](#page-92-0) Differential prediction, [18,](#page-28-0) [30](#page-40-0), [51](#page-61-0)[–52](#page-62-0), [66](#page-76-0) Differential test functioning (DTF), [51,](#page-61-0) [65](#page-75-0), [70–](#page-80-0)[71](#page-81-0) Dimensionality, [16,](#page-26-0) [27](#page-37-0), [43](#page-53-0) Disattenuated correlations, [29](#page-39-0) Documentation, [123–](#page-133-0)[126](#page-136-0) availability, [129](#page-139-0) cut scores, [107–](#page-117-0)[109](#page-119-0) equating procedures, [105](#page-115-0) forms differences, [86–](#page-96-0)[87](#page-97-0) norming procedures, [104](#page-114-0) psychometric item properties, [88–](#page-98-0)[89](#page-99-0)
+<<<<<<< HEAD
 
 rater qualifications, [92](#page-102-0) rater scoring, [92](#page-102-0) reliability/precision, [126](#page-136-0) research studies, [126–](#page-136-0)[127](#page-137-0) score interpretation, [92](#page-102-0) score linking, [106](#page-116-0) score scale development, [102](#page-112-0) scoring procedures, [118,](#page-128-0) [197](#page-207-0) test administration, [127–](#page-137-0)[128](#page-138-0) test development, [126](#page-136-0) test revision, [129](#page-139-0) Educational testing accountability, [126](#page-136-0), [147](#page-157-0), [203–](#page-213-0)[207](#page-217-0), [209](#page-219-0)–[213](#page-223-0) admissions, [186](#page-196-0)[–187](#page-197-0) placement, [187](#page-197-0) purposes, [184–](#page-194-0)[187,](#page-197-0) [195](#page-205-0) Effect size, [29](#page-39-0) Employment testing contextual factors, [170–](#page-180-0)[171](#page-181-0) job analysis, [173,](#page-183-0) [175,](#page-185-0) [182](#page-192-0) validation, [175–](#page-185-0)[176](#page-186-0) validation process, [171](#page-181-0)–[174,](#page-184-0) [178–](#page-188-0)[179,](#page-189-0) [181](#page-191-0) English language proficiency, [191](#page-201-0) Equating (*see* Score linking) Errors of measurement, [33](#page-43-0)[–34](#page-44-0) Expert review, [87](#page-97-0)–[88](#page-98-0) Fairness accessibility, [49,](#page-59-0) [52](#page-62-0)[–53,](#page-63-0) [77](#page-87-0) educational tests, [186](#page-196-0) meaning, [49](#page-59-0) score validity, [53](#page-63-0)[–54,](#page-64-0) [63](#page-73-0) universal design, [50,](#page-60-0) [57–](#page-67-0)[58,](#page-68-0) [187](#page-197-0) (*see also* Bias) Faking, [154–](#page-164-0)[155](#page-165-0) Field testing, [83](#page-93-0), [88](#page-98-0) Flagging test scores (*see* Adaptations) Gain scores (*see* Difference scores, Growth measures) Generalizability theory framework, [34](#page-44-0) Group performance interpretation, [66,](#page-76-0) [200,](#page-210-0) [207,](#page-217-0) [212](#page-222-0) norms, [104](#page-114-0) reliability/precision, [40,](#page-50-0) [46](#page-56-0)[–47,](#page-57-0) [119](#page-129-0) subgroups, [72,](#page-82-0) [145,](#page-155-0) [165](#page-175-0)
 
@@ -4038,4 +5992,16 @@ Systematic errors, [36](#page-46-0)
 
 Technical manuals (*see* Documentation) Test classroom, [183](#page-193-0) meaning, [2](#page-12-0), [183](#page-193-0) Test administration, [114,](#page-124-0) [192](#page-202-0) directions, [83,](#page-93-0) [90–](#page-100-0)[91,](#page-101-0) [112](#page-122-0) documentation, [127](#page-137-0)–[128](#page-138-0) interpreter use, [69–](#page-79-0)[70](#page-80-0) qualifications, [127,](#page-137-0) [139,](#page-149-0) [142,](#page-152-0) [153,](#page-163-0) [164,](#page-174-0) [199–](#page-209-0)[200](#page-210-0) security, [128](#page-138-0) standardized, [65,](#page-75-0) [115](#page-125-0) variations, [87,](#page-97-0) [90,](#page-100-0) [115](#page-125-0) Test bias (*see* Bias) Test developer, [23](#page-33-0) meaning, [3](#page-13-0), [76](#page-86-0) Test development accessibility, [195](#page-205-0)[–196](#page-206-0) design, [75](#page-85-0) documentation, [126](#page-136-0) meaning, [75](#page-85-0) (*see also* Universal design) Test manuals (*see* Documentation) Test preparation, [24](#page-34-0)[–25,](#page-35-0) [134,](#page-144-0) [165,](#page-175-0) [197](#page-207-0) Test publisher, [76](#page-86-0) Test revisions, [83–](#page-93-0)[84](#page-94-0), [93,](#page-103-0) [107,](#page-117-0) [176–](#page-186-0)[177](#page-187-0) documentation, [129](#page-139-0) Test security procedures, [83](#page-93-0) Test selection, [72,](#page-82-0) [139,](#page-149-0) [142](#page-152-0)[–143,](#page-153-0) [204,](#page-214-0) [212](#page-222-0) psychological, [152,](#page-162-0) [164–](#page-174-0)[165](#page-175-0) Test specifications, [85–](#page-95-0)[86](#page-96-0) adaptive testing, [80–](#page-90-0)[81](#page-91-0) administration, [80](#page-90-0) content, [76](#page-86-0), [85](#page-95-0) employment testing, [175](#page-185-0) item formats, [77](#page-87-0)[–78](#page-88-0) length, [79](#page-89-0) meaning, [76](#page-86-0) portfolios, [78](#page-88-0) purpose, [76](#page-86-0) scoring, [79–](#page-89-0)[80](#page-90-0) Test standards applicability, [2](#page-12-0)[–3,](#page-13-0) [5](#page-15-0)[–6](#page-16-0) cautions, [7](#page-17-0) enforcement, [2](#page-12-0) legal requirements, [1](#page-11-0), [7](#page-17-0) purposes, [1](#page-11-0) Test users, [139](#page-149-0)–[141](#page-151-0) responsibilities, [142](#page-152-0), [153](#page-163-0) Testing environment, [116](#page-126-0) Testing irregularities, [136–](#page-146-0)[137,](#page-147-0) [146](#page-156-0)
 
+=======
+rater qualifications, [92](#page-102-0) rater scoring, [92](#page-102-0) reliability/precision, [126](#page-136-0) research studies, [126–](#page-136-0)[127](#page-137-0) score interpretation, [92](#page-102-0) score linking, [106](#page-116-0) score scale development, [102](#page-112-0) scoring procedures, [118,](#page-128-0) [197](#page-207-0) test administration, [127–](#page-137-0)[128](#page-138-0) test development, [126](#page-136-0) test revision, [129](#page-139-0) Educational testing accountability, [126](#page-136-0), [147](#page-157-0), [203–](#page-213-0)[207](#page-217-0), [209](#page-219-0)–[213](#page-223-0) admissions, [186](#page-196-0)[–187](#page-197-0) placement, [187](#page-197-0) purposes, [184–](#page-194-0)[187,](#page-197-0) [195](#page-205-0) Effect size, [29](#page-39-0) Employment testing contextual factors, [170–](#page-180-0)[171](#page-181-0) job analysis, [173,](#page-183-0) [175,](#page-185-0) [182](#page-192-0) validation, [175–](#page-185-0)[176](#page-186-0) validation process, [171](#page-181-0)–[174,](#page-184-0) [178–](#page-188-0)[179,](#page-189-0) [181](#page-191-0) English language proficiency, [191](#page-201-0) Equating (*see* Score linking) Errors of measurement, [33](#page-43-0)[–34](#page-44-0) Expert review, [87](#page-97-0)–[88](#page-98-0) Fairness accessibility, [49,](#page-59-0) [52](#page-62-0)[–53,](#page-63-0) [77](#page-87-0) educational tests, [186](#page-196-0) meaning, [49](#page-59-0) score validity, [53](#page-63-0)[–54,](#page-64-0) [63](#page-73-0) universal design, [50,](#page-60-0) [57–](#page-67-0)[58,](#page-68-0) [187](#page-197-0) (*see also* Bias) Faking, [154–](#page-164-0)[155](#page-165-0) Field testing, [83](#page-93-0), [88](#page-98-0) Flagging test scores (*see* Adaptations) Gain scores (*see* Difference scores, Growth measures) Generalizability theory framework, [34](#page-44-0) Group performance interpretation, [66,](#page-76-0) [200,](#page-210-0) [207,](#page-217-0) [212](#page-222-0) norms, [104](#page-114-0) reliability/precision, [40,](#page-50-0) [46](#page-56-0)[–47,](#page-57-0) [119](#page-129-0) subgroups, [72,](#page-82-0) [145,](#page-155-0) [165](#page-175-0)
+
+(*see also* Aggregate scores) Growth measures, [185,](#page-195-0) [198,](#page-208-0) [209](#page-219-0)
+High-stakes tests, [189](#page-199-0), [203](#page-213-0)
+Informed consent, [131,](#page-141-0) [134](#page-144-0)[–135](#page-145-0)
+Item format accessibility, [77](#page-87-0) adaptations, [77](#page-87-0) performance assessments, [77](#page-87-0)–[78](#page-88-0) portfolios, [78](#page-88-0) simulations, [78](#page-88-0) Item response theory (IRT), [38](#page-48-0) information function, [34,](#page-44-0) [37](#page-47-0)[–38](#page-48-0) Item tryout, [82,](#page-92-0) [88](#page-98-0) Item weights, [93](#page-103-0) Language proficiency, [53,](#page-63-0) [55](#page-65-0), [68–](#page-78-0)[69](#page-79-0), [146](#page-156-0), [156–](#page-166-0)[157](#page-167-0), [191](#page-201-0) (*see also* Translated tests) Licensing, [169](#page-179-0), [175](#page-185-0) Linking tests (*see* Score linking) Local scoring, [128](#page-138-0) Mandated tests, [195,](#page-205-0) [212–](#page-222-0)[213](#page-223-0) Matrix sampling, [47,](#page-57-0) [119](#page-129-0)[–120,](#page-130-0) [204,](#page-214-0) [209](#page-219-0) Meta-analysis, [29–](#page-39-0)[30](#page-40-0), [173–](#page-183-0)[174](#page-184-0), [209](#page-219-0) Modifications, [24](#page-34-0), [45,](#page-55-0) [67](#page-77-0) appropriateness, [62,](#page-72-0) [69](#page-79-0) documenting, [68](#page-78-0) meaning, [58,](#page-68-0) [190](#page-200-0) score interpretations, [68,](#page-78-0) [191](#page-201-0) (*see also* Accommodations) Multi-stage testing, [81](#page-91-0) (*see also* Adaptive testing) Norm-referenced interpretation, [96–](#page-106-0)[97,](#page-107-0) [186](#page-196-0) Norms, [96–](#page-106-0)[97](#page-107-0), [104](#page-114-0), [126](#page-136-0), [186](#page-196-0) local, [196](#page-206-0) updating, [104–](#page-114-0)[105](#page-115-0) user, [97](#page-107-0), [186](#page-196-0) Observed score, [34](#page-44-0) Opportunity to learn, [56–](#page-66-0)[57,](#page-67-0) [72](#page-82-0), [197](#page-207-0) Parallel tests, [35](#page-45-0) Passing score (*see* Cut scores) Performance standards, [185](#page-195-0) Personality measures, [43,](#page-53-0) [142,](#page-152-0) [155,](#page-165-0) [158,](#page-168-0) [164](#page-174-0) Personnel selection testing (*see* Employment testing) Placement tests, [169](#page-179-0), [187](#page-197-0) Policy studies, [203,](#page-213-0) [204](#page-214-0) Practice effects, [24–](#page-34-0)[25](#page-35-0) Practice material, [91](#page-101-0), [116](#page-126-0), [131](#page-141-0) Program evaluation, [203–](#page-213-0)[204](#page-214-0) Psychological assessment batteries, [155](#page-165-0), [165–](#page-175-0)[167](#page-177-0) collateral information, [155,](#page-165-0) [167](#page-177-0) diagnosis, [159](#page-169-0)[–160,](#page-170-0) [165,](#page-175-0) [167](#page-177-0) interpretation, [155](#page-165-0)
+interventions, [161](#page-171-0) meaning, [151](#page-161-0) personality, [158](#page-168-0) process, [151](#page-161-0)[–152](#page-162-0) purposes, [159–](#page-169-0)[163](#page-173-0) qualifications, [164](#page-174-0) types of, [155](#page-165-0)[–157](#page-167-0) vocational, [158–](#page-168-0)[159](#page-169-0) Random errors, [36](#page-46-0) Rater agreement, [25](#page-35-0), [39,](#page-49-0) [44,](#page-54-0) [118](#page-128-0) Rater training (*see* Scorer training) Raw scores, [103](#page-113-0) Records retention, [120–](#page-130-0)[121](#page-131-0), [146](#page-156-0) Reliability coefficient interpretation, [44](#page-54-0) meaning, [33–](#page-43-0)[35](#page-45-0) Reliability/precision documentation, [126](#page-136-0) meaning, [33](#page-43-0) Reliability/precision estimates adjustments with, [29](#page-39-0), [47](#page-57-0) interpretations, [38](#page-48-0)–[39](#page-49-0) reporting of results, [40–](#page-50-0)[45](#page-55-0) reporting subscores, [43](#page-53-0) Reliability/precision estimation procedures, [36–](#page-46-0)[37](#page-47-0) alternate forms, [34–](#page-44-0)[35](#page-45-0), [37](#page-47-0), [95](#page-105-0) generalizability coefficient, [37](#page-47-0)[–38](#page-48-0) group means, [40](#page-50-0), [46–](#page-56-0)[47](#page-57-0) internal consistency, [35](#page-45-0)–[37](#page-47-0) reporting, [47](#page-57-0) scorer consistency, [37](#page-47-0), [44](#page-54-0), [92](#page-102-0) test-retest, [36](#page-46-0)[–38](#page-48-0) Replications, [35](#page-45-0)–[37](#page-47-0) Response bias, [154](#page-164-0) Restriction of range, [29,](#page-39-0) [47,](#page-57-0) [180](#page-190-0) Retention of records, [120](#page-130-0)[–121](#page-131-0), [146](#page-156-0) Retesting, [114–](#page-124-0)[115](#page-125-0), [132,](#page-142-0) [146–](#page-156-0)[147,](#page-157-0) [152,](#page-162-0) [197](#page-207-0) Scale drift, [107](#page-117-0) Scale scores appropriate use, [102](#page-112-0) documentation, [102](#page-112-0) drift, [107](#page-117-0) interpretation, [102](#page-112-0)[–103](#page-113-0) Scale stability, [103](#page-113-0) Score comparability adaptive testing, [106](#page-116-0) evidence, [60,](#page-70-0) [103,](#page-113-0) [105,](#page-115-0) [106](#page-116-0) interpretations, [61](#page-71-0), [71](#page-81-0), [95](#page-105-0), [111](#page-121-0), [116](#page-126-0) translations, [69](#page-79-0)
+Score interpretation, [23](#page-33-0)[–25](#page-35-0) absolute, [39](#page-49-0) automated, [119,](#page-129-0) [144,](#page-154-0) [168](#page-178-0) case studies, [128–](#page-138-0)[129](#page-139-0) composite scores, [27](#page-37-0), [43](#page-53-0), [182](#page-192-0) documentation, [92](#page-102-0) inappropriate, [23,](#page-33-0) [27](#page-37-0), [124,](#page-134-0) [143](#page-153-0)[–144,](#page-154-0) [166](#page-176-0) meta-analysis, [30,](#page-40-0) [173–](#page-183-0)[174](#page-184-0) multiple indicators, [71](#page-81-0), [140–](#page-150-0)[141](#page-151-0), [145](#page-155-0), [154–](#page-164-0)[155](#page-165-0), [166–](#page-176-0)[167,](#page-177-0) [179,](#page-189-0) [198](#page-208-0), [213](#page-223-0) qualifications, [139–](#page-149-0)[142](#page-152-0), [199–](#page-209-0)[200](#page-210-0) relative, [39](#page-49-0) reliability/precision, [33–](#page-43-0)[34,](#page-44-0) [42,](#page-52-0) [119,](#page-129-0) [198–](#page-208-0)[199](#page-209-0) subgroups, [65](#page-75-0), [70–](#page-80-0)[72,](#page-82-0) [211](#page-221-0) subscores, [27,](#page-37-0) [176,](#page-186-0) [201](#page-211-0) test batteries, [155](#page-165-0) validation, [23](#page-33-0), [27,](#page-37-0) [85,](#page-95-0) [199](#page-209-0) Score linking, [99–](#page-109-0)[100](#page-110-0) documentation, [106](#page-116-0) equating meaning, [97](#page-107-0) equating methods, [98](#page-108-0), [105–](#page-115-0)[106](#page-116-0) meaning, [95](#page-105-0) Score reporting, [135](#page-145-0) adaptations, [61](#page-71-0) automated, [119](#page-129-0), [144](#page-154-0), [168](#page-178-0), [194](#page-204-0) errors, [120,](#page-130-0) [143](#page-153-0) flagging, [61](#page-71-0), [194](#page-204-0) release, [135](#page-145-0), [146–](#page-156-0)[147,](#page-157-0) [211](#page-221-0)–[212](#page-222-0) supporting materials, [119](#page-129-0), [144](#page-154-0), [166](#page-176-0), [194](#page-204-0), [200](#page-210-0) timelines, [136–](#page-146-0)[137,](#page-147-0) [146](#page-156-0) transmission, [121](#page-131-0), [135](#page-145-0) Scorer training, [112,](#page-122-0) [118](#page-128-0) Scoring analytic, [79](#page-89-0) holistic, [79](#page-89-0) Scoring algorithms, [66–](#page-76-0)[67](#page-77-0), [91–](#page-101-0)[92,](#page-102-0) [118](#page-128-0) documenting, [92](#page-102-0) Scoring bias, [66](#page-76-0) Scoring errors, [143](#page-153-0) Scoring portfolios, [78](#page-88-0), [187](#page-197-0) Scoring rubrics, [79](#page-89-0), [82,](#page-92-0) [92](#page-102-0), [118](#page-128-0) bias, [57](#page-67-0) Security, [117,](#page-127-0) [120–](#page-130-0)[121](#page-131-0), [128,](#page-138-0) [132](#page-142-0), [147–](#page-157-0)[148,](#page-158-0) [168](#page-178-0) Selection, [169](#page-179-0) Sensitivity reviews, [64](#page-74-0) Short forms of tests (*see* Abbreviated test form) Standard error of measurement (SEM), [34,](#page-44-0) [37,](#page-47-0) [39–](#page-49-0) [40](#page-50-0), [45](#page-55-0)–[46](#page-56-0) conditional, [34](#page-44-0), [39](#page-49-0), [46](#page-56-0), [176](#page-186-0), [182](#page-192-0) Standard setting (*see* Cut scores) Standardized test, [111](#page-121-0)
+Systematic errors, [36](#page-46-0)
+Technical manuals (*see* Documentation) Test classroom, [183](#page-193-0) meaning, [2](#page-12-0), [183](#page-193-0) Test administration, [114,](#page-124-0) [192](#page-202-0) directions, [83,](#page-93-0) [90–](#page-100-0)[91,](#page-101-0) [112](#page-122-0) documentation, [127](#page-137-0)–[128](#page-138-0) interpreter use, [69–](#page-79-0)[70](#page-80-0) qualifications, [127,](#page-137-0) [139,](#page-149-0) [142,](#page-152-0) [153,](#page-163-0) [164,](#page-174-0) [199–](#page-209-0)[200](#page-210-0) security, [128](#page-138-0) standardized, [65,](#page-75-0) [115](#page-125-0) variations, [87,](#page-97-0) [90,](#page-100-0) [115](#page-125-0) Test bias (*see* Bias) Test developer, [23](#page-33-0) meaning, [3](#page-13-0), [76](#page-86-0) Test development accessibility, [195](#page-205-0)[–196](#page-206-0) design, [75](#page-85-0) documentation, [126](#page-136-0) meaning, [75](#page-85-0) (*see also* Universal design) Test manuals (*see* Documentation) Test preparation, [24](#page-34-0)[–25,](#page-35-0) [134,](#page-144-0) [165,](#page-175-0) [197](#page-207-0) Test publisher, [76](#page-86-0) Test revisions, [83–](#page-93-0)[84](#page-94-0), [93,](#page-103-0) [107,](#page-117-0) [176–](#page-186-0)[177](#page-187-0) documentation, [129](#page-139-0) Test security procedures, [83](#page-93-0) Test selection, [72,](#page-82-0) [139,](#page-149-0) [142](#page-152-0)[–143,](#page-153-0) [204,](#page-214-0) [212](#page-222-0) psychological, [152,](#page-162-0) [164–](#page-174-0)[165](#page-175-0) Test specifications, [85–](#page-95-0)[86](#page-96-0) adaptive testing, [80–](#page-90-0)[81](#page-91-0) administration, [80](#page-90-0) content, [76](#page-86-0), [85](#page-95-0) employment testing, [175](#page-185-0) item formats, [77](#page-87-0)[–78](#page-88-0) length, [79](#page-89-0) meaning, [76](#page-86-0) portfolios, [78](#page-88-0) purpose, [76](#page-86-0) scoring, [79–](#page-89-0)[80](#page-90-0) Test standards applicability, [2](#page-12-0)[–3,](#page-13-0) [5](#page-15-0)[–6](#page-16-0) cautions, [7](#page-17-0) enforcement, [2](#page-12-0) legal requirements, [1](#page-11-0), [7](#page-17-0) purposes, [1](#page-11-0) Test users, [139](#page-149-0)–[141](#page-151-0) responsibilities, [142](#page-152-0), [153](#page-163-0) Testing environment, [116](#page-126-0) Testing irregularities, [136–](#page-146-0)[137,](#page-147-0) [146](#page-156-0)
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Test-taker responsibilities, [131](#page-141-0)[–132](#page-142-0) adaptations, [132](#page-142-0) Test-taker rights, [131](#page-141-0)–[133](#page-143-0), [162](#page-172-0) informed consent, [131](#page-141-0), [134–](#page-144-0)[135](#page-145-0) irregularities, [137](#page-147-0) research instrument, [91](#page-101-0) test preparation, [133](#page-143-0) Time limits, appropriateness, [90](#page-100-0) Translated tests, [60–](#page-70-0)[61,](#page-71-0) [68–](#page-78-0)[69,](#page-79-0) [127](#page-137-0) True score, [34](#page-44-0) Unintended consequences, [12,](#page-22-0) [19](#page-29-0)[–20,](#page-30-0) [30](#page-40-0)[–31,](#page-41-0) [124,](#page-134-0) [189,](#page-199-0) [196,](#page-206-0) [207,](#page-217-0) [212](#page-222-0) Universal design, [50,](#page-60-0) [57](#page-67-0)[–58,](#page-68-0) [63,](#page-73-0) [77,](#page-87-0) [187](#page-197-0) Universe score, [34](#page-44-0) Validation meaning, [11](#page-21-0) process, [11–](#page-21-0)[12,](#page-22-0) [19–](#page-29-0)[21,](#page-31-0) [23,](#page-33-0) [85,](#page-95-0) [171](#page-181-0)[–174,](#page-184-0) [210](#page-220-0) samples, [25,](#page-35-0) [126–](#page-136-0)[127](#page-137-0) Validation evidence, [13–](#page-23-0)[19](#page-29-0) absence of, [143,](#page-153-0) [164](#page-174-0) concurrent, [17–](#page-27-0)[18](#page-28-0) consequential, [19](#page-29-0)[–21,](#page-31-0) [30](#page-40-0)[–31](#page-41-0) construct-related, [27](#page-37-0)–[28,](#page-38-0) [66](#page-76-0) content-oriented, [14,](#page-24-0) [26,](#page-36-0) [54](#page-64-0)[–55,](#page-65-0) [87](#page-97-0)[–89,](#page-99-0) [172,](#page-182-0) [175–](#page-185-0)[176,](#page-186-0) [178,](#page-188-0) [181](#page-191-0)[–182,](#page-192-0) [196](#page-206-0) convergent, [16–](#page-26-0)[17](#page-27-0) criterion variable, [28](#page-38-0), [172](#page-182-0), [180](#page-190-0) criterion-related, [17–](#page-27-0)[19,](#page-29-0) [29](#page-39-0), [66,](#page-76-0) [167,](#page-177-0) [172,](#page-182-0) [175–](#page-185-0) [176](#page-186-0) data collection, [26](#page-36-0) discriminant, [16–](#page-26-0)[17](#page-27-0) integration of, [21](#page-31-0)[–22](#page-32-0) internal structure, [16,](#page-26-0) [26](#page-36-0)[–27](#page-37-0) interrelationships, [16,](#page-26-0) [27–](#page-37-0)[29](#page-39-0) predictive, [17–](#page-27-0)[18](#page-28-0), [28,](#page-38-0) [129,](#page-139-0) [167,](#page-177-0) [172,](#page-182-0) [179](#page-189-0) rater variables, [25–](#page-35-0)[26](#page-36-0) ratings, [25](#page-35-0)[–26](#page-36-0) relations to other variables, [16–](#page-26-0)[18](#page-28-0), [172](#page-182-0) response processes, [15–](#page-25-0)[16](#page-26-0), [26](#page-36-0) statistical, [26,](#page-36-0) [28](#page-38-0)[–29,](#page-39-0) [126](#page-136-0) subgroups, [64](#page-74-0) validity generalization, [18,](#page-28-0) [173,](#page-183-0) [180](#page-190-0) Validity fairness, [49–](#page-59-0)[57](#page-67-0) meaning, [11,](#page-21-0) [14](#page-24-0) process, [13](#page-23-0) reliability/precision implications, [34–](#page-44-0)[35](#page-45-0) Validity generalization, [18](#page-28-0), [173](#page-183-0), [180](#page-190-0) Vertical scaling, [95,](#page-105-0) [99](#page-109-0), [185](#page-195-0)

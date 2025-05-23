@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](_page_0_Picture_0.jpeg)
 
 # Is This a Is This a Is This a Trick Question?
@@ -11,6 +12,15 @@ This publication was developed by the Kansas Curriculum Center with funds provid
 
 # Table of Contents Table of Contents
 
+=======
+# Clay and Root (2001) Is This a Trick Question? A Short Guide to Writing Effective Test Questions**
+![](_page_0_Picture_0.jpeg)
+> **Designed & Developed by: Ben Clay Kansas Curriculum Center**
+**Formatting & Text Processing by: Esperanza Root**
+This publication was developed by the Kansas Curriculum Center with funds provided by the Kansas State Department of Education. First printing: October, 2001
+
+**TABLE-Table of Contents Table of Contents**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Preface<br>i-ii                                           |
 |-----------------------------------------------------------|
 | Pre-Test 1-2                                              |
@@ -50,6 +60,7 @@ This publication was developed by the Kansas Curriculum Center with funds provid
 | Suggestions for Writing Matching Test Items  30-31        |
 | Matching Test Taking Tips  32                             |
 | Variations for Creating Matching Tests  33                |
+<<<<<<< HEAD
 
 | Completion or Fill-in-the-Blank Test Items  34-37    |  |
 |------------------------------------------------------|--|
@@ -90,6 +101,47 @@ This publication was developed by the Kansas Curriculum Center with funds provid
 # Preface… Preface… Preface…
 
 ## **Research indicates…**
+=======
+| Completion or Fill-in-the-Blank Test Items  34-37         |
+|------------------------------------------------------     |
+| Section Summary 34                                        |
+| Test Your Knowledge 35                                    |
+| Suggestions for Writing Completion Test Items  36-37      |
+| Completion Test Taking Tips  37                           |
+|                                                           |
+| Essay Test Items  38-44                                   |
+| Section Summary 38                                        |
+| "I'd Like to Use Essay Tests, But…"  39                   |
+| Read'Em and Weep Essay Test Items 39                      |
+| Test Your Knowledge 40                                    |
+| Suggestions for Writing Essay Test Items  41-42           |
+| Four-Step Process in Grading Essay Tests  43              |
+| Essay Test Taking Tips 44                                 |
+| Short Answer Questionsat the end (p 64)                   |
+| Additional Types of Test Items 45-51                      |
+| Problem Solving  45                                       |
+| Using Authentic Assessments  46-47                        |
+| Grading Authentic Assessments  48                         |
+| Rubric Development  48-51                                 |
+|                                                           |
+| Etc…Etc…Etc…<br>52-60                                     |
+| Purpose of Testing  52                                    |
+| Tips on Test Construction  52                             |
+| Test Layout Tips 52                                       |
+| Returning Tests and Giving Feedback  53                   |
+| Alternative Testing Modes  54                             |
+| Creating Fair Tests and Testing Fairly  55                |
+| "I'd Like to Use Essay Tests, But…"  56-57                |
+| Test Administration Assignment  58                        |
+| Cognitive Domain Guide 59                                 |
+| Affective Domain Guide  60                                |
+|                                                           |
+| Bibliography  61-63                                       |
+
+## Preface… 
+
+### **Research indicates…**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Teachers tend to use tests that they have prepared themselves much more often than any other type of test. (*How Teaching Matters,* **NCATE,** Oct. 2000)
 
@@ -113,7 +165,11 @@ This sourcebook was developed to accomplish three outcomes:
 
 *(Continued on next page…)*
 
+<<<<<<< HEAD
 ## **In Kansas…**
+=======
+### **In Kansas…**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The Kansas Commission on Teaching and America's Future (KCTAF), chaired by Dr. Andy Tompkins, Kansas Commissioner of Education, proposes to "develop higher-quality alternative pathways to teaching" as well as to "reinvent teacher preparation and professional development." As secondary and postsecondary institutions are exploring (out of necessity mostly) alternatives to traditional teacher recruitment, the need for training in assessment procedures and paper-andpencil test construction in particular, become more and more evident.
 
@@ -129,6 +185,7 @@ While no one document can thoroughly address the needs and concerns expressed in
 
 > Ben Clay, Coordinator Kansas Curriculum Center
 
+<<<<<<< HEAD
 # Pre-Test 
 
 ## **Two general categories of test items**
@@ -138,19 +195,34 @@ While no one document can thoroughly address the needs and concerns expressed in
 **2. Subjective or essay items** which permit the student to organize and present an original answer.
 
 #### **Objective items include:**
+=======
+## Pre-Test 
+
+### **Two general categories of test items**
+
+**1. Objective items** which require students to select the correct response from several alternatives or to supply a word or short phrase to answer a question or complete a statement
+**2. Subjective or essay items** which permit the student to organize and present an original answer.
+
+ **Objective items include:**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! multiple choice
 - ! true-false
 - ! matching
 - ! completion
 
+<<<<<<< HEAD
 #### **Subjective items include:**
+=======
+ **Subjective items include:**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! short-answer essay
 - ! extended-response essay
 - ! problem solving
 - ! performance test items
 
+<<<<<<< HEAD
 **Test your knowledge of these two item types by answering the following questions**
 
 |  | Test Item Quiz<br>Circle the correct answer                                                             |   |   |   |
@@ -167,6 +239,23 @@ While no one document can thoroughly address the needs and concerns expressed in
 |  | Answers on next page…                                                                                   |   |   |   |
 
 # Quiz 
+=======
+**TABLE-Test your knowledge of these two item types by answering the following questions**
+|  | Test Item Quiz<br>Circle the correct answer   T=True<br>F=False<br>?=Unsure<br>                     |   |   |   |
+|--|-----------------------------------------------------------------------------------------------------|---|---|---|
+|  | 1.Essay exams are easier to construct<br>than are objective exams.                                  | T | F | ? |
+|  | 2.Essay exams require more thorough<br>student preparation and study time<br>than objective exams.  | T | F | ? |
+|  | 3.Essay exams require writing skills<br>where objective exams do not.                               | T | F | ? |
+|  | 4.Essay exams teach a person how<br>to write.                                                       | T | F | ? |
+|  | 5.Essay exams are more subjective<br>in nature than are objective exams.                            | T | F | ? |
+|  | 6.Objective exams encourage guess<br>ing more so than essay exams.                                  | T | F | ? |
+|  | 7.Essay exams limit the extent of<br>content covered.                                               | T | F | ? |
+|  | 8.Essay and objective exams can<br>be used to measure the same<br>content or ability.               | T | F | ? |
+|  | 9.Essay and objective exams are<br>both good ways to evaluate a<br>student's level of knowledge.    | T | F | ? |
+|  | Answers on next page…                                                                               |   |   |   |
+
+ Quiz 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_7_Figure_1.jpeg)
 
@@ -174,7 +263,11 @@ While no one document can thoroughly address the needs and concerns expressed in
 
 **TRUE** Both objective and essay test items are good devices for measuring student achievement. However, as seen in the previous quiz answers, there are particular measurement situations where one item type is more appropriate than the other.
 
+<<<<<<< HEAD
 # Generally… 
+=======
+## Generally… 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Creating a test is one of the most challenging tasks confronting an instructor. Unfortunately, many of us have had little, if any, preparation in writing tests.**
 
@@ -182,6 +275,7 @@ Well constructed tests motivate students and reinforce learning. Well constructe
 
 > **While always demanding, test writing may be made easier by considering the following suggestions for general test construction.**
 
+<<<<<<< HEAD
 ## **General Tips About Testing**
 
 ### **Length of Test**
@@ -205,11 +299,37 @@ It is helpful for instructors to test early in the term and consider discounting
 Frequent testing helps students to avoid getting behind, provides instructors with multiple sources of information to use in computing the final course grade (thus minimizing the effect of "bad days"), and gives students regular feedback. It is important to test various topics in proportion to the emphasis given in class. Students will expect this practice and will study with this expectation.
 
 ### **Check For Accuracy**
+=======
+### **General Tips About Testing**
+
+#### **Length of Test**
+
+In theory, the more items a test has, the more reliable it is. On a short test a few wrong answers can have a great effect on the overall results. On a long test, a few wrong answers will not influence the results as much. A long test does have drawbacks. If a test is too long, and particularly if students are doing the same kind of item over and over, they may get tired and not respond accurately or seriously. If a test needs to be lengthy, divide it into sections with different kinds of tasks, to maintain the student's interest.
+
+#### **Clear, Concise Instructions**
+
+It is necessary to give clear, concise instructions. It is useful to provide an example of a worked problem, which helps the students understand exactly what is necessary. What seems to be clear to the writer may be unclear to someone else.
+
+#### **Mix It Up!**
+
+It is often advantageous to mix types of items (multiple choice, true-false, essay) on a written exam or to mix types of exams (a performance component with a written component). Weaknesses connected with one kind of item or component or in students' test taking skills will be minimized.
+
+#### **Test Early**
+
+It is helpful for instructors to test early in the term and consider discounting the first test if results are poor. Students often need a practice test to understand the format each instructor uses and anticipate the best way to prepare for and take particular tests.
+
+#### **Test Frequently**
+
+Frequent testing helps students to avoid getting behind, provides instructors with multiple sources of information to use in computing the final course grade (thus minimizing the effect of "bad days"), and gives students regular feedback. It is important to test various topics in proportion to the emphasis given in class. Students will expect this practice and will study with this expectation.
+
+#### **Check For Accuracy**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Instructors should be cautious about using tests written by others. Often, items developed by a previous instructor, a textbook publisher, etc., can save a lot of time, but they should be checked for accuracy and appropriateness in the given course.
 
 *(Continued on next page…)*
 
+<<<<<<< HEAD
 ### **General Tips About Testing**
 
 **(Continued from previous page)**
@@ -227,12 +347,31 @@ Generally, on either a written or performance test, it is wise to avoid having s
 It is important to anticipate special considerations that learning disabled students or non-native speakers may need. The instructor needs to anticipate special needs in advance and decide whether or not students will be allowed the use of dictionaries, extra time, separate testing sites, or other special conditions.
 
 ### **A Little Humor**
+=======
+#### **Proofread Exams**
+
+On written exams, it is important to proofread exams carefully and, when possible, have another person proofread them. Tiny mistakes, such as misnumbering the responses, can cause big problems later. Collation should also be checked carefully, since missing pages can cause a great deal of trouble.
+
+#### **One Wrong Answer**
+
+Generally, on either a written or performance test, it is wise to avoid having separate items or tasks depend upon answers or skills required in previous items or tasks. A student's initial mistake will be perpetuated over the course of succeeding items or tasks, penalizing the student repeatedly for one error.
+
+#### **Special Considerations**
+
+It is important to anticipate special considerations that learning disabled students or non-native speakers may need. The instructor needs to anticipate special needs in advance and decide whether or not students will be allowed the use of dictionaries, extra time, separate testing sites, or other special conditions.
+
+#### **A Little Humor**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Instructors have found that using a little humor or placing less difficult items or tasks at the beginning of an exam can help students with test anxiety to reduce their preliminary tension and thus provide a more accurate demonstration of their progress.
 
 *What makes a test good or bad? The most basic and obvious answer to that question is that good tests measure what you want to measure, and bad tests do not.*
 
+<<<<<<< HEAD
 # When to Use Essay or Objective Tests to Essay or Objective Tests
+=======
+### When to Use Essay or Objective Tests to Essay or Objective Tests
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *It is always tempting to emphasize the parts of the course that are easiest to test, rather than the parts that are important to test.*
 
@@ -269,7 +408,11 @@ To further illustrate this principle, several sample learning objectives and app
 
  1-A, 2-C, 3-B, 4-D, 5-B, 6-C, 7-B, 8-D, 9-A, 10-C *Answers:*
 
+<<<<<<< HEAD
 # Planning the Test… Planning the Test… Planning the Test…
+=======
+## Planning the Test… 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **By definition no test can be truly objective: existing as an object of fact, independent of the mind.**
 
@@ -283,9 +426,15 @@ To further illustrate this principle, several sample learning objectives and app
 
 *Implying that one type of question is automatically objective and the other necessarily subjective is a faulty assumption, since bias can occur with either type of test.*
 
+<<<<<<< HEAD
 ## *Criteria for Establishing* **Technical Quality of a Test\***
 
 ### 1. Cognitive Complexity
+=======
+### *Criteria for Establishing* **Technical Quality of a Test\***
+
+#### 1. Cognitive Complexity
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** The test questions will focus on appropriate intellectual activity ranging from simple recall of facts to problem solving, critical thinking, and reasoning.
 
@@ -306,36 +455,60 @@ These levels of understanding assist in categorizing test questions. Teachers te
 \*Adapted from material developed by the National Center for Research on Evaluation, Standards, and Student Testing (CRESST).
 See **pages 59 & 60** for Cognitive and Affective Domain Guides.
 
+<<<<<<< HEAD
 #### **Knowledge**
+=======
+##### **Knowledge**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Recognizing and recalling information, including dates, events, persons, places; terms, definitions; facts, principles, theories; methods and procedures
 *Sample Question Frames*
  Who invented the…? What is meant by…? Where is the…?
 
+<<<<<<< HEAD
 #### **Comprehension**
+=======
+##### **Comprehension**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Understanding the meaning of information, including restating (in own words); translating from one form to another; or interpreting, explaining, and summarizing.
 *Sample Question Frames*
 Restate in your own words…? Convert fractions into…? List three reasons for…?
 
+<<<<<<< HEAD
 #### **Application**
+=======
+##### **Application**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Applying general rules, methods, or principles to a new situation, including classifying something as a specific example of a general principle or using a formula to solve a problem.
 *Sample Question Frames*
 How is...an example of... ? How is...related to... ? Why is...significant?
 
+<<<<<<< HEAD
 #### **Analysis**
+=======
+##### **Analysis**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Identifying the organization and patterns within a system by identifying its component parts and the relationships among the components.
 *Sample Question Frames*
 What are the parts of... ? Classify ...according to... Outline/diagram...
 
+<<<<<<< HEAD
 #### **Synthesis**
+=======
+##### **Synthesis**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Discovering/creating new connections, generalizations, patterns, or perspectives; combining ideas to form a new whole. 
 *Sample Question Frames* What would you infer from... ? What ideas can you add to... ? How would you create a... ?
 
+<<<<<<< HEAD
 #### **Evaluation**
+=======
+##### **Evaluation**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Using evidence and reasoned argument to judge how well a proposal would accomplish a particular purpose; resolving controversies or differences of opinion.
 *Sample Question Frames*
@@ -343,7 +516,11 @@ Do you agree…? How would you decide about... ? What priority would you give...
 
 (continued)
 
+<<<<<<< HEAD
 ### 2. Content Quality
+=======
+#### 2. Content Quality
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** The test questions will permit students to demonstrate their knowledge of challenging and important subject matter.
 
@@ -357,7 +534,11 @@ The first activity in planning a test is to outline the actual course content th
 
 An even more conscientious approach would be to construct the test items themselves after each class. The advantage of either of these approaches is that the resulting test is likely to be a better representation of course activity.
 
+<<<<<<< HEAD
 ### 3. Meaningfulness
+=======
+#### 3. Meaningfulness
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** The test questions will be worth students' time and students will recognize and understand their value.
 **To Achieve Meaningfulness…**
@@ -374,7 +555,11 @@ An even more conscientious approach would be to construct the test items themsel
 
 *Preliminary findings by the National Center for Research on Evaluation, Standards, and Student Testing (CRESST):*
 
+<<<<<<< HEAD
 #### **Results of Applying Language Evaluation Criteria to Standardized Content Test Items**
+=======
+##### **Results of Applying Language Evaluation Criteria to Standardized Content Test Items**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Math and science subsections: 67% percent of items had general vocabulary evaluated as uncommon or used in an atypical manner; 33% of items had syntactic structures evaluated as complex or atypical in their construction.
 
@@ -384,7 +569,11 @@ To reduce frustration for good students, avoid **all of these** and **none of th
 
 True-false questions are the worst of all in this regard. Often the truth value of an isolated statement is quite debatable! It all depends on how it is interpreted, the definition of a key term, or the context.
 
+<<<<<<< HEAD
 ### 4. Language Appropriateness
+=======
+#### 4. Language Appropriateness
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** The language demands will be clear and appropriate to the assessment tasks and to students.
 
@@ -392,7 +581,11 @@ Test questions should reflect the language that is used in the classroom. Test i
 
 Modifications of the test for students that are limited English proficient include: assessment in the native language; text changes in vocabulary; modification of linguistic complexity; addition of visual supports; use of glossaries in native language; use of glossaries in English; linguistic modification of test directions; and additional example items/tasks.
 
+<<<<<<< HEAD
 ### 5. Transfer and Generalizability
+=======
+#### 5. Transfer and Generalizability
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** Successful performance on the test will allow valid generalizations about achievement to be made.
 
@@ -400,7 +593,11 @@ Presentations, scenarios, projects and portfolios add dimensions to assessment t
 
 (continued)
 
+<<<<<<< HEAD
 ### 6. Fairness
+=======
+#### 6. Fairness
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** Student performance will be measured in a way that does not give advantage to factors irrelevant to school learning; scoring schemes will be similarly equitable.
 
@@ -408,7 +605,11 @@ Here are a few basic rules of fairness: test questions should reflect the object
 
 Grading constructively requires the instructor to provide feedback (written and/or oral) that helps the students to appreciate what they achieved and did not achieve by taking the test. This feedback could include the following: encouraging comments on a test or paper that convey respect for what the student attempted to accomplish; praise for what the student did accomplish and suggestions for improving performance.
 
+<<<<<<< HEAD
 ### 7. Reliability
+=======
+#### 7. Reliability
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Standard:** Answers to test questions will be consistently trusted to represent what students know.
 
@@ -467,13 +668,20 @@ Multiple choice questions are widely scorned as **multiple guess** questions. Th
 
 (continued)
 
+<<<<<<< HEAD
 ### 7. Reliability (continued)
 
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Studies have shown that the grade given to an essay test depend in part upon the neatness of the handwriting. That seems like a poor way to assign a grade. However, if students are asked to do the test on a word processor, it is hard to ensure that the work is original. Studies have also shown that grades for essay tests are influenced by length. If a student rambles on, there is greater likelihood of hitting a few points that the teacher is looking for. But do we want to reward verbosity?
 
 Despite all this, essay and short answer tests have many virtues. Students need practice formulating arguments, expressing things clearly, and integrating ideas. Nobody would argue that **all** testing should be multiple choice. However, for teachers in many situations, a good objective test is both fairer and more efficient than an essay or short answer test. One way to ensure reliability is to share with your students…
 
+<<<<<<< HEAD
 ## General Test Taking Tips
+=======
+### General Test Taking Tips
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Tell students to survey the entire test before they begin. This will help them identify which section will be quick and/or easy and which will require more time and thought.
 - 2. Encourage students to underline important words in the directions such as list, discuss, define, etc.
@@ -494,11 +702,19 @@ Each kind of test item is briefly described in terms of advantages and limitatio
 
 General suggestions are also presented for the construction of each test item variation.
 
+<<<<<<< HEAD
 # Multiple Choice Test Items 
 
 *"…almost any well defined cognitive objective can be tested fairly in a multiple choice format."*
 
 ## *Section Summary*
+=======
+## Multiple Choice Test Items 
+
+*"…almost any well defined cognitive objective can be tested fairly in a multiple choice format."*
+
+### *Section Summary*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Good for:**
 
@@ -547,7 +763,12 @@ Multiple choice tests can be used to test the ability to:
 
 Multiple choice items can also provide an excellent basis for posttest discussion, especially if the discussion addresses why the incorrect responses were wrong as well as why the correct responses were right. Unfortunately, multiple choice items are difficult and time consuming to construct well. They may also appear too discriminating (picky) to students, especially when the alternatives are well constructed and are open to misinterpretation by students who read more into questions than is there.
 
+<<<<<<< HEAD
 > ## **Test your knowledge of multiple choice tests by taking the multiple choice test on the next page…**
+=======
+### **Test your knowledge 
+of multiple choice tests by taking the multiple choice test on the next page…**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
  Circle the Most Correct Answer Circle the Most Correct Answer Circle the Correct Answer
 
 1. Multiple choice items provide highly reliable test scores because:
@@ -619,7 +840,11 @@ Multiple choice items can also provide an excellent basis for posttest discussio
 
  1-D, 2-B, 3-D, 4-C, 5-A, 6-C, 7-D, 8-C *Answers:*
 
+<<<<<<< HEAD
 ## Suggestions For Writing Multiple Choice Test Items 
+=======
+### Suggestions For Writing Multiple Choice Test Items 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **1. When possible, state the stem as a direct question rather than as an incomplete statement.**
 
@@ -723,6 +948,7 @@ What is the most general cause of low individual incomes in the United States?
 - C. The nation's increased reliance on automation.
 - D. An increasing national level of inflation.
 
+<<<<<<< HEAD
 ## Multiple Choice Test Taking Tips Students: Multiple Test Taking Tips
 
 ### **1. Read the directions carefully**
@@ -734,12 +960,29 @@ The directions usually indicate that some alternatives may be partly correct or 
 If your exam has types of questions other than multiple choice, just reading the stems and alternatives acts is a warm-up to the material. (The stem is the question and the alternatives are the choices). Also, the ideas embedded in these multiple choice questions will fuel your thinking for doing the other parts of the exam. Use the process of elimination procedure. Eliminate the obviously incorrect alternatives.
 
 ### **3. Read all of the stem and every alternative**
+=======
+### Multiple Choice Test Taking Tips Students: Multiple Test Taking Tips
+
+#### **1. Read the directions carefully**
+
+The directions usually indicate that some alternatives may be partly correct or correct statements in themselves, but not when joined to the stem. The directions may say: "choose the most correct answer" or "mark the one best answer." Sometimes you may be asked to "mark all correct answers."
+
+#### **2. Do the multiple choice items first**
+
+If your exam has types of questions other than multiple choice, just reading the stems and alternatives acts is a warm-up to the material. (The stem is the question and the alternatives are the choices). Also, the ideas embedded in these multiple choice questions will fuel your thinking for doing the other parts of the exam. Use the process of elimination procedure. Eliminate the obviously incorrect alternatives.
+
+#### **3. Read all of the stem and every alternative**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Read the stem with each alternative to take advantage of the correct sound or flow that the correct answer often produces. Also, you can eliminate any alternatives that do not agree grammatically with the stem.
 
 Some students find it effective to read the stem and anticipate the correct alternative before actually looking at the alternatives. If you generally do better on essay exams, this strategy may help you a great deal.
 
+<<<<<<< HEAD
 ### **4. Consider "all of the above" and "none of the above"**
+=======
+#### **4. Consider "all of the above" and "none of the above"**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Examine the "above" alternatives to see if all of them or none of them apply totally. If even one does not apply totally, do not consider "all of the above" or "none of the above" as the correct answer. Make sure that a statement applies to the question since it can be true, but not be relevant to the question at hand!
 
@@ -759,11 +1002,19 @@ Examine the "above" alternatives to see if all of them or none of them apply tot
 
 *If there is no penalty, then a guess is better than a blank.*
 
+<<<<<<< HEAD
 ### **5. Plan your time**
 
 Often you are required to answer up to 70 multiple choice questions in an hour or less. This means you may have less than a minute, on average, to spend on each question. Some questions, of course, will take you only a few seconds, while others will require more time for thought.
 
 ### **6. Changing answers**
+=======
+#### **5. Plan your time**
+
+Often you are required to answer up to 70 multiple choice questions in an hour or less. This means you may have less than a minute, on average, to spend on each question. Some questions, of course, will take you only a few seconds, while others will require more time for thought.
+
+#### **6. Changing answers**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Research has shown that changing answers on a multiple choice or true-false exam is neither good nor bad: if you have a good reason for changing your answer, change it. The origin of the myth that people always change from "right" to "wrong" is that those (i.e. the wrong ones) are the only ones you will see when you review your exam—you will not notice the ones you changed from "wrong" to "right."
 
@@ -792,7 +1043,11 @@ Research has shown that changing answers on a multiple choice or true-false exam
 
 > *John A. Johnson Dept. of Psychology, Penn State University*
 
+<<<<<<< HEAD
 ## **Aim for Higher Levels of Learning**
+=======
+### **Aim for Higher Levels of Learning**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Most teachers find it easier to construct multiple choice items to test recall and comprehension and to use essay items to test higherlevel learning objectives. But other possibilities exist. Multiple choice items that require students to do such things as classify statements as fact or opinion go beyond simple recall of facts.
 
@@ -816,11 +1071,19 @@ One way to write multiple choice questions that require more than recall is to d
 
 Then develop a series of questions based on that material. These questions might require students to apply learned concepts to the case, to combine data, to make a prediction on the outcome of a process, to analyze a relationship between pieces of the information, or to synthesize pieces of information into a new concept.
 
+<<<<<<< HEAD
 # True-False Test Items
 
 *There are many situations which call for either-or decisions, such as deciding whether a specific solution is right or wrong, whether to continue or to stop, whether to use a singular or plural construction, and so on. For such situations, the true-false item is an ideal measuring device.*
 
 ## *Section Summary*
+=======
+## True-False Test Items
+
+*There are many situations which call for either-or decisions, such as deciding whether a specific solution is right or wrong, whether to continue or to stop, whether to use a singular or plural construction, and so on. For such situations, the true-false item is an ideal measuring device.*
+
+### *Section Summary*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Good for:**
 
@@ -844,6 +1107,7 @@ In the most basic format, true-false questions are those in which a statement is
 
 From the teacher's perspective, true-false questions can be written quickly. They are easy to score. Because they can be objectively scored, the scores are more reliable than for items that are at least partially dependent on the teacher's judgment.
 
+<<<<<<< HEAD
 ## *Select or Supply?*
 
 True-false questions require the students to select a response (true or false) that shows recognition of correct or incorrect information that is presented to them. These are included among the items that are called **selection,** in contrast to **supply** items in which the student must supply the correct information.
@@ -857,6 +1121,21 @@ Another term applied to true-false items is **forced choice** because the studen
 Many educators feel that true-false test items serve little or no measurement purposes because true-false items are subject to guessing. (But the likelihood of obtaining a substantially higher than chance score by guessing alone is very small). In general, individual true-false items are less discriminating than individual multiple choice items. There is a tendency to write trivial true-false items, which lead students to verbatim memorization. At the same time, no diagnostic information is available from incorrect responses to true-false items. Finally, true-false items are not amenable to concepts that cannot be formulated as propositions.
 
 ## *Summarizing the Argument for the Value of True-False Test Items*
+=======
+#### *Select or Supply?*
+
+True-false questions require the students to select a response (true or false) that shows recognition of correct or incorrect information that is presented to them. These are included among the items that are called **selection,** in contrast to **supply** items in which the student must supply the correct information.
+
+#### *Forced Choice*
+
+Another term applied to true-false items is **forced choice** because the student must choose between two possible answers. Educational objectives that specify the student will *identify, select,* and *recognize* material are appropriately targeted to either forced choice questions or more complex matching or multiple choice questions.
+
+#### *Much Maligned and Abused…*
+
+Many educators feel that true-false test items serve little or no measurement purposes because true-false items are subject to guessing. (But the likelihood of obtaining a substantially higher than chance score by guessing alone is very small). In general, individual true-false items are less discriminating than individual multiple choice items. There is a tendency to write trivial true-false items, which lead students to verbatim memorization. At the same time, no diagnostic information is available from incorrect responses to true-false items. Finally, true-false items are not amenable to concepts that cannot be formulated as propositions.
+
+#### *Summarizing the Argument for the Value of True-False Test Items*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! The essence of educational achievement is the command of useful verbal knowledge.
 - ! All verbal knowledge can be expressed in propositions.
@@ -865,7 +1144,11 @@ Many educators feel that true-false test items serve little or no measurement pu
 
 Since true-false questions tend to be either extremely easy or extremely difficult, they do not discriminate between students of varying ability as well as other types of questions do.
 
+<<<<<<< HEAD
 ## **Making the Case for True-False Items**
+=======
+#### **Making the Case for True-False Items**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - are adaptable to the measurement of a wide variety of learning outcomes.
 - ! Scoring accuracy and economy—Scoring keys can be economically applied by machine or clerical assistants.
@@ -885,7 +1168,11 @@ Since true-false questions tend to be either extremely easy or extremely difficu
  ! True-false items are useful in testing misconceptions.
  ! True-false items can be expressed in few words, making them less dependent on reading ability                                                     
 
+<<<<<<< HEAD
 ## Check Your Knowledge of True-False Test Items 
+=======
+### Check Your Knowledge of True-False Test Items 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 
 | Directions: For each question below, circle A or B.  |
@@ -909,7 +1196,11 @@ Since true-false questions tend to be either extremely easy or extremely difficu
 | 9. The following are examples of words that should be avoided: "all," "none," "never," "sometimes," "generally," and "often
 |    Good     Poor                          |
 
+<<<<<<< HEAD
 ## Suggestions For Writing True-False Test Items For Writing True-False Test Items
+=======
+### Suggestions For Writing True-False Test Items For Writing True-False Test Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Remember…*
 
@@ -992,7 +1283,11 @@ Water will boil at a higher temperature if the atmospheric pressure on its surfa
 
 One method for developing true-false items is to write a set of true statements that cover the content, then convert approximately half of them to false statements. **Remember:** When changing items to false (as well as in writing the true statements initially), state the items positively, avoiding negatives or double negatives.
 
+<<<<<<< HEAD
 ## *Extreme Modifiers:*
+=======
+### *Extreme Modifiers:*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 | all        | none           |
 |------------|----------------|
@@ -1024,7 +1319,11 @@ One method for developing true-false items is to write a set of true statements 
 - ! Avoid the tendency to add details in true statements to make them more precise. The answers should not be obvious to students who do not know the material.
 - ! Be sure to include directions that tell students how and where to mark their responses.
 
+<<<<<<< HEAD
 ## True-False Test Taking Tips 
+=======
+### True-False Test Taking Tips 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! When you do not know or cannot remember information to determine the truth of a statement, assume that it is true.
 - ! There are generally more true questions on true-false exams than false questions because instructors tend to emphasize true questions.
@@ -1034,7 +1333,11 @@ One method for developing true-false items is to write a set of true statements 
 - ! Questions that state a reason tend to be false.
 - ! Words in the statement that cause justification or reason (since, because, when, if) tend to make the statement false because they bring in a reason that is incorrect or incomplete.
 
+<<<<<<< HEAD
 ## Variations in Writing Variations in Writing True-False Test Items True-False Test Items
+=======
+### Variations in Writing Variations in Writing True-False Test Items True-False Test Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  *The True-False-Correction Question…*
 
@@ -1048,7 +1351,11 @@ The teacher decides what word/phrase can be changed in the sentence; if students
 
 If, however, the underlined word/phrase is one that can be changed to its opposite it loses the advantage over the simpler true-false question because all the student has to know is that the statement is false and change **is** to **is not.**
 
+<<<<<<< HEAD
 ### *The Yes-No Variation…*
+=======
+#### *The Yes-No Variation…*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In the yes-no variation, the student responds to each item by writing, circling or indicating yes-no rather than true-false. An example follows:
 
@@ -1061,7 +1368,11 @@ In the yes-no variation, the student responds to each item by writing, circling 
 | Yes | No | There are no good television shows to watch. |
 | Yes | No | Parking is more plentiful at night.          |
 
+<<<<<<< HEAD
 ### *The A-B Variation…*
+=======
+#### *The A-B Variation…*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The example below shows a question for which the same two answers apply. The answers are categories of content rather than true-false or yes-no. This is another form of forced choice question because for each item the student must choose between **A** and **B.**
 
@@ -1078,7 +1389,11 @@ The example below shows a question for which the same two answers apply. The ans
 
  True-False Test Items: Conclusion True-False Test Items: Conclusion
 
+<<<<<<< HEAD
 ###  **Why are these true-false questions crummy?**
+=======
+####  **Why are these true-false questions crummy?**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. There is no advantage for not using specific determiners in true-false items. **T F**
 - 2. Test validity is a function of test reliability, which can be improved by using fewer items. **T F**
@@ -1088,27 +1403,47 @@ The example below shows a question for which the same two answers apply. The ans
 
 "A major distinction between the true-false test item and items in a multiple choice format, is that the true-false statement contains no criterion for answering the question. Each examinee must ask the question: *True or false with respect to what?* Each true-false item must be unequivocally true or unequivocally false. It is imperative that proper wording and the elimination of extraneous clues are more crucial with the true-false item than with any other test format." Writing Test Items, na, Michigan State University Dept. of Education, Dec. 1999
 
+<<<<<<< HEAD
 ## **Aim for Higher Levels of Learning**
 
 While true-false and other forced choice questions are generally used to measure knowledge and understanding, they could also be used at higher levels. Students could be provided with a set of information new to them, perhaps a portfolio, set of data, or a written work of some type, then asked various forced choice questions related to the content or the presence/absence of certain characteristics in the work.
 
 ## **Anticipate Scoring Ranges**
+=======
+### **Aim for Higher Levels of Learning**
+
+While true-false and other forced choice questions are generally used to measure knowledge and understanding, they could also be used at higher levels. Students could be provided with a set of information new to them, perhaps a portfolio, set of data, or a written work of some type, then asked various forced choice questions related to the content or the presence/absence of certain characteristics in the work.
+
+#### **Anticipate Scoring Ranges**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Scores on true-false items tend to be high because of the ease of guessing correct answers when the answer is not known. With only two choices (true or false) the student could expect to guess correctly on half of the items for which correct answers are not known.
 
 If a student knows the correct answers to 10 questions out of 20 and guesses on the other 10, the student could expect a score of 15. The teacher can anticipate scores ranging from approximately 50% for a student who did nothing but guess on all items to 100% for a student who knew the material.
 
+<<<<<<< HEAD
 ### *In the final analysis…*
+=======
+#### *In the final analysis…*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The true-false test is probably the best known of the various types of objective test items. It is the easiest to construct and at the same time the most abused. The students learn the weaknesses that are inherent in many such items and are able to obtain high scores by noting the grammatical construction, the choice of words or other clues.
 
 The true-false test can be used effectively as an instructional test to promote interest and introduce points for discussion. This perhaps is the most important use for the plain true-false item. It is a valuable type of test to use in giving short, daily quizzes that may be used to motivate the students for a new assignment, to review a previous lesson, to locate points to be retaught or to introduce controversial points for class discussion.
 
+<<<<<<< HEAD
 # Matching Test Items 
 
 *Matching questions provide a most efficient way to test knowledge in courses in which events, dates, names, and places are important. Matching questions are also appropriate for the sciences in which numerous experiments, experimenters, results, and special terms and definitions have to be remembered.*
 
 ## *Section Summary*
+=======
+## Matching Test Items 
+
+*Matching questions provide a most efficient way to test knowledge in courses in which events, dates, names, and places are important. Matching questions are also appropriate for the sciences in which numerous experiments, experimenters, results, and special terms and definitions have to be remembered.*
+
+### *Section Summary*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Good for:**
 
@@ -1152,7 +1487,11 @@ In the above example notice that the stems in Column A are assigned numbers (1, 
 
 Also in the above example, the student only has to know five of the six answers to get them all correct. Since each animal in Column B can be used only once, the one remaining after the five known answers have been recorded is the answer for the sixth premise. One way to reduce the possibility of guessing correct answers is to list a larger number of responses than premises.
 
+<<<<<<< HEAD
 ## Test Your Knowledge of Matching Test Items
+=======
+### Test Your Knowledge of Matching Test Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 1. Problem: Faulty directions.
 
 **Directions:** "Place the letter of the term in the right hand column on the line to the left of the definition column."
@@ -1226,7 +1565,11 @@ Recommendations:
 3. _____________________________________________________________________                                                               
 4. _____________________________________________________________________                                                               
 
+<<<<<<< HEAD
 ## Suggestions For Writing Matching Test Items Suggestions For Writing Test Items
+=======
+### Suggestions For Writing Matching Test Items Suggestions For Writing Test Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  *Remember…*
 
@@ -1317,7 +1660,11 @@ Unrelated topics included in the same matching item may allow for obvious matche
 - ____4. Till land for cash crops.                                  D. City dwellers
 	                                                                E. Farmers
 
+<<<<<<< HEAD
 ## Matching Test Taking Tips Test Tips
+=======
+### Matching Test Taking Tips Test Tips
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! Read the directions. There are usually two lists that need to be matched. Take a look at both lists to get a feel for the relationships and build your confidence.
 - ! Use one list as a starting point and go through the second list to find a match. This process organizes your thinking. It will also speed your answers because you become familiar with the second list and will be able to go straight to a match that you saw when looking through the lists a previous time.
@@ -1325,7 +1672,11 @@ Unrelated topics included in the same matching item may allow for obvious matche
 - ! Cross off items on the second list when your are certain that you have a match. This seems simplistic, but it helps you feel confident and stay organized.
 - ! Do not guess until all absolute matches have been made. If you guess early in the process, you will likely eliminate an answer that could be used correctly for a later choice.
 
+<<<<<<< HEAD
 ### How to Study For a Matching Test How Study For a Matching Test
+=======
+#### How to Study For a Matching Test
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 If your instructor usually includes a matching section in a typical exam, here is one way to prepare for it. As you read the textbook, be alert for facts and ideas that are associated with people's names. On a separate sheet, list the names and facts opposite each other, resulting in two distinct vertical columns, as in the following example.
 
@@ -1358,7 +1709,11 @@ SUBJECT
 
 To master your list, cover the fact column with a sheet of paper. Look at each item in the name column, and recite and write the corresponding fact or idea. Then, to make sure that you learn the material both ways, block out the name column and use the facts as your clues. The example given above includes items from various subject areas.
 
+<<<<<<< HEAD
 ## Variations for Creating Matching Tests Variations for Creating Tests
+=======
+### Variations for Creating Matching Tests Variations for Creating Tests
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Keylists or Masterlists Example Keylists or Masterlists Example
 
@@ -1383,7 +1738,11 @@ Refer to the chemical symbols above to answer the following:
 -  ____8. Which of the above elements represents chlorine?
 -  ____9. Which of the above elements represents sodium?
 
+<<<<<<< HEAD
 ### Ranking Example
+=======
+#### Ranking Example
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **TOPIC: Social Studies, Western Civilization**
 
@@ -1400,7 +1759,11 @@ Refer to the chemical symbols above to answer the following:
 
 Note in the above example the implied column of responses is 1, 2, 3, 4, 5, 6, 7, 8.
 
+<<<<<<< HEAD
 ### **Aiming for Higher Order Thinking Skills**
+=======
+#### **Aiming for Higher Order Thinking Skills**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Usually matching items measure recognition of factual **knowledge** rather than higher order thinking skills such as analysis and synthesis. This does not mean, however, that variations cannot be constructed to aim for higher levels of thinking.
 
@@ -1421,8 +1784,13 @@ One variation, presented below, combines elements of a multiple choice test item
 
 In the above example it is necessary to answer the multiple choice item in order to answer the matching item. Note also that the responses (item components) in the list at the top have an (s) added to each response to eliminate singular-plural clues.
 
+<<<<<<< HEAD
 # Completion or Fill-in-the-Blank Test Items 
 ## *Section Summary*
+=======
+## Completion or Fill-in-the-Blank Test Items 
+### *Section Summary*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Good for:**
 
@@ -1444,7 +1812,11 @@ In the above example it is necessary to answer the multiple choice item in order
 - ! Questions may have more than one correct answer
 - ! Scoring is time consuming
 
+<<<<<<< HEAD
 ### *No-Hint Test Construction*
+=======
+#### *No-Hint Test Construction*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Completion items are especially useful in assessing mastery of factual information when a specific word or phrase is important to know. They preclude the kind of guessing that is possible on limited-choice items since they require a definite response rather than simple recognition of the correct answer. Because only a short answer is required, their use on a test can enable a wide sampling of content.
 
@@ -1452,11 +1824,19 @@ A completion item requires the student to answer a question or to finish an inco
 
  **According to Freud, personality is made up of three major systems, the _________, the _________ and the ___________.**
 
+<<<<<<< HEAD
 ### *What About Synthesis and Evaluation?*
 
 Completion items tend to test only rote, repetitive responses and may encourage a fragmented study style since memorization of bits and pieces will result in higher scores. They are more difficult to score than forced-choice items and scoring often must be done by the test writer since more than one answer may have to be considered correct.
 
 ### *Is Short Answer the Same Thing?*
+=======
+#### *What About Synthesis and Evaluation?*
+
+Completion items tend to test only rote, repetitive responses and may encourage a fragmented study style since memorization of bits and pieces will result in higher scores. They are more difficult to score than forced-choice items and scoring often must be done by the test writer since more than one answer may have to be considered correct.
+
+#### *Is Short Answer the Same Thing?*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A distinction should be made between completion—often referred to as fill-in-the-blank—and short answer questions. With completion questions the response is usually one or two words that fit on a line provided by the tester. Short answer questions may require one sentence or even a paragraph to fully answer the question.
 
@@ -1470,7 +1850,11 @@ Strategies for developing short answer questions are similar to those concerning
 
 *On the whole, completion test items have little advantage over other item types unless the need for specific recall is essential.*
 
+<<<<<<< HEAD
 ## Test Your Knowledge of Completion Items
+=======
+### Test Your Knowledge of Completion Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 Directions: Fill in the blanks.    -----------------------------------------------------------------------------------------------------------------------------------------|
 | 1. A fill-in-the-blank question asks students to supply<br>rather than _____________ the answer.                                        |
 | 2. The main problem in constructing completion items is<br>to limit the number of possible ____________.                                |
@@ -1486,7 +1870,11 @@ Directions: Fill in the blanks.    ---------------------------------------------
 
  1-select; 2-answer; 3-end, beginning; 4-multiple choice; 5-blanks; 6- *Answers:* question, sentence; 7-question, grammatically; 8-number; 9-response; 10-objective
 
+<<<<<<< HEAD
 ## Suggestions For Writing Completion Test Items 
+=======
+### Suggestions For Writing Completion Test Items 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  *Remember…*
 
@@ -1563,17 +1951,29 @@ The measure of central tendency that is most affected by extremely high or low s
 
 ! George Washington was born in the state of _________________.
 
+<<<<<<< HEAD
 ## Completion Test Taking Tips 
+=======
+### Completion Test Taking Tips 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! Read the question with the intent to give an answer and make the sentence grammatically correct. In this process it is important to focus on how the sentence is written. For example, if the blank is preceded by the article "an," you know the word that goes in the blank must start with a vowel.
 - ! Concentrate on the number of blanks in the sentence and the length of the space. The test maker is giving you clues to the answer by adding spaces and making them longer.
 - ! Provide a descriptive answer when you cannot think of the exact word or words. The instructor will often give you credit or partial credit when you demonstrate that you have studied the material and can give a credible answer, even when you have not given the exact words.
 
+<<<<<<< HEAD
 # Essay Test Items 
 
 *Essay tests present a realistic task to the student. In real life, a person is required to organize and communicate thoughts rather than respond to multiple choice questions.*
 
 ## *Section Summary*
+=======
+## Essay Test Items 
+
+*Essay tests present a realistic task to the student. In real life, a person is required to organize and communicate thoughts rather than respond to multiple choice questions.*
+
+### *Section Summary*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Good for:**
 
@@ -1607,17 +2007,29 @@ Compare the writings of Bret Harte and Mark Twain in terms of settings, depth of
 
 Identify research methods used to study the S-R (Stimulus-Response) and S-O-R ( Stimulus-Organism-Response) theories of personality. (5 pts. 10 minutes)
 
+<<<<<<< HEAD
 ### *The Benefits of Essay Tests*
+=======
+#### *The Benefits of Essay Tests*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The main advantages of essay and short answer items are that they permit students to demonstrate achievement of such higher level objectives as analyzing and critical thinking. Written items offer students the opportunity to use their own judgment, writing styles, and vocabularies. They are less time consuming to prepare than any other item type.
 
 Research indicates that students study more efficiently for essay type examinations than for selection (multiple choice) tests. Students preparing for essay tests focus on broad issues, general concepts, and interrelationships rather than on specific details. This studying results in somewhat better student performance regardless of the type of exam they are given. Essay tests also give the instructor an opportunity to comment on students' progress, the quality of their thinking, the depth of their understanding, and the difficulties they may be having.
 
+<<<<<<< HEAD
 ### *Unfortunately…*
 
 Essay tests consisting only of written items permit only a limited sampling of content learning due to the time required for students to respond. Essay items are not efficient for assessing knowledge of basic facts and provide students more opportunity for bluffing, rambling, and *snowing* than limited choice items. They favor students who possess good writing skills and neatness. They are pitfalls for students who tend to go off on tangents or misunderstand the main point of the question.
 
 ## **I'd like to use essay tests, but...**
+=======
+#### *Unfortunately…*
+
+Essay tests consisting only of written items permit only a limited sampling of content learning due to the time required for students to respond. Essay items are not efficient for assessing knowledge of basic facts and provide students more opportunity for bluffing, rambling, and *snowing* than limited choice items. They favor students who possess good writing skills and neatness. They are pitfalls for students who tend to go off on tangents or misunderstand the main point of the question.
+
+### **I'd like to use essay tests, but...**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Essay question:**
 
@@ -1637,7 +2049,11 @@ Part of the problem may lie in the way instructors help (or fail to help) studen
 
 *(See page 56 for a continuation of this essay.)*
 
+<<<<<<< HEAD
 ## Read 'Em and Weep Essay Test Items\* Read 'Em and Essay Items\*
+=======
+### Read 'Em and Weep Essay Test Items\* Read 'Em and Essay Items\*
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **History:** Describe the history of the papacy from its origins to the present day, concentrating especially, but not exclusively, on its social, political, economic, religious, and philosophical impact on Europe, Asia, America, and Africa. Be brief, concise, and specific.
 
@@ -1655,7 +2071,11 @@ Part of the problem may lie in the way instructors help (or fail to help) studen
 
 \*Just kidding
 
+<<<<<<< HEAD
 ## Test Your Ability to Construct Essay Test Items Test Your to Essay Items Requiring Higher Order Thinking Skills
+=======
+### Test Your Ability to Construct Essay Test Items Test Your to Essay Items Requiring Higher Order Thinking Skills
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  Directions:  In the blank to the left of the essay item statement, place the letter of the
  learning level that is best indicated by the words contained in this statement.
@@ -1689,9 +2109,15 @@ Part of the problem may lie in the way instructors help (or fail to help) studen
 | Example Topic:  Asbestos:  The “asbestos hazard” is either (1) nothing more than a costly bureaucratic creation or (2) a hazard that accounts for tens of thousands of deaths annually.
 | Which of the two controversial arguments has the best scientific support?                                                                     |
 
+<<<<<<< HEAD
 ## Suggestions For Writing Essay Test Items For Writing Essay Test
 
 ### **Standard Phrases for Writing Essay Test Items**
+=======
+### Suggestions For Writing Essay Test Items For Writing Essay Test
+
+#### **Standard Phrases for Writing Essay Test Items**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Agreement or Disagreement:** The student is being asked to assert and support a thesis with evidence.
 
@@ -1715,7 +2141,11 @@ Part of the problem may lie in the way instructors help (or fail to help) studen
 
 **Summarize:** The overall view of some process, speech, play, concept, etc.
 
+<<<<<<< HEAD
 ### **1. Formulate the question so that the task is clearly defined for the student.**
+=======
+#### **1. Formulate the question so that the task is clearly defined for the student.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Use words that *aim* the student to the approach you want them to take. Words like discuss and explain can be ambiguous. If you use *discuss,* then give specific instructions as to what points should be discussed.
  *Undesirable:*
@@ -1735,20 +2165,32 @@ Use of optional questions also affects the reliability of the scoring. If we are
 
 *(Continued on next page…)*
 
+<<<<<<< HEAD
 ### **4. Write essay items at different levels of learning.**
+=======
+#### **4. Write essay items at different levels of learning.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The goal is to write essay items that measure higher cognitive processes. The item should represent a situation that tests the student's ability to use knowledge in order to analyze, justify, explain, contrast, evaluate, and so on.
 
 Try to use verbs that elicit the kind of thinking you want the students to demonstrate. Instructors often have to use their best judgment about what cognitive skill each question is measuring. Ask a colleague to read the questions and classify them according to Bloom's taxonomy.
 
+<<<<<<< HEAD
 ### **5. Choose a scoring model.**
+=======
+#### **5. Choose a scoring model.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The major task in scoring essay tests is to maintain consistency, to make sure that answers of equal quality are given the same number of points. There are two approaches to scoring essay items: (1) analytic or point method and (2) holistic or rating method.
 
 - 1. **Analytic:** Before scoring, prepare an ideal answer in which the major components are defined and assigned point values. Read and compare the student's answer with the model answer. If all the necessary elements are present, the student receives the maximum number of points. Partial credit is given based on the elements included in the answer. In order to arrive at the overall exam score, the instructor adds the points earned on the separate questions.
 - 2. **Holistic:** This method involves considering the student's answer as a whole and judging the total quality of the answer relative to other student responses or the total quality of the answer based on certain criteria that you develop.
 
+<<<<<<< HEAD
 ### **6. Prepare students to take essay exams.**
+=======
+#### **6. Prepare students to take essay exams.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Essay tests are valid measures of student achievement only if students know how to take them. Many college freshmen do not know how to take an essay exam, because they have not been required to learn this skill in high school.
 
@@ -1765,9 +2207,15 @@ Take some class time to tell students how to prepare for and how to take an essa
 - ! Decide how to treat irrelevant or inaccurate information contained in students' answers.
 - ! Write comments on the students' answers. Teacher comments make essay tests a good learning experience for students. Comments serve to refresh your memory should the student question the grade.
 
+<<<<<<< HEAD
 ## A Four-Step Process in Grading Essay Test Items A Four-Step Process in Grading Essay Test Items
 
 ### **Step One**
+=======
+### A Four-Step Process in Grading Essay Test Items A Four-Step Process in Grading Essay Test Items
+
+#### **Step One**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the assignment is given…
 
@@ -1775,7 +2223,11 @@ When the assignment is given…
 - ! Share the criteria you decide upon with your students: hand it out in class, and post it on your door.
 - ! Provide models of your grading criteria to your students.
 
+<<<<<<< HEAD
 ### **Step Two**
+=======
+#### **Step Two**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 When the assignments are turned in…
 
@@ -1783,7 +2235,11 @@ When the assignments are turned in…
 - ! Skim some papers that you feel are representative of the range of quality in the student work.
 - ! Use these papers to start four piles: High, Medium High, Medium Low, and Low.
 
+<<<<<<< HEAD
 ### **Step Three**
+=======
+#### **Step Three**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Start the grading…
 
@@ -1791,7 +2247,11 @@ Start the grading…
 - ! Having separated the papers into piles (high, medium, low: not letter grades yet), do an initial read through and assign a preliminary, holistic grade based upon a general impression of the work. Do not get bogged down in details yet, short of marking a plus (+) or minus (-) in the margins next to issues that strike you.
 - ! Now re-read each paper for how it addresses the criteria identified for the assignment. Two papers may address the same criteria differently. Focus first on what the paper does, before getting to what it does not. After a sympathetic read, give it a critical read.
 
+<<<<<<< HEAD
 ### **Step Four**
+=======
+#### **Step Four**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Mark up the papers…
 
@@ -1806,6 +2266,7 @@ Mark up the papers…
 - ! Scores are influenced by the expectations that the reader has for the students performance. If the reader has high expectations, a higher score is assigned than if the reader has low expectations. If we have a good impression of the student, we tend to give him/ her the benefit of the doubt.
 - ! Scores are influenced by quality of handwriting, neatness, spelling, grammar, etc.
 
+<<<<<<< HEAD
 # Essay Test Taking Tips Test Taking Tips
 
 ## **1. Organize your thoughts before you begin to write**
@@ -1829,6 +2290,31 @@ Read each essay question with the intent to identify the verbs or words that giv
 Form a clear thesis statement (statement of purpose) and place it as near to the beginning as possible. Provide supporting issues to back up the main concept you present. Underline or highlight the main and supporting issues. Examples will improve your answers and set them apart from other students' answers. Remember to save some space for a brief but adequate summary.
 
 # Additional Types of Test Items
+=======
+### Essay Test Taking Tips Test Taking Tips
+
+ **1. Organize your thoughts before you begin to write**
+
+A short outline on a separate piece of paper will improve your thinking. There is usually a main idea or issue, several supporting issues and examples to illustrate the issues.
+
+ **2. Paraphrase the original question to form your introductory statement**
+
+This benefits you in two ways. First, it helps you get the question straight in your mind. Second, it may protect you from the teacher. If you have rephrased the question, the teacher can see how you understood the question. Perhaps you understood it to mean something other than the teacher intended. If so, the teacher may give you credit for seeing another perspective.
+
+ **3. Remember: Neatness counts!**
+
+Write your answer clearly, so the reader will be able to decode your writing and understand your ideas. Without clearly written words your chances of a good grade are severely diminished. Write or print clearly, using a darkcolored erasable ball point pen. Avoid crossing out words or sentences, and do not smudge your paper.
+
+ **4. Verb alert**
+
+Read each essay question with the intent to identify the verbs or words that give you direction. These are the verbs that describe the task you are expected to complete. Circle the direction verbs in the question to make sure that you are focusing on the desired task.
+
+ **5. Use the principles of good English composition**
+
+Form a clear thesis statement (statement of purpose) and place it as near to the beginning as possible. Provide supporting issues to back up the main concept you present. Underline or highlight the main and supporting issues. Examples will improve your answers and set them apart from other students' answers. Remember to save some space for a brief but adequate summary.
+
+## Additional Types of Test Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  **Advantages in Using Problem Solving Items**
 
@@ -1848,7 +2334,11 @@ Form a clear thesis statement (statement of purpose) and place it as near to the
 - ! Ask questions on which experts could agree that one solution and one or more work procedures are better than others.
 - ! Work through each problem before classroom administration to double check accuracy.
 
+<<<<<<< HEAD
 ## **Problem Solving**
+=======
+### **Problem Solving**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 An essay is not the only form of a subjective test item. Another form is the problem solving or computational exam question. Such items present the student with a problem situation or task and require a demonstration of work procedures. Problem solving is classified as subjective due to the procedures used to score item responses. Instructors can assign full or partial credit to either correct or incorrect solutions depending on the quality and kind of work procedures presented. An example of a problem solving test item follows:
 
@@ -1856,7 +2346,11 @@ An essay is not the only form of a subjective test item. Another form is the pro
 
 Suggestions for Writing Problem Solving Test Items
 
+<<<<<<< HEAD
 ### **1. Provide directions which clearly inform the student of the type of response called for.**
+=======
+#### **1. Provide directions which clearly inform the student of the type of response called for.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  *Undesirable:*
 
@@ -1866,7 +2360,11 @@ An American tourist in Paris finds that he weighs 70 kilograms. When he left the
 
  An American tourist in Paris finds that he weighs 70 kilograms. When he left the United States he weighed 144 pounds. What was his net weight change in pounds?
 
+<<<<<<< HEAD
 ### **2. Separate item parts and indicate their point values.**
+=======
+#### **2. Separate item parts and indicate their point values.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A man leaves his home and drives to a convention at an average rate of 50 miles per hour. Upon arrival, he finds a telegram advising him to return at once. He catches a plane that takes him back at an average rate of 300 miles per hour.
 
@@ -1878,15 +2376,25 @@ If the total traveling time was 1¾ hours:
 
 (2) How far from his home was the convention? (1 pt.) Show your work for full or partial credit.
 
+<<<<<<< HEAD
 ## Authentic Assessments Authentic Assessments Authentic Assessments
+=======
+### Authentic Assessments
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 How well do multiple choice tests really evaluate student understanding and achievement? Many educators believe that there is a more effective assessment alternative. These teachers use testing strategies that do not focus entirely on recalling facts. Instead, they ask students to demonstrate skills and concepts they have learned. This strategy is called authentic assessment.
 
 Authentic assessment aims to evaluate students' abilities in 'realworld' contexts. In other words, students learn how to apply their skills to authentic tasks and projects. Authentic assessment goes beyond rote learning and passive test-taking. Instead, it focuses on students' analytical skills; ability to integrate what they learn; creativity; ability to work collaboratively; and written and oral expression skills.
 
+<<<<<<< HEAD
 ### Use Authentic Assessment For… Use Authentic Assessment For…
 
 #### **1. Performance Tests**
+=======
+#### Use Authentic Assessment For
+
+##### **1. Performance Tests**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Performance tests assess students' ability to use skills in a variety of authentic contexts. They frequently require students to work collaboratively and to apply skills and concepts to solve complex problems. Short- and long-term tasks may include:
 
@@ -1930,13 +2438,21 @@ In authentic assessment, students:
 
 (continued)
 
+<<<<<<< HEAD
 #### **2. Short Investigations**
+=======
+##### **2. Short Investigations**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Many teachers use short investigations to assess how well students have mastered basic concepts and skills. Most short investigations begin with a stimulus: a math problem, cartoon, map, or excerpt from a primary source.
 
 The teacher may ask students to interpret, describe, calculate, explain, or predict. These investigations may use enhanced multiple choice questions. Or they may use concept mapping, a technique that assesses how well students understand relationships among concepts.
 
+<<<<<<< HEAD
 #### **3. Open Response Questions**
+=======
+##### **3. Open Response Questions**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Open response questions, like short investigations, present students with a stimulus and ask them to respond. Responses include:
 
@@ -1945,7 +2461,11 @@ Open response questions, like short investigations, present students with a stim
 - ! a drawing
 - ! a diagram, chart, or graph
 
+<<<<<<< HEAD
 #### **4. Portfolios**
+=======
+##### **4. Portfolios**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A portfolio documents learning over time. This type of authentic assessment is a purposeful collection of work that shows the achievement or growth of a student. A portfolio is not a specific test but rather a cumulative collection of a student's work.
 
@@ -1969,7 +2489,11 @@ For a free copy contact…
 
  Kansas Curriculum Center (785) 231-1010 x1534 esperanza.root@washburn.edu
 
+<<<<<<< HEAD
 ## Grading Authentic Assessments Grading Authentic Assessments Grading Authentic Assessments
+=======
+### Grading Authentic Assessments Grading Authentic Assessments Grading Authentic Assessments
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
  *A rubric enhances the quality of authentic assessment…*
 
@@ -1994,15 +2518,25 @@ A rubric is a scoring guide that seeks to evaluate a student's performance based
 
 Rubrics can be created for any content area including math, science, history, writing, foreign languages, drama, art, music, and even cooking! Once developed, they can be modified easily for various grade levels. The following information presents general guidelines for developing a rubric. To Illustrate the various steps a sample rubric is used. This rubric was created by a group of postgraduate education students at the University of San Francisco, but could be developed easily by a group of elementary students.
 
+<<<<<<< HEAD
 ## Steps in Rubric Development Steps in Rubric Development
 
 ### **1. Determine Learning Outcomes**
+=======
+### Steps in Rubric Development Steps in Rubric Development
+
+#### **1. Determine Learning Outcomes**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! Determine which concepts, skills, or performance standards you are assessing
 - ! List the concepts and rewrite them into statements which reflect both cognitive and performance components
 - ! Identify the most important words within the concepts or skills being assessed in the task
 
+<<<<<<< HEAD
 ### **Chocolate Chip Cookie Rubric**
+=======
+ **Chocolate Chip Cookie Rubric**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The cookie elements the students chose to judge were:
 
@@ -2012,7 +2546,11 @@ The cookie elements the students chose to judge were:
 - ! Taste
 - ! Richness (flavor)
 
+<<<<<<< HEAD
 ### **2. Determine Measurable Criteria**
+=======
+#### **2. Determine Measurable Criteria**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! On the basis of the purpose of the task, determine the number of points to be used for the rubric (example: 4-point scale or 6-point scale)
 - ! Starting with the desired performance, determine the description for each score remembering to use the importance of each element of the task or performance to determine the score or level of the rubric
@@ -2078,8 +2616,13 @@ The measurable criteria for each point of the scale follows:
 
 
 
+<<<<<<< HEAD
 ### **3. Develop a Grid**
 
+=======
+#### **3. Develop a Grid**
+**TABLE-Develop a grid**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Criteria          | 4-Delicious                   | 3-Good                           | 2-Needs<br>Improvement                       | 1-Poor                             | 
 |-------------------|-------------------------------|----------------------------------|----------------------------------------------|------------------------------------|
 | Number of chips   | Chocolate chip in every bite  | Chips in about 75% of bites      | Chocolate in 50% of bites                    | Too few or<br>too manychips        |
@@ -2090,7 +2633,11 @@ The measurable criteria for each point of the scale follows:
 |                   |                               |                                  |                                              | aftertaste—stale, hard, chalky     |
 | Richness          | Rich, creamy,high-fat content | Medium fat contents              | Low-fat contents                             | Nonfat<br>contents                 |
 
+<<<<<<< HEAD
 ### **4. Compare Student Work to the Rubric**
+=======
+#### **4. Compare Student Work to the Rubric**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! Assign a rating to the various criteria you have identified as important.
 - ! Revise the rubric descriptions based on performance elements reflected by the student work that you did not capture in your original rubric
@@ -2099,6 +2646,7 @@ The measurable criteria for each point of the scale follows:
 
 ### **To assist in the initial development of a rubric, sample criteria (on a 5-0 point score range) are presented on the next page.**
 
+<<<<<<< HEAD
 |   | Criteria for Scoring                                                                                                     
 | 5 | ! This is the highest rating
 |   | ! The student is extremely knowledgeable about the topic
@@ -2139,6 +2687,48 @@ The measurable criteria for each point of the scale follows:
  *Remember…*
 
 ## **Purpose of Testing**
+=======
+**TABLE-Criteria for Scoring**                                                        
+| 5 | ! This is the highest rating                                                                                                                                             |
+|   | ! The student is extremely knowledgeable about the topic                                                                                                                 |
+|   | ! The student demonstrates in-depth understanding of important ideas                                                                                                     |
+|   | ! The student shows a depth of understanding of important relationships                                                                                                  |
+|   | ! The answer is fully developed and includes specific facts or examples                                                                                                  |
+|   | ! The answer is organized around big ideas, major concepts/principles                                                                                                    |
+|   | ! The response is exemplary, detailed and clear                                                                                                                          |
+| 4 | ! The student is knowledgeable about the topic                                                                                                                           |
+|   | ! The student has a good understanding of the topic                                                                                                                      |
+|   | ! The student includes some of the important ideas related to the topic                                                                                                  |
+|   | ! The student shows a good understanding of the important relationships                                                                                                  |
+|   | ! The answer demonstrates includes adequate supporting facts or examples                                                                                                 |
+|   | ! The answer demonstrates some organization around big ideas, major concepts/principles                                                                                  |
+|   | ! The response is good, has some detail, and is clear                                                                                                                    |              
+| 3 | ! This is the middle score of the scale                                                                                                                                  |
+|   | ! The student demonstrates some know ledge and understanding of the topic. The overall answer is OK but may show apparent gaps in his/her understanding and knowledge    |
+|   | ! The student includes some of the important ideas related to the topic                                                                                                  |
+|   | ! The student shows some but limited understanding of the relationships                                                                                                  |
+|   | ! The answer demonstrates satisfactory development of ideas and includes some supporting facts or examples                                                               |
+|   | ! The response is satisfactory, containing some detail, but the answer may be vague or not well developed and may include misconceptions or some inaccurate information  |
+| 2 | ! The student has little knowledge or understanding of the topic                                                                                                         |
+|   | ! The student does not develop the ideas or deal with the relationships among the ideas                                                                                  |
+|   | ! The response contains misconceptions or inaccurate information                                                                                                         |
+|   | ! The student may rely heavily on the group activity                                                                                                                     |
+|   | ! The response is poor and lacks clarity                                                                                                                                 |
+| 1 | ! The student shows no knowledge or understanding of the topic.                                                                                                          |
+|   | ! The student either:                                                                                                                                                    |
+|   |    (1) writes about the topic using irrelevant or inaccurate information                                                                                                 |
+|   |    (2) recalls the steps of the Group Activity in Part II of the performance assessment, adding no new or relevant information and showing no understanding of how the   |
+|   |        activity relates to the general topic.                                                                                                                            |
+| 0 | ! The student either:                                                                                                                                                    |
+|   |    (1) left the answer blank                                                                                                                                             |
+|   |    (2) wrote about a different topic                                                                                                                                     |
+|   |    (3)<br>wrote "I don't know"                                                                                                                                           | 
+
+## Etc…Etc…Etc… 
+ *Remember…*
+
+### **Purpose of Testing**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - ! To provide a record for assigning grades
 - ! To provide a learning experience for students
@@ -2148,7 +2738,11 @@ The measurable criteria for each point of the scale follows:
 - ! To assess how well students are achieving the stated goals and course objectives
 - ! To provide the instructor with an opportunity to reinforce the stated objectives and highlight what is important for students to remember
 
+<<<<<<< HEAD
 ## Tips on Test Construction on Test Construction
+=======
+### Tips on Test Construction on Test Construction
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Assess information indicative of the material stressed in class, not trivial information
 - 2. Have students submit 1 or 2 test questions and give extra credit for appropriate questions. Have them write a question with a correct answer and source
@@ -2163,7 +2757,11 @@ The measurable criteria for each point of the scale follows:
 - 5. In terms of test reliability, longer tests are considered more reliable than shorter tests
 - 6. Be aware that many of the test banks and/or reviews in textbooks rarely assess higher levels of learning
 
+<<<<<<< HEAD
 ## Test Layout Tips Test Layout
+=======
+### Test Layout Tips Test Layout
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Include simple, succinct directions to include the following:
 	- ! How to record answers if they are not to write on the exam
@@ -2178,7 +2776,11 @@ The measurable criteria for each point of the scale follows:
 - 6. Leave space for the students name if they write on the exam.
 - 7. Start with your easiest items in each section
 
+<<<<<<< HEAD
 ## Returning Tests and Giving Students Feedback Regarding Tests 
+=======
+### Returning Tests and Giving Students Feedback Regarding Tests 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Return exams promptly. If this is not possible, post a corrected copy immediately after the exam
 - 2. When you return a test make sure the score is not showing (turn the test over; put the score on the last page)
@@ -2196,7 +2798,11 @@ The measurable criteria for each point of the scale follows:
 - 11. Instead of explaining to a student why they missed a question, ask them to "think out loud". In other words, have them answer the question and tell you out loud their thinking process.
 - 12. To account for missed tests/quizzes you might want to drop the lowest quiz score or double the highest quiz score.
 
+<<<<<<< HEAD
 ### **Have Students Complete an Exam Evaluation**
+=======
+#### **Have Students Complete an Exam Evaluation**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Include some or all of the following:
 
@@ -2209,9 +2815,15 @@ Include some or all of the following:
 - ! Are you satisfied with your answers to the questions?
 - ! What grade would you assign to this test?
 
+<<<<<<< HEAD
 ## Alternative Testing Modes 
 
 ### **1. Take-Home Tests**
+=======
+### Alternative Testing Modes 
+
+#### **1. Take-Home Tests**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Take-home tests allow students to work at their own pace with access to books and materials. Take-home tests also permit longer and more involved questions, without sacrificing valuable class time for exams.
 
@@ -2220,7 +2832,11 @@ Take-home tests allow students to work at their own pace with access to books an
 - ! The take-home test should have explicit instructions on what the students can and cannot do: for example, are they allowed to talk to other students about their answers?
 - ! A variation of a take-home test is to give the topics in advance but ask the students to write their answers in class. Some instructors hand out ten or twelve questions the week before an exam and announce that three of those questions will appear on the exam.
 
+<<<<<<< HEAD
 ### **2. Open-Book Tests**
+=======
+#### **2. Open-Book Tests**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Open-book tests simulate the situations professionals face every day, when they use resources to solve problems, prepare reports, or write memos.
 
@@ -2229,7 +2845,11 @@ Open-book tests simulate the situations professionals face every day, when they 
 - ! Open-book tests appear to reduce stress, but research shows that students do not necessarily perform significantly better on open-book tests.
 - ! Open-book tests seem to reduce students' motivation to study. A compromise between open- and closed-book testing is to let students bring an index card or one page of notes to the exam or to distribute appropriate reference material such as equations or formulas as part of the test.
 
+<<<<<<< HEAD
 ## Creating Fair Tests Tests and Testing Fairly\* and Testing
+=======
+### Creating Fair Tests Tests and Testing Fairly\* and Testing
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Many students with and without identified disabilities need support when taking tests. The type and extent of adaptations for fair test administration will vary from student to student and, possibly, from subject to subject for the same student. In addition, as the student gains skills, fewer accommodations may be needed.
 
@@ -2266,13 +2886,21 @@ A number of possible test administration adaptations are listed below. Educators
 - ! What adaptations should be made depending on the student's disability, the subject, the type of test, and the student's increasing skill in reading, processing, and writing independently?
 - ! Adaptations must be individualized and kept private between teachers and students. Adaptations should parallel the accommodations made during instruction. For instance, if a student commonly uses taped books, then tests should be presented orally. If a student uses a calculator for completing daily assignments, then the calculator should be allowed during tests.
 
+<<<<<<< HEAD
 ## I'd like to use essay tests, but... I'd use tests, 
+=======
+### I'd like to use essay tests, but... I'd use tests, 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Marilla Svinicki,** University of Texas at Austin The Professional & Organizational Development Network in Higher Education (continued from page 39)
 
 If we want the students to be able to deal with the complex nature of essay tests and other forms of spontaneous writing, there are some things we can do in our instruction that will prepare them more adequately.
 
+<<<<<<< HEAD
 ### **1. Help them think differently about the material**
+=======
+#### **1. Help them think differently about the material**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Students are conditioned from an early age to think in terms of discrete facts and "correct" answers rather than looking for the relationships which are characteristic of essay answers. One of the first steps toward improved essay answers is to adopt a different perspective on the nature of what is to be learned from the material presented and read. To help students think about the material differently, the instructor can:
 
@@ -2286,14 +2914,22 @@ Students are conditioned from an early age to think in terms of discrete facts a
 - ! Explain the levels of cognitive complexity (such as Bloom's taxonomy) which might be expected of them in the course and differentiate between knowledge of facts and ability to analyze and critique material.
 - ! Emphasize process during classtime itself, so that the students begin to understand how conclusions are reached rather than focusing on the conclusions alone.
 
+<<<<<<< HEAD
 ### **2. Help them study the material differently**
+=======
+#### **2. Help them study the material differently**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Studying for essay exams is much different from studying for objective exams. Instructors should encourage students to:
 
 - ! Create outlines of readings and lecture notes which emphasize the relationships among the ideas. Paraphrase or create an executive summary for each reading or lecture.
 - ! Draw concept maps, which are visual diagrams of how terms, principles, and ideas interconnect. *(Continued on next page…)*
 
+<<<<<<< HEAD
 ### **3. Help them write structurally sound answers**
+=======
+#### **3. Help them write structurally sound answers**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 To help students compile the information they have learned into answers which are written more effectively and efficiently, an instructor can:
 
@@ -2303,7 +2939,11 @@ To help students compile the information they have learned into answers which ar
 - ! Give the students an opportunity to grade an essay answer using the system (rubric) you normally use so that they will understand how they are being evaluated.
 - ! Provide examples of good and poor answers to essay questions with an explanation of why they are evaluated that way.
 
+<<<<<<< HEAD
 ### **4. Help them learn time management techniques**
+=======
+#### **4. Help them learn time management techniques**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Here are some examples of efficient time management techniques that the student could possibly benefit from in completing an essay exam:
 
@@ -2311,11 +2951,19 @@ Here are some examples of efficient time management techniques that the student 
 - ! Spending a few minutes outlining an answer before writing (the teacher could possibly give some credit for content which appears on an outline, but was not included in the answer due to time constraints)
 - ! Having a checklist for quickly evaluating answers before completing the exam (such as "did you answer the question?" "are the transitions clear?" "is evidence provided for each assertion?" and so on).
 
+<<<<<<< HEAD
 ### **5. Why should we bother?**
 
 There is actually an additional selfish motive for improving students' essay writing skills: it makes the grading process much easier. If students learn how to read and interpret the structure of an essay question, they can create an answer that is comprehensive and well-organized. The task of grading those essay answers becomes less one of interpretation and more one of evaluation.
 
 ## Test Administration Assignment Test Assignment
+=======
+#### **5. Why should we bother?**
+
+There is actually an additional selfish motive for improving students' essay writing skills: it makes the grading process much easier. If students learn how to read and interpret the structure of an essay question, they can create an answer that is comprehensive and well-organized. The task of grading those essay answers becomes less one of interpretation and more one of evaluation.
+
+### Test Administration Assignment Test Assignment
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 #### *Read Through the Following Description of a Teacher Giving a Test*
 
@@ -2343,7 +2991,11 @@ There is actually an additional selfish motive for improving students' essay wri
 | _________________________________     | _________________________________    |
 | _________________________________     | _________________________________    |
 
+<<<<<<< HEAD
 ## Cognitive Domain Guide Cognitive Guide
+=======
+### Cognitive Domain Guide Cognitive Guide
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Use this chart when the major topic or task primarily involves the acquisition and processing of knowledge.*
 
@@ -2366,9 +3018,16 @@ There is actually an additional selfish motive for improving students' essay wri
 |                   |                                                              |  select based on, support, test, validate                                                   |
 |
 
+<<<<<<< HEAD
 ## Affective Domain Guide Affective Guide
 
 *Use this chart when the major topic or task is primarily concerned with acquiring new attitudes, values or beliefs.*
+=======
+### Affective Domain Guide Affective Guide
+
+*Use this chart when the major topic or task is primarily concerned with acquiring new attitudes, values or beliefs.*
+**TABLE-major topic or task is primarily concerned with acquiring new attitudes, values or beliefs.**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | **Level**          | **If the student must…**                           | **Then use these key words in objectives, assignments and evaluations**   |
 | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | **Receiving**      | ...receive information about or give attention to   | be alert to, be aware of, be sensitive to, experience, listen to, look at <br> perceive existence,    |
@@ -2387,7 +3046,11 @@ There is actually an additional selfish motive for improving students' essay wri
 |                    | and action.                                         |                                                                                                       |
 
 
+<<<<<<< HEAD
 # Bibliography Bibliography
+=======
+## Bibliography 
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 "The Advantages of Rubrics," The Learning Network http://www.teachervision.com/lesson-plans/lesson-4522.html
 
@@ -2471,7 +3134,11 @@ Svinicki, Marilla. "I'd Like to Use Essay Tests, But…" The Professional & Orga
 
 "Writing True-False Items," Office of Measurement Services, University of Minnesota http://www.ucs.umn.edu/oms/truefalse.htmlx
 
+<<<<<<< HEAD
 # Writing Constructed Response Items and Scoring Guides
+=======
+## Writing Constructed Response Items and Scoring Guides
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **B** A formula for the perimeter of a rectangle with the original width doubled.
 
@@ -2504,7 +3171,11 @@ Constructed response items should be used when it is desirable that the student 
 
 Developing a constructed response item accurately targeted on the ability to be assessed, along with the accompanying scoring guide, is not a straightforward task. Care in writing constructed response items is especially important for two reasons. First, if the task is not well specified students may interpret the task in different ways and respond to different questions. Second, a constructed response item may carry more score points than a multiple-choice item.
 
+<<<<<<< HEAD
 # Guidelines for Writing Constructed Response Items
+=======
+## Guidelines for Writing Constructed Response Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Write questions in easily accessible language appropriate to the age and experience of the target population. Use simple vocabulary and sentence structure, and avoid using complicated names for the subjects in the item.
 - 2. Make what is expected of students as clear as possible without compromising the intent of the item. Give an indication, where appropriate, of the extent, or level of detail, of the expected answer (e.g., "Give three reasons …" rather than "Give some reasons …" and "Draw a labeled diagram illustrating the water cycle" rather than "What is meant by the term 'water cycle'?"). Select real life problem settings that are likely to be "real" to students at the target grade levels, and that involve quantities that are realistic for the situations.
@@ -2518,6 +3189,7 @@ Developing a constructed response item accurately targeted on the ability to be 
 - 5. Write an appropriate answer to the question in terms of the language, knowledge, and skills that a student at the target grade could be expected to possess. This tests the clarity of the question and is also an essential first step in producing a scoring guide for the item. It is also helpful for those who are reviewing the question.
 - 6. Produce a scoring guide (see below). This action usually results in amendments to the item to clarify its purpose and improve the quality of information that can be obtained from student responses.
 
+<<<<<<< HEAD
 # Response Types for Constructed Response Items
 
 It is important to select the best response mode for each constructed response item. For most constructed response items, students will write the results of calculations, descriptions, or explanations. It is also possible to ask students to draw graphs or diagrams.
@@ -2531,6 +3203,21 @@ To ensure reliability, constructed response items need scoring guides with well-
 General scoring guidelines used for 1-point and 2-point constructed response items are described in Exhibit 6.
 
 ## Exhibit 6: TIMSS General Scoring Guidelines for Constructed Response Items
+=======
+## Response Types for Constructed Response Items
+
+It is important to select the best response mode for each constructed response item. For most constructed response items, students will write the results of calculations, descriptions, or explanations. It is also possible to ask students to draw graphs or diagrams.
+
+## Scoring Guides
+
+To ensure reliability, constructed response items need scoring guides with well-defined categories for allocating score points. It also is important to collect information of value for educational improvement. Students' answers can provide insights into what they know and are able to do, including common misconceptions.
+
+## General Scoring Guidelines for TIMSS Constructed Response Items
+
+General scoring guidelines used for 1-point and 2-point constructed response items are described in Exhibit 6.
+
+### Exhibit 6: TIMSS General Scoring Guidelines for Constructed Response Items
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 #### Scoring 1-Point Items
 
@@ -2568,7 +3255,11 @@ A 1-point response is only partially correct. The response demonstrates only a p
 
 A 0-point response is inaccurate or inadequate, irrelevant, or incoherent.
 
+<<<<<<< HEAD
 # The TIMSS Two-Digit Diagnostic Scoring System
+=======
+## The TIMSS Two-Digit Diagnostic Scoring System
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The TIMSS diagnostic scoring system uses two digits. For example, 10, 11, 70, or 79.
 
@@ -2576,7 +3267,11 @@ The **first digit** is the score indicating the degree of correctness of the res
 
 The **second digit** is used to classify the method used in solving a problem, or perhaps to track common errors or misconceptions. The information from the second digit addresses questions such as: Do approaches that lead to correct responses to the item vary across countries? Is there one approach that students have more success with than others? What are the common misconceptions that students have about the matter being tested? What common errors are made?
 
+<<<<<<< HEAD
 ## The First Digit
+=======
+### The First Digit
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The first digit for **correct or partially correct responses** signifies the number of score points given to the response. Thus:
 
@@ -2591,7 +3286,11 @@ However, for an **incorrect or blank** response, the first digit is not zero. In
 
 ![](_page_73_Picture_0.jpeg)
 
+<<<<<<< HEAD
 ## The Second Digit
+=======
+### The Second Digit
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The **second digit** for **correct or incorrect responses** provides diagnostic information. Thus:
 
@@ -2601,7 +3300,11 @@ The **second digit** for **correct or incorrect responses** provides diagnostic 
 
 It is unusual for an item to give rise to more than two commonly used correct methods, or more than one common error or misconception. Frequently no more than one or two categories are required. In other words, **the specific diagnostic codes should capture only the predominant correct and incorrect approaches/strategies used by students**. Scoring constructed response items is a significant cost factor for national centers, so care should be taken not to provide codes for response types that do not have apparent value for educational improvement.
 
+<<<<<<< HEAD
 # Writing Scoring Guides
+=======
+### Writing Scoring Guides
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 It is essential that item writers provide scoring guides that include:
 
@@ -2628,7 +3331,11 @@ The example constructed response items and their scoring guides presented in Exh
 | 10      | 8 with a remainder of 3 OR 8 - or equivalent |               |  |
 |         | Incorrect Response                           |               |  |
 
+<<<<<<< HEAD
 #### Exhibit 7: Example Constructed Response Item and Scoring Guide – Grade 4 Mathematics
+=======
+### Exhibit 7: Example Constructed Response Item and Scoring Guide – Grade 4 Mathematics
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_74_Picture_3.jpeg)
 
@@ -2636,7 +3343,11 @@ The example constructed response items and their scoring guides presented in Exh
 
 ![](_page_75_Picture_0.jpeg)
 
+<<<<<<< HEAD
 #### Exhibit 8: Example Constructed Response Item and Scoring Guide – Grade 8 Science
+=======
+### Exhibit 8: Example Constructed Response Item and Scoring Guide – Grade 8 Science
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_75_Figure_2.jpeg)
 
@@ -2669,6 +3380,9 @@ The example constructed response items and their scoring guides presented in Exh
 |      | Nonresponse                                                                                                                                                                                                                                                                              |                                                                |  |
 | 99   | Blank                                                                                                                                                                                                                                                                                    |                                                                |  |
 
+<<<<<<< HEAD
 #### Exhibit 8: Example Constructed Response Item and Scoring Guide – Grade 8 Science (Continued)
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_76_Picture_3.jpeg)

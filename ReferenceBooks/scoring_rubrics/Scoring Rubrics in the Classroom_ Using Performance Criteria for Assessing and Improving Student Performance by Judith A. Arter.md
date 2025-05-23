@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](_page_0_Figure_4.jpeg)
 
 ## SCORING RUBRICS IN THE CLASSROOM
@@ -17,6 +18,22 @@ SCORING RUBRICS IN THE CLASSROOM: USING PERFORMANCE CRITERIA FOR AssESSING AND I
 IMPLEMENTING STUDENT-LED CONFERENCES
 
 #### GREGORY **J.** CIZEK
+=======
+# SCORING RUBRICS IN THE CLASSROOM: USING PERFORMANCE CRITERIA FOR AssESSING AND IMPROVING STUDENT PERFORMANCE
+![](_page_0_Figure_4.jpeg)
+ExPERTS IN AsSESSMENT™**
+ SERIES EDITORS
+
+ THoMAs R. GusKEY AND RoBERT J. MARzANo
+
+ JuDITH ARTER, }AY McTIGHE
+
+SCORING RUBRICS IN THE CLASSROOM: USING PERFORMANCE CRITERIA FOR AssESSING AND IMPROVING STUDENT PERFORMANCE
+ANE M. BAILEY, THoMAs **R.** GusKEY
+
+IMPLEMENTING STUDENT-LED CONFERENCES
+GREGORY **J.** CIZEK
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 DETECTING AND PREVENTING CLASSROOM CHEATING
 
@@ -24,6 +41,7 @@ LoRNA M. EARL
 
 AssESSMENT As LEARNING: UsiNG CLASSROOM AssESSMENT TO MAxiMIZE STUDENT LEARNING
 
+<<<<<<< HEAD
 #### THoMAS **R.** GusKEY, }ANE M. BAILEY DEVELOPING GRADING AND REPORTING SYSTEMS FOR STUDENT LEARNING
 
 #### EDWARD KIFER LARGE-SCALE AssESSMENT: DIMENSIONS, DILEMMAS, AND Poucv
@@ -35,22 +53,44 @@ AssESSMENT As LEARNING: UsiNG CLASSROOM AssESSMENT TO MAxiMIZE STUDENT LEARNING
 #### DOUGLAS **B.** REEVES HousTic AccouNTABILITY: SERVING STUDENTS, ScHooLs, AND CoMMUNITY
 
 #### JEFFREY **K.** SMITH, LisA F. SMITH, RicHARD DE Lisi
+=======
+THoMAS **R.** GusKEY, }ANE M. BAILEY DEVELOPING GRADING AND REPORTING SYSTEMS FOR STUDENT LEARNING
+
+EDWARD KIFER LARGE-SCALE AssESSMENT: DIMENSIONS, DILEMMAS, AND Poucv
+
+ROBERT J. MARzANo DESIGNING A NEW TAXONOMY OF EDUCATIONAL OBJECTIVES
+JAMES H. McMILLAN EssENTIAL AssESSMENT CoNCEPTS FOR TEACHERS AND ADMINISTRATORS
+DOUGLAS **B.** REEVES HousTic AccouNTABILITY: SERVING STUDENTS, ScHooLs, AND CoMMUNITY
+JEFFREY **K.** SMITH, LisA F. SMITH, RicHARD DE Lisi
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 NATURAL CLASSROOM AssESSMENT: DESIGNING SEAMLESS INSTRUCTION AND AsSESSMENT
 
 > Please call our toll-free number (800-818-7243) or visit our website [\(www.corwinpress.com\)](http://www.corwinpress.com) to order individual titles or the entire series.
+<<<<<<< HEAD
 
 ## **SCORING RUBRICS IN THE** CLASSROOM
+=======
+ **SCORING RUBRICS IN THE** CLASSROOM
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 USING PERFORMANCE CRITERIA FOR ASSESSING AND IMPROVING STUDENT PERFORMANCE
 
 )UDI1HARTER NORTHWEST REGIONAL EDUCATIONAL lABORATORY
 
+<<<<<<< HEAD
 ## jAY MCTIGHE
 
 ![](_page_3_Picture_4.jpeg)
 
 ## EXPERTS IN ASSESSMENTTM
+=======
+ jAY MCTIGHE
+
+![](_page_3_Picture_4.jpeg)
+
+ EXPERTS IN ASSESSMENTTM
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SERIES EDITORS THOMAS R. GUSKEY AND ROBERT). MARZANO
 
@@ -70,7 +110,11 @@ Sage Publications Ltd. 6 Bonhill Street London EC2A 4PU United Kingdom Sage Publ
 
 Printed in the United States of America
 
+<<<<<<< HEAD
 #### **Library of Congress Cataloging-in-Publication Data**
+=======
+ **Library of Congress Cataloging-in-Publication Data**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ```
 Arter, Judith A.
@@ -97,7 +141,11 @@ This book is printed on acid-free paper.
 | Typesetter:                 | LynnMiyata       |  |  |
 | Cover Designer:             | Tracy E. Miller  |  |  |
 
+<<<<<<< HEAD
 ## **Contents**
+=======
+ **Contents**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 |    | Series Editors' Introduction                                                                                        | vii |
 |----|---------------------------------------------------------------------------------------------------------------------|-----|
@@ -124,9 +172,13 @@ This book is printed on acid-free paper.
 |    | Getting Started                                                                                                     | 33  |
 |    | Examples of Rubric Development                                                                                      | 36  |
 |    | Chapter Summary                                                                                                     | 44  |
+<<<<<<< HEAD
 
 |    | 4. A Rubric for Rubrics: or, lfs Metarubric Time                                     | 45       |
 |----|--------------------------------------------------------------------------------------|----------|
+=======
+| 4. | A Rubric for Rubrics: or, lfs Metarubric Time                                        | 45       |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 |    | How will we know when we have an effective rubric?                                   |          |
 |    | A Rubric for Rubrics                                                                 | 45       |
 |    | Metarubric Trait 1: Content/Coverage                                                 | 53       |
@@ -386,11 +438,19 @@ Figure 1.2. Checklist for Basketball Skills
 
 Scoring methods and performance criteria for constructed response and performance assessments are huge topics. So, we must narrow down what we discuss in this book. Specifically, we do *not* deal with simple criteria to assess simple things-checklists, or what we call "assessment lists." Rather, we place our emphasis on criteria for assessing more complicated things, which, for purposes of this book, we call "rubrics."
 
+<<<<<<< HEAD
 ### What We Do Not Cover in This Book
 
 ![](_page_21_Picture_7.jpeg)
 
 #### Checklists
+=======
+#### What We Do Not Cover in This Book
+
+![](_page_21_Picture_7.jpeg)
+
+##### Checklists
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 You've all seen checklists. They list the components that must be • present in a product or performance. You check off the ones that are present. Figures 1.1 and 1.2 present two examples of checklists.
 
@@ -412,7 +472,11 @@ pened when a teacher tried to use a checklist when a more sophisticated scoring 
 
 Because checklists do not provide detailed descriptions of levels of quality, they are not appropriate to use in assessing performances having a fuller range of qualitatively different performance levels. While we, the authors, think that checklists are wonderful, practical tools for certain situations, we won't deal with how to develop or use checklists in this book. Our focus is on more sophisticated scoring systems.
 
+<<<<<<< HEAD
 #### Performance Lists
+=======
+##### Performance Lists
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A more sophisticated scoring tool than checklists consists of a list of things to rate and a rating scale. Two examples of criterion-based performance lists are provided in Figures 1.3 and 1.4.
 
@@ -469,7 +533,11 @@ A rubric is a particular format for criteria-it is the written-down vers ion of 
 
 theless, we do not focus on this type of
 
+<<<<<<< HEAD
 ### What We Do Focus On: Rubrics!
+=======
+#### What We Do Focus On: Rubrics!
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This book concentrates on rubricsscoring tools containing criteria and a performance scale that allows us to define and describe the most important components that comprise complex performances and products. Our definition is given in Box 1.5. An example of a rubric is shown in Figure 1.5.
 
@@ -1752,7 +1820,11 @@ Clarity versus brevity in a rubric's length is discussed in Box 4.4.
 
 ![](_page_82_Picture_7.jpeg)
 
+<<<<<<< HEAD
 ### Metarubric li"ait 3: Usability
+=======
+### Metarubric Trait 3: Usability
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Having clear rubrics that cover the right "stuff" means nothing if the system is too cumbersome to use. The trait of practicality refers to ease of use-can teachers and students understand and use it easily? Does it give them the information they need for instructional decision making and tracking student progress toward important learning outcomes? Can the rubric be used for more than just a way to assess students? Can it also be used to improve the very achievement also being assessed?
 
@@ -1904,7 +1976,11 @@ Setting performance standards on a rubric doesn't only occur at the large-scale 
 | 1     | The performance partially meets expectations for the grade level.                                        |
 | 0     | No attempt was made (or the response was unscorable).                                                    |
 
+<<<<<<< HEAD
 <span id="page-90-0"></span>Table 5.1 Example of a Predefined Performance Standard
+=======
+Table 5.1 Example of a Predefined Performance Standard
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 school and classroom as well. Then, we look at some suggestions for using rubrics in grading.
 
@@ -2036,7 +2112,11 @@ Would it be better to tell the students at the beginning that (a) all papers wil
 | No more than 30% of scores lower than a 3, with<br>at least 10% 4 or better | D                    |
 | Anything lower than this                                                    | F                    |
 
+<<<<<<< HEAD
 <span id="page-96-0"></span>Table 5.3 Logic Rule for Converting Rubric Scores to Grades
+=======
+Table 5.3 Logic Rule for Converting Rubric Scores to Grades
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 80% of the items on a multiple-choice test correctly), they are misleading when converted from rubric scores.
 
@@ -2046,6 +2126,7 @@ If this were the grading procedure, what grade would Agatha get? (Now, don't go 
 
 *Second best way to convert rubric scores to grades:* Decide from the descriptions in the rubric what grade each score should earn. For example, "4" and "5" might be an "A," "3" might be a "B," and "2" might be a "C." Therefore, all 4s and 5s would convert to whatever percentage you give As, say 90%, 3s would convert to 80%, 2s would convert to 70%, and 1s would convert to 60%. In this case, what grade would Agatha get?
 
+<<<<<<< HEAD
 #### **Bottom Line on Grading**
 
 Unless teachers completely agree on the elements that should be included in a grade (achievement, motivation, ability, etc.) and factor them into grading in consistent ways, the meaning of grades will vary from classroom to classroom. While there is much more to say on this subject, we'llleave you with the following contention: To make grading more meaningful and consistent, separate grades that describe achievement from grades for other factors, such as progress, effort, work completion, behavior, and so forth. Otherwise, students could earn the same grade for very different reasons. How effective is such a communication system?
@@ -2053,6 +2134,15 @@ Unless teachers completely agree on the elements that should be included in a gr
 <span id="page-97-0"></span>And convert rubric scores to grades in ways that make sense-not percentages but logic rules. The grade needs to reflect the actual achievement; how will you ensure that it does? Whatever methods you decide to use, make sure everyone (teachers, students, parents, and the community) understands the scheme and supports it.
 
 #### **Chapter Summary**
+=======
+### **Bottom Line on Grading**
+
+Unless teachers completely agree on the elements that should be included in a grade (achievement, motivation, ability, etc.) and factor them into grading in consistent ways, the meaning of grades will vary from classroom to classroom. While there is much more to say on this subject, we'llleave you with the following contention: To make grading more meaningful and consistent, separate grades that describe achievement from grades for other factors, such as progress, effort, work completion, behavior, and so forth. Otherwise, students could earn the same grade for very different reasons. How effective is such a communication system?
+
+And convert rubric scores to grades in ways that make sense-not percentages but logic rules. The grade needs to reflect the actual achievement; how will you ensure that it does? Whatever methods you decide to use, make sure everyone (teachers, students, parents, and the community) understands the scheme and supports it.
+
+### **Chapter Summary**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In this chapter, we described setting performance standards based on rubrics to answer the question "How good is good enough?" We looked at several ways in which performance standards are set for district, state, and national
 
@@ -2063,9 +2153,13 @@ assessments-"after the fact," "predefined," "relative," and "absolute" methods. 
 | percentage. | Don't: Do not add up all the points earned and<br>divide by the number of points possible to get a                                                |
 |             | Do: Develop a logic rule for converting the de<br>scriptions associated with each score point to a<br>grade that reflects a performance standard. |
 
+<<<<<<< HEAD
 # <span id="page-98-0"></span>CHAPTER **6**
 
 # **Teaching Performance Criteria to Students**
+=======
+## CHAPTER 6 Teaching Performance Criteria to Students**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Guiding QuesUon:** How can we use rubrics to improve, as well as judge, student performance?
 
@@ -2083,7 +2177,11 @@ So, what does it take to know criteria for the driver's examination? Is it enoug
 
 So, what does it take to know criteria? Take a minute to reflect on this question. Then look at the comments in Box 6.1 to see how your comments overlap with those of other teachers.
 
+<<<<<<< HEAD
 <span id="page-99-0"></span>![](_page_99_Figure_1.jpeg)
+=======
+![](_page_99_Figure_1.jpeg)
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - II Being exposed to the criteria from the beginning of instruction. (Having studentfriendly versions that are given students during the first week of school.)
 - II Having terms defined. (Include lots of details to describe the indicators of quality performance.)
@@ -2103,7 +2201,11 @@ The teacher has observed that the "target bulletin board" has sharpened her teac
 
 All ofthese ideas for teaching criteria to students have been consolidated by the staff at Northwest Regional Educational Laboratory (NWREL) into seven strategies outlined in Figure 6.2. Since NWREL has worked mostly with writing assessment, these seven strategies, and the accompanying examples in the rest of the chapter, relate to writing. However, the basic strategies presented below are applicable to virtually any performance area. As you look at the strategies applied in writing, think about how they might apply to your
 
+<<<<<<< HEAD
 #### <span id="page-100-0"></span>**BOX 6.2** Vignette: Making the Target Clear: linking Assessment and Instruction
+=======
+#### **BOX 6.2** Vignette: Making the Target Clear: linking Assessment and Instruction
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A middle-school language arts teacher has a large bulletin board in her classroom to which she has affixed a full-size archery target (obtained from the physical education department). At the start of each major unit of study, she directs the students to the bulletin board and discusses the "target" for the unit-the major goals and the rationale for learning this body of knowledge.
 
@@ -2113,7 +2215,11 @@ Now for the really cool part-she places examples of student work products collec
 
 ![](_page_100_Figure_5.jpeg)
 
+<<<<<<< HEAD
 - <span id="page-101-0"></span>1. Teach students the lANGUAGE they need to speak and think like writers.
+=======
+- 1. Teach students the lANGUAGE they need to speak and think like writers.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - 2. Read, score, and discuss ANONYMOUS sample papers.
 - 3. PRACTICE AND REHEARSE focused revision strategies by
 	- Working with a partner or small group.
@@ -2130,7 +2236,11 @@ teaching areas-Critical thinking? Problem solving? Oral presentations? Collabora
 
 This chapter just touches the surface of these ideas. Additional resources providing more detailed explanation and examples are given in the Resource section that follows this chapter.
 
+<<<<<<< HEAD
 #### **Strategy 1: Teach Students the Language They Need to Think and Speak Like Writers**
+=======
+### **Strategy 1: Teach Students the Language They Need to Think and Speak Like Writers**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Have you ever used or observed peer review groups? Have you ever given them up because they seem to be unproductive-student comments to each other are very superficial? For example: "I like this, it's about dogs." "Your handwriting is neat."
 
@@ -2181,19 +2291,31 @@ After about a year, I was riding my bike patroling the area around the pond. Wit
 
 (continued)
 
+<<<<<<< HEAD
 <span id="page-104-0"></span>Another year passed. One day my mom got home from the store, and she bought me a rubber raft. It was just a cheap one, but it was mine. I blew it up with a tire pump. It was just the right size for me & Fox. Out of respect for Fox, I named it the USS Fox and christened it right in the pond.
+=======
+Another year passed. One day my mom got home from the store, and she bought me a rubber raft. It was just a cheap one, but it was mine. I blew it up with a tire pump. It was just the right size for me & Fox. Out of respect for Fox, I named it the USS Fox and christened it right in the pond.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 On sunny days, I would take the raft out & lay in the sun with Fox on my legs. One day, when I was asleep in the raft, the wind blew pretty hard and blew my raft right into a bunch of sticks and rocks, the USS Fox was given a sad salute, and then was no more.
 
 Another year passed, and this would be our last year by the pond. I admired and respected that pond more than I ever did that year. But, at long last, all good things must come to an end, we moved to another town. Fox & I still visit the pond, but it'll never be like them 3 years when she was mine.
 
+<<<<<<< HEAD
 #### Figure 6.4 Continued
+=======
+Figure 6.4 Continued
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SOURCE:© 2000, NWREL. Portland, OR; 503-275-9500. Used with permission. Note: Both students' work are presented here without corrections for any grammar, spelling, punctuation, or other errors.
 
 ![](_page_104_Picture_6.jpeg)
 
+<<<<<<< HEAD
 #### **Strategy 2: Read and Score Anonymous Student Papers**
+=======
+### **Strategy 2: Read and Score Anonymous Student Papers**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Strategy 2 helps students practice what to look for in writing that makes it work. Focus on the traits one by one. Students feel overwhelmed when they have to attend to all the features of good writing at once-remember the golf example in Chapter 2.
 
@@ -2203,7 +2325,11 @@ Spend as much time on each trait as students need-there's always next year. Our 
 
 In any case, Figure 6.6 shows the steps in reading and scoring anonymous papers in order to internalize each component of quality.
 
+<<<<<<< HEAD
 #### **Strategy 3: Practice-Focused Revision**
+=======
+### **Strategy 3: Practice-Focused Revision**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 While Strategies 1 and 2 assist students in practicing what to notice about quality, Strategy 3 helps them understand
 
@@ -2268,11 +2394,19 @@ While Strategies 1 and 2 assist students in practicing what to notice about qual
 - ,,,. No BIG erers sHoutt at me frm the pg: Hey!" Fergt IDEAS and VIOCE! Think? abowt, the mystakes!, A lot!!"
 - "\* Spelling, punctuation, grammar, capital letters, and paragraph indenting: This writer has thoughtfully attended to ALL conventional details.
 
+<<<<<<< HEAD
 #### Figure 6.5. What Teachers Look for in Writing
 
 SOURCE: © 2000, NWREL. Portland, OR; 503-275-9500. Used with permission.
 
 <span id="page-106-0"></span>This procedure should sound pretty familiar to anyone who has scored performance assessments. The procedure for teaching students to score papers is exactly the same as that for teaching adult raters.
+=======
+ Figure 6.5. What Teachers Look for in Writing
+
+SOURCE: © 2000, NWREL. Portland, OR; 503-275-9500. Used with permission.
+
+This procedure should sound pretty familiar to anyone who has scored performance assessments. The procedure for teaching students to score papers is exactly the same as that for teaching adult raters.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Make overheads of sample *anonymous* student papers. Use papers from another teacher, from last year's students, or contact NWREL.
 - 2. Read each paper out loud. Writing plays differently to the ear than it looks to the eye.
@@ -2286,7 +2420,11 @@ Figure 6.6. Strategy 2: Teaching Traits by Scoring Anonymous Sample Papers SOURC
 
 ![](_page_106_Picture_9.jpeg)
 
+<<<<<<< HEAD
 #### **Strategy 4: Read, Read, READI**
+=======
+### **Strategy 4: Read, Read, READI**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Use picture books and other literature to illustrate the traitsboth strong and weak examples. Teachers have always read to
 
@@ -2294,7 +2432,11 @@ students. But here's the difference when using Strategy 4: Purposely tie the sel
 
 • For Voice, you might choose two versions of the same fairy tale written by different authors and ask students to notice differences between the voices. What is the voice? Frivolous, sad, excited, mocking, . . . ?
 
+<<<<<<< HEAD
 <span id="page-107-0"></span>Again, use anonymous papers. Choose papers that really need revision on a particular trait. Don't do this just once. Do this 8 or 9 times on a single trait before moving on to the next trait.
+=======
+Again, use anonymous papers. Choose papers that really need revision on a particular trait. Don't do this just once. Do this 8 or 9 times on a single trait before moving on to the next trait.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Ask the students to score the paper on the target trait using their rubric (as in Strategy 2). Once again, ask students to justify their scores.
 - 2. Have students brainstorm the things the author could do to make the paper better on this trait. For example, for the trait of ideas, students will often say: narrow the focus; add more details on the important points; take out details on unimportant points; choose one really interesting thing and expand on it; show, don't tell; and so on.
@@ -2308,13 +2450,21 @@ Figure 6.7. Strategy 3: Practice Focused Revision SOURCE: © 2000, NWREL. Portla
 - For Organization, you might ask students to compile a notebook of effective beginnings and endings, with descriptions of what makes them effective.
 - For Sentence Fluency, choose books that are flowing, choppy, or have other types of sentence fluency. Ask students to describe the various styles and why the author chose the style he or she used. What purpose did it serve? What feel did it give to the writing?
 
+<<<<<<< HEAD
 #### **Strategy 5: Model the Writing Process Yourself**
+=======
+### **Strategy 5: Model the Writing Process Yourself**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Ask students to be a peer review group for your own writing. Don't pick a piece of writing that you've already revised. Pick a rough draft. Students often don't get to see that we, as teachers, don't have
 
 ![](_page_107_Picture_13.jpeg)
 
+<<<<<<< HEAD
 - <span id="page-108-0"></span>l. Tell the students a story about something exciting that happened to you. Did your brakes go out on a hill? Were you charged by a lion in Africa? Make it interesting to capture their attention. Then tell them that you're going to share a written version of the story with them tomorrow.
+=======
+- l.Tell the students a story about something exciting that happened to you. Did your brakes go out on a hill? Were you charged by a lion in Africa? Make it interesting to capture their attention. Then tell them that you're going to share a written version of the story with them tomorrow.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - 2. Spend about 15 minutes writing up your story. Don't spend longer than that or it will be too good. You want to show the students a piece of writing that needs revision.
 - 3. Read your story to the students, have them tell you what trait you need to work on first, and ask them to give you suggestions on how to make your paper better on that trait. They usually have a lot to say-they love to critique the teacher.
 - 4. Use their suggestions to write a revision. Don't make it too good. Ask students to score the revision on the trait of interest and ask for additional suggestions. You need to model the fact that writing sometimes needs more than a single revision.
@@ -2327,17 +2477,28 @@ Figure 6.8. Model Revision SOURCE:© 2000, NWREL. Portland, OR; 503-275-9500. Us
 
 ![](_page_108_Picture_8.jpeg)
 
+<<<<<<< HEAD
 #### **Strategy 6: Give Students Many Opportunities to Show What They Know**
+=======
+### **Strategy 6: Give Students Many Opportunities to Show What They Know**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Here are a few examples to get you started. What else could you ask students to do to show what they know?
 
 - Ask students to write letters to their favorite authors explaining, using the language of the traits, why they like the authors' work.
 - Have students write to younger students about what it takes to write well. They need to explain the traits in language the younger students can understand.
 - Have students work in teams to develop a poster that explains one of the traits. Use pictures, metaphors, and definitions.
+<<<<<<< HEAD
 - <span id="page-109-0"></span>• Ask students to analyze one of their own pieces of writing, using the language ofthe traits.
 - Ask students to describe to their parents what they've learned this year in writing, using the language of the traits.
 
 #### **Strategy 7: Teach Lessons Focused on the Traits**
+=======
+- Ask students to analyze one of their own pieces of writing, using the language ofthe traits.
+- Ask students to describe to their parents what they've learned this year in writing, using the language of the traits.
+
+### **Strategy 7: Teach Lessons Focused on the Traits**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This one is easy. You probably already have a file cabinet full of lessons and activities that teach one or more of the traits. The dif-
 
@@ -2348,7 +2509,11 @@ ference now is that you can organize them purposefully by trait, so that for eve
 	- a. Share six ways writers add drama to their writing-action, dialogue, description of setting, physical description of character, internal thinking of one of the characters, and internal physical sensations of one of the characters. Find examples. Practice.
 	- b. Describe and show the difference between showing and telling in writing. Find examples from literature. Have students practice turning telling into showing and showing into telling. Have discussions on when and how each could/should be used.
 
+<<<<<<< HEAD
 #### **Chapter Summary**
+=======
+### **Chapter Summary**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In this chapter we explored seven strategies for inviting students into the secrets of quality by teaching them criteria (see Box 6.3). The extended example was in writing, but we invited you to think about other subject areas.
 
@@ -2358,21 +2523,35 @@ The seven strategies can be summarized in one phrase: Surround students with the
 
 ![](_page_109_Picture_14.jpeg)
 
+<<<<<<< HEAD
 #### <span id="page-110-0"></span>**Final Thoughts**
+=======
+### **Final Thoughts**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 You've seen it all-from soup to nuts about rubrics: what they are, the types, when to use various types, what constitutes good ones, how to develop them, how to grade using them, and how to make quality real to students by teaching *them* the criteria for quality. What you have to remember is that even though all this information has come from many years of research and practice, it's still a continuous process oflearning about rubrics-a process in which *we all*  are still engaged! These aren't the fmal answers-they're temporary answers until we all learn more.
 
 But it's also true that the ideas in this book-making learning targets clear to students and improving student achievement by inviting them into the assessment process-are not a flash in the pan. This is the future of assessment in education. Rubrics are a powerful means to this end.
 
+<<<<<<< HEAD
 #### **Note**
+=======
+### **Note**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 1. For example, we used some of these same strategies in Chapter 4 to teach you, the reader, criteria for good-quality rubrics. Which strategies did we use?
 
 RESOURCE
+<<<<<<< HEAD
 
 <span id="page-111-0"></span>![](_page_111_Picture_1.jpeg)
 
 #### <span id="page-112-0"></span>**Introduction**
+=======
+![](_page_111_Picture_1.jpeg)
+
+#### **Introduction**
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 These rubrics are some of our favorites. They represent various grade levels and subject areas. They're here for two reasons. First, they're referenced throughout the book to illustrate points made. Second, in our experience, educators are desperate to get their hands on good ones. So, we've allocated a good portion of the book to these samples. None of these rubrics is perfect; all should be considered works in progress. Every one has some feature of interest. We've added a little annotation to each rubric below to make the interesting features clear.
 
@@ -2389,8 +2568,11 @@ These rubrics are some of our favorites. They represent various grade levels and
 | NWREL Informational<br>Reading                                                                                                                                                                      | Analytical trait, 6 traits, 5-point scale,<br>Grades3-12                                                   | pp.118-120               |  |  |
 | Oregon Reading<br>Analytical trait, 4 traits, 6-point<br>scales, Grades 4-12, performance<br>standard set after the rubric was<br>developed ("4" or "5," depending on<br>the trait and grade level) |                                                                                                            | pp. 121-125              |  |  |
 
+<<<<<<< HEAD
 <span id="page-113-0"></span>
 
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Writing                                                                                                                                  |                                                                                                                                                                                                                            |                          |  |  |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--|--|
 | Rubric                                                                                                                                   | Description                                                                                                                                                                                                                | Resource Page<br>Numbers |  |  |
@@ -2408,7 +2590,11 @@ These rubrics are some of our favorites. They represent various grade levels and
 
 #### **CALIFORNIA MATHEMATICS RUBRIC**
 
+<<<<<<< HEAD
 <span id="page-114-0"></span>As described in the *California Mathematics Framework* (1992), mathematically powerful students are those who can draw on mathematical ideas, tools, and techniques to think and communicate. In responding to an open-ended question and accomplishing its task, a student demonstrates mathematical power. As the student engages in and responds to the task, he or she draws from his or her thinking capacity, understanding of mathematical ideas, ability to use tools and techniques, communication skills, and ability to shape a coherent and focused response.
+=======
+As described in the *California Mathematics Framework* (1992), mathematically powerful students are those who can draw on mathematical ideas, tools, and techniques to think and communicate. In responding to an open-ended question and accomplishing its task, a student demonstrates mathematical power. As the student engages in and responds to the task, he or she draws from his or her thinking capacity, understanding of mathematical ideas, ability to use tools and techniques, communication skills, and ability to shape a coherent and focused response.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The general rubric below is used to evaluate responses to open-ended questions in mathematics. The rubric articulates the extent to which student work accomplishes the purpose of the task and demonstrates mathematical understanding, reasoning, thinking, communicating, and use of tools and techniques. Level 6 represents the highest quality of work, and Level 1 the lower quality of performance. This rubric can be applied to any open-ended task. Therefore, before applying this rubric to mathematics assessment, the scorer must explore all possible ways in which it relates to a particular problem. In other words, the scorer looks for the mathematical ideas, thinking, communication, tools, and techniques that a student can use to solve a particular problem.
 
@@ -2473,7 +2659,11 @@ Levell: Does not achieve any requirements of the task(s), showing, for example,
 
 SOURCE: Reprinted from *A Sampler of Mathematics Assessment-Addendum.* © 1994, California Department of Education. Used with permission.
 
+<<<<<<< HEAD
 # <span id="page-117-0"></span>**The** ~tudent **friendly 6uide to Mathematics Problem** ~olving
+=======
+### **The Student **friendly 6uide to Mathematics Problem** ~olving
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_117_Picture_2.jpeg)
 
@@ -2481,7 +2671,11 @@ Central Kitsap School District P.O. Box 8 Silverdale, W A 98383 Curriculum Depar
 
 SOURCE: Curriculum Department, Central Kitsap School District. Used with permission.
 
+<<<<<<< HEAD
 #### <span id="page-118-0"></span>Mathematical Knowledge Concepts and Procedures
+=======
+### Mathematical Knowledge Concepts and Procedures
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The student understands mathematical concepts and performs related operations, chooses the appropriate math operations, and performs computations correctly.
 
@@ -2524,7 +2718,11 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 
 ### **Problem Solving**
 
+<<<<<<< HEAD
 <span id="page-120-0"></span>![](_page_120_Figure_2.jpeg)
+=======
+![](_page_120_Figure_2.jpeg)
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_120_Picture_3.jpeg)
 
@@ -2580,7 +2778,11 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 
 #### **Communication**
 
+<<<<<<< HEAD
 <span id="page-122-0"></span>The student explains the process, reasoning, and strategy used in solving the problem.
+=======
+The student explains the process, reasoning, and strategy used in solving the problem.
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - >- Explains the strategy and processes used.
 - > Explains why what was done was done.
@@ -2590,8 +2792,11 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 
 ![](_page_122_Figure_7.jpeg)
 
+<<<<<<< HEAD
 ### **Communication**
 
+=======
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 5 I clearly explained the process I used and my solution to the problem using numbers, words, pictures, or diagrams.
 
 - > My explanation makes sense.
@@ -2618,6 +2823,7 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 - > My explanation is mostly copying the original problem.
 - > The pictures, symbols, and/ or diagrams I used would not help someone understand what I did.
 
+<<<<<<< HEAD
 #### **MATHEMATICS SCORING RUBRIC: A GUIDE TO EXTENDED-RESPONSE ITEMS**
 
 <span id="page-124-0"></span>**4 3**  *MATHEMATICAL KNOWLEDGE: Knowledge of mathematical principles and concepts which result in a correct solution to a problem.*  • Shows complete understanding of the problem's mathematical concepts and principles • Uses appropriate mathematical terminology and notions including labeling answer, if appropriate; that is, whether or not the unit is called for in the stem of the item • Executes algorithms completely and correctly • Shows nearly complete understanding ofthe problem's mathematical concepts and principles • Uses nearly correct mathematical terminology and notations • Executes algorithms completely; computations are generally correct but may contain minor errors *STRATEGIC KNOWLEDGE: Identification of important elements of the problem and the use of models, diagrams, symbols, and/or algorithms to systematically represent and integrate concepts.*  • Identifies all the important elements of the problem and shows complete understanding of the relationships among elements • Reflects an appropriate and systematic strategy for solving the problem • Solution process is nearly complete • Identifies most of the important elements of the problem and shows general understanding of the relationship among them • Reflects an appropriate strategy for solving the problem • Solution process is nearly complete *EXPLANATION: Written explanation and rationales* <sup>I</sup> *that translate into words the steps of the solution process and provide justification for each step. Though important, length of the response, grammar, and syntax are not the critical elements of this dimension.*  • Gives a complete written explanation of the solution process employed; explanation addresses both *what* was done and *why* it was done • If a diagram is appropriate, there is a complete explanation of all the elements in the diagram • Gives a nearly complete written explanation of the solution process employed, or explains *what* was done and begins to address *why* it was done • May include a diagram with most of the elements explained
@@ -2644,11 +2850,218 @@ SOURCE: From *Illinois Standards Achievement Test: Sample Mathematics Materials 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Communication<br>Key Question:<br>Was I able to easily<br>understand the stu-<br>have to make infer-<br>ences and guesses<br>about what they were<br>trying to do?                               | 1. I couldn't follow your<br>thinking.<br>2. Your explanation seemed<br>to ramble.<br>dent's thinking, or did I 3. You gave no explanation<br>for your work.<br>sense of what your audi-<br>ence needed to know.<br>5. Your mathematical repre-<br>sentations did not help<br>clarify your thinking. | 1. Your solution was hard to fol-<br>low in places.<br>2. I had to make inferences about 2. Your solution was well or-<br>what you meant in places.<br>3. You weren't able to sustain<br>your good beginning.<br>4. You did not seem to have a 4. Your explanation was redun-<br>dant in places.<br>5. Your mathematical represen-<br>tations were somewhat help-<br>ful in clarifying your thinking. | 1. I understood what you did<br>and why you did it.<br>ganized and easy to follow.<br>3. Your solution flowed logi-<br>cally from one step to the<br>next.<br>4. You used an effective for-<br>mat for communicating.<br>5. Your mathematical repre<br>sentations helped clarify<br>your solution.                    | 1. Your explanation was clear<br>and concise.<br>2. You communicated con<br>cepts with precision.<br>3. Your mathematical repre<br>sentations expanded on<br>your solution.<br>4. You gave an in-depth expla<br>nation of your reasoning.                                                                                                |
 | Insights<br>Key Question:<br>Does the student grasp<br>the problem and see<br>how the process used<br>to solve this problem<br>connects it to other<br>problems or "real<br>world" applications? | 1. You were unable to recog-<br>nize patterns and<br>relationships.<br>the deeper structure of 2. You found a solution and<br>then stopped.<br>3. You found no connections<br>to other disciplines or<br>mathematical concepts.<br>-                                                                 | 1. You recognized some patterns<br>and relationships.<br>2. You found multiple solutions,<br>but not all were correct.<br>3. Your solution hinted at a con-<br>nection to an application or<br>another area of mathematics.<br>~-                                                                                                                                                                     | 1. You recognized important<br>patterns and relationships<br>in the problem.<br>2. You found multiple solu-<br>tions using different inter-<br>pretations of the problem.<br>3. You connected your solu-<br>tion process to other prob-<br>lems, areas of mathemat-<br>ics, or applications.<br>- -- ---------------- | 1. You created a general rule<br>or formula for solving<br>related problems.<br>2. You related the underlying<br>structure of the problem to<br>other similar problems.<br>3. You noted possible sources<br>of error or ambiguity in the<br>problem.<br>4. Your connection to a real<br>life application was accu<br>rate and realistic. |
+=======
+### **MATHEMATICS SCORING RUBRIC: A GUIDE TO EXTENDED-RESPONSE ITEMS**
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+| *MATHEMATICAL KNOWLEDGE:                                                                                                                                                                   |
+|  Knowledge of mathematical principles and concepts which result in a correct solution to a problem.*                                                                                       |
+| Score level 4:                                                                                                                                                                             |
+| • Shows complete understanding of the problem's mathematical concepts and principles                                                                                                       |
+| • Uses appropriate mathematical terminology and notions including labeling answer, if appropriate; that is, whether or not the unit is called for in the stem of the item                  |
+| • Executes algorithms completely and correctly                                                                                                                                             |
+|  Score Level 3                                                                                                                                                                             |
+|  • Shows nearly complete understanding ofthe problem's mathematical concepts and principles                                                                                                |
+|  • Uses nearly correct mathematical terminology and notations                                                                                                                              |
+|  • Executes algorithms completely; computations are generally correct but may contain minor errors                                                                                         |
+|  Score Level 2:                                                                                                                                                                            |
+|  • Shows some understanding of the problem's mathematical concepts and principles                                                                                                          |
+|  • May contain major computational errors                                                                                                                                                  |
+|  Score Level 1:                                                                                                                                                                            |
+|  • Shows limited to no understanding of the problem's mathematical concepts and principles                                                                                                 |
+|  • May misuse or fail to use mathematical terms                                                                                                                                            |
+|  • May contain major computational errors                                                                                                                                                  |
+|  Score Level 0:                                                                                                                                                                            |
+|  No answer attempted!                                                                                                                                                                      |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|  *STRATEGIC KNOWLEDGE: 
+|  Identification of important elements of the problem and the use of models, diagrams, symbols, and/or algorithms to systematically represent and integrate concepts.*  
+|  Score Level 4
+|  • Identifies all the important elements of the problem and shows complete understanding of the relationships among elements 
+|  • Reflects an appropriate and systematic strategy for solving the problem • Solution process is nearly complete 
+|  Score Level 3
+|  • Identifies most of the important elements of the problem and shows general understanding of the relationship among them 
+|  • Reflects an appropriate strategy for solving the problem 
+|  • Solution process is nearly complete 
+|  Score Level 2
+|  • Identifies some important elements of the problem but shows only limited understanding of the relationship among them 
+|  • Appears to reflect an appropriate strategy but the application of strategy is unclear, or a related strategy is supplied logically and consistently 
+|  • Gives some evidence of a solution process 
+|  Score Level 1:
+|  • Fails to identify important elements or places too much emphasis on unimportant elements 
+|  • May reflect an inappropiate or inconsistent strategy for solving problems
+|  • Gives minimal evidence of solution process; process may be difficult to identify 
+|  Score Level 0:
+|  No apparent strategy
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|  
+|  *EXPLANATION: 
+|  Written explanation and rationales that translate into words the steps of the solution process and provide justification for each step. Though important, length of the response, grammar, and 
+|  syntax are not the critical elements of this dimension.  
+| Score Level 4:
+|  • Gives a complete written explanation of the solution process employed; explanation addresses both what was done and why it was done 
+|  • If a diagram is appropriate, there is a complete explanation of all the elements in the diagram 
+|  Score Level 3:
+|  • Gives a nearly complete written explanation of the solution process employed, or explains what was done and begins to address why it was done 
+|  • May include a diagram with most of the elements explained
+|  Score Level 2:
+|  • Gives some written explanation of the solution process employed; either explains what was done or addresses why it was done; explanation is vague or difficult to interpret 
+|  • May include a diagram with some of the elements explained 
+|  Score Level 1:
+|  • Gives minimal written explanation of solution process; may fail to explain what was done and why it was done 
+|  • Explanation does not match presented solution process 
+|  • May include minimal discussion of elements in diagram; explanation of significant element is unclear 
+|  Score Level 0:
+|  No written explanation of user process is provided
+
+SOURCE: From *Illinois Standards Achievement Test: Sample Mathematics Materials 2000* (p. 59). © 2000, Illinois Department of Public Instruction. Used with permission .
+
+#### **MATHEMATICS SCORING RUBRIC**
+
+**TABLE-Mathematics Scoring Rubric**
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+|Conceptual Understanding                                                                                                                                                                      |
+|**Key Question:** Does the student’s interpretation of the problem using mathematical representations and procedures accurately reflect the important mathematics in the problem?             |
+|                                                                                                                                                                                              |
+| Emerging                                                                                                                                                                                     |
+|1. Your mathematical representations of the problem were incorrect.                                                                                                                           |
+|2. You used the wrong information in trying to solve the problem.                                                                                                                             | 
+|3. The mathematical procedures you used would not lead to a correct solution.                                                                                                                 |
+|                                                                                                                                                                                              |
+| Developing                                                                                                                                                                                   |
+|1. Your choice of forms to represent the problem was inefficient or inaccurate.                                                                                                               |
+|2. Your response was not completely related to the problem.                                                                                                                                   |
+|3. The mathematical procedures you used would lead to a partially correct solution.                                                                                                           |
+|                                                                                                                                                                                              |
+| Proficient                                                                                                                                                                                   |
+|1. Your choices of mathematical representations of the problem were appropriate.                                                                                                              |
+|2. You used all relevant information from the problem in your solution.                                                                                                                       |
+|3. The mathematical procedures you chose would lead to a correct solution.                                                                                                                    |
+|                                                                                                                                                                                              |
+| Exemplary                                                                                                                                                                                    |
+|1. Your mathematical representations helped clarify the problem’s meaning.                                                                                                                    |
+|2. You uncovered hidden or implied information not readily apparent.                                                                                                                          |
+|3. You chose mathematical procedures that would lead to an elegant solution.                                                                                                                  |
+|4. You used mathematical terminology precisely.                                                                                                                                               |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+| Strategies & Reasoning                                                                                                                                                                       |
+|**Key Question:** Is there evidence that the student proceeded from a plan, applied appropriate strategies, and followed a logical, verifiable process toward a solution?                     |
+|                                                                                                                                                                                              |
+| Emerging                                                                                                                                                                                     |
+|1. Your strategies were not appropriate for the problem.                                                                                                                                      |
+|2. You didn’t seem to know where to begin.                                                                                                                                                    |
+|3. Your reasoning did not support your work.                                                                                                                                                  |
+|4. There was no apparent logic to your solution.                                                                                                                                              |
+|5. Your approach to the problem would not lead to a correct solution.                                                                                                                         |
+|                                                                                                                                                                                              |
+| Developing                                                                                                                                                                                   |
+|1. You used an oversimplified approach to the problem.                                                                                                                                        |
+|2. You offered little or no explanation of your strategies.                                                                                                                                   |
+|3. Some of your representations accurately depicted aspects of the task.                                                                                                                      |
+|4. The logic of your solution had leaps that were hard to follow.                                                                                                                             |
+|5. Your process led to a partially complete solution.                                                                                                                                         |
+|                                                                                                                                                                                              |
+| Proficient                                                                                                                                                                                   |
+|1. You chose appropriate, efficient strategies for solving the problem.                                                                                                                       |
+|2. You justified each step of your work.                                                                                                                                                      |
+|3. Your representations fit the problem.                                                                                                                                                      |
+|4. Your process would lead to a complete, correct solution of the problem.                                                                                                                    |
+|                                                                                                                                                                                              |
+| Exemplary                                                                                                                                                                                    |
+|1. You chose innovative and insightful strategies for solving the problem.                                                                                                                    |
+|2. You proved that your solution was correct and that your approach was valid.                                                                                                                |
+|3. You provided examples and/or counterexamples to support your solution.                                                                                                                     |
+|4. You used a sophisticated, elegant approach to solve the problem.                                                                                                                           |
+|5. Your reasoning and representations together form a seamless, logical argument.                                                                                                             |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+| Computation and Execution                                                                                                                                                                    |
+|**Key Question:** Given the approach taken by the student, is the solution performed in an accurate and complete manner?                                                                      |
+|                                                                                                                                                                                              |
+| Emerging                                                                                                                                                                                     |
+|1. Errors in computation were serious enough to flaw your solution.                                                                                                                           |
+|2. Your mathematical representations were inaccurate.                                                                                                                                         | 
+|3. You labeled incorrectly.                                                                                                                                                                   |
+|4. Your solution was incorrect.                                                                                                                                                               |
+|5. You gave no evidence of how you arrived at your answer.                                                                                                                                    |  
+|                                                                                                                                                                                              |
+| Developing                                                                                                                                                                                   |
+|1. You made minor computational errors.                                                                                                                                                       |
+|2. Your representations were essentially correct but not accurately or completely labeled.                                                                                                    |
+|3. Your inefficient choice of procedures impeded your success.                                                                                                                                |
+|4. The evidence for your solution was inconsistent or unclear.                                                                                                                                |
+|                                                                                                                                                                                              |
+| Proficient                                                                                                                                                                                   |
+|1. Your computations were essentially accurate.  
+|2. All visual representations were complete and accurate.  
+|3. Your solution was essentially correct.  
+|4. Your work clearly supported your solution.  
+|
+| Exemplary  
+|1. All aspects of your solution were completely accurate.  
+|2. You used multiple representations for verifying your solution.  
+|3. You showed multiple ways to compute your answer.  
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+| Communication  
+|**Key Question:** Was I able to easily understand the student’s thinking, or did I have to make inferences and guesses about what they were trying to do?
+|
+| Emerging  
+|1. I couldn’t follow your thinking.  
+|2. Your explanation seemed to ramble.  
+|3. You gave no explanation for your work.  
+|4. Your explanation was redundant in places.  
+|5. You did not seem to have a sense of what your audience needed to know.  
+|
+| Developing  
+|1. Your solution was hard to follow in places.  
+|2. I had to make inferences about what you meant in places.  
+|3. You weren’t able to sustain your good beginning.  
+|4. Your explanation was somewhat helpful but not consistently clear.  
+|5. Your mathematical representations were somewhat helpful in clarifying your thinking.  
+|
+| Proficient  
+|1. I understood what you did and why you did it.  
+|2. Your solution was well organized and easy to follow.  
+|3. Your solution flowed logically from one step to the next.  
+|4. You used an effective format for communicating.  
+|5. Your mathematical representations helped clarify your solution.  
+|
+| Exemplary  
+|1. Your explanation was clear and concise.  
+|2. You communicated concepts with precision.  
+|3. Your mathematical representations expanded on your solution.  
+|4. You gave an in-depth explanation of your reasoning.  
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+ Insights  
+**Key Question:** Does the student grasp the deeper structure of the problem and see how the process used to solve this problem connects it to other problems or "real world" applications?
+
+ Emerging  
+1. You were unable to recognize patterns and relationships.  
+2. You found a solution and then stopped.  
+3. You found no connections to other disciplines or mathematical concepts.  
+
+ Developing  
+1. You recognized some patterns and relationships.  
+2. You found multiple solutions, but not all were correct.  
+3. Your solution hinted at a connection to an application or another area of mathematics.  
+
+ Proficient  
+1. You recognized important patterns and relationships in the problem.  
+2. You found multiple solutions using different interpretations of the problem.  
+3. You connected your solution process to other problems, areas of mathematics, or applications.  
+
+ Exemplary  
+1. You created a general rule or formula for solving related problems.  
+2. You related the underlying structure of the problem to other similar problems.  
+3. You noted possible sources of error or ambiguity in the problem.  
+4. Your connection to a real-life application was accurate and realistic.  
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SOURCE: © 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
 
 ...... ...... ......
 
+<<<<<<< HEAD
 #### **READING DEVELOPMENTAL CONTINUUM LEARNING TO READ, LEARNING TO LISTEN**
 
 <span id="page-128-0"></span>
@@ -2669,6 +3082,10 @@ s:: 0 .... (ll s:: ~ ~ 8
 | ., | KINDERGARTEN RANGE: A to C  | ···················································································• |
 |----|-----------------------------|--------------------------------------------------------------------------------------|
 |    | •<br>FIRST GRADE RANGE: B-F | •                                                                                    |
+=======
+### **READING DEVELOPMENTAL CONTINUUM LEARNING TO READ, LEARNING TO LISTEN**
+
+>>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permission .
 
