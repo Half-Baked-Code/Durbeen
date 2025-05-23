@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-![](_page_0_Figure_4.jpeg)
-
-## SCORING RUBRICS IN THE CLASSROOM
-
-## **ExPERTS IN AsSESSMENT™**
-
-#### SERIES EDITORS
-
-#### THoMAs R. GusKEY AND RoBERT J. MARzANo
-
-#### JuDITH ARTER, }AY McTIGHE
-
-SCORING RUBRICS IN THE CLASSROOM: USING PERFORMANCE CRITERIA FOR AssESSING AND IMPROVING STUDENT PERFORMANCE
-
-#### }ANE M. BAILEY, THoMAs **R.** GusKEY
-
-IMPLEMENTING STUDENT-LED CONFERENCES
-
-#### GREGORY **J.** CIZEK
-=======
 # SCORING RUBRICS IN THE CLASSROOM: USING PERFORMANCE CRITERIA FOR AssESSING AND IMPROVING STUDENT PERFORMANCE
 ![](_page_0_Figure_4.jpeg)
 ExPERTS IN AsSESSMENT™**
@@ -33,7 +12,6 @@ ANE M. BAILEY, THoMAs **R.** GusKEY
 
 IMPLEMENTING STUDENT-LED CONFERENCES
 GREGORY **J.** CIZEK
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 DETECTING AND PREVENTING CLASSROOM CHEATING
 
@@ -41,19 +19,6 @@ LoRNA M. EARL
 
 AssESSMENT As LEARNING: UsiNG CLASSROOM AssESSMENT TO MAxiMIZE STUDENT LEARNING
 
-<<<<<<< HEAD
-#### THoMAS **R.** GusKEY, }ANE M. BAILEY DEVELOPING GRADING AND REPORTING SYSTEMS FOR STUDENT LEARNING
-
-#### EDWARD KIFER LARGE-SCALE AssESSMENT: DIMENSIONS, DILEMMAS, AND Poucv
-
-#### ROBERT J. MARzANo DESIGNING A NEW TAXONOMY OF EDUCATIONAL OBJECTIVES
-
-#### }AMES H. McMILLAN EssENTIAL AssESSMENT CoNCEPTS FOR TEACHERS AND ADMINISTRATORS
-
-#### DOUGLAS **B.** REEVES HousTic AccouNTABILITY: SERVING STUDENTS, ScHooLs, AND CoMMUNITY
-
-#### JEFFREY **K.** SMITH, LisA F. SMITH, RicHARD DE Lisi
-=======
 THoMAS **R.** GusKEY, }ANE M. BAILEY DEVELOPING GRADING AND REPORTING SYSTEMS FOR STUDENT LEARNING
 
 EDWARD KIFER LARGE-SCALE AssESSMENT: DIMENSIONS, DILEMMAS, AND Poucv
@@ -62,35 +27,21 @@ ROBERT J. MARzANo DESIGNING A NEW TAXONOMY OF EDUCATIONAL OBJECTIVES
 JAMES H. McMILLAN EssENTIAL AssESSMENT CoNCEPTS FOR TEACHERS AND ADMINISTRATORS
 DOUGLAS **B.** REEVES HousTic AccouNTABILITY: SERVING STUDENTS, ScHooLs, AND CoMMUNITY
 JEFFREY **K.** SMITH, LisA F. SMITH, RicHARD DE Lisi
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 NATURAL CLASSROOM AssESSMENT: DESIGNING SEAMLESS INSTRUCTION AND AsSESSMENT
 
 > Please call our toll-free number (800-818-7243) or visit our website [\(www.corwinpress.com\)](http://www.corwinpress.com) to order individual titles or the entire series.
-<<<<<<< HEAD
-
-## **SCORING RUBRICS IN THE** CLASSROOM
-=======
  **SCORING RUBRICS IN THE** CLASSROOM
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 USING PERFORMANCE CRITERIA FOR ASSESSING AND IMPROVING STUDENT PERFORMANCE
 
 )UDI1HARTER NORTHWEST REGIONAL EDUCATIONAL lABORATORY
 
-<<<<<<< HEAD
-## jAY MCTIGHE
-
-![](_page_3_Picture_4.jpeg)
-
-## EXPERTS IN ASSESSMENTTM
-=======
  jAY MCTIGHE
 
 ![](_page_3_Picture_4.jpeg)
 
  EXPERTS IN ASSESSMENTTM
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SERIES EDITORS THOMAS R. GUSKEY AND ROBERT). MARZANO
 
@@ -110,11 +61,7 @@ Sage Publications Ltd. 6 Bonhill Street London EC2A 4PU United Kingdom Sage Publ
 
 Printed in the United States of America
 
-<<<<<<< HEAD
-#### **Library of Congress Cataloging-in-Publication Data**
-=======
  **Library of Congress Cataloging-in-Publication Data**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ```
 Arter, Judith A.
@@ -141,11 +88,7 @@ This book is printed on acid-free paper.
 | Typesetter:                 | LynnMiyata       |  |  |
 | Cover Designer:             | Tracy E. Miller  |  |  |
 
-<<<<<<< HEAD
-## **Contents**
-=======
  **Contents**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 |    | Series Editors' Introduction                                                                                        | vii |
 |----|---------------------------------------------------------------------------------------------------------------------|-----|
@@ -172,13 +115,7 @@ This book is printed on acid-free paper.
 |    | Getting Started                                                                                                     | 33  |
 |    | Examples of Rubric Development                                                                                      | 36  |
 |    | Chapter Summary                                                                                                     | 44  |
-<<<<<<< HEAD
-
-|    | 4. A Rubric for Rubrics: or, lfs Metarubric Time                                     | 45       |
-|----|--------------------------------------------------------------------------------------|----------|
-=======
 | 4. | A Rubric for Rubrics: or, lfs Metarubric Time                                        | 45       |
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 |    | How will we know when we have an effective rubric?                                   |          |
 |    | A Rubric for Rubrics                                                                 | 45       |
 |    | Metarubric Trait 1: Content/Coverage                                                 | 53       |
@@ -438,19 +375,11 @@ Figure 1.2. Checklist for Basketball Skills
 
 Scoring methods and performance criteria for constructed response and performance assessments are huge topics. So, we must narrow down what we discuss in this book. Specifically, we do *not* deal with simple criteria to assess simple things-checklists, or what we call "assessment lists." Rather, we place our emphasis on criteria for assessing more complicated things, which, for purposes of this book, we call "rubrics."
 
-<<<<<<< HEAD
-### What We Do Not Cover in This Book
-
-![](_page_21_Picture_7.jpeg)
-
-#### Checklists
-=======
 #### What We Do Not Cover in This Book
 
 ![](_page_21_Picture_7.jpeg)
 
 ##### Checklists
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 You've all seen checklists. They list the components that must be • present in a product or performance. You check off the ones that are present. Figures 1.1 and 1.2 present two examples of checklists.
 
@@ -472,11 +401,7 @@ pened when a teacher tried to use a checklist when a more sophisticated scoring 
 
 Because checklists do not provide detailed descriptions of levels of quality, they are not appropriate to use in assessing performances having a fuller range of qualitatively different performance levels. While we, the authors, think that checklists are wonderful, practical tools for certain situations, we won't deal with how to develop or use checklists in this book. Our focus is on more sophisticated scoring systems.
 
-<<<<<<< HEAD
-#### Performance Lists
-=======
 ##### Performance Lists
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A more sophisticated scoring tool than checklists consists of a list of things to rate and a rating scale. Two examples of criterion-based performance lists are provided in Figures 1.3 and 1.4.
 
@@ -533,11 +458,7 @@ A rubric is a particular format for criteria-it is the written-down vers ion of 
 
 theless, we do not focus on this type of
 
-<<<<<<< HEAD
-### What We Do Focus On: Rubrics!
-=======
 #### What We Do Focus On: Rubrics!
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This book concentrates on rubricsscoring tools containing criteria and a performance scale that allows us to define and describe the most important components that comprise complex performances and products. Our definition is given in Box 1.5. An example of a rubric is shown in Figure 1.5.
 
@@ -944,7 +865,7 @@ For this constructed-response assessment, choose a scoring method:
 
  **When to Use**
 
-- ,,.. Planning instruction-shows relative strengths and weaknesses
+- Planning instruction-shows relative strengths and weaknesses
 - , .. Teaching students the nature of a quality product or performance-they need the details
 - , .. Detailed feedback to students or parents
 - , .. When knowing how to precisely describe quality is more important than speed
@@ -953,7 +874,7 @@ For this constructed-response assessment, choose a scoring method:
  **Disadvantages**
 
 - , .. Scoring is slower
-- ,,.. Takes longer to learn
+- Takes longer to learn
 
 Task: Joe, Sarah, Jose, Zabi, and Kim decided to hold their own Olympics after watching the Olympics on Tv. ... The children decided to have three events-frisbee toss, weight lift, and 50-yard dash. They also decided to make each event equally important .... The children's scores for each of the events are listed below:
 
@@ -1116,6 +1037,7 @@ With these overall suggestions in mind, we're going to examine, with three speci
 
 In the running examples below, we'll use the rubric-development procedure ~ that begins with sorting student work- -,~ -proceeds by looking at sample performance criteria from other places-0 -and finishes with refinement of the rubric based on scoring- *f.* (Remember, this was one of the options presented in the "tips" list above. It's actually the most frequently used option, that's why we're expanding on it here.)
 
+**TABLE-Samples of Student Performance to Collect**
 | Self-Reflection                                    | Math Problem Solving                                           | Writing                                               |
 |----------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------|
 | Collect things that students have written in answer| Collect samples of student open-ended problem solving. Remember| Collect a variety<br>of writing samples<br>across grade
@@ -1131,7 +1053,6 @@ In the running examples below, we'll use the rubric-development procedure ~ that
 | you currently understand<br>__<br>about ? What do  |                                                                |
 | you still<br>need to understand?"                  |                                                                |   |
 
-**Table 3.1 Samples of Student Performance to Collect**
 
 To illustrate the process in action, we'll present three running examplesmathematical problem solving, writing, and self-reflection letters. (Remember, we're developing performance criteria in order that we, and our students, have a clearer vision of the nature of quality. We're not necessarily doing it so we can "grade." This is especially a concern by teachers when developing criteria for self-reflection letters.)
 
@@ -1160,58 +1081,52 @@ Thinking about grading while placing work in stacks has an added benefit-it clar
 Sometimes this procedure leads to very negative phrases at the low end of the scale, such as "clueless" and "totally wrong." One way to avoid this is to think about the comments you would actually make to students when you hand back work-make "I" statements, such as "I was confused as to what you did" and "I would like to know more about why you used the numbers you did."
 
 
-
-|      | Self-Reflection                            | Mathematics                                            | Writing                                                           |  
-| High | Detailed; many things covered; insightful; | I can tell exactly what the student did at every step; | I want to keep reading; insightful; I can easily follow the train |
-|      | self-revelation; exam<br>ples provided; the| concise and to the point; correct answer; logical and  | of thought; funny; interesting; good opening; good pacing;        |
-|      | student seemed<br>motivated; sets goals for| sequential; good explanation;precise; correct labels;  | good closing; nice use of words; flows; has a point to make       |
-|      | the future;<br>looks at more than one thing| explains thought process; supports reasoning; correct  | ; is individual; varied sentence lengths; varied sentence         |
-|      | considers content as well as<br>process;   | answer Appropriate use of pictures, diagrams, and      | beginnings; conventions done<br>correctly                         |        
-|      | takes risks; accurate;<br>discussion is    | symbols; used the right numbers in the right order;    |                                                                   |
-|      | related to criteria;<br>growth supported   | sequencing was purposeful; evidence that the answer    |                                                                   |
-|      | with examples;<br>organized well; sincere; | was checked for reasonableness; I could tell exactly   |                                                                   |
-|      | honest; there are comparisons over time;   | what the student did and why he or she did it          |                                                                   |
-|      | shares feelings; looks at both strengths   |                                                        |                                                                   |
-|      | and weaknesses; there is depth to the      |                                                        |                                                                   |
-|      | analysis; there are good reasons and expla |                                                        |                                                                   |
-|      | nations; revealing; voice; easy to read;   |                                                        |                                                                   |
-|      | looks at skill improvement; there is       |                                                        |                                                                   |
-|      | ownership; there is a personal reaction;   |                                                        |                                                                   |
-|      | it is specific; it looks ahead; it is      |                                                        |                                                                   |
-|      | thorough; ideas are synthesized; it is     |                                                        |                                                                   |
-|      | readable; it is neat                       |                                                        |                                                                   |
-
-**Table** 3.2 Examples of Attributes
-Table 3.2 Continued
-
-| Middle | Shows then hides; beginning of    | Right idea, but computational           | The topic is broad, but I can see          |
-|        | ownership; two-dimensional        | errors; forgot a step, but the rest is  | where the writer is going; support is      |
-|        | some specifics; describes perfor  | OK; didn't go far enough; didn't        | attempted; I have some questions;          |
-|        | mance but leaves a lot out; few   | clarify; one has to make some           | the theme is not entirely clear; I can     |
-|        | insights; focuses on only a few;  | inferences as to what the student       | follow it, but the pacing seems off;       |        
-|        | things; considers content or pro  | did; doesn't show all the steps;        | the beginning or ending could be           |
-|        | cess but not both; is somewhat    | used correct data but incorrect         | better; words are correct but don't        |
-|        | accurate; doesn't seem completely | process; used correct process but       | have flair; words are sometimes            |
-|        | honest; there are descriptions    | incorrect data                          | used incorrectly; sentences are            |
-|        | of individual pieces ofwork       |                                         | correct but not lively; conventions        | 
-|        | but no comparisons over time;     |                                         | are mostly correct                         |
-|        | I have to make some inference     |                                         |                                            |
-|        | as to what the student meant      |                                         |                                            |
-
-
-| Low    | Vague; simple restatements;            | I couldn't follow the sequence;     | This is just a list; there is no theme;    |
-|        | mechanical; focuses mainly on          | the answer doesn't look reason      | I can't follow this; everything seems      |
-|        | surface features; obvious; same        | able; used wrong numbers;           | as important as everything else; this      |
-|        | old same old; no examples; pur         | mixed processes; shooting in        | is repetitious; it's boring; the writer    |
-|        | poseless; I like it/ I don't like it;  | the dark; illogical; unclear;       | seems indifferent; the writing is          |        
-|        | one-dimensional; superficial           | no explanation of answer;           | lifeless; there is no point of view;       |
-|        | does not seem to be aware of the       | I had to make a lot of inferences   | the words are very general; words          |
-|        | need to set goals; takes no risks      | as to what the student did; I was   | are used incorrectly; word choice          |
-|        | doesn't seem honest; is not            | confused by the explanation         | detracts from the message; phrasing        |
-|        | accurate; there seems to be no         |                                     | seems awkward; all the sentences           | 
-|        | ownership; I can't follow what the     |                                     | are the same length; it's choppy;          |
-|        | student is trying to say; hard to      |                                     | there are lots of errors in spelling,      |
-|        | read; not organized well               |                                     | capitalization, etc.                       |
+**TABLE-3.2 Examples of Attributes**
+|        | Self-Reflection                            | Mathematics                                            | Writing                                                           |  
+| High   | Detailed; many things covered; insightful; | I can tell exactly what the student did at every step; | I want to keep reading; insightful; I can easily follow the train |
+|        | self-revelation; exam<br>ples provided; the| concise and to the point; correct answer; logical and  | of thought; funny; interesting; good opening; good pacing;        |
+|        | student seemed<br>motivated; sets goals for| sequential; good explanation;precise; correct labels;  | good closing; nice use of words; flows; has a point to make       |
+|        | the future;<br>looks at more than one thing| explains thought process; supports reasoning; correct  | ; is individual; varied sentence lengths; varied sentence         |
+|        | considers content as well as<br>process;   | answer Appropriate use of pictures, diagrams, and      | beginnings; conventions done<br>correctly                         |        
+|        | takes risks; accurate;<br>discussion is    | symbols; used the right numbers in the right order;    |                                                                   |
+|        | related to criteria;<br>growth supported   | sequencing was purposeful; evidence that the answer    |                                                                   |
+|        | with examples;<br>organized well; sincere; | was checked for reasonableness; I could tell exactly   |                                                                   |
+|        | honest; there are comparisons over time;   | what the student did and why he or she did it          |                                                                   |
+|        | shares feelings; looks at both strengths   |                                                        |                                                                   |
+|        | and weaknesses; there is depth to the      |                                                        |                                                                   |
+|        | analysis; there are good reasons and expla |                                                        |                                                                   |
+|        | nations; revealing; voice; easy to read;   |                                                        |                                                                   |
+|        | looks at skill improvement; there is       |                                                        |                                                                   |
+|        | ownership; there is a personal reaction;   |                                                        |                                                                   |
+|        | it is specific; it looks ahead; it is      |                                                        |                                                                   |
+|        | thorough; ideas are synthesized; it is     |                                                        |                                                                   |
+|        | readable; it is neat                       |                                                        |                                                                   |
+| Middle | Shows then hides; beginning of             | Right idea, but computational                          | The topic is broad, but I can see                                 |
+|        | ownership; two-dimensional                 | errors; forgot a step, but the rest is                 | where the writer is going; support is                             |
+|        | some specifics; describes perfor           | OK; didn't go far enough; didn't                       | attempted; I have some questions;                                 |
+|        | mance but leaves a lot out; few            | clarify; one has to make some                          | the theme is not entirely clear; I can                            |
+|        | insights; focuses on only a few;           | inferences as to what the student                      | follow it, but the pacing seems off;                              |        
+|        | things; considers content or pro           | did; doesn't show all the steps;                       | the beginning or ending could be                                  |
+|        | cess but not both; is somewhat             | used correct data but incorrect                        | better; words are correct but don't                               |
+|        | accurate; doesn't seem completely          | process; used correct process but                      | have flair; words are sometimes                                   |
+|        | honest; there are descriptions             | incorrect data                                         | used incorrectly; sentences are                                   |
+|        | of individual pieces ofwork                |                                                        | correct but not lively; conventions                               | 
+|        | but no comparisons over time;              |                                                        | are mostly correct                                                |
+|        | I have to make some inference              |                                                        |                                                                   |
+|        | as to what the student meant               |                                                        |                                                                   |
+| Low    | Vague; simple restatements;                | I couldn't follow the sequence;                        | This is just a list; there is no theme;                           |
+|        | mechanical; focuses mainly on              | the answer doesn't look reason                         | I can't follow this; everything seems                             |
+|        | surface features; obvious; same            | able; used wrong numbers;                              | as important as everything else; this                             |
+|        | old same old; no examples; pur             | mixed processes; shooting in                           | is repetitious; it's boring; the writer                           |
+|        | poseless; I like it/ I don't like it;      | the dark; illogical; unclear;                          | seems indifferent; the writing is                                 |        
+|        | one-dimensional; superficial               | no explanation of answer;                              | lifeless; there is no point of view;                              |
+|        | does not seem to be aware of the           | I had to make a lot of inferences                      | the words are very general; words                                 |
+|        | need to set goals; takes no risks          | as to what the student did; I was                      | are used incorrectly; word choice                                 |
+|        | doesn't seem honest; is not                | confused by the explanation                            | detracts from the message; phrasing                               |
+|        | accurate; there seems to be no             |                                                        | seems awkward; all the sentences                                  | 
+|        | ownership; I can't follow what the         |                                                        | are the same length; it's choppy;                                 |
+|        | student is trying to say; hard to          |                                                        | there are lots of errors in spelling,                             |
+|        | read; not organized well                   |                                                        | capitalization, etc.                                              |
 
 
 **Box** 3.4 Sorting: Task Specific or Generic Criteria
@@ -1230,6 +1145,7 @@ To develop "traits" (important dimensions of performance), you can identify comm
 
 For example, in math the trait of Communication might include at the HIGH level "I can tell exactly what the student did at every step," "good explanation," "clearly explains thought process," and "I had to make very few inferences about what the student did and why he or she did it."
 
+**TABLE-Figure 3.2.Common Traits**
 | Self-Reflection   | Mathematics                 | Writing             |
 |-------------------|-----------------------------|---------------------|
 | 1. Skill Analysis | 1. Conceptual Understanding | 1. Ideas/Content    |
@@ -1241,7 +1157,6 @@ For example, in math the trait of Communication might include at the HIGH level 
 |                   |                             | 7. Presentation     |
 |                   |                             |                     |
 
-Figure 3.2. Common Traits
 
 As another example, Skill Analysis for self-reflection at the HIGH level might include "detailed," "many things covered," "insightful," "examples provided," "looks at more than one thing," "considers content as well as process," "accurate," "discussion related to criteria," "growth supported with examples," "looks at both strengths and weaknesses," "depth of analysis," "revealing," "specific," "thorough," and "synthesized ideas."
 
@@ -1597,6 +1512,7 @@ If the goal with rubrics is to make subjective assessment as objective as possib
 
 You've probably seen rubrics that rely on counts. For example, a student might get a "2" in writing conventions if he or she makes 20 or more spelling, grammatical, punctuation, and capitalization mistakes. But, here's the rub: Shouldn't 20 different mistakes be counted differently than the same mistake made 20 times? Shouldn't errors that really impair the readability of the piece count more than errors that don't?
 
+**TABLE-Figure4.5. Oral Presentation Rubric**
 | Score      | Language                                       | Presentation                                                | Structure                                         |
 | A=5        | Student uses correct  grammar and punctuation. | Volume and rate are appropiate for the audience, There are  | The organization enhances the message. The        |
 |            | Words are accurate and used weLL. Student      | few disractions such as "um" and "ah". the student holds the| speaker sticks to the topic. It is easy to follow.|  
@@ -1613,9 +1529,6 @@ You've probably seen rubrics that rely on counts. For example, a student might g
 |            | ces to understand what is meant                | message                                                     | fashion. It is hard to summarize the speech       |
 
 It sometimes might be the case that quantity implies quality, but not always. Be careful of counts!
-
- Figure4.5. Oral Presentation Rubric
-
 ally find that this rubric covers many valued elements in an oral presentation but leaves out a couple of very important things-for example, the quality of the *content* of the presentation. Teachers also tend to want to refine the indicators for the traits of delivery and language.
 
  #### *·on Its Way" on the Metarubric Trait of Content/Coverage = Writing Rubrics That Leave Out Voice and/or Word Choice*
@@ -1713,6 +1626,7 @@ Look at the metarubric trait of clarity/detail in Figure 4.1. Find the words tha
 
 Here are the words we found: The language is very vague. There are no definitions. The rubric is nothing more than a list of categories to rate followed by a rating scale. There are no descriptors given to define the levels of performance. Teachers would probably be very unlikely to agree on scores.
 
+**TABLE-Figure 4. 7. Skimpy Criteria Rubric**
 |                               | Frequently | Occasionally | Sometimes | Never |
 |-------------------------------|------------|--------------|-----------|-------|
 | Understanding the problem     | 4          | 3            | 2         | 1     |
@@ -1720,7 +1634,7 @@ Here are the words we found: The language is very vague. There are no definition
 | Good strategies and reasoning | 4          | 3            | 2         | 1     |
 | Effective communication       | 4          | 3            | 2         | 1     |
 
-Figure 4. 7. Skimpy Criteria Rubric
+
 
 #### "Not Ready for Prime Time on the Metarubric Trait of Clarity = Rubric for Small Group Discussion (see Figure 4.8)
 
@@ -1820,11 +1734,7 @@ Clarity versus brevity in a rubric's length is discussed in Box 4.4.
 
 ![](_page_82_Picture_7.jpeg)
 
-<<<<<<< HEAD
-### Metarubric li"ait 3: Usability
-=======
 ### Metarubric Trait 3: Usability
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Having clear rubrics that cover the right "stuff" means nothing if the system is too cumbersome to use. The trait of practicality refers to ease of use-can teachers and students understand and use it easily? Does it give them the information they need for instructional decision making and tracking student progress toward important learning outcomes? Can the rubric be used for more than just a way to assess students? Can it also be used to improve the very achievement also being assessed?
 
@@ -1968,6 +1878,7 @@ In this chapter, we outline several methods used in large-scale assessments for 
 
 Setting performance standards on a rubric doesn't only occur at the large-scale state and national levels. The classroom equivalent is grading-how do you convert rubric scores to grades? How good is good enough to get an "/\'? A "B"? An "F"?
 
+**TABLE-5.1 Example of a Predefined Performance Standard**
 | Score | Point Definition                                                                                         |
 |-------|----------------------------------------------------------------------------------------------------------|
 | 4     | The performance exceeds expectations for the grade level.                                                |
@@ -1975,12 +1886,6 @@ Setting performance standards on a rubric doesn't only occur at the large-scale 
 | 2     | The performance indicates an attempt was made but does not meet the<br>expectations for the grade level. |
 | 1     | The performance partially meets expectations for the grade level.                                        |
 | 0     | No attempt was made (or the response was unscorable).                                                    |
-
-<<<<<<< HEAD
-<span id="page-90-0"></span>Table 5.1 Example of a Predefined Performance Standard
-=======
-Table 5.1 Example of a Predefined Performance Standard
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 school and classroom as well. Then, we look at some suggestions for using rubrics in grading.
 
@@ -2024,7 +1929,7 @@ Absolute scales work well for developmental continuums that have lots of score p
 
 ##### Relative Scale Approach
 
-You could instead use the same rubric at each grade level but let the samples of student work that illustrate the various score points vary. In this case, a "4" at Grade 3looks different from a "4" at Grade 11. To get a "4" at Grade 11, <span id="page-93-0"></span>the work would have to be better. The score a paper would get is relative to the grade level-a piece of work that you might consider good if produced by a third grader, you might consider fairly weak if produced by a tenth grader.
+You could instead use the same rubric at each grade level but let the samples of student work that illustrate the various score points vary. In this case, a "4" at Grade 3looks different from a "4" at Grade 11. To get a "4" at Grade 11, the work would have to be better. The score a paper would get is relative to the grade level-a piece of work that you might consider good if produced by a third grader, you might consider fairly weak if produced by a tenth grader.
 
 For example, consider the state of Oregon. The same rubric is used in Grades 3-12 for reading, writing, oral communication, group work, and so forth. What changes are the anchor performances used to illustrate the score points at each grade level. In Oregon, a "competent" performance might always be a "4," but a "4" atGrade3looksdifferentfroma "4" at Grade 11. Oregon and lots of other places use this approach because teachers tend to like it. They like having lots of score points to use at each grade level, while still taking grade level into account.
 
@@ -2072,6 +1977,7 @@ What do you see that's wrong with this procedure? We see several things wrong.
 
 l. A "3" when divided by the total number of points possible (5) equals 60%, which, in many places converts to an "F." But look at the rubric descrip-
 
+**TABLE-5.2 Agatha's Six-Trait Scores on Eight Papers**
 |       | Paper    | Ideas | Organization | Voice | Word<br>Choice | Sentence<br>Fluency | Conventions | Total |
 |-------|----------|-------|--------------|-------|----------------|---------------------|-------------|-------|
 | #1    | 9/22     | 2     | 2            | 2     | 2              | 3                   | 3           | 14    |
@@ -2083,9 +1989,6 @@ l. A "3" when divided by the total number of points possible (5) equals 60%, whi
 | #7    | 4/12     | 5     | 5            | 5     | 4              | 4                   | 3           | 26    |
 | #8    | 5/18     | 5     | 5            | 5     | 5              | 4                   | 4           | 28    |
 | Total |          | 29    | 28           | 28    | 26             | 28                  | 26          | 165   |
-
-Table 5.2 Agatha's Six-Trait Scores on Eight Papers
-
 tion for a "3." A "3" doesn't indicate failing work. So it is misleading to add up points and divide by the number possible.
 
 2. Say a student got a "1" on a trait. This would convert to 20%. Maybe a "1" really does denote an "F." But it would take a lot of 4s (80%) to balance out a single "1" if you want the average to go above 60%. Is this fair? Maybe a "1" should convert to 60%, not 20%.
@@ -2104,6 +2007,7 @@ What would happen in a classroom of "remedial writers" if the teacher insisted o
 
 Would it be better to tell the students at the beginning that (a) all papers will be scored on one or more chosen traits as students are learning about what constitutes good writing but that (b) the final grade depends only on how well students write at the end of the semester?
 
+**TABLE-5.3 Logic Rule for Converting Rubric Scores to Grades**
 | If the student gets:                                                        | The grade should be: |
 |-----------------------------------------------------------------------------|----------------------|
 | No more than 10% of scores lower than a 4, with<br>at least 40% 5s          | A                    |
@@ -2112,11 +2016,6 @@ Would it be better to tell the students at the beginning that (a) all papers wil
 | No more than 30% of scores lower than a 3, with<br>at least 10% 4 or better | D                    |
 | Anything lower than this                                                    | F                    |
 
-<<<<<<< HEAD
-<span id="page-96-0"></span>Table 5.3 Logic Rule for Converting Rubric Scores to Grades
-=======
-Table 5.3 Logic Rule for Converting Rubric Scores to Grades
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 80% of the items on a multiple-choice test correctly), they are misleading when converted from rubric scores.
 
@@ -2126,15 +2025,6 @@ If this were the grading procedure, what grade would Agatha get? (Now, don't go 
 
 *Second best way to convert rubric scores to grades:* Decide from the descriptions in the rubric what grade each score should earn. For example, "4" and "5" might be an "A," "3" might be a "B," and "2" might be a "C." Therefore, all 4s and 5s would convert to whatever percentage you give As, say 90%, 3s would convert to 80%, 2s would convert to 70%, and 1s would convert to 60%. In this case, what grade would Agatha get?
 
-<<<<<<< HEAD
-#### **Bottom Line on Grading**
-
-Unless teachers completely agree on the elements that should be included in a grade (achievement, motivation, ability, etc.) and factor them into grading in consistent ways, the meaning of grades will vary from classroom to classroom. While there is much more to say on this subject, we'llleave you with the following contention: To make grading more meaningful and consistent, separate grades that describe achievement from grades for other factors, such as progress, effort, work completion, behavior, and so forth. Otherwise, students could earn the same grade for very different reasons. How effective is such a communication system?
-
-<span id="page-97-0"></span>And convert rubric scores to grades in ways that make sense-not percentages but logic rules. The grade needs to reflect the actual achievement; how will you ensure that it does? Whatever methods you decide to use, make sure everyone (teachers, students, parents, and the community) understands the scheme and supports it.
-
-#### **Chapter Summary**
-=======
 ### **Bottom Line on Grading**
 
 Unless teachers completely agree on the elements that should be included in a grade (achievement, motivation, ability, etc.) and factor them into grading in consistent ways, the meaning of grades will vary from classroom to classroom. While there is much more to say on this subject, we'llleave you with the following contention: To make grading more meaningful and consistent, separate grades that describe achievement from grades for other factors, such as progress, effort, work completion, behavior, and so forth. Otherwise, students could earn the same grade for very different reasons. How effective is such a communication system?
@@ -2142,7 +2032,6 @@ Unless teachers completely agree on the elements that should be included in a gr
 And convert rubric scores to grades in ways that make sense-not percentages but logic rules. The grade needs to reflect the actual achievement; how will you ensure that it does? Whatever methods you decide to use, make sure everyone (teachers, students, parents, and the community) understands the scheme and supports it.
 
 ### **Chapter Summary**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In this chapter, we described setting performance standards based on rubrics to answer the question "How good is good enough?" We looked at several ways in which performance standards are set for district, state, and national
 
@@ -2153,13 +2042,7 @@ assessments-"after the fact," "predefined," "relative," and "absolute" methods. 
 | percentage. | Don't: Do not add up all the points earned and<br>divide by the number of points possible to get a                                                |
 |             | Do: Develop a logic rule for converting the de<br>scriptions associated with each score point to a<br>grade that reflects a performance standard. |
 
-<<<<<<< HEAD
-# <span id="page-98-0"></span>CHAPTER **6**
-
-# **Teaching Performance Criteria to Students**
-=======
 ## CHAPTER 6 Teaching Performance Criteria to Students**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 **Guiding QuesUon:** How can we use rubrics to improve, as well as judge, student performance?
 
@@ -2177,11 +2060,7 @@ So, what does it take to know criteria for the driver's examination? Is it enoug
 
 So, what does it take to know criteria? Take a minute to reflect on this question. Then look at the comments in Box 6.1 to see how your comments overlap with those of other teachers.
 
-<<<<<<< HEAD
-<span id="page-99-0"></span>![](_page_99_Figure_1.jpeg)
-=======
 ![](_page_99_Figure_1.jpeg)
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - II Being exposed to the criteria from the beginning of instruction. (Having studentfriendly versions that are given students during the first week of school.)
 - II Having terms defined. (Include lots of details to describe the indicators of quality performance.)
@@ -2201,11 +2080,7 @@ The teacher has observed that the "target bulletin board" has sharpened her teac
 
 All ofthese ideas for teaching criteria to students have been consolidated by the staff at Northwest Regional Educational Laboratory (NWREL) into seven strategies outlined in Figure 6.2. Since NWREL has worked mostly with writing assessment, these seven strategies, and the accompanying examples in the rest of the chapter, relate to writing. However, the basic strategies presented below are applicable to virtually any performance area. As you look at the strategies applied in writing, think about how they might apply to your
 
-<<<<<<< HEAD
-#### <span id="page-100-0"></span>**BOX 6.2** Vignette: Making the Target Clear: linking Assessment and Instruction
-=======
 #### **BOX 6.2** Vignette: Making the Target Clear: linking Assessment and Instruction
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 A middle-school language arts teacher has a large bulletin board in her classroom to which she has affixed a full-size archery target (obtained from the physical education department). At the start of each major unit of study, she directs the students to the bulletin board and discusses the "target" for the unit-the major goals and the rationale for learning this body of knowledge.
 
@@ -2215,11 +2090,7 @@ Now for the really cool part-she places examples of student work products collec
 
 ![](_page_100_Figure_5.jpeg)
 
-<<<<<<< HEAD
-- <span id="page-101-0"></span>1. Teach students the lANGUAGE they need to speak and think like writers.
-=======
 - 1. Teach students the lANGUAGE they need to speak and think like writers.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - 2. Read, score, and discuss ANONYMOUS sample papers.
 - 3. PRACTICE AND REHEARSE focused revision strategies by
 	- Working with a partner or small group.
@@ -2236,11 +2107,7 @@ teaching areas-Critical thinking? Problem solving? Oral presentations? Collabora
 
 This chapter just touches the surface of these ideas. Additional resources providing more detailed explanation and examples are given in the Resource section that follows this chapter.
 
-<<<<<<< HEAD
-#### **Strategy 1: Teach Students the Language They Need to Think and Speak Like Writers**
-=======
 ### **Strategy 1: Teach Students the Language They Need to Think and Speak Like Writers**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Have you ever used or observed peer review groups? Have you ever given them up because they seem to be unproductive-student comments to each other are very superficial? For example: "I like this, it's about dogs." "Your handwriting is neat."
 
@@ -2291,31 +2158,19 @@ After about a year, I was riding my bike patroling the area around the pond. Wit
 
 (continued)
 
-<<<<<<< HEAD
-<span id="page-104-0"></span>Another year passed. One day my mom got home from the store, and she bought me a rubber raft. It was just a cheap one, but it was mine. I blew it up with a tire pump. It was just the right size for me & Fox. Out of respect for Fox, I named it the USS Fox and christened it right in the pond.
-=======
 Another year passed. One day my mom got home from the store, and she bought me a rubber raft. It was just a cheap one, but it was mine. I blew it up with a tire pump. It was just the right size for me & Fox. Out of respect for Fox, I named it the USS Fox and christened it right in the pond.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 On sunny days, I would take the raft out & lay in the sun with Fox on my legs. One day, when I was asleep in the raft, the wind blew pretty hard and blew my raft right into a bunch of sticks and rocks, the USS Fox was given a sad salute, and then was no more.
 
 Another year passed, and this would be our last year by the pond. I admired and respected that pond more than I ever did that year. But, at long last, all good things must come to an end, we moved to another town. Fox & I still visit the pond, but it'll never be like them 3 years when she was mine.
 
-<<<<<<< HEAD
-#### Figure 6.4 Continued
-=======
 Figure 6.4 Continued
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SOURCE:© 2000, NWREL. Portland, OR; 503-275-9500. Used with permission. Note: Both students' work are presented here without corrections for any grammar, spelling, punctuation, or other errors.
 
 ![](_page_104_Picture_6.jpeg)
 
-<<<<<<< HEAD
-#### **Strategy 2: Read and Score Anonymous Student Papers**
-=======
 ### **Strategy 2: Read and Score Anonymous Student Papers**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Strategy 2 helps students practice what to look for in writing that makes it work. Focus on the traits one by one. Students feel overwhelmed when they have to attend to all the features of good writing at once-remember the golf example in Chapter 2.
 
@@ -2325,11 +2180,7 @@ Spend as much time on each trait as students need-there's always next year. Our 
 
 In any case, Figure 6.6 shows the steps in reading and scoring anonymous papers in order to internalize each component of quality.
 
-<<<<<<< HEAD
-#### **Strategy 3: Practice-Focused Revision**
-=======
 ### **Strategy 3: Practice-Focused Revision**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 While Strategies 1 and 2 assist students in practicing what to notice about quality, Strategy 3 helps them understand
 
@@ -2337,76 +2188,68 @@ While Strategies 1 and 2 assist students in practicing what to notice about qual
 
 #### IDEAS . . .
 
-- ,,. Makes sense.
-- ,,. Gets and holds my attention.
-- ,,. Has a main idea, thesis, center, sense of purpose.
-- ,,,. Writer draws on experience.
-- ,,. Says something new, or says it in a fresh way.
-- "\* Full of details that add.
-- "\* Important information.
-- "\* Interesting.
+- Makes sense.
+- Gets and holds my attention.
+- Has a main idea, thesis, center, sense of purpose.
+- ,Writer draws on experience.
+- Says something new, or says it in a fresh way.
+- Full of details that add.
+- Important information.
+- Interesting.
 
 ![](_page_105_Picture_10.jpeg)
 
 #### ORGANIZATION ...
 
-- ,,,. The opening makes me want to keep reading.
-- ,,,. Has a logical order or pattern.
-- "\* I can follow the story or main points.
-- ,,... Ends well. Ties up loose ends. Doesn't stop abruptly.
-- ,,.. Doesn't repeat what I just read: "Now you know the three reasons we should fight pollution."
-- ,,,. Pacing is good.
+- The opening makes me want to keep reading.
+- Has a logical order or pattern.
+- I can follow the story or main points.
+- Ends well. Ties up loose ends. Doesn't stop abruptly.
+- Doesn't repeat what I just read: "Now you know the three reasons we should fight pollution."
+- ,Pacing is good.
 
 #### VOICE . ..
 
-- "\* Sounds like a person wrote it.
-- "\* Sounds like this particular writer.
-- "\* Writing has style, flavor.
-- "\* Reaches out to me, the reader. Brings me "inside."
-- ,,. Makes me respond. Makes me feel.
+- Sounds like a person wrote it.
+- Sounds like this particular writer.
+- Writing has style, flavor.
+- Reaches out to me, the reader. Brings me "inside."
+- Makes me respond. Makes me feel.
 
 ![](_page_105_Picture_24.jpeg)
 
 #### WORD CHOICE ...
 
-- ,,. Makes me say, "Yes, that's just the right word or phrase!"
-- "\* Long after reading, some words still tug at my memory.
-- ,,,. Words are used correctly.
-- ,,,. The writer chooses wisely but isn't afraid to stretch.
-- ,,. This writer knows the language of the topic-but doesn't try to impress me with phony, bloated phrases.
-- ,,,. Simple language is used when it gets the job done.
+- Makes me say, "Yes, that's just the right word or phrase!"
+- Long after reading, some words still tug at my memory.
+- Words are used correctly.
+- The writer chooses wisely but isn't afraid to stretch.
+- This writer knows the language of the topic-but doesn't try to impress me with phony, bloated phrases.
+- Simple language is used when it gets the job done.
 
 #### SENTENCE FLUENCY ...
 
-- ,,,. It's smooth going-easy on the ear.
-- ,,,. I could easily read this aloud.
-- ,,.. Sentences begin differently. OR ...
-- ,,... Repetition is stylistic, not annoying.
-- ,,. Some sentences are long. Some aren't.
-- ,,. Sentences aren't choppy.
-- "\* Sentences don't meander.
+- It's smooth going-easy on the ear.
+- I could easily read this aloud.
+- Sentences begin differently. OR ...
+- Repetition is stylistic, not annoying.
+- Some sentences are long. Some aren't.
+- Sentences aren't choppy.
+- Sentences don't meander.
 
 ![](_page_105_Picture_40.jpeg)
 
-- ,,,. The writing is clean and polished. It looks proofread.
-- "\* Most things are done correctly.
-- ,,.. Careful, controlled use of conventions makes meaning clear and reading easy.
-- ,,,. No BIG erers sHoutt at me frm the pg: Hey!" Fergt IDEAS and VIOCE! Think? abowt, the mystakes!, A lot!!"
-- "\* Spelling, punctuation, grammar, capital letters, and paragraph indenting: This writer has thoughtfully attended to ALL conventional details.
+- The writing is clean and polished. It looks proofread.
+- Most things are done correctly.
+- Careful, controlled use of conventions makes meaning clear and reading easy.
+- No BIG erers sHoutt at me frm the pg: Hey!" Fergt IDEAS and VIOCE! Think? abowt, the mystakes!, A lot!!"
+- Spelling, punctuation, grammar, capital letters, and paragraph indenting: This writer has thoughtfully attended to ALL conventional details.
 
-<<<<<<< HEAD
-#### Figure 6.5. What Teachers Look for in Writing
-
-SOURCE: © 2000, NWREL. Portland, OR; 503-275-9500. Used with permission.
-
-<span id="page-106-0"></span>This procedure should sound pretty familiar to anyone who has scored performance assessments. The procedure for teaching students to score papers is exactly the same as that for teaching adult raters.
-=======
  Figure 6.5. What Teachers Look for in Writing
 
 SOURCE: © 2000, NWREL. Portland, OR; 503-275-9500. Used with permission.
 
 This procedure should sound pretty familiar to anyone who has scored performance assessments. The procedure for teaching students to score papers is exactly the same as that for teaching adult raters.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Make overheads of sample *anonymous* student papers. Use papers from another teacher, from last year's students, or contact NWREL.
 - 2. Read each paper out loud. Writing plays differently to the ear than it looks to the eye.
@@ -2420,11 +2263,7 @@ Figure 6.6. Strategy 2: Teaching Traits by Scoring Anonymous Sample Papers SOURC
 
 ![](_page_106_Picture_9.jpeg)
 
-<<<<<<< HEAD
-#### **Strategy 4: Read, Read, READI**
-=======
 ### **Strategy 4: Read, Read, READI**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Use picture books and other literature to illustrate the traitsboth strong and weak examples. Teachers have always read to
 
@@ -2432,11 +2271,7 @@ students. But here's the difference when using Strategy 4: Purposely tie the sel
 
 • For Voice, you might choose two versions of the same fairy tale written by different authors and ask students to notice differences between the voices. What is the voice? Frivolous, sad, excited, mocking, . . . ?
 
-<<<<<<< HEAD
-<span id="page-107-0"></span>Again, use anonymous papers. Choose papers that really need revision on a particular trait. Don't do this just once. Do this 8 or 9 times on a single trait before moving on to the next trait.
-=======
 Again, use anonymous papers. Choose papers that really need revision on a particular trait. Don't do this just once. Do this 8 or 9 times on a single trait before moving on to the next trait.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - 1. Ask the students to score the paper on the target trait using their rubric (as in Strategy 2). Once again, ask students to justify their scores.
 - 2. Have students brainstorm the things the author could do to make the paper better on this trait. For example, for the trait of ideas, students will often say: narrow the focus; add more details on the important points; take out details on unimportant points; choose one really interesting thing and expand on it; show, don't tell; and so on.
@@ -2450,21 +2285,13 @@ Figure 6.7. Strategy 3: Practice Focused Revision SOURCE: © 2000, NWREL. Portla
 - For Organization, you might ask students to compile a notebook of effective beginnings and endings, with descriptions of what makes them effective.
 - For Sentence Fluency, choose books that are flowing, choppy, or have other types of sentence fluency. Ask students to describe the various styles and why the author chose the style he or she used. What purpose did it serve? What feel did it give to the writing?
 
-<<<<<<< HEAD
-#### **Strategy 5: Model the Writing Process Yourself**
-=======
 ### **Strategy 5: Model the Writing Process Yourself**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Ask students to be a peer review group for your own writing. Don't pick a piece of writing that you've already revised. Pick a rough draft. Students often don't get to see that we, as teachers, don't have
 
 ![](_page_107_Picture_13.jpeg)
 
-<<<<<<< HEAD
-- <span id="page-108-0"></span>l. Tell the students a story about something exciting that happened to you. Did your brakes go out on a hill? Were you charged by a lion in Africa? Make it interesting to capture their attention. Then tell them that you're going to share a written version of the story with them tomorrow.
-=======
 - l.Tell the students a story about something exciting that happened to you. Did your brakes go out on a hill? Were you charged by a lion in Africa? Make it interesting to capture their attention. Then tell them that you're going to share a written version of the story with them tomorrow.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 - 2. Spend about 15 minutes writing up your story. Don't spend longer than that or it will be too good. You want to show the students a piece of writing that needs revision.
 - 3. Read your story to the students, have them tell you what trait you need to work on first, and ask them to give you suggestions on how to make your paper better on that trait. They usually have a lot to say-they love to critique the teacher.
 - 4. Use their suggestions to write a revision. Don't make it too good. Ask students to score the revision on the trait of interest and ask for additional suggestions. You need to model the fact that writing sometimes needs more than a single revision.
@@ -2477,28 +2304,17 @@ Figure 6.8. Model Revision SOURCE:© 2000, NWREL. Portland, OR; 503-275-9500. Us
 
 ![](_page_108_Picture_8.jpeg)
 
-<<<<<<< HEAD
-#### **Strategy 6: Give Students Many Opportunities to Show What They Know**
-=======
 ### **Strategy 6: Give Students Many Opportunities to Show What They Know**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 Here are a few examples to get you started. What else could you ask students to do to show what they know?
 
 - Ask students to write letters to their favorite authors explaining, using the language of the traits, why they like the authors' work.
 - Have students write to younger students about what it takes to write well. They need to explain the traits in language the younger students can understand.
 - Have students work in teams to develop a poster that explains one of the traits. Use pictures, metaphors, and definitions.
-<<<<<<< HEAD
-- <span id="page-109-0"></span>• Ask students to analyze one of their own pieces of writing, using the language ofthe traits.
-- Ask students to describe to their parents what they've learned this year in writing, using the language of the traits.
-
-#### **Strategy 7: Teach Lessons Focused on the Traits**
-=======
 - Ask students to analyze one of their own pieces of writing, using the language ofthe traits.
 - Ask students to describe to their parents what they've learned this year in writing, using the language of the traits.
 
 ### **Strategy 7: Teach Lessons Focused on the Traits**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 This one is easy. You probably already have a file cabinet full of lessons and activities that teach one or more of the traits. The dif-
 
@@ -2509,11 +2325,7 @@ ference now is that you can organize them purposefully by trait, so that for eve
 	- a. Share six ways writers add drama to their writing-action, dialogue, description of setting, physical description of character, internal thinking of one of the characters, and internal physical sensations of one of the characters. Find examples. Practice.
 	- b. Describe and show the difference between showing and telling in writing. Find examples from literature. Have students practice turning telling into showing and showing into telling. Have discussions on when and how each could/should be used.
 
-<<<<<<< HEAD
-#### **Chapter Summary**
-=======
 ### **Chapter Summary**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 In this chapter we explored seven strategies for inviting students into the secrets of quality by teaching them criteria (see Box 6.3). The extended example was in writing, but we invited you to think about other subject areas.
 
@@ -2523,78 +2335,27 @@ The seven strategies can be summarized in one phrase: Surround students with the
 
 ![](_page_109_Picture_14.jpeg)
 
-<<<<<<< HEAD
-#### <span id="page-110-0"></span>**Final Thoughts**
-=======
 ### **Final Thoughts**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 You've seen it all-from soup to nuts about rubrics: what they are, the types, when to use various types, what constitutes good ones, how to develop them, how to grade using them, and how to make quality real to students by teaching *them* the criteria for quality. What you have to remember is that even though all this information has come from many years of research and practice, it's still a continuous process oflearning about rubrics-a process in which *we all*  are still engaged! These aren't the fmal answers-they're temporary answers until we all learn more.
 
 But it's also true that the ideas in this book-making learning targets clear to students and improving student achievement by inviting them into the assessment process-are not a flash in the pan. This is the future of assessment in education. Rubrics are a powerful means to this end.
 
-<<<<<<< HEAD
-#### **Note**
-=======
 ### **Note**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 1. For example, we used some of these same strategies in Chapter 4 to teach you, the reader, criteria for good-quality rubrics. Which strategies did we use?
 
-RESOURCE
-<<<<<<< HEAD
-
-<span id="page-111-0"></span>![](_page_111_Picture_1.jpeg)
-
-#### <span id="page-112-0"></span>**Introduction**
-=======
+## RESOURCE
 ![](_page_111_Picture_1.jpeg)
 
-#### **Introduction**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
+### **Introduction**
 
 These rubrics are some of our favorites. They represent various grade levels and subject areas. They're here for two reasons. First, they're referenced throughout the book to illustrate points made. Second, in our experience, educators are desperate to get their hands on good ones. So, we've allocated a good portion of the book to these samples. None of these rubrics is perfect; all should be considered works in progress. Every one has some feature of interest. We've added a little annotation to each rubric below to make the interesting features clear.
+a variety of information<br>gathering techniques, accurately<br>assesses the value of information,<br>recognizes how/where projects will<br>benefit from new information | pp.177-178               |  |  |
 
-| Mathematics                                                                                                                                                                                         |                                                                                                            |                          |  |  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------|--|--|
-| Rubric                                                                                                                                                                                              | Description                                                                                                | Resource Page<br>Numbers |  |  |
-| California Mathematics                                                                                                                                                                              | Holistic, 6-point scale, Grades 4-12                                                                       | pp. 98-100               |  |  |
-| Central Kitsap Student<br>Friendly Guide to Math-<br>ematics Problem Solving                                                                                                                        | Analytical trait, 3 traits, student-<br>friendly language, 5-point scale,<br>Grades 4-9                    | pp. 101-107              |  |  |
-| Illinois Mathematics                                                                                                                                                                                | Analytical trait, 3 traits, 5-point scale,<br>Grades4-9                                                    | pp. 108-109              |  |  |
-| NWREL Mathematics                                                                                                                                                                                   | Analytical trait, 5 traits, 4-point scale<br>with "3" defined ahead oftime as<br>"proficient," Grades 3-12 |                          |  |  |
-| Reading                                                                                                                                                                                             |                                                                                                            |                          |  |  |
-| Rubric                                                                                                                                                                                              | Description                                                                                                | Resource Page<br>Numbers |  |  |
-| Juneau Reading<br>Developmental<br>Continuum                                                                                                                                                        | Analytical trait, 3 traits, continuous<br>progress developmental continuum,<br>lllevels, Grades 1-5        | pp.112-117               |  |  |
-| NWREL Informational<br>Reading                                                                                                                                                                      | Analytical trait, 6 traits, 5-point scale,<br>Grades3-12                                                   | pp.118-120               |  |  |
-| Oregon Reading<br>Analytical trait, 4 traits, 6-point<br>scales, Grades 4-12, performance<br>standard set after the rubric was<br>developed ("4" or "5," depending on<br>the trait and grade level) |                                                                                                            | pp. 121-125              |  |  |
+### **CALIFORNIA MATHEMATICS RUBRIC**
 
-<<<<<<< HEAD
-<span id="page-113-0"></span>
-
-=======
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
-| Writing                                                                                                                                  |                                                                                                                                                                                                                            |                          |  |  |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--|--|
-| Rubric                                                                                                                                   | Description                                                                                                                                                                                                                | Resource Page<br>Numbers |  |  |
-| Maryland Scoring<br>Rubric for Language<br>in Use                                                                                        | Holistic, 3-point scale                                                                                                                                                                                                    | p. 126                   |  |  |
-| NAEP Primary Trait<br>Rubrics                                                                                                            | Primary trait, 6-point scale                                                                                                                                                                                               | pp. 127-129              |  |  |
-| NWREL Six-Trait +<br>1 Rubric for Assessing<br>Writing-Adult and<br>Student-Friendly<br>versions                                         | Analytical trait, 6 traits, 5-point scale,<br>Grades 3-12, student-friendly<br>language                                                                                                                                    | pp. 130-143              |  |  |
-| Holistic, continuous progress<br>Wauwatosa Develop-<br>developmental continuum, 11levels,<br>mental Continuum<br>GradesK-5<br>in Writing |                                                                                                                                                                                                                            | pp. 144-156              |  |  |
-| Miscellaneous                                                                                                                            |                                                                                                                                                                                                                            |                          |  |  |
-| Rubric                                                                                                                                   | Description                                                                                                                                                                                                                | Resource Page<br>Numbers |  |  |
-| ATI Group Discussion<br>Rubric                                                                                                           | Analytical trait, 4 traits, 5-point scale,<br>Grades 5-12                                                                                                                                                                  |                          |  |  |
-| Holistic, 3-point scale, Grades 5-12<br>General Conceptual<br>Understanding Rubric                                                       |                                                                                                                                                                                                                            | pp. 161-162              |  |  |
-| Analytical trait, 4 traits, 4-point scale,<br>Massachusetts Oral<br>Grades 5-12<br>Presentation                                          |                                                                                                                                                                                                                            | pp.163-168               |  |  |
-| Analytical trait, 3 traits, 4-point scale,<br>Assessing<br>"Intellectual Quality"<br>Grades 6-12<br>of Student Work                      |                                                                                                                                                                                                                            | pp.169-176               |  |  |
-| Rubrics for<br>Information-Processing<br>Standards                                                                                       | Interprets and synthesizes informa-<br>tion, uses a variety of information<br>gathering techniques, accurately<br>assesses the value of information,<br>recognizes how/where projects will<br>benefit from new information | pp.177-178               |  |  |
-
-#### **CALIFORNIA MATHEMATICS RUBRIC**
-
-<<<<<<< HEAD
-<span id="page-114-0"></span>As described in the *California Mathematics Framework* (1992), mathematically powerful students are those who can draw on mathematical ideas, tools, and techniques to think and communicate. In responding to an open-ended question and accomplishing its task, a student demonstrates mathematical power. As the student engages in and responds to the task, he or she draws from his or her thinking capacity, understanding of mathematical ideas, ability to use tools and techniques, communication skills, and ability to shape a coherent and focused response.
-=======
 As described in the *California Mathematics Framework* (1992), mathematically powerful students are those who can draw on mathematical ideas, tools, and techniques to think and communicate. In responding to an open-ended question and accomplishing its task, a student demonstrates mathematical power. As the student engages in and responds to the task, he or she draws from his or her thinking capacity, understanding of mathematical ideas, ability to use tools and techniques, communication skills, and ability to shape a coherent and focused response.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The general rubric below is used to evaluate responses to open-ended questions in mathematics. The rubric articulates the extent to which student work accomplishes the purpose of the task and demonstrates mathematical understanding, reasoning, thinking, communicating, and use of tools and techniques. Level 6 represents the highest quality of work, and Level 1 the lower quality of performance. This rubric can be applied to any open-ended task. Therefore, before applying this rubric to mathematics assessment, the scorer must explore all possible ways in which it relates to a particular problem. In other words, the scorer looks for the mathematical ideas, thinking, communication, tools, and techniques that a student can use to solve a particular problem.
 
@@ -2659,11 +2420,7 @@ Levell: Does not achieve any requirements of the task(s), showing, for example,
 
 SOURCE: Reprinted from *A Sampler of Mathematics Assessment-Addendum.* © 1994, California Department of Education. Used with permission.
 
-<<<<<<< HEAD
-# <span id="page-117-0"></span>**The** ~tudent **friendly 6uide to Mathematics Problem** ~olving
-=======
 ### **The Student **friendly 6uide to Mathematics Problem** ~olving
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_117_Picture_2.jpeg)
 
@@ -2671,11 +2428,7 @@ Central Kitsap School District P.O. Box 8 Silverdale, W A 98383 Curriculum Depar
 
 SOURCE: Curriculum Department, Central Kitsap School District. Used with permission.
 
-<<<<<<< HEAD
-#### <span id="page-118-0"></span>Mathematical Knowledge Concepts and Procedures
-=======
 ### Mathematical Knowledge Concepts and Procedures
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 The student understands mathematical concepts and performs related operations, chooses the appropriate math operations, and performs computations correctly.
 
@@ -2716,13 +2469,9 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 
 SOURCE: Curriculum Department, Central Kitsap School District. Used with permission.
 
-### **Problem Solving**
+#### **Problem Solving**
 
-<<<<<<< HEAD
-<span id="page-120-0"></span>![](_page_120_Figure_2.jpeg)
-=======
 ![](_page_120_Figure_2.jpeg)
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ![](_page_120_Picture_3.jpeg)
 
@@ -2731,7 +2480,7 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 - >- Uses a strategy to solve the problem
 - >- Checks solution to make sure it make sense in the problem
 
-#### Some Strategies for Problem Solving
+##### Some Strategies for Problem Solving
 
 Draw a picture or diagram. Look for patterns.
 
@@ -2745,7 +2494,7 @@ Try simpler numbers.
 
 Work backwards from the solution.
 
-### **Problem Solving**
+#### **Problem Solving**
 
 5 I came up with and used a strategy that really fits and makes it easy to solve this problem.
 
@@ -2778,11 +2527,7 @@ SOURCE: Curriculum Department, Central Kitsap School District. Used with permiss
 
 #### **Communication**
 
-<<<<<<< HEAD
-<span id="page-122-0"></span>The student explains the process, reasoning, and strategy used in solving the problem.
-=======
 The student explains the process, reasoning, and strategy used in solving the problem.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 - >- Explains the strategy and processes used.
 - > Explains why what was done was done.
@@ -2792,11 +2537,6 @@ The student explains the process, reasoning, and strategy used in solving the pr
 
 ![](_page_122_Figure_7.jpeg)
 
-<<<<<<< HEAD
-### **Communication**
-
-=======
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 5 I clearly explained the process I used and my solution to the problem using numbers, words, pictures, or diagrams.
 
 - > My explanation makes sense.
@@ -2823,36 +2563,8 @@ The student explains the process, reasoning, and strategy used in solving the pr
 - > My explanation is mostly copying the original problem.
 - > The pictures, symbols, and/ or diagrams I used would not help someone understand what I did.
 
-<<<<<<< HEAD
-#### **MATHEMATICS SCORING RUBRIC: A GUIDE TO EXTENDED-RESPONSE ITEMS**
-
-<span id="page-124-0"></span>**4 3**  *MATHEMATICAL KNOWLEDGE: Knowledge of mathematical principles and concepts which result in a correct solution to a problem.*  • Shows complete understanding of the problem's mathematical concepts and principles • Uses appropriate mathematical terminology and notions including labeling answer, if appropriate; that is, whether or not the unit is called for in the stem of the item • Executes algorithms completely and correctly • Shows nearly complete understanding ofthe problem's mathematical concepts and principles • Uses nearly correct mathematical terminology and notations • Executes algorithms completely; computations are generally correct but may contain minor errors *STRATEGIC KNOWLEDGE: Identification of important elements of the problem and the use of models, diagrams, symbols, and/or algorithms to systematically represent and integrate concepts.*  • Identifies all the important elements of the problem and shows complete understanding of the relationships among elements • Reflects an appropriate and systematic strategy for solving the problem • Solution process is nearly complete • Identifies most of the important elements of the problem and shows general understanding of the relationship among them • Reflects an appropriate strategy for solving the problem • Solution process is nearly complete *EXPLANATION: Written explanation and rationales* <sup>I</sup> *that translate into words the steps of the solution process and provide justification for each step. Though important, length of the response, grammar, and syntax are not the critical elements of this dimension.*  • Gives a complete written explanation of the solution process employed; explanation addresses both *what* was done and *why* it was done • If a diagram is appropriate, there is a complete explanation of all the elements in the diagram • Gives a nearly complete written explanation of the solution process employed, or explains *what* was done and begins to address *why* it was done • May include a diagram with most of the elements explained
-
-The following rubric is used for the extended-response items for all grade levels.
-
-| 2 | • Shows some understanding of the<br>problem's mathematical concepts<br>and principles<br>• May contain major computational<br>errors                                                                | • Identifies some important ele<br>ments of the problem but shows<br>only limited understanding of the<br>relationship among them<br>• Appears to reflect an appropriate<br>strategy but the application of<br>strategy is unclear, or a related<br>strategy is supplied logically and<br>consistently<br>• Gives some evidence of a solution<br>process | • Gives some written explanation of<br>the solution process employed;<br>either explains what was done or<br>addresses why it was done; expla<br>nation is vague or difficult to<br>interpret<br>• May include a diagram with some<br>of the elements explained                                         |
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | • Shows limited to no understanding<br>of the problem's mathematical<br>concepts and principles<br>• May misuse or fail to use mathe<br>matical terms<br>• May contain major computational<br>errors | • Fails to identify important ele-<br>ments or places too much empha-<br>sis on unimportant elements<br>• May reflect an inappropriate or<br>inconsistent strategy for solving<br>the problem<br>• Gives minimal evidence of a solu-<br>tion process; process may be<br>difficult to identify                                                            | • Gives minimal written explanation<br>of solution process; may fail to ex<br>plain what was done and why it<br>was done<br>• Explanation does not match pre<br>sented solution process<br>• May include minimal discussion of<br>elements in diagram; explanation<br>of significant element is unclear |
-|   | • No answer attempted                                                                                                                                                                                | • No apparent strategy                                                                                                                                                                                                                                                                                                                                   | • No written explanation ofthe solu<br>tion process is provided                                                                                                                                                                                                                                         |
-
-SOURCE: From *Illinois Standards Achievement Test: Sample Mathematics Materials 2000* (p. 59). © 2000, Illinois Department of Public Instruction. Used with permission .
-
-### <span id="page-126-0"></span><sup>0</sup>**MATHEMATICS SCORING RUBRIC**
-
-|                                                                                                                                                                                                                              | Emerging                                                                                                                                                                                                                                                                                                                                                                                                 | Developing                                                                                                                                                                                                                                                                                                                                                                                         | Proficient                                                                                                                                                                                                                                                                                                                | Exemplary                                                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Conceptual<br>Understanding<br>Key Question:<br>Does the student's<br>interpretation of the<br>problem using mathe-<br>and procedures accu-<br>rately reflect the im-<br>the problem?                                        | 1. Your mathematical repre-<br>sentations of the problem<br>were incorrect<br>2. You used the wrong infor-<br>mation in trying to solve<br>the problem.<br>matical representations 3. The mathematical proce-<br>dures you used would not<br>lead to a correct solution.<br>portant mathematics in 4. You used mathematical ter-<br>minology incorrectly.                                                | 1. Your choice of forms to repre-<br>sent the problem was ineffi-<br>dent or inaccurate.<br>2. Your response was not com-<br>pletely related to the problem.<br>3. The mathematical procedures<br>you used would lead to a par-<br>tially correct solution.<br>4. You used mathematical termi-<br>nology imprecisely.                                                                              | 1. Your choices of mathemati-<br>cal representations of the<br>problem were appropriate.<br>2. You used all relevant infor-<br>mation from the problem<br>in your solution.<br>3. The mathematical proce-<br>dures you chose would<br>lead to a correct solution.<br>4. You used mathematical ter-<br>minology correctly. | 1. Your choice of mathemati<br>cal representations helped<br>clarify the problem's<br>meaning.<br>2. You uncovered hidden or<br>implied information not<br>readily apparent.<br>3. You chose mathematical<br>procedures that would lead<br>to an elegant solution.<br>4. You used mathematical ter<br>minology precisely.        |
-| Strategies and<br>Reasoning<br>Key Question:<br>Is there evidence that<br>the student proceeded<br>from a plan, applied<br>appropriate strategies,<br>and followed a logical<br>and verifiable process<br>toward a solution? | 1. Your strategies were not<br>appropriate for the<br>problem.<br>2. You didn't seem to know<br>where to begin.<br>3. Your reasoning did not sup-<br>port your work.<br>4. There was no apparent<br>relationship between your<br>representations and the<br>task.<br>5. There was no apparent<br>logic to your solution.<br>6. Your approach to the prob<br>lem would not lead to a<br>correct solution. | 1. You used an oversimplified<br>approach to the problem.<br>2. You offered little or no expla-<br>nation of your strategies.<br>3. Some of your representations<br>accurately depicted aspects of 3. Your representation(s) fit<br>the problem.<br>4. You sometimes made leaps in<br>your logic that were hard to<br>follow.<br>5. Your process led to a partially<br>complete solution.<br>----- | 1. You chose appropriate, effi-<br>dent strategies for solving<br>the problem.<br>2. You justified each step of<br>your work.<br>the task.<br>4. The logic of your solution<br>was apparent<br>5. Your process would lead to<br>a complete, correct solu-<br>tion of the problem.                                         | 1. You chose innovative and<br>insightful strategies for<br>solving the problem.<br>2. You proved that your solu<br>tion was correct and that<br>your approach was valid.<br>3. You provided examples<br>and/or counterexamples to<br>support your solution.<br>4. You used a sophisticated<br>approach to solve the<br>problem. |
-
-<span id="page-127-0"></span>
-
-| Computation<br>and Execution<br>Key Question:<br>Given the approach<br>taken by the student, is<br>the solution performed<br>in an accurate and<br>complete manner?                              | 1. Errors in computation were<br>serious enough to flaw<br>your solution.<br>2. Your mathematical repre-<br>sentations were inaccurate.<br>3. You labeled incorrectly.<br>5. You gave no evidence of<br>how you arrived at your<br>answer.                                                           | 1. You made minor computa-<br>tional errors.<br>2. Your representations were<br>essentially correct but not<br>accurately or completely<br>labeled.<br>4. Your solution was incorrect. 3. Your inefficient choice of pro-<br>cedures impeded your success. 4. Your work clearly sup<br>4. The evidence for your solution<br>was inconsistent or unclear.                                              | 1. Your computations were<br>essentially accurate.<br>2. All visual representations<br>were complete and<br>accurate.<br>3. Your solution was essen-<br>tia lly correct<br>ported your solution.                                                                                                                      | 1. All aspects of your solution<br>were completely accurate.<br>2. You used multiple repre<br>sentations for verifying<br>your solution.<br>3. You showed multiple ways<br>to compute your answer.                                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Communication<br>Key Question:<br>Was I able to easily<br>understand the stu-<br>have to make infer-<br>ences and guesses<br>about what they were<br>trying to do?                               | 1. I couldn't follow your<br>thinking.<br>2. Your explanation seemed<br>to ramble.<br>dent's thinking, or did I 3. You gave no explanation<br>for your work.<br>sense of what your audi-<br>ence needed to know.<br>5. Your mathematical repre-<br>sentations did not help<br>clarify your thinking. | 1. Your solution was hard to fol-<br>low in places.<br>2. I had to make inferences about 2. Your solution was well or-<br>what you meant in places.<br>3. You weren't able to sustain<br>your good beginning.<br>4. You did not seem to have a 4. Your explanation was redun-<br>dant in places.<br>5. Your mathematical represen-<br>tations were somewhat help-<br>ful in clarifying your thinking. | 1. I understood what you did<br>and why you did it.<br>ganized and easy to follow.<br>3. Your solution flowed logi-<br>cally from one step to the<br>next.<br>4. You used an effective for-<br>mat for communicating.<br>5. Your mathematical repre<br>sentations helped clarify<br>your solution.                    | 1. Your explanation was clear<br>and concise.<br>2. You communicated con<br>cepts with precision.<br>3. Your mathematical repre<br>sentations expanded on<br>your solution.<br>4. You gave an in-depth expla<br>nation of your reasoning.                                                                                                |
-| Insights<br>Key Question:<br>Does the student grasp<br>the problem and see<br>how the process used<br>to solve this problem<br>connects it to other<br>problems or "real<br>world" applications? | 1. You were unable to recog-<br>nize patterns and<br>relationships.<br>the deeper structure of 2. You found a solution and<br>then stopped.<br>3. You found no connections<br>to other disciplines or<br>mathematical concepts.<br>-                                                                 | 1. You recognized some patterns<br>and relationships.<br>2. You found multiple solutions,<br>but not all were correct.<br>3. Your solution hinted at a con-<br>nection to an application or<br>another area of mathematics.<br>~-                                                                                                                                                                     | 1. You recognized important<br>patterns and relationships<br>in the problem.<br>2. You found multiple solu-<br>tions using different inter-<br>pretations of the problem.<br>3. You connected your solu-<br>tion process to other prob-<br>lems, areas of mathemat-<br>ics, or applications.<br>- -- ---------------- | 1. You created a general rule<br>or formula for solving<br>related problems.<br>2. You related the underlying<br>structure of the problem to<br>other similar problems.<br>3. You noted possible sources<br>of error or ambiguity in the<br>problem.<br>4. Your connection to a real<br>life application was accu<br>rate and realistic. |
-=======
 ### **MATHEMATICS SCORING RUBRIC: A GUIDE TO EXTENDED-RESPONSE ITEMS**
-
+**TABLE- A GUIDE TO EXTENDED RESPONSE ITEMS**
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 | *MATHEMATICAL KNOWLEDGE:                                                                                                                                                                   |
 |  Knowledge of mathematical principles and concepts which result in a correct solution to a problem.*                                                                                       |
@@ -2874,49 +2586,49 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 |  Score Level 0:                                                                                                                                                                            |
 |  No answer attempted!                                                                                                                                                                      |
 |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-|  *STRATEGIC KNOWLEDGE: 
-|  Identification of important elements of the problem and the use of models, diagrams, symbols, and/or algorithms to systematically represent and integrate concepts.*  
-|  Score Level 4
-|  • Identifies all the important elements of the problem and shows complete understanding of the relationships among elements 
-|  • Reflects an appropriate and systematic strategy for solving the problem • Solution process is nearly complete 
-|  Score Level 3
-|  • Identifies most of the important elements of the problem and shows general understanding of the relationship among them 
-|  • Reflects an appropriate strategy for solving the problem 
-|  • Solution process is nearly complete 
-|  Score Level 2
-|  • Identifies some important elements of the problem but shows only limited understanding of the relationship among them 
-|  • Appears to reflect an appropriate strategy but the application of strategy is unclear, or a related strategy is supplied logically and consistently 
-|  • Gives some evidence of a solution process 
-|  Score Level 1:
-|  • Fails to identify important elements or places too much emphasis on unimportant elements 
-|  • May reflect an inappropiate or inconsistent strategy for solving problems
-|  • Gives minimal evidence of solution process; process may be difficult to identify 
-|  Score Level 0:
-|  No apparent strategy
-|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-|  
-|  *EXPLANATION: 
-|  Written explanation and rationales that translate into words the steps of the solution process and provide justification for each step. Though important, length of the response, grammar, and 
-|  syntax are not the critical elements of this dimension.  
-| Score Level 4:
-|  • Gives a complete written explanation of the solution process employed; explanation addresses both what was done and why it was done 
-|  • If a diagram is appropriate, there is a complete explanation of all the elements in the diagram 
-|  Score Level 3:
-|  • Gives a nearly complete written explanation of the solution process employed, or explains what was done and begins to address why it was done 
-|  • May include a diagram with most of the elements explained
-|  Score Level 2:
-|  • Gives some written explanation of the solution process employed; either explains what was done or addresses why it was done; explanation is vague or difficult to interpret 
-|  • May include a diagram with some of the elements explained 
-|  Score Level 1:
-|  • Gives minimal written explanation of solution process; may fail to explain what was done and why it was done 
-|  • Explanation does not match presented solution process 
-|  • May include minimal discussion of elements in diagram; explanation of significant element is unclear 
-|  Score Level 0:
-|  No written explanation of user process is provided
-
+|  *STRATEGIC KNOWLEDGE:                                                                                                                                                                     |
+|  Identification of important elements of the problem and the use of models, diagrams, symbols, and/or algorithms to systematically represent and integrate concepts.*                      |  
+|  Score Level 4                                                                                                                                                                             |
+|  • Identifies all the important elements of the problem and shows complete understanding of the relationships among elements                                                               |
+|  • Reflects an appropriate and systematic strategy for solving the problem • Solution process is nearly complete                                                                           |
+|  Score Level 3                                                                                                                                                                             |
+|  • Identifies most of the important elements of the problem and shows general understanding of the relationship among them                                                                 |
+|  • Reflects an appropriate strategy for solving the problem                                                                                                                                |
+|  • Solution process is nearly complete                                                                                                                                                     |
+|  Score Level 2                                                                                                                                                                             |
+|  • Identifies some important elements of the problem but shows only limited understanding of the relationship among them                                                                   |
+|  • Appears to reflect an appropriate strategy but the application of strategy is unclear, or a related strategy is supplied logically and consistently                                     |
+|  • Gives some evidence of a solution process                                                                                                                                               |
+|  Score Level 1:                                                                                                                                                                            |
+|  • Fails to identify important elements or places too much emphasis on unimportant elements                                                                                                |
+|  • May reflect an inappropiate or inconsistent strategy for solving problems                                                                                                               | 
+|  • Gives minimal evidence of solution process; process may be difficult to identify                                                                                                        |
+|  Score Level 0:                                                                                                                                                                            |
+|  No apparent strategy                                                                                                                                                                      |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | 
+|                                                                                                                                                                                            |
+|  *EXPLANATION:                                                                                                                                                                             |
+|  Written explanation and rationales that translate into words the steps of the solution process and provide justification for each step. Though important, length of the response, grammar,|  
+|  and syntax are not the critical elements of this dimension.                                                                                                                               |
+| Score Level 4:                                                                                                                                                                             |
+|  • Gives a complete written explanation of the solution process employed; explanation addresses both what was done and why it was done                                                     |
+|  • If a diagram is appropriate, there is a complete explanation of all the elements in the diagram                                                                                         |
+|  Score Level 3:                                                                                                                                                                            |
+|  • Gives a nearly complete written explanation of the solution process employed, or explains what was done and begins to address why it was done                                           |
+|  • May include a diagram with most of the elements explained                                                                                                                               |
+|  Score Level 2:                                                                                                                                                                            |
+|  • Gives some written explanation of the solution process employed; either explains what was done or addresses why it was done; explanation is vague or difficult to interpret             |
+|  • May include a diagram with some of the elements explained                                                                                                                               |
+|  Score Level 1:                                                                                                                                                                            |
+|  • Gives minimal written explanation of solution process; may fail to explain what was done and why it was done                                                                            |
+|  • Explanation does not match presented solution process                                                                                                                                   |
+|  • May include minimal discussion of elements in diagram; explanation of significant element is unclear                                                                                    |
+|  Score Level 0:                                                                                                                                                                            |
+|  No written explanation of user process is provided                                                                                                                                        |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __|
 SOURCE: From *Illinois Standards Achievement Test: Sample Mathematics Materials 2000* (p. 59). © 2000, Illinois Department of Public Instruction. Used with permission .
 
-#### **MATHEMATICS SCORING RUBRIC**
+### **MATHEMATICS SCORING RUBRIC**
 
 **TABLE-Mathematics Scoring Rubric**
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
@@ -2991,164 +2703,285 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 |4. The evidence for your solution was inconsistent or unclear.                                                                                                                                |
 |                                                                                                                                                                                              |
 | Proficient                                                                                                                                                                                   |
-|1. Your computations were essentially accurate.  
-|2. All visual representations were complete and accurate.  
-|3. Your solution was essentially correct.  
-|4. Your work clearly supported your solution.  
-|
-| Exemplary  
-|1. All aspects of your solution were completely accurate.  
-|2. You used multiple representations for verifying your solution.  
-|3. You showed multiple ways to compute your answer.  
+|1. Your computations were essentially accurate.                                                                                                                                               |
+|2. All visual representations were complete and accurate.                                                                                                                                     |     
+|3. Your solution was essentially correct.                                                                                                                                                     |
+|4. Your work clearly supported your solution.                                                                                                                                                 |
+|                                                                                                                                                                                              |
+| Exemplary                                                                                                                                                                                    | 
+|1. All aspects of your solution were completely accurate.                                                                                                                                     |
+|2. You used multiple representations for verifying your solution.                                                                                                                             |
+|3. You showed multiple ways to compute your answer.                                                                                                                                           |
 |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
-| Communication  
-|**Key Question:** Was I able to easily understand the student’s thinking, or did I have to make inferences and guesses about what they were trying to do?
-|
-| Emerging  
-|1. I couldn’t follow your thinking.  
-|2. Your explanation seemed to ramble.  
-|3. You gave no explanation for your work.  
-|4. Your explanation was redundant in places.  
-|5. You did not seem to have a sense of what your audience needed to know.  
-|
-| Developing  
-|1. Your solution was hard to follow in places.  
-|2. I had to make inferences about what you meant in places.  
-|3. You weren’t able to sustain your good beginning.  
-|4. Your explanation was somewhat helpful but not consistently clear.  
-|5. Your mathematical representations were somewhat helpful in clarifying your thinking.  
-|
-| Proficient  
-|1. I understood what you did and why you did it.  
-|2. Your solution was well organized and easy to follow.  
-|3. Your solution flowed logically from one step to the next.  
-|4. You used an effective format for communicating.  
-|5. Your mathematical representations helped clarify your solution.  
-|
-| Exemplary  
-|1. Your explanation was clear and concise.  
-|2. You communicated concepts with precision.  
-|3. Your mathematical representations expanded on your solution.  
-|4. You gave an in-depth explanation of your reasoning.  
+| Communication                                                                                                                                                                                |
+|**Key Question:** Was I able to easily understand the student’s thinking, or did I have to make inferences and guesses about what they were trying to do?                                     |
+|                                                                                                                                                                                              |
+| Emerging                                                                                                                                                                                     |
+|1. I couldn’t follow your thinking.                                                                                                                                                           |
+|2. Your explanation seemed to ramble.                                                                                                                                                         |
+|3. You gave no explanation for your work.                                                                                                                                                     |
+|4. Your explanation was redundant in places.                                                                                                                                                  |
+|5. You did not seem to have a sense of what your audience needed to know.                                                                                                                     |
+|                                                                                                                                                                                              |
+| Developing                                                                                                                                                                                   |
+|1. Your solution was hard to follow in places.                                                                                                                                                |
+|2. I had to make inferences about what you meant in places.                                                                                                                                   |
+|3. You weren’t able to sustain your good beginning.                                                                                                                                           |
+|4. Your explanation was somewhat helpful but not consistently clear.                                                                                                                          |
+|5. Your mathematical representations were somewhat helpful in clarifying your thinking.                                                                                                       |
+|                                                                                                                                                                                              |
+| Proficient                                                                                                                                                                                   |
+|1. I understood what you did and why you did it.                                                                                                                                              |
+|2. Your solution was well organized and easy to follow.                                                                                                                                       |
+|3. Your solution flowed logically from one step to the next.                                                                                                                                  |
+|4. You used an effective format for communicating.                                                                                                                                            |
+|5. Your mathematical representations helped clarify your solution.                                                                                                                            |
+|                                                                                                                                                                                              |
+| Exemplary                                                                                                                                                                                    |
+|1. Your explanation was clear and concise.                                                                                                                                                    |
+|2. You communicated concepts with precision.                                                                                                                                                  |
+|3. Your mathematical representations expanded on your solution.                                                                                                                               |
+|4. You gave an in-depth explanation of your reasoning.                                                                                                                                        |
 |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
- Insights  
-**Key Question:** Does the student grasp the deeper structure of the problem and see how the process used to solve this problem connects it to other problems or "real world" applications?
-
- Emerging  
-1. You were unable to recognize patterns and relationships.  
-2. You found a solution and then stopped.  
-3. You found no connections to other disciplines or mathematical concepts.  
-
- Developing  
-1. You recognized some patterns and relationships.  
-2. You found multiple solutions, but not all were correct.  
-3. Your solution hinted at a connection to an application or another area of mathematics.  
-
- Proficient  
-1. You recognized important patterns and relationships in the problem.  
-2. You found multiple solutions using different interpretations of the problem.  
-3. You connected your solution process to other problems, areas of mathematics, or applications.  
-
- Exemplary  
-1. You created a general rule or formula for solving related problems.  
-2. You related the underlying structure of the problem to other similar problems.  
-3. You noted possible sources of error or ambiguity in the problem.  
-4. Your connection to a real-life application was accurate and realistic.  
+|  Insights                                                                                                                                                                                    |
+|**Key Question:** Does the student grasp the deeper structure of the problem and see how the process used to solve this problem connects it to other problems or "real world" applications?   |
+|                                                                                                                                                                                              |
+| Emerging                                                                                                                                                                                     |
+|1. You were unable to recognize patterns and relationships.                                                                                                                                   |
+|2. You found a solution and then stopped.                                                                                                                                                     |
+|3. You found no connections to other disciplines or mathematical concepts.                                                                                                                    |
+|                                                                                                                                                                                              |
+| Developing                                                                                                                                                                                   |
+|1. You recognized some patterns and relationships.                                                                                                                                            |
+|2. You found multiple solutions, but not all were correct.                                                                                                                                    |
+|3. Your solution hinted at a connection to an application or another area of mathematics.                                                                                                     |
+|                                                                                                                                                                                              |
+| Proficient                                                                                                                                                                                   |
+|1. You recognized important patterns and relationships in the problem.                                                                                                                        |
+|2. You found multiple solutions using different interpretations of the problem.                                                                                                               |
+|3. You connected your solution process to other problems, areas of mathematics, or applications.                                                                                              |
+|                                                                                                                                                                                              |
+| Exemplary                                                                                                                                                                                    |
+|1. You created a general rule or formula for solving related problems.                                                                                                                        |
+|2. You related the underlying structure of the problem to other similar problems.                                                                                                             |
+|3. You noted possible sources of error or ambiguity in the problem.                                                                                                                           |
+|4. Your connection to a real-life application was accurate and realistic.                                                                                                                     |
 |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 SOURCE: © 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
 
 ...... ...... ......
 
-<<<<<<< HEAD
-#### **READING DEVELOPMENTAL CONTINUUM LEARNING TO READ, LEARNING TO LISTEN**
-
-<span id="page-128-0"></span>
-
-|                                                | LEVEL A<br>PRE-EMERGENT                                                                                                                                                                                                                                                                                                                                                                                                                     | LEVELB<br>EMERGENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | LEVELC<br>I<br>BEGINNING<br>I                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| s::<br>0<br><br>(ll<br>s::<br>~<br>e<br>~<br>8 | • Uses pictorial cues when sharing a book or<br>"reading'' (e.g., points to a picture in The<br>Three Little Pigs and says, ''The three little<br>pigs left home."<br>• Talks about favorite stories.<br>• Demonstrates<br>of television<br>understanding<br>programs, oral<br>stories or picture<br>books by<br>connecting them to own knowledge and<br>experiences.                                                                       | • May tell a story from pictures.<br>• Predicts meaning of environmental symbols<br>or messages (e.g., recurrent "Stop" signs,<br>McDonald's symbol, etc).<br>• Tells/draws personal stories in sequence.<br>• Listens to and retells stories in sequence.                                                                                                                                                                                                                                                                    | • Recognizes when the reading isn't making<br>sense.<br>• Recounts sequence of events.<br>• Listens to stories and responds.<br>~rk<br>continuum based~<br>secure habituated, independent<br>--------<br>behavior of student                                                                                                                                                                                                                                                                                         |
-| (ll<br>t).()<br>~<br>~                         | • Recognizes own name in a variety of print<br>• Displays reading-like behavior:<br>-holds the book the right way up<br>-turns the pages appropriately<br>-looks at words and pictures<br>-uses pictures to construct ideas<br>• Understands that print is read from top to<br>bottom of page and left page before right<br>page.<br>• Responds to and uses simple terminology<br>such as: book, right way up, front, back,<br>upside down. | • Recognizes most letter sounds.<br>• Recognizes parts of own name in print (e.g.,<br>Sam says, "That's in my name" pointing to<br>'Stop' sign).<br>• Knows several words by sight (mom, I, stop,<br>dad, friends' names).<br>• Relies primarily on memory for reading.<br>• May invent text with book language.<br>• Focuses on pictures for meaning rather than • Looks at print and pictures.<br>print.<br>• Knows that both pictures and text exist.<br>• Understands that print is read from left to<br>right on a page. | • Uses initial and/or final letter and sounds to<br>predict a word.<br>• Locates/reads known words (sight words).<br>• Begins to use context, grammatical, and/or<br>phonics cues.<br>• Matches words spoken to words in print<br>(1-1 match).<br>• Stops at an unknown word.<br>• Understands the difference between a sen<br>tence, word, letter.<br>• Understands that print carries meaning.<br>• Knows concepts of beginning, middle, and<br>end.<br>• Begins to read in phrases as opposed to<br>word by word. |
-
-s:: 0 .... (ll s:: ~ ~ 8
-
-(ll
-
-| (IJ<br>,<br>0<br>·s=<br>tU<br>-§<br>-<br>~<br>(IJ<br>cu<br>]<br><br><br>~ | • Displays curiosity about print by experi-<br>menting with scribble writing and drawing<br>and asking, "What does that say?"<br>• looks at books.<br>• Chooses and enjoys hearing a variety of<br>favorite books.<br>• Eagerly responds to book-reading events<br>(plays, flannel board, puppets) . |  | • Asks questions or comments about print in<br>the environment<br>• Actively participates in the oral/shared read-<br>ing of familiar stories (e.g., joins in on famil-<br>iar refrains, patterns, or phrases in books or<br>poems).<br>• Wants to read text and points to text in<br>general.<br>• May pretend to read . | • Is willing to read.<br>• Focuses on print, supported by pictures.<br>• Vocalizes when reading.<br>• Uses appropriate listening behaviors. |
-|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-
-| ., | KINDERGARTEN RANGE: A to C  | ···················································································• |
-|----|-----------------------------|--------------------------------------------------------------------------------------|
-|    | •<br>FIRST GRADE RANGE: B-F | •                                                                                    |
-=======
-### **READING DEVELOPMENTAL CONTINUUM LEARNING TO READ, LEARNING TO LISTEN**
-
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
-
-SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permission .
+### **READING DEVELOPMENTAL CONTINUUM**
 
 #### **LEARNING TO READ, LEARNING TO LISTEN**
+**TABLE-LEARNING TO READ, LEARNING TO LISTEN,Level A, B, C**
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+| **Level**                   | **Indicators**                                                                                                                                                  |                 
+| **Level A Pre-Emergent**    |                                                                                                                                                                 |
+| **Comprehension**           | - Uses pictorial cues when sharing a book or “reading” (e.g., points to a picture in *The Three Little Pigs* and says, “The three little pigs left home.”)      |
+|                             | - Talks about favorite stories.                                                                                                                                 |
+|                             | - Demonstrates understanding of TV shows, oral stories, or picture books by connecting them to personal knowledge or experiences.                               |
+| **Skills/Strategies**       | - Recognizes own name in a variety of print forms.                                                                                                              |
+|                             | - Displays reading-like behavior: holds the book correctly, turns pages, looks at words/pictures, uses pictures to construct ideas.                             |
+|                             | - Understands that print is read from top to bottom and left to right.                                                                                          |
+|                             | - Responds to and uses simple book terms: *book, front, back, upside down, right way up*.                                                                       |
+|                             | - Predicts meaning of symbols/messages (e.g., "Stop" sign, McDonald's logo).                                                                                    |
+|                             | - Is willing to read.                                                                                                                                           |
+|                             | - Asks questions or comments about print in the environment.                                                                                                    |
+|  **Attitude/Behaviors**     | - Experiments with scribble writing and drawing, asking “What does that say?”                                                                                   |
+|                             | - Looks at books.                                                                                                                                               |
+|                             | - Chooses and enjoys hearing favorite books.                                                                                                                    |
+|                             | - Eagerly responds to book-related events (plays, flannel board, puppets).                                                                                      |
+| **Level B Emergent**        |                                                                                                                                                                 |
+|  **Comprehension**          | - May tell a story from pictures.                                                                                                                               |
+|                             | - Predicts meaning of environmental symbols or messages (e.g., recurrent "Stop" signs, McDonald's symbol, etc).                                                 |
+|                             | - Tells/draws personal stories in sequence.                                                                                                                     |
+|                             | - Listens to and retells stories in sequence                                                                                                                    |
+| **Skills/Strategies**       | - Recognizes most letter sounds.                                                                                                                                |
+|                             | - Recognizes parts of own name in print (e.g., Sam says, "That's in my name" pointing to Stop signs)                                                            |
+|                             | - Knows several words by sight (mom, I, stop, dad, friends' names).                                                                                             |
+|                             | - Relies primarily on memory for reading.                                                                                                                       |
+|                             | -  May invent text with book language.                                                                                                                          |
+|                             | - Focuses on pictures for meaning rather than print                                                                                                             |
+|                             | - Knows that both pictures and text exist.                                                                                                                      |
+|                             | - Understands that print is read from left to right on a page.                                                                                                  |
+|  **Attitude/Behaviors**     | - Asks questions or comments about print in the environment                                                                                                     |
+|                             | -  Actively participates in the oral/shared reading of familiar stories (e.g., joins in on familiar refrains, patterns or phrases in books or poems)            |
+|                             | - wants to read text and points to text in general                                                                                                              |
+|                             | - may pretend to read                                                                                                                                           |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level C: Beginning**      |                                                                                                                                                                 |
+|  **Comprehension**          | - Recognizes when reading isnt making any sense                                                                                                                 |
+|                             | - Recounts sequence of events                                                                                                                                   |
+|                             | - Listen to stories and responds                                                                                                                                |
+| **Skills/Strategies**       | - Uses initial and.or final letter and sounds to predict words                                                                                                  |
+|                             | - Locates/read know words (sight words)                                                                                                                         |
+|                             | - Begins to use contect, grammatical, and or phonic cues                                                                                                        |
+|                             | - Matches words spoken to words in print (1-1 match)                                                                                                            |
+|                             | - Stops at unknown words                                                                                                                                        |
+|                             | - Looks at prints and pictures                                                                                                                                  |
+|                             | - Understands the difference between a sentence word letter                                                                                                     |
+|                             | - Knows concept of beginning, middle and end                                                                                                                    |
+|                             | - Begins to read in phrases as opposed to word by word                                                                                                          |
+|  **Attitude/Behaviors**     | - Is willing to read.                                                                                                                                           |              
+|                             | - Focuses on print, supported by pictures                                                                                                                       |
+|                             | - Vocalizes when reading                                                                                                                                        |
+|                             | - Uses appropriate listening behaviors                                                                                                                          |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
 
-|                                                           | LEVELD<br>EARLY DEVELOPING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | LEVELE<br>DEVELOPING                                                                                                                                                                                                                                                                                                                                                                    | LEVELF                                                                                                                                                                                                                                                                                                      |
-|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| c:<br>0<br><br>Ill<br>c:<br>Q)<br>c::<br>s<br>~<br>0<br>u | • Predicts what will happen next.<br>• Recalls main ideas and details.<br>• Orally connects own experiences<br>to reading .                                                                                                                                                                                                                                                                                                                                                                                                     | • Retells story in sequence.<br>• Summarizes story.<br>• Backs up literal statements with<br>proof from story.<br>• Forms an opinion about a story.                                                                                                                                                                                                                                     | • Orally responds to questions about<br>character, setting, problem, and<br>solution.<br>• Understands the use of exaggera-<br>tion.<br>• Distinguishes fact from fiction.<br>• Demonstrates knowledge of the<br>function of chapters.                                                                      |
-| Ill<br><br>Q)<br>ot)<br>Q)<br>~<br>!=<br>en<br>--<br>~ en | • Uses word parts to read unknown<br>words (e.g., endings-s, ed, ing;<br>blends-sp, bl, st; digraphs-ch,<br>sh, th; and simple word families-<br>. at,  ad,  op).<br>• Increases sight word vocabulary.<br>• Increases and refines use of con-<br>text, grammatical, and/ or phonics<br>cues.<br>• Begins to use a variety of ways of<br>cross checking.<br>• Begins to self-correct errors.<br>• Pauses at appropriate places when<br>reading orally.<br>• Uses a period, question mark, and<br>exclamation mark when reading. | • Begins to solve unknown words by<br>using word families (  ate,<br>eat,  een, etc).<br>• Uses beginning, middle and final<br>letter sounds to read unknown<br>word .<br>• Increases sight word vocabulary.<br>• Cross checking is automatic,<br>• When rereading, confidently reads<br>a story with appropriate expres<br>sian.<br>• Uses quotation marks and commas<br>when reading. | • Solves unknown words by using<br>syllables or meaningful word parts<br>(e.g., root words-tie, do, read;<br>prefixes-un, re, pre; and<br>suffixes-ful, ly, est) .<br>• Increases sight word vocabulary.<br>• Self-corrects automatically.<br>• Reads orally with expression or<br>with appropriate pauses. |
-
-....... ....... \*"'
-
-| • Independently selects books to<br>~ Q<br>look at/read.<br>·~<br>• Reads familiar books.<br>-<br>• Participates in oral/shared reading<br>of both fiction and nonfiction.<br>riJ<br>~<br>< | • Reads for pleasure or information.<br>• Shows familiarity with titles and<br>authors.<br>• May read silently, sometimes vo<br>calizing when text is difficult.<br>• Actively responds to books . | • May recommend books to others.<br>• Chooses and locates library books.<br>• Reads silently. |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-
-## <~~~~~································································································ **FIRST GRADE RANGE: 8-F** ............................................................................................... .\_ **SECOND GRADE RANGE: D to H**
+<~~~~~····································· **FIRST GRADE RANGE: 8-F** ................................... .\_ **SECOND GRADE RANGE: D to H**
 
 SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permission.
 
-·~ i 1=1:1 -riJ .... <sup>~</sup>... <
+**TABLE-LEARNING TO READ, LEARNING TO LISTEN, Level D, E, F**
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+| **Level**                   | **Indicators**                                                                                                                                                  |                 
+| **Level D Early Developing**|                                                                                                                                                                 |
+| **Comprehension**           | - Predicts what will happen next.                                                                                                                               |
+|                             | - Recalls main ideas and details.                                                                                                                               |
+|                             | - Orally connects own experiences to reading                                                                                                                    |
+| **Skills/Strategies**       | - Uses word parts to read unknown words (e.g., endings-s, ed, ing; blends-sp, bl, st; digraphs-ch, sh, th; and simple word families. .. at, .. ad, ... op).     |
+|                             | - Increases sight word vocabulary.                                                                                                                              |
+|                             | - Increases and refines use of context, grammatical, and/ or phonics cues.                                                                                      |
+|                             | - Begins to use a variety of ways of cross checking.*.                                                                                                          |
+|                             | - Begins to self-correct errors.                                                                                                                                |
+|                             | - Pauses at appropiate places when reading orally.                                                                                                              |
+|                             | - Uses a period, question mark and exclamation mark when reading.                                                                                               |
+|  **Attitude/Behaviors**     | - Independently selects books to look at/read.                                                                                                                  |
+|                             | - Reads familiar book.                                                                                                                                          |
+|                             | - Participates in oral/shared reading of both fiction and nonfiction.                                                                                           |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level E Developing**      |                                                                                                                                                                 |
+|  **Comprehension**          | - Retells story in sequence                                                                                                                                     |
+|                             | - Summarizes story                                                                                                                                              |
+|                             | - Backs up literal statements with proof from story                                                                                                             |
+|                             | - Form an opinion about the story                                                                                                                               |
+| **Skills/Strategies**       | - Begins to solve unknown words by using similiar families (.... ate, ....eat, ....een etc)                                                                     |
+|                             | - Uses beginning, middle, and final letter sounds to read unknown word                                                                                          |
+|                             | - Increases sight word vocabulary.                                                                                                                              |
+|                             | - Cross checking is automatic.                                                                                                                                  |
+|                             | - When rereading, cinfidently reads a stiry with appropiare expressions                                                                                         |
+|                             | - Uses quotation marks and commas when reading                                                                                                                  |
+|  **Attitude/Behaviors**     | - Reads for pleasure and information                                                                                                                            |
+|                             | -  shows familiarity with title and authors                                                                                                                     |
+|                             | - may read silently sometimes vocalizing when tet is difficulet                                                                                                 |
+|                             | - Acctively responds to books                                                                                                                                   |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level F:**                |                                                                                                                                                                 |
+|  **Comprehension**          | - Orally responds to questions about character, setting, problem and solution                                                                                   |
+|                             | - Understands the use of exaggeration                                                                                                                           |
+|                             | - Distinguishes facts from fictions                                                                                                                             |
+|                             | - Demonstrates knowledge of the funtion of chapters                                                                                                             |
+| **Skills/Strategies**       | - Solves unknown words by using syllables or meaningful word part (eg root words - ties do rread;prefixes - un, re, pre, and suffixes - ful, ly, est etc)       |
+|                             | - Increases sight word vocabulary                                                                                                                               |
+|                             | - self corrects automatically                                                                                                                                   |
+|                             | - Reads orally with expressions or with appropiate pauses                                                                                                       |
+|  **Attitude/Behaviors**     | - May recommend book to others                                                                                                                                  |              
+|                             | - Chooses and locates library books                                                                                                                             |
+|                             | - Reads silently                                                                                                                                                |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
 
-#### **LEARNING TO READ, LEARNING TO LISTEN I READING TO LEARN, LISTENING TO LEARN**
+**TABLE-LEARNING TO READ, LEARNING TO LISTEN - Level G, H, I**
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+| **Level**                   | **Indicators**                                                                                                                                                  |                 
+| **Level G**                 |                                                                                                                                                                 |
+| **Comprehension**           | - Only responds to literature questions                                                                                                                         |
+|                             | - Identifies and interprets characters interation                                                                                                               |
+|                             | - Recognizes and retains specialized vocabulary (eg unusual names, unfamiliar terms(concepts))                                                                  |
+|                             | - understands idiomatic expressions (fur lookeed like mashed punes                                                                                              |
+|                             | - Retains story line through episodes or longer chapter books                                                                                                   |
+| **Skills/Strategies**       | - Uses word identification strategies appropiately and automatically when encountering an unknow word                                                           |
+|                             | - Retains high frequency words as part of sight word vocabulary.                                                                                                |
+|  **Attitude/Behaviors**     | - Chooses to read a variety of materials for a variety of purposes                                                                                              |
+|                             | - Uses active listening skills during oral reading of fiction and nonfiction                                                                                    |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level H Benchmark 3**     |                                                                                                                                                                 |
+|  **Comprehension**          | - Summarizes major events                                                                                                                                       |
+|                             | - Identifies character, setting, plot                                                                                                                           |
+|                             | - Evaluates characters, author, books                                                                                                                           |
+|                             | - Uses information to draw conclusions                                                                                                                          |
+|                             | - Recalls word meanings by giving an example                                                                                                                    | 
+|                             | - Notices author's choice of words                                                                                                                              | 
+|                             | - Compares ideas read prior to knowledge                                                                                                                        |
+|                             | - Listens and responds orally to other's opinions and questions about a text                                                                                    |
+|                             | - Knows how to question self before, during and after reading                                                                                                   |
+| **Skills/Strategies**       | - Integrates reading strategies effectively and fluently                                                                                                        |
+|                             | - Reads contractions and abbreviations. Identifies and uses : title page, table of contents, index, author, illustrator                                         |
+|                             | - Adjusts reading rate to meet the demands of the text                                                                                                          |
+|  **Attitude/Behaviors**     | - Knows own readinf preferences                                                                                                                                 |
+|                             | - Selects text at his/her reading level                                                                                                                         |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level I:**                |                                                                                                                                                                 |
+|  **Comprehension**          | - Connects ideas to make inferences, draw conclusions, and predict what will happen next.                                                                       |
+|                             | - Recalls word meanings by giving a definition.                                                                                                                 |
+|                             | - Recognizes effective use of word choice by an author for a specific purpose                                                                                   |
+|                             | - listens and responds to fiction and nonfiction in writing. discussions, storytelling/performance, and so forth.                                               |
+|                             | - Interprets fiction read by retelling and discussing plot, characters, setting, and events.                                                                    |
+|                             | - Interprets nonfiction, citing main ideas and supporting details.                                                                                              |
+|                             | - Paraphrases/retells passages.                                                                                                                                 |
+|                             | - Supports opinions about text with evidence from text and own life.                                                                                            |
+| **Skills/Strategies**       | - Rereads, scans, and skims text for specific information.                                                                                                      |
+|                             | - Analyzes parts of words and sentence context to problem solve new words.                                                                                      |
+|                             | - Uses references for specific research purposes.                                                                                                               |
+|                             | - Uses text organizations such as chapters, paragraphs, and conclusions.                                                                                        |
+|                             | - Identifies and uses: -glossary -copyright.                                                                                                                    |
+|  **Attitude/Behaviors**     | - Reflects and evaluates self as a reader                                                                                                                       |              
+|                             | - Self motivated to read for pleasure                                                                                                                           |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+                                                                                     
 
-|                                                                                                                          | LEVELG                                                                                                                                                                                                                                                                                                                                                                                                           | LEVELH<br>BENCHMARK3                                                                                                                                                                                                                                                                                                                                                                                                                                                    | LEVELl                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| =<br>= "'<br>interactions.<br>~<br>8'<br>unfamiliar terms/concepts).<br>(<br>or longer chapter books.                    | • Orally responds to literature questions<br>and is beginning to respond in writing.<br>• Identifies and interprets characters'<br>• Recognizes and retains specialized<br>vocabulary (e.g., unusual names,<br>• Understands idiomatic expressions<br>. fur looked like mashed prunes).<br>• Retains story line through episodes<br>--G;Mark continuum based on secure<br>uated, independent behavior of student | • Summarizes major events.<br>• Identifies character, setting. and plot.<br>• Evaluates characters, authors, and books .<br>• Uses information to draw conclusions.<br>• Recalls word meaning by giving an example.<br>• Notices author's choices of words.<br>• Compares ideas read to prior knowledge.<br>• listens and responds orally to others' opinions<br>and questions about a text.<br>• Knows how to question self before, during, and<br>~<br>after reading. | Connects ideas to make inferences, draw conclusions, and<br>1 •<br>predict what will happen next.<br>• Recalls word meanings by giving a definition.<br>• Recognizes effective use of word choice by an author for a 1<br>specific purpose.<br>• listens and responds to fiction and nonfiction in writing. dis-<br>I<br>cussions, storytelling/performance, and so forth.<br>• Interprets fiction read by retelling and discussing plot,<br>characters, setting, and events.<br>• Interprets nonfiction, citing main ideas and supporting details.<br>• Paraphrases/retells passages.<br>• Supports opinions about text with evidence from text and<br>own life. |
-| • Uses word identification strategies<br>·s:o<br>~<br>of sight word vocabulary.<br>~ <J)                                 | appropriately and automatically when<br>encountering an unknown word.<br>• Retains high frequency words as part                                                                                                                                                                                                                                                                                                  | • Integrates reading strategies fluently and<br>effectively.<br>• Reads contractions and abbreviations. Identifies<br>and uses:<br>-title page<br>-table of contents<br>-index<br>-author, illustrator<br>• Adjusts reading rate to meet the demands of<br>the text.                                                                                                                                                                                                    | • Rereads, scans, and skims text for specific information.<br>• Analyzes parts of words and sentence context to problem<br>solve new words.<br>• Uses references for specific research purposes.<br>• Uses text organizations such as chapters, paragraphs, and<br>conclusions.<br>• Identifies and uses:<br>-glossary<br>-copyright.                                                                                                                                                                                                                                                                                                                             |
-| "'<br>0<br>als for a variety of purposes.<br>'e ·s: E<br>tU<br>• Uses active listening skills during oral<br>E~<br><Q::l | • Chooses to read a variety of materi-<br>reading of fiction and nonfiction.                                                                                                                                                                                                                                                                                                                                     | • Knows own reading preferences.<br>• Selects texts at his/her reading level.                                                                                                                                                                                                                                                                                                                                                                                           | • Reflects and evaluates self as a reader.<br>• Self-motivated to read for pleasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+**TABLE-LEARNING TO READ, LEARNING TO LISTEN - Level G, H, I**
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+| **Level**                   | **Indicators**                                                                                                                                                  |                 
+| **Level J**                 |                                                                                                                                                                 |
+| **Comprehension**           | - Makes inferences based on ideas in text ustification for the inferences.                                                                                      |
+|                             | - Begins to use content vocabulary in speaking and writing.                                                                                                     |
+|                             | - Recognizes that authors use specific words to convey a feeling, tone, and emotional state.                                                                    |
+|                             | - Connects ideas from reading to universal themes such as friendship, tolerance, and community.                                                                 |
+| **Skills/Strategies**       | - Selects and uses a variety of reference materials for specific research purposes.                                                                             |
+|                             | - Uses a variety of text structures (letter, narrative, report, recount) and text organizations (bold print, key word, caption).                                |
+|  **Attitude/Behaviors**     | - Generates personal questions and discussion about self as a reader.                                                                                           |
+|                             | -  May discover a particular genre and may seek out other titles of this type.                                                                                  |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
+| **Level K**                 |                                                                                                                                                                 |
+|  **Comprehension**          | - Comprehends texts that may be removed from personal experience.                                                                                               |
+|                             | - Begins to use content vocabulary in reference to real life situations.                                                                                        |
+|                             | - Interprets author's use of specific words/phrases that convey feeling, tone, and emotional states.                                                            |
+|                             | - Identifies figurative language such as simile, metaphor, onomatopoeia, and alliteration.                                                                      |
+|                             | - Recognizes devices in a text that indicate stereotyped characters and suggests ways in which stereotypical characters might be changed.                       | 
+|                             | - Compares universal themes between texts read.                                                                                                                 | 
+|                             | - Infers, predicts, and generalizes, citing evidence from the text.                                                                                             |
+|                             | - Confirms, extends, or amends own knowledge through reading.                                                                                                   |
+| **Skills/Strategies**       | - Selects appropriate material and adjusts reading strategies for different texts and purposes (skimming to search for a fact, scanning for a keyword, headings)|
+|                             | - Reads and uses content-specific vocabulary (e.g., in science, math, technology).                                                                              |
+|  **Attitude/Behaviors**     | - Analyzes self as a reader.                                                                                                                                    |
+|                             | - Sees books as useful sources of information.                                                                                                                  |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ |
 
-SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permission.
 
-| LEVELJ                                                                                                                                                                                                                                                                                                                                                   | ·····-<br>I<br>LEVELK<br>BENCHMARKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Makes inferences based on ideas in text ustification<br>for the inferences.<br>• Begins to use content vocabulary in speaking and<br>writing.<br>• Recognizes that authors use specific words to convey<br>a feeling, tone, and emotional state.<br>• Connects ideas from reading to universal themes such<br>as friendship, tolerance, and community. | • Comprehends texts that may be removed from personal experience.<br>• Begins to use content vocabulary in reference to real life situations.<br>• Interprets author's use of specific words/phrases that convey feeling,<br>tone, and emotional states.<br>• Identifies figurative language such as simile, metaphor, onomato<br>poeia, and alliteration.<br>• Recognizes devices in a text that indicate stereotyped characters and<br>suggests ways in which stereotypical characters might be changed.<br>• Compares universal themes between texts read.<br>• Infers, predicts, and generalizes, citing evidence from the text.<br>• Confirms, extends, or amends own knowledge through reading. |
-| • Selects and uses a variety of reference materials for<br>specific research purposes.<br>• Uses a variety of text structures (letter, narrative, re<br>port, recount) and text organizations (bold print, key<br>word, caption).                                                                                                                        | • Selects appropriate material and adjusts reading strategies for differ<br>ent texts and purposes (skimming to search for a fact, scanning for a<br>keyword, headings).<br>• Reads and uses content-specific vocabulary (e.g., in science, math,<br>technology).                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| • Generates personal questions and discussion about<br>self as a reader.<br>• May discover a particular genre and may seek out<br>other titles of this type.                                                                                                                                                                                             | • Analyzes self as a reader.<br>• Sees books as useful sources of information.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
-#### **READING TO LEARN, LISTENING TO LEARN**
-
-| FOURTH GRADE RANGE: H to K  . |
-|-------------------------------|
-| FIFTH GRADE RANGE: I to K  .  |
-
-~ SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permission.
-
-.....
-
-#### THE TRAITS OF AN EFFECTIVE READER: READING AN INFORMATIONAL TEXT SCORING GUIDE
+### THE TRAITS OF AN EFFECTIVE READER: READING AN INFORMATIONAL TEXT SCORING GUIDE
 
 #### Decoding Conventions
 
-- <span id="page-134-0"></span>• Decode the writing *conventions* of grammar, punctuation, word recognition, and sentence structure
+- Decode the writing *conventions* of grammar, punctuation, word recognition, and sentence structure
 - Recognize the organizational *conventions* of the author, the organizational framework, and features of the text
 - Identify the genre *conventions* (newspaper, magazine, textbooks, brochures, instructions) and the types of modes appropriate to each informational genre (cause and effect, comparison, sequential, etc)
-- 5 The advanced response uses conventions information to form a confident "thinking frame" of a text.
+5:
+- The advanced response uses conventions information to form a confident "thinking frame" of a text.
 - Directly answers the question using text structure language in specific and precise ways
 - Selects well-chosen and well-supported examples to illustrate understanding of conventions
 - Responds "beyond" the question by enlarging the initial thinking frame
-- 3 The developing response uses conventions information to form an initial "thinking frame" of the text.
+3
+- The developing response uses conventions information to form an initial "thinking frame" of the text.
 - Uses some basic text structure language to indicate general understandings
 - Selects "safe" and obvious examples to illustrate understanding of the conventions
 - The response is fairly safe and stays definitely within the confines of the question
+1 
+- The emerging response is beginning to decode conventions and the challenge of decoding gets in the way of a "thinking frame" for the text.
+- Does not adequately answer the question but may use some text structure language
+- Focuses on more general information rather than providing examples from the text
+- Response can be characterized as sketchy and incomplete
 
 #### Establishing Comprehension
 
@@ -3156,16 +2989,21 @@ SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permissio
 - Identify the main idea, major and minor examples, facts, expert authority, and turning moments
 - Distinguish between significant and supporting details that elaborate the main idea
 - Summarize and paraphrase with purpose to move toward making inferences and interpretations
-
-#### 5 The advanced response demonstrates a purposeful, expansive, and knowledgeable comprehension of the text.
-
+5 
+- The advanced response demonstrates a purposeful, expansive, and knowledgeable comprehension of the text.
 - Directly answers the question using comprehension terms to indicate precise understandings
 - Selects well-chosen examples to illustrate indepth comprehension; examples are well-developed, using clear, specific language, and terms
 - Responds "beyond" the question by increasing comprehension of the text into inferential and interpretative levels
-- 3 The developing response demonstrates an adequate comprehension of the text. Purposeful comprehension is still evolving.
+3 
+- The developing response demonstrates an adequate comprehension of the text. Purposeful comprehension is still evolving.
 - Uses some comprehension terms to indicate general understandings
 - Selects "safe" and obvious examples to illustrate literal comprehension
 - Does not venture information beyond the initial question
+1 
+- The emerging response is searching to establish a basic comprehension of the text.
+- Does not provide examples for evidence but sometimes restates the question
+- Little evidence that a basic comprehension of the text has been achieved
+- The response can be characterized as sketchy and incomplete
 
 #### Realizing Context
 
@@ -3174,40 +3012,42 @@ SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permissio
 - Identify the vocabulary reflective of the context
 - Recognize the writing mode, tone, and voice of the author or source selected with respect to the context
 - Recognize the subject matter's context and its applications to many aspects of the text
-- 5 The advanced response realizes context and sees inferential meanings and intended purposes, both implicit and explicit.
+5 T
+- he advanced response realizes context and sees inferential meanings and intended purposes, both implicit and explicit.
 - Directly and specifically answers the question to demonstrate understanding of inferential meaning
 - Selects well-chosen examples to illustrate understandings of contextual issues
 - Goes beyond the question's limits to illustrate understandings of contextual relationships
-- 3 The developing response realizes the context of the text to some degree and recognizes obvious types of inference. The idea of contextual relationships between many factors and issues is still in development.
+3 
+- The developing response realizes the context of the text to some degree and recognizes obvious types of inference. The idea of contextual relationships between many factors and issues is still in development.
 - Uses some context terminology to show a basic level of understanding
 - Selects "safe" and obvious examples that stay close to the surface of the text
 - Stays within the safe confines of the question
-
-*(continued)* 
-
-#### Decoding Conventions
-
-- 1 The emerging response is beginning to decode conventions and the challenge of decoding gets in the way of a "thinking frame" for the text.
-- Does not adequately answer the question but may use some text structure language
-- Focuses on more general information rather than providing examples from the text
-- Response can be characterized as sketchy and incomplete
+1 
+- The emerging response guesses at context but has difficulty accessing inferential knowledge.
+- Does not use examples from the text to illustrate inferential understandings
+- Not enough evidence to demonstrate an understanding of contextual layers of the text
+ 
 
 #### Developing Interpretations
 
 - Identify problems, gaps, ambiguities, conflicts, and/or disparate points of view in the text
 - Analyze the text to pose explanations that bridge gaps, clarify ambiguities, and resolve textual problems
 - Using the context to connect analytical explanations to a bigger picture
-- 5 The advanced response interprets to analyze and think critically about informational texts.
+5 
+- The advanced response interprets to analyze and think critically about informational texts.
 - Directly answers the question by employing problem-solving techniques-using specific evidence, clues, and "on target" information
 - Examples, quotes, and events are cited from the text and connected strongly to the analysis
 - Responds beyond the question to engage the bigger picture by creating framework of historical significance, cultural importance, or universal theme
-
-#### Establishing Comprehension
-
-- 1 The emerging response is searching to establish a basic comprehension of the text.
-- Does not provide examples for evidence but sometimes restates the question
-- Little evidence that a basic comprehension of the text has been achieved
-- The response can be characterized as sketchy and incomplete
+3 
+- The developing response interprets to expand the text but is still developing connections to a larger worldview.
+- Uses some language that indicates an initial layer of interpretation understanding
+- A safe response citing very obvious examples; connections between the examples and the analysis not always evident
+- Does not yet move beyond the question-engaging the "bigger picture" is still a developing skill
+1 
+- The emerging response sees interpretation as "talking about a book." Reading and interpreting are still separate processes. Little evidence exists that the student understands the concept of interpretation.
+- Does not adequately address the question
+- Does not cite examples, quotes, or evidence from the text to use as a basis of interpretation
+- Sometimes restates the question words
 
 #### Integrating for Synthesis
 
@@ -3215,17 +3055,21 @@ SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permissio
 - Compare and contrast examples, facts, or events in order to make defensible judgments or interpretations
 - Recognize and describe cause and effect relations
 - Integrate personal experience, background knowledge, and/or content knowledge with the text to create a "synthesis" of text plus knowledge
-- 5 The advanced response integrates textual material and other types of knowledge to create a synthesis of ideas.
+5 
+- The advanced response integrates textual material and other types of knowledge to create a synthesis of ideas.
 - Directly, specifically, and concretely performs the synthesis application directed by the question by using synthesis language
 - Uses well-chosen examples that have a strong parallel development if the question demands it
 - Responds beyond the question, integrating several layers of knowledge into a harmonious whole
-
-#### Realizing Context
-
-#### 1 The emerging response guesses at context but has difficulty accessing inferential knowledge.
-
-- Does not use examples from the text to illustrate inferential understandings
-- Not enough evidence to demonstrate an understanding of contextual layers of the text
+3 T
+- he developing response integrates textual material with other types of knowledge to create a surface-level synthesis.
+- Uses some synthesis language to reflect a basic understanding of the skills of integrating for synthesis
+- Uses general and "safe" examples
+- The layers and types of knowledge in the response not always well integrated
+1 
+- The emerging response employs some skills of synthesizing, but a fully developed integration is still emerging.
+- Does not perform the synthesis application directed by the question
+- Does not accurately use synthesis language
+- Does not integrate sources, texts, and understandings to a measurable degree
 
 #### Critiquing for Evaluation
 
@@ -3236,129 +3080,161 @@ SOURCE: © 2000, Juneau Borough School District, Juneau, AK. Used with permissio
 - Challenge the ideas of the author or source by noting bias, distortion, and/or lack of coherence
 - Contrast the accuracy of textual information with
 - other sources and form solid, defensible critiques
-- 5 The advanced response evaluates to assert a strong voice in the text.
+5 
+- The advanced response evaluates to assert a strong voice in the text.
 - Directly and thoughtfully answers the question, using evaluation terminology effectively and precisely to indicate the reader's critique of the text
 - Examples are well-developed, placed in context, and connected well to other ideas
 - Responds beyond the parameters of the question to critically engage the text and its ideas in a solid, defensible judgment
-
-(continued)
-
-...... ...... c.o
-
-SOURCE: © 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Used with permission.
-
-## <sup>0</sup>THE TRAITS OF AN EFFECTIVE READER (continued)
-
-#### Developing Interpretations
-
-#### 3 The developing response interprets to expand the text but is still developing connections to a larger worldview.
-
-- Uses some language that indicates an initial layer of interpretation understanding
-- A safe response citing very obvious examples; connections between the examples and the analysis not always evident
-- Does not yet move beyond the question-engaging the "bigger picture" is still a developing skill
-- 1 The emerging response sees interpretation as "talking about a book." Reading and interpreting are still separate processes. Little evidence exists that the student understands the concept of interpretation.
-- Does not adequately address the question
-- Does not cite examples, quotes, or evidence from the text to use as a basis of interpretation
-- Sometimes restates the question words
-
-#### Integrating for Synthesis
-
-- 3 The developing response integrates textual material with other types of knowledge to create a surface-level synthesis.
-- Uses some synthesis language to reflect a basic understanding of the skills of integrating for synthesis
-- Uses general and "safe" examples
-- The layers and types of knowledge in the response not always well integrated
-- 1 The emerging response employs some skills of synthesizing, but a fully developed integration is still emerging.
-- Does not perform the synthesis application directed by the question
-- Does not accurately use synthesis language
-- Does not integrate sources, texts, and understandings to a measurable degree
-
-#### Critiquing for Evaluation
-
-- 3 The developing response hesitates to evaluate thoroughly; it still plays it somewhat "safe."
+3 The developing response hesitates to evaluate thoroughly; it still plays it somewhat "safe."
 - Generally answers the evaluation question but hesitant to critically engage with the text
 - Selects safe and obvious examples that are connected to other ideas in fairly limited ways
 - Does not yet move beyond the question to venture into the larger world of critical discourse
-
-#### 1 The emerging response is just beginning to explore a critical stance to the text.
-
+1 
+- The emerging response is just beginning to explore a critical stance to the text.
 - Uses evaluation terminology sporadically or not at all
 - Examples are incomplete or sketchily described and not connected to other ideas or issues
 - The response is incomplete or restates the question words
 
 SOURCE: © 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Used with permission.
 
-#### **READ -INFORMATIVE AND LITERARY TEXTS I OFFICIAL SCORING GUIDE, GRADES 4-12 Comprehension**
+### **READ -INFORMATIVE AND LITERARY TEXTS I OFFICIAL SCORING GUIDE, GRADES 4-12**
+#### Comprehension**
 
-<span id="page-137-0"></span>
-
-| 6 The response demonstrates a thorough understanding of the parts of the<br>selection and the selection as a whole.<br>The response:<br>• Indicates a thorough and accurate understanding of main ideas and all significant<br>supporting details, including clarification of the complexities<br>• Draws subtle as well as obvious inferences and forms insightful conclusions about<br>their meaning<br>• Presents interpretation, generalizations, or predictions based on specific and com<br>pelling evidence<br>• Uses relevant and specific information from textual resource (e.g., table of contents,<br>graphs, charts, diagrams, glossary) to clarify meanin~ and form conclusions.                                                       | 5 The response demonstrates a strong understanding of the parts of<br>the selection and the selection as a whole.<br>The response:<br>• Indicates a thorough and accurate understanding of main ideas and all sig<br>nificant supporting details<br>• Draws key inferences and forms supported conclusions about their meaning<br>• Presents interpretations, generalizations, or predictions based on specific,<br>conclusive evidence<br>• Uses information from textual resources (e.g., table of contents, chapter<br>headings, graphs, charts, diagrams) to clarify meaning and form<br>conclusions.                           |  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 4 The response demonstrates a competent understanding of the parts of the<br>selection and the selection as a whole.<br>The response:<br>• Indicates an understanding of the main ideas and relevant and specific supporting<br>details<br>• Draws obvious inferences and forms reasoned conclusions about their meaning<br>• Presents interpretations, generalizations, or predictions based on adequate evidence<br>• Uses information from textual resources (i.e., table of contents, chapter headings,<br>illustrations, graphs, charts) to clarify meaning and form conclusions.                                                                                                                                                               | 3 The response demonstrates an inconsistent understanding of the<br>parts of the selection and the selection as a whole.<br>The response:<br>• Correctly identifies some main ideas; focuses on isolated details or misun<br>derstands or omits some significant supporting details<br>• Draws basic inferences but may not provide supportable conclusions based<br>on them<br>• Attempts to present interpretations, generalizations, or predictions but fails<br>to provide adequate support<br>• Uses obvious information from textual resources (i.e., table of contents,<br>chapter headin~s. illustrations, ~raphs, charts). |  |
-| 2 The response demonstrates a limited understanding of the parts of the<br>selection and the selection as a whole.<br>The response:<br>• Shows a fragmented, inaccurate, or incomplete understanding of the selection; pres<br>ents random, incomplete, or irrelevant evidence<br>• Does not draw inferences or suggests inferences not supported by the text<br>• Fails to provide supported interpretations, generalizations, or predications or pro<br>vides ones that are unsupported by the text; may contain passages copied verbatim<br>without analysis or commentary<br>• Does not refer to textual resource (e.g., table of contents, graphs, charts, diagrams,<br>~lossary) or reveals that the reader is distracted or confused by them. | 1 The response demonstrates virtually no understanding of the parts<br>of the selection and the selection as a whole.<br>The response:<br>• Shows an inability to construct a literal meaning of the selection; may focus<br>only on the reader's own frustration or indicate that the reader gave up.                                                                                                                                                                                                                                                                                                                              |  |
-
-....... N .......
+6: The response demonstrates a thorough understanding of the parts of the  selection and the selection as a whole.  The response: 
+  • Indicates a thorough and accurate understanding of main ideas and all significant supporting details, including clarification of the complexities 
+  • Draws subtle as well as obvious inferences and forms insightful conclusions about their meaning 
+  • Presents interpretation, generalizations, or predictions based on specific and com pelling evidence 
+  • Uses relevant and specific information from textual resource (e.g., table of contents, graphs, charts, diagrams, glossary) to clarify meanin~ and form conclusions.   
+5: The response demonstrates a strong understanding of the parts of the selection and the selection as a whole. The response: 
+  • Indicates a thorough and accurate understanding of main ideas and all sig nificant supporting details 
+  • Draws key inferences and forms supported conclusions about their meaning 
+  • Presents interpretations, generalizations, or predictions based on specific, conclusive evidence 
+  • Uses information from textual resources (e.g., table of contents, chapter headings, graphs, charts, diagrams) to clarify meaning and form conclusions.  
+4: The response demonstrates a competent understanding of the parts of the selection and the selection as a whole. The response: 
+  • Indicates an understanding of the main ideas and relevant and specific supporting details 
+  • Draws obvious inferences and forms reasoned conclusions about their meaning 
+  • Presents interpretations, generalizations, or predictions based on adequate evidence 
+  • Uses information from textual resources (i.e., table of contents, chapter headings, illustrations, graphs, charts) to clarify meaning and form conclusions.             
+3: The response demonstrates an inconsistent understanding of the parts of the selection and the selection as a whole. The response: 
+  • Correctly identifies some main ideas; focuses on isolated details or misun derstands or omits some significant supporting details 
+  • Draws basic inferences but may not provide supportable conclusions based on them 
+  • Attempts to present interpretations, generalizations, or predictions but fails to provide adequate support 
+  • Uses obvious information from textual resources (i.e., table of contents, chapter headinGs. illustrations, Graphs, charts). 
+2: The response demonstrates a limited understanding of the parts of the selection and the selection as a whole. The response: 
+  • Shows a fragmented, inaccurate, or incomplete understanding of the selection; pres ents random, incomplete, or irrelevant evidence 
+  • Does not draw inferences or suggests inferences not supported by the text 
+  • Fails to provide supported interpretations, generalizations, or predications or pro vides ones that are unsupported by the text; may contain passages copied verbatim without analysis or commentary 
+  • Does not refer to textual resource (e.g., table of contents, graphs, charts, diagrams, ~lossary) or reveals that the reader is distracted or confused by them. 
+1: The response demonstrates virtually no understanding of the parts of the selection and the selection as a whole. The response: 
+  • Shows an inability to construct a literal meaning of the selection; may focus only on the reader's own frustration or indicate that the reader gave up.                           
 
 SOURCE:© 1997, Oregon Department of Education. Used with permission.
-
-(continued)
-
-#### READ OFFICIAL SCORING GUIDE (continued)
 
 #### Extending Understanding
 
-| 6 The response demonstrates a thorough and complex understanding of<br>the selection and it relationship to other texts (read, heard, or viewed),<br>experiences, issues, or events in the community or world at large.<br>The response:<br>• Relates the selection to substantive and relevant personal experience, extending<br>and deepening understanding beyond text-bound concerns.<br>• Relates the selection to other texts in complex and subtle ways through insightful<br>generalization or conclusions.<br>• Makes insightful and supported connections between theme(s) or message(s) of<br>a selection(s) and its relationship to issues or events in the community or world<br>at large. | 5 The response demonstrates a strong understanding of the selection and<br>its relationship to other texts (read, heard, or viewed), experiences,<br>issues, or events in the community or world at large.<br>The response:<br>• Relates the selection to relevant personal experiences, extending understanding<br>beyond text-bound concerns.<br>• Relates the selection to other texts in complex and subtle ways through sup<br>ported generalizations or conclusions.<br>• Makes in-depth connections between theme(s) or message(s) of a selection(s)<br>and issues or events in the community or world at large.       |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 The response demonstrates a competent understanding of the selection<br>and its relationship to other texts (read, heard, or viewed), experiences,<br>issues, or events in the community or world at large.<br>The response:<br>• Relates the selection to relevant personal experiences, extending understanding<br>beyond text-bound concerns.<br>• Relates the selection to other texts by drawing conclusions or forming general<br>izations although they may be primarily literal.<br>• Makes reasoned connections between theme(s) or message(s) of a selection(s)<br>and issues or events in the community or world at large.                                                                 | 3 The response demonstrates an limited or inconsistent understanding of<br>the selection and its relationship to other texts (read, heard, or<br>viewed), experiences, issues, or events in the community or world at<br>large.<br>The response:<br>• Relates the selection only superficially or indirectly to personal experiences.<br>• Relates the selection to other texts by drawing conclusions or forming general<br>izations which may be simplistic or incomplete.<br>• Makes overly broad, general. or inaccurate connections between the selection(s)<br>and issues or events in the community or world at large. |
-| 2 The response demonstrates a limited, superficial, or flawed understand-/1<br>ing of the selection and its relationship to other texts (read, heard, or<br>viewed), relevant personal experiences, or related topics or events.<br>The response:<br>• Relates the selection only superficially or indirectly to personal experiences.<br>• Makes weak or invalid connections between the selection and other texts.<br>• Makes weak or superficial connections between the selection(s) and issues or<br>events in the community or world at large.                                                                                                                                                    | The response demonstrates a lack of understanding of the selection and<br>its relationship to other texts (read, heard, or viewed), relevant per<br>sonal experiences, or related topics or events.<br>The response:<br>• Shows an inability to draw connections and see relationship between the selec<br>tion and other texts, experiences, issues, and events.                                                                                                                                                                                                                                                             |
+6: The response demonstrates a thorough and complex understanding of the selection and it relationship to other texts (read, heard, or viewed), experiences, issues, or events in the community or world at large. The response: 
+  • Relates the selection to substantive and relevant personal experience, extending and deepening understanding beyond text-bound concerns. 
+  • Relates the selection to other texts in complex and subtle ways through insightful generalization or conclusions. 
+  • Makes insightful and supported connections between theme(s) or message(s) of a selection(s) and its relationship to issues or events in the community or world at large. 
+5: The response demonstrates a strong understanding of the selection and its relationship to other texts (read, heard, or viewed), experiences, issues, or events in the community or world at large. The response: 
+  • Relates the selection to relevant personal experiences, extending understanding beyond text-bound concerns. 
+  • Relates the selection to other texts in complex and subtle ways through sup ported generalizations or conclusions. 
+  • Makes in-depth connections between theme(s) or message(s) of a selection(s) and issues or events in the community or world at large.      
+4: The response demonstrates a competent understanding of the selection and its relationship to other texts (read, heard, or viewed), experiences, issues, or events in the community or world at large. The response: 
+  • Relates the selection to relevant personal experiences, extending understanding beyond text-bound concerns. 
+  • Relates the selection to other texts by drawing conclusions or forming general izations although they may be primarily literal. 
+  • Makes reasoned connections between theme(s) or message(s) of a selection(s) and issues or events in the community or world at large.                                                                 
+3:  The response demonstrates an limited or inconsistent understanding of the selection and its relationship to other texts (read, heard, or viewed), experiences, issues, or events in the community or world at large. The response: 
+  • Relates the selection only superficially or indirectly to personal experiences. 
+  • Relates the selection to other texts by drawing conclusions or forming general izations which may be simplistic or incomplete. 
+  • Makes overly broad, general. or inaccurate connections between the selection(s) and issues or events in the community or world at large. 
+2:  The response demonstrates a limited, superficial, or flawed understand-/1 ing of the selection and its relationship to other texts (read, heard, or viewed), relevant personal experiences, or related topics or events. The response: 
+  • Relates the selection only superficially or indirectly to personal experiences. 
+  • Makes weak or invalid connections between the selection and other texts. 
+  • Makes weak or superficial connections between the selection(s) and issues or events in the community or world at large.                                                                           
+1: The response demonstrates a lack of understanding of the selection and its relationship to other texts (read, heard, or viewed), relevant per sonal experiences, or related topics or events. The response: 
+  • Shows an inability to draw connections and see relationship between the selec tion and other texts, experiences, issues, and events.       
 
-...... N N
 
 #### **Reading Critically: Text Analysis**
 
-| 6 The response demonstrates a thorough and convincing analysis and<br>evaluation of an author's ideas and craft.<br>The response:<br>• Identifies the author's purpose and presents a thorough and insightful analysis<br>and evaluation of how the author's stylistic decisions (e.g., structure, point of<br>view, word choice) affect the message and purpose.<br>• When based on a literary text, identifies and skillfully analyzes how literary ele<br>ments (i.e., character, plot, setting, theme) and/or devices (e.g., simile, meta<br>phor, symbol) contribute tot he unity and effectiveness of the text.<br>• Uses specific and relevant evidence from the text to make reasoned judgments<br>about the author's craft and the selection's explicit or implied message(s). | 5 The response demonstrates a strong understanding of the parts of the<br>selection and the selection as a whole.<br>The response:<br>• Identifies the author's purpose and presents an analysis and evaluation of how<br>some of the author's stylistic decisions (e.g., structure, point of view, word<br>choice) impact the message and purpose.<br>• When based on a literary text, analyzes how selected literary elements (i.e.,<br>character, plot, setting, theme) and/or devices (e.g., simile, metaphor, symbol)<br>contribute to the unity and effectiveness of the text.<br>• Uses specific and relevant evidence from the test to make reasoned judgments<br>about the author's craft and the selection's explicit or implied messaRe. |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 The response demonstrates a competent analysis and evaluation of an<br>author's ideas and craft.<br>The response:<br>• Identifies the author's purpose and analyzes how the author's stylistic decisions<br>(e.g., structure, point of view, word choice) contribute to the purpose.<br>• When based on a literary text, provides a basic analysis of how literary elements<br>(e.g., character, plot, setting, theme) and/or literary devices (e.g., simile, meta<br>phor, symbol) contribute to the unity and effectiveness of the selection.<br>• Uses relevant evidence from the text to make and support reasoned judgments<br>about the author's craft and the selection's explicit message; may respond to<br>implied messages.                                                | 3 The response demonstrates an incomplete analysis of an author's ideas<br>and craft but provides simplistic or unsupported evaluations of the<br>author's ideas and craft.<br>The response:<br>• Show's limited identification and analysis of the author's purpose and begins to<br>analyze how stylistic decisions (e.g., structure, point of view, word choice) con<br>tribute to the messages.<br>• When based on a literary text, gives unsupported or simplistic explanations of how<br>literary elements or devices contribute to overall effectiveness of the selection.<br>• Uses limited evidence from the text to form opinions about the author's craft<br>and explicit message; may respond to implied mess~s.                        |
-| 2 The response demonstrates a limited, confused, or unfounded analysis<br>of the author's ideas and craft.<br>The response:<br>• Indicates a lack of awareness of the author's purpose or stylistic decisions; there<br>may even be an apparent lack of awareness of the author's voice (i.e., the<br>reader may seem to have difficulty distinguishing author from narrator or char<br>acter in the selection).<br>• When based on a literary text, does not use literary terms (e.g., character, plot,<br>symbol, metaphor) to describe the effectiveness of the selection.<br>• Makes a judgment about the author's craft or message(s) but provides no tex<br>tual support.                                                                                                         | 1 The response demonstrates no evidence of critical reading skills; the<br>reader does not engage in a thoughtful analysis of the text.<br>The response:<br>• Reflects an unquestioned acceptance or rejection of the author's craft or text's<br>message(s) without comment or explanation.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+6: The response demonstrates a thorough and convincing analysis and evaluation of an author's ideas and craft. The response: 
+  • Identifies the author's purpose and presents a thorough and insightful analysis and evaluation of how the author's stylistic decisions (e.g., structure, point of view, word choice) affect the message and purpose. 
+  • When based on a literary text, identifies and skillfully analyzes how literary ele ments (i.e., character, plot, setting, theme) and/or devices (e.g., simile, meta phor, symbol) contribute tot he unity and effectiveness of the text. 
+  • Uses specific and relevant evidence from the text to make reasoned judgments about the author's craft and the selection's explicit or implied message(s). 
+5: The response demonstrates a strong understanding of the parts of the selection and the selection as a whole. The response: 
+  • Identifies the author's purpose and presents an analysis and evaluation of how some of the author's stylistic decisions (e.g., structure, point of view, word choice) impact the message and purpose. 
+  • When based on a literary text, analyzes how selected literary elements (i.e., character, plot, setting, theme) and/or devices (e.g., simile, metaphor, symbol) contribute to the unity and effectiveness of the text. 
+  • Uses specific and relevant evidence from the test to make reasoned judgments about the author's craft and the selection's explicit or implied messaRe. 
+4: The response demonstrates a competent analysis and evaluation of an author's ideas and craft. The response: 
+  • Identifies the author's purpose and analyzes how the author's stylistic decisions (e.g., structure, point of view, word choice) contribute to the purpose. 
+  • When based on a literary text, provides a basic analysis of how literary elements (e.g., character, plot, setting, theme) and/or literary devices (e.g., simile, meta phor, symbol) contribute to the unity and effectiveness of the selection. 
+  • Uses relevant evidence from the text to make and support reasoned judgments about the author's craft and the selection's explicit message; may respond to implied messages.                                                 
+3: The response demonstrates an incomplete analysis of an author's ideas and craft but provides simplistic or unsupported evaluations of the author's ideas and craft. The response: 
+  • Show's limited identification and analysis of the author's purpose and begins to analyze how stylistic decisions (e.g., structure, point of view, word choice) con tribute to the messages. 
+  • When based on a literary text, gives unsupported or simplistic explanations of how literary elements or devices contribute to overall effectiveness of the selection. 
+  • Uses limited evidence from the text to form opinions about the author's craft and explicit message; may respond to implied mess~s
+2: The response demonstrates a limited, confused, or unfounded analysis of the author's ideas and craft. The response: 
+  • Indicates a lack of awareness of the author's purpose or stylistic decisions; there may even be an apparent lack of awareness of the author's voice (i.e., the reader may seem to have difficulty distinguishing author from narrator or char acter in the selection). 
+  • When based on a literary text, does not use literary terms (e.g., character, plot, symbol, metaphor) to describe the effectiveness of the selection. 
+  • Makes a judgment about the author's craft or message(s) but provides no tex tual support.                                                                                                         
+1: The response demonstrates no evidence of critical reading skills; the reader does not engage in a thoughtful analysis of the text. The response: 
+  • Reflects an unquestioned acceptance or rejection of the author's craft or text's message(s) without comment or explanation.     
 
 SOURCE:© 1997, Oregon Department of Education. Used with permission.
 
-...... N w
 
-(continued)
-
-#### **READ OFFICIAL SCORING GUIDE (continued)**
+### **READ OFFICIAL SCORING GUIDE (continued)**
 
 #### **Reading Critically: Context Analysis**
 
-| 6 The response demonstrates a thorough and convincing analysis and<br>evaluation of the ways in which an author's message(s) or theme(s)<br>have influenced or have been influenced by history, society, culture,<br>and life experiences.<br>The response:<br>• Applies a comprehensive understanding of an author's life experiences to evalu<br>ate how they have shaped and influenced the author's work.<br>• When appropriate, recognizes and evaluates the complex and subtle ways in<br>which a selection(s) has had an impact on past and/or present social and cul<br>tural conditions and issues.<br>• Uses extensive knowledge and understanding about social, economic, political,<br>or cultural issues and events to analyze and evaluate the validity of the selection'<br>explicit or implied theme(s) or message(s); if appropriate, proposes more than<br>one interpretation of the text. | 5 The response demonstrates a strong analysis and evaluation of the<br>ways in which an author's message(s) or theme(s) have influenced or<br>have been influenced by history, society, culture, and life experiences.<br>The response:<br>• Applies an understanding of an author's life experiences to evaluate how they<br>have shaped and influenced the author's work.<br>• When appropriate, recognizes and analyzes the ways in which a selection(s) has<br>had an impact on past and/or present social and cultural conditions and issues.<br>• Uses knowledge and understanding about social, economic, political, or cultural<br>issues and events to analyze the validity of the selection's explicit or implied<br>theme(s) or message(s); if appropriate, proposes more than one interpretation<br>of the text. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 The response demonstrates a competent analysis and evaluation of the<br>ways in which an author's message(s) or theme(s) have influenced or<br>have been influenced by history, society, culture, and life experiences.<br>The response:<br>• Applies an understanding of an author's life experiences to examine and explain<br>ways they have shaped and influenced the author's work.<br>• When appropriate, recognizes and analyzes the ways in which a selection has<br>had an impact on past and/or present social and cultural conditions and issues;<br>minor inaccuracies may occur.<br>• Uses knowledge and understanding about social, economic, political, or cultural<br>issues and events to analyze the validity of the selection's explicit or implied<br>theme(s) or message(s).                                                                                                          | 3 The response demonstrates an incomplete analysis of the ways in<br>which an author's message(s) or theme(s) have influenced or have been<br>influenced by history, society, culture, and life experiences.<br>The response:<br>• Applies a limited or incomplete understanding of an author's life experiences to<br>examine and explain ways they have influenced the author's work.<br>• When appropriate, recognizes ways in which a selection(s) has had an impact<br>on past and/or present social and cultural conditions and issues; the explanation<br>may contain minor inaccuracies.<br>• Shows limited knowledge about social, economic, political, or cultural issues and<br>events and relates knowledge to the selection's explicit theme(s) or message(s).                                                  |
-
-| 2 The response demonstrates a limited, confused, or unfounded<br>analysis of the ways in which an author's message(s) or theme(s)<br>have influenced or have been influenced by history, society, culture,<br>and life experiences.<br>The response:<br>• Attempts in superficial or illogical ways to explain how an author's life<br>experiences have influenced the author's work.<br>• When asked, attempts in superficial or illogical ways to explain how a<br>selection has had an impact on social and cultural conditions and issues.<br>• Makes a judgment about the selection's message(s) or theme(s) but<br>provides no contextual support. | 1 The response demonstrates no evidence of critical reading skills;<br>the reader does not engage in a thoughtful analysis of the text.<br>The response:<br>• Reflects an unquestioned acceptance or rejection of the text without<br>comment or explanation. |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+6: The response demonstrates a thorough and convincing analysis and evaluation of the ways in which an author's message(s) or theme(s) have influenced or have been influenced by history, society, culture, and life experiences. The response: 
+  • Applies a comprehensive understanding of an author's life experiences to evalu ate how they have shaped and influenced the author's work. 
+  • When appropriate, recognizes and evaluates the complex and subtle ways in which a selection(s) has had an impact on past and/or present social and cul tural conditions and issues. 
+  • Uses extensive knowledge and understanding about social, economic, political, or cultural issues and events to analyze and evaluate the validity of the selection' explicit or implied theme(s) or message(s); if appropriate, proposes more than one interpretation of the text. 
+5: The response demonstrates a strong analysis and evaluation of the ways in which an author's message(s) or theme(s) have influenced or have been influenced by history, society, culture, and life experiences. The response: 
+  • Applies an understanding of an author's life experiences to evaluate how they have shaped and influenced the author's work. 
+  • When appropriate, recognizes and analyzes the ways in which a selection(s) has had an impact on past and/or present social and cultural conditions and issues. 
+  • Uses knowledge and understanding about social, economic, political, or cultural issues and events to analyze the validity of the selection's explicit or implied theme(s) or message(s); if appropriate, proposes more than one interpretation of the text. 
+4: The response demonstrates a competent analysis and evaluation of the ways in which an author's message(s) or theme(s) have influenced or have been influenced by history, society, culture, and life experiences. The response: 
+  • Applies an understanding of an author's life experiences to examine and explain ways they have shaped and influenced the author's work. 
+  • When appropriate, recognizes and analyzes the ways in which a selection has had an impact on past and/or present social and cultural conditions and issues; minor inaccuracies may occur. 
+  • Uses knowledge and understanding about social, economic, political, or cultural issues and events to analyze the validity of the selection's explicit or implied theme(s) or messag(s). 
+3: The response demonstrates an incomplete analysis of the ways in which an author's message(s) or theme(s) have influenced or have been influenced by history, society, culture, and life experiences. The response: 
+  • Applies a limited or incomplete understanding of an author's life experiences to examine and explain ways they have influenced the author's work. 
+  • When appropriate, recognizes ways in which a selection(s) has had an impact on past and/or present social and cultural conditions and issues; the explanation may contain minor inaccuracies. 
+  • Shows limited knowledge about social, economic, political, or cultural issues and events and relates knowledge to the selection's explicit theme(s) or message(s).                   
+2: The response demonstrates a limited, confused, or unfounded analysis of the ways in which an author's message(s) or theme(s) have influenced or have been influenced by history, society, culture, and life experiences. The response: 
+  • Attempts in superficial or illogical ways to explain how an author's life experiences have influenced the author's work. 
+  • When asked, attempts in superficial or illogical ways to explain how a selection has had an impact on social and cultural conditions and issues. 
+  • Makes a judgment about the selection's message(s) or theme(s) but provides no contextual support.  
+1: The response demonstrates no evidence of critical reading skills; the reader does not engage in a thoughtful analysis of the text. The response: 
+  • Reflects an unquestioned acceptance or rejection of the text without comment or explanation.
 
 SOURCE:© 1997, Oregon Department of Education. Used with permission.
 
-#### O'l **SCORING RUBRIC FOR LANGUAGE IN USE**
-
-| Score Point 3                                                                                                                                                              | Score Point 2                                                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Consistently uses word choices to express meaning with<br>style and tone                                                                                                 | • Generally uses word choices to express meaning with style<br>and tone                                                                                              |
-| • Consistently uses word and sentence order to express<br>meaning with style and tone                                                                                      | • Sometimes uses word and sentence order to express<br>meaning with style and tone                                                                                   |
-| • Consistently uses correct mechanics, spelling, capitaliza<br>tion, and punctuation (Errors that are present represent<br>risk-taking but do not interfere with meaning.) | • Generally uses correct mechanics, spelling, capitalization,<br>and punctuation (Errors may or may not represent risk<br>taking but do not interfere with meaning.) |
-| Score Point 1                                                                                                                                                              |                                                                                                                                                                      |
-| • Rarely uses word choices to express meaning with style<br>and tone                                                                                                       |                                                                                                                                                                      |
-| • Rarely uses word and sentence order to express meaning<br>with style and tone                                                                                            |                                                                                                                                                                      |
-| • Only sometime uses correct mechanics, spelling, capital<br>ization, and punctuation (Errors do not represent risk<br>taking and may interfere with meaning.)             |                                                                                                                                                                      |
+###  **SCORING RUBRIC FOR LANGUAGE IN USE**
+**TABLE-SCORE POINT FOR SCORING RUBRIC FOR LANGUAGE IN USE**
+| Score Point 3                                                                      | Score Point 2          |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| • Consistently uses word choices to express meaning with style and tone             | • Generally uses word choices to express meaning with style and                                                  |
+|                                                                                     | tone                                                                                                             |
+| • Consistently uses word and sentence order to express meaning with style and tone  | • Sometimes uses word and sentence order to express meaning with style and tone                                  |
+| • Consistently uses correct mechanics, spelling, capitaliza tion, and punctuation   | • Generally uses correct mechanics, spelling, capitalization, and punctuation (Errors may or may not represent   |
+|  (Errors that are present represent risk-taking but do not interfere with meaning.) |  risk taking but do not interfere with meaning.)                                                                 |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|\
+| Score Point 1                                                                       |
+| • Rarely uses word choices to express meaning with style and tone                   |
+| • Rarely uses word and sentence order to express meaning with style and tone        |
+| • Only sometime uses correct mechanics, spelling, capital ization, and punctuation  |
+|  (Errors do not represent risk taking and may interfere with meaning.)              |
+---------------------------------------------------------------------------------------
 
 SOURCE:© 1994, Maryland Assessment Consortiwn. Used with permission.
 
-<span id="page-142-0"></span>....... N
+### **PRIMARY TRAIT RUBRICS**
 
-#### **PRIMARY TRAIT RUBRICS**
-
-#### <span id="page-143-0"></span>**Narrative Scoring Guide**
+#### **Narrative Scoring Guide**
 
 In reading and evaluating the narrative papers, the scoring guide development team focused on several key features of narrative writing. First, they loosely defined a story as a series ofrelated events or happenings. Hence, the first level of the narrative scoring guide is not termed a "story" but an *Event Description* because only one event is described.
 
@@ -3376,7 +3252,7 @@ l. Event Description. Paper is a list of sentences minimally related or a list o
 
 SOURCE: National Assessment of Educational Progress, 1992.
 
-#### <span id="page-144-0"></span>**Informative Scoring Guide**
+#### **Informative Scoring Guide**
 
 In reading and evaluating the informative papers, the scoring guide development team focused on several key traits of informative writing. First, they loosely defined informative writing as the presentation of information and ideas for the purpose of informing an audience. Further, in the process of presenting information, the writer establishes relationships between pieces of information and/ or ideas. The papers were then classified according to how well the writers had succeeded in establishing relationships and according to how well they presented the information to a particular audience for a specific purpose.
 
@@ -3396,7 +3272,7 @@ The differences between Levels 1 through 4 are the degree to which the writers e
 
 SOURCE: National Assessment of Educational Progress, 1992.
 
-#### <span id="page-145-0"></span>**Persuasive Scoring Guide**
+#### **Persuasive Scoring Guide**
 
 In reading and evaluating the persuasive papers, the scoring guide development team focused on several key features of persuasive discourse: stating an opinion or position, supporting one's opinion with reasons and/or explanation, and attempting to diffuse or refute the opposing position. While developing an argument by clearly stating and supporting an opinion may be considered an effective way of persuading an audience, the team felt that papers which include the recognition and refutation of an opposing viewpoint are more complex forms of persuasion. They placed the 58 persuasive papers submitted by students along a continuum of persuasive complexity, ranging from opinion to argumentation to refutation.
 
@@ -3414,35 +3290,21 @@ In reading and evaluating the persuasive papers, the scoring guide development t
 
 SOURCE: National Assessment of Educational Progress, 1992.
 
-### <span id="page-146-0"></span>**6 + 1 TRAITS OF ANALYTICAL WRITING ASSESSMENT SCORING GUIDE (RUBRIC)**
+### **6 + 1 TRAITS OF ANALYTICAL WRITING ASSESSMENT SCORING GUIDE (RUBRIC)**
 
-### **WOW!**
+ **WOW!**: Exceeds expectations
 
-Exceeds expectations
+ **STRONG:** :shows control and skill in this trait; many strengths present
 
-0 **STRONG:** 
+ **"'COMPETENT:**: on balance, the strengths outweigh the weaknesses; a small amount of revision is needed
 
-shows control and skill in this trait; many strengths present
+ **DEVELOPING:**: strengths and need for revision are about equal; about halfway home
 
-## **"'COMPETENT:**
-
-on balance, the strengths outweigh the weaknesses; a small amount of revision is needed
-
-## **-+DEVELOPING:**
-
-strengths and need for revision are about equal; about halfway home
-
-# ~~ k · · *r.'* '!:~:;~, t. .. .. ) .. j <sup>~</sup>,. . . ... .1 1
-
-## **tEMERGING:**
-
-need for revision outweighs strengths; isolated moments hint at what the writer has in mind
+ **tEMERGING:**: need for revision outweighs strengths; isolated moments hint at what the writer has in mind
 
 ![](_page_146_Picture_15.jpeg)
 
-## **+-NOT YET:**
-
-a bare beginning; writer not yet showing any control
+ **NOT YET:**: a bare beginning; writer not yet showing any control
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom. Note: The adult version of each trait is followed by the student-friendly (Grades 3-8) version.
 
@@ -3459,10 +3321,9 @@ SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275
 
 #### IDEAS
 
-#### (Development)
+##### (Development)
 
-#### <span id="page-147-0"></span>5 This paper is clear and focused. It holds the reader's attention. Relevant anecdotes and details enrich the central theme.
-
+5: This paper is clear and focused. It holds the reader's attention. Relevant anecdotes and details enrich the central theme.
 - A. The topic is narrow and manageable.
 - B. Relevant telling, quality details give the reader important information that goes beyond the obvious or predictable.
 - C. Reasonably accurate details are present to support the main ideas.
@@ -3470,8 +3331,7 @@ SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275
 - E. The reader's questions are anticipated and answered.
 - F. Insight-an understanding of life and a knack for picking out what is significant-is an indicator of high level performance, though not required.
 
-#### 3 The writer is beginning to define the topic, even though development is still basic or general.
-
+3: The writer is beginning to define the topic, even though development is still basic or general.
 - A. The topic is fairly broad; however, you can see where the writer is headed.
 - B. Support is attempted but doesn't go far enough yet in fleshing out the key issues or story line.
 - C. Ideas are reasonably clear, though may not be detailed, personalized, accurate, or expanded enough to show in-depth understanding or a strong sense of purpose.
@@ -3479,8 +3339,7 @@ SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275
 - E. The reader is left with questions. More information is needed to "fill in the blanks."
 - F. The writer generally stays on the topic but does not develop a clear theme. The writer has not yet focused the topic past the obvious.
 
-#### 1 As yet. the paper has no clear sense of purpose or central theme. To extrad meaning from the text. the reader must make inferences based on sketchy or missing details. The writing refleds more than one of these problems:
-
+1: As yet. the paper has no clear sense of purpose or central theme. To extrad meaning from the text. the reader must make inferences based on sketchy or missing details. The writing refleds more than one of these problems:
 - A. The writer is still in search of a topic, brainstorming, or has not yet decided what the main idea of the piece will be.
 - B. Information is limited or unclear or the length is not adequate for development
 - C. The idea is a simple restatement of the topic or an answer to the question with little or no attention to detail.
@@ -3490,27 +3349,29 @@ SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
 
-<span id="page-148-0"></span>![](_page_148_Figure_1.jpeg)
+![](_page_148_Figure_1.jpeg)
 
 SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### ORGANIZATION
 
-- <span id="page-149-0"></span>5 The organization enhances and showcases the central idea or theme. The order, strudure, or presentation of information is compelling and moves the reader through the text.
+5: The organization enhances and showcases the central idea or theme. The order, strudure, or presentation of information is compelling and moves the reader through the text.
 	- A. An inviting introduction draws the reader in; a satisfying conclusion leaves the reader with a sense of closure and resolution.
 	- B. Thoughtful transitions clearly show how ideas connect.
 	- C. Details seem to fit where they're placed; sequencing is logical and effective.
 	- D. Pacing is well-controlled; the writer knows when to slow down and elaborate and when to pick up the pace and move on.
 	- E. The title, if desired, is original and captures the central theme of the piece.
 	- F. Organization flows so smoothly the reader hardly thinks about it; the choice of structure matches the purpose and audience.
-- 3 The organizational strudure is strong enough to move the reader through the text without too much confusion.
+
+3: The organizational strudure is strong enough to move the reader through the text without too much confusion.
 	- A. The paper has a recognizable introduction and conclusion. The introduction may not create a strong sense of anticipation; the conclusion may not tie up all loose ends.
 	- B. Ti'onsitions often work well; at other times, connections between ideas are fuuy.
 	- C. Sequencing shows some logic, but not under control enough that it consistently supports the ideas. In fact, sometimes it is so predictable and rehearsed that the structure tokes attention away from the content
 	- D. Pacing is fairly well controlled, though the writer sometimes lunges ahead too quickly or spends too much time on details that do not matter.
 	- E. A title (if desired) is present although it may be uninspired or an obvious restatement of the prompt or topic.
 	- F. The organization sometimes supports the main point or storyline; at other times, the reader feels an urge to slip in a transition or move things around.
-- 1 The writing lacks a dear sense of diredion. Ideas, details, or events seem strung together in a loose or random fashion; there is no identifiable internal strudure. The writing refleds more than one of these problems:
+
+1: The writing lacks a dear sense of diredion. Ideas, details, or events seem strung together in a loose or random fashion; there is no identifiable internal strudure. The writing refleds more than one of these problems:
 	- A. There is no reo/lead to set up what follows, no real conclusion to wrap things up.
 	- B. Connections between ideas are confusing or not even present.
 	- C. Sequencing needs lots and lots of work.
@@ -3519,26 +3380,26 @@ SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use 
 	- F. Problems with organization make it hard for the reader to get a grip on the main point or story line.
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
-
-<span id="page-150-0"></span>![](_page_150_Figure_1.jpeg)
-
+(_page_150_Figure_1.jpeg)
 SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### **VOICE**
 
-- <span id="page-151-0"></span>**5 The writer speaks directly to the reader in a way that is individual, compelling, and engaging. The writer crafts the writing with an awareness and respect for the audience and the purpose for writing.** 
+5: The writer speaks directly to the reader in a way that is individual, compelling, and engaging. The writer crafts the writing with an awareness and respect for the audience and the purpose for writing.** 
 	- A. The tone of the writing adds interest to the message and is appropriate for the purpose and audience.
 	- B. The reader feels a strong interaction with the writer, sensing the person behind the words.
 	- C. The writer takes a risk by revealing who he or she is consistently throughout the piece.
 	- D. Expository or persuasive writing reflects a strong commitment to the topic by showing why the reader needs to know this and why he or she should care.
 	- E. Narrative writing is honest personal engaging and makes you think about and read to the author's ideas and point of view.
-- **3 The writer seems sincere but not fully engaged or involved. The result is pleasant or even personable, but not compelling.** 
+
+3: The writer seems sincere but not fully engaged or involved. The result is pleasant or even personable, but not compelling.** 
 	- A. The writer seems aware of an audience but discards personal insights in favor of obvious generalities.
 	- B. The writing communicates in an earnest pleasing, yet safe manner.
 	- C. Only one or two moments here or there intrigue, delight, or move the reader. These places may emerge strongly for a line or two but quickly fade away.
 	- D. Expository or persuasive writing lacks consistent engagement with the topic to build credibility.
 	- E. Narrative writing is reasonably sincere but doesn't reflect unique or individual perspective on the topic.
-- **1 The writer seems indifferent, uninvolved, or distanced from the topic and/or the audience. As a result, the paper reflects more than one of the following problems:** 
+
+1: The writer seems indifferent, uninvolved, or distanced from the topic and/or the audience. As a result, the paper reflects more than one of the following problems:
 	- A. The writer is not concerned with the audience. The writer's style is a complete mismatch for the intended reader, or the writing is so short that little is accomplished beyond introducing the topic.
 	- B. The writer speaks in a kind of monotone that flattens all potential highs or lows of the message.
 	- C. The writing is humdrum and "risk free."
@@ -3546,14 +3407,13 @@ SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use 
 	- E. The development of the topic is so limited that no point of view is present-zip, zero, zilch, nada.
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
-
-<span id="page-152-0"></span>![](_page_152_Figure_1.jpeg)
+[](_page_152_Figure_1.jpeg)
 
 SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### **WORD CHOICE**
 
-- <span id="page-153-0"></span>**5 Words convey the intended message in a precise, interesting, and natural way. The words are powerful and engaging.** 
+5: Words convey the intended message in a precise, interesting, and natural way. The words are powerful and engaging.** 
 	- A. Words are specific and accurate; it is easy to understand just what the writer means.
 	- B. The words and phrases create pictures and linger in your mind.
 	- C. The language is natural and never overdone; both words and phrases are individual and effective.
@@ -3561,8 +3421,7 @@ SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use 
 	- E. Lively verbs energize the writing. Precise nouns and modifiers add depth and specificity.
 	- F. Precision is obvious. The writer has taken care to put just the right word or phrase in just the right spot
 
-#### **3 The language is functional, even if it lacks much energy. It is easy to figure out the writer's meaning on a general level.**
-
+3: The language is functional, even if it lacks much energy. It is easy to figure out the writer's meaning on a general level.**
 - A. Words are adequate and corred in a general sense; they simply Jack much flair and originality.
 - B. Familiar words and phrases communicate but rarely capture the reader's imagination. Still, the paper may have one or two fine moments.
 - C. Attempts at colorful language show a willingness to stretch and grow, but sometimes it goes too far (thesaurus overload!).
@@ -3570,8 +3429,7 @@ SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use 
 - E. The words are only occasionally refined; it's more often "the first thing that popped into my mind."
 - F. The words and phrases are functional-with only a moment or two of sparkle.
 
-#### **1 The writer struggles with a limited vocabulary, searching for words to convey meaning. The writing reflects more than one of these problems:**
-
+1: The writer struggles with a limited vocabulary, searching for words to convey meaning. The writing reflects more than one of these problems:**
 - A. Language is so vague (e.g., It was a fun time; She was neat; It was nice; We did Jots of stuff) that only a limited message comes through.
 - B. "Blah, blah, blah" is all that the reader reads and hears.
 - C. Words are used incorrectly, making the message secondary to the misfires with the words.
@@ -3580,28 +3438,26 @@ SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use 
 - F. Problems with language leave the reader wondering what the writer is trying to say. The words just don't work in this piece.
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
-
-<span id="page-154-0"></span>![](_page_154_Figure_1.jpeg)
-
+[](_page_154_Figure_1.jpeg)
 SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### SENTENCE FLUENCY
 
-- <span id="page-155-0"></span>5 The writing has an easy flow, rhythm, and cadence. Sentences are well built, with strong and varied structure that invites expressive oral reading.
+5: The writing has an easy flow, rhythm, and cadence. Sentences are well built, with strong and varied structure that invites expressive oral reading.
 	- A. Sentences are constructed in a way that underscores and enhances the meaning.
 	- B. Sentences vary in length as well as structure. Fragments, if used, add style. Dialogue, if present, sounds natural.
 	- C. Purposeful and varied sentence beginnings add variety and energy.
 	- D. The use of creative and appropriate connectives between sentences and thoughts shows how each relates to, and builds upon, the one before it
 	- E. The writing has cadence; the writer has thought about the sound of the words as well as the meaning. The first time you read it aloud is a breeze.
-- 3 The text hums along with a steady beat but tends to be more pleasant or businesslike than musical, more mechanical than fluid.
+
+3: The text hums along with a steady beat but tends to be more pleasant or businesslike than musical, more mechanical than fluid.
 	- A. Although sentences may not seem artfully crafted or musical, they get the job done in a routine fashion.
 	- B. Sentences are usually constructed correctly; they hang together; they are sound.
 	- C. Sentence beginnings are not ALL alike; some variety is attempted.
 	- D. The reader sometimes has to hunt for clues (e.g., connecting words and phrases like however, therefore, naturally, after a while, on the other hand, to be specific, for example, next first of all, later, but as it turned out although, etc.) that show how sentences interrelate.
 	- E. Parts of the text invite expressive oral reading; others may be stiff, awkward, choppy, or gangly.
 
-#### 1 The reader has to pradice quite a bit in order to give this paper a fair interpretive reading. The writing reflects more than one of the following problems:
-
+1: The reader has to pradice quite a bit in order to give this paper a fair interpretive reading. The writing reflects more than one of the following problems:
 - A. Sentences are choppy, incomplete, rambling or awkward; they need work. Phrasing does not sound natural The patterns may create a sing-song rhythm or a chop-chop cadence that lulls the reader to sleep.
 - B. There is little to no Hsentence senseH present Even if this piece were flawlessly edited, the sentences would not hang together.
 - C. Many sentences begin the same way-and may follow the same patterns (e.g., subject-verbobject) in a monotonous pattern.
@@ -3609,55 +3465,50 @@ SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use 
 - E. The text does not invite expressive oral reading.
 
 SOURCE: © 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
-
-<span id="page-156-0"></span>![](_page_156_Figure_1.jpeg)
-
+![](_page_156_Figure_1.jpeg)
 SOURCE: ©Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### CONVENTIONS
 
-- <span id="page-157-0"></span>5 The writer demonstrates a good grasp of standard writing conventions (e.g., spelling, punduation, capitalization, grammar and usage, paragraphing) and uses conventions effedively to enhance readability. Errors tend to be so few that just minor touch-ups would get this piece ready to publish.
+5: The writer demonstrates a good grasp of standard writing conventions (e.g., spelling, punduation, capitalization, grammar and usage, paragraphing) and uses conventions effedively to enhance readability. Errors tend to be so few that just minor touch-ups would get this piece ready to publish.
 	- A. Spelling is generally correct, even on more difficult words.
 	- B. The punduation is accurate, even creative, and guides the reader through the text
 	- C. A thorough understanding and consistent application of capitalization skills are present.
 	- D. Grammar and usage are corred and contribute to clarity and style.
 	- E. Paragraphing tends to be sound and reinforces the organizational structure.
 	- F. The writer may manipulate conventions for stylistic effect-and it works! The piece is very close to being ready to publish.
-
 *GRADES 7 AND UP ONLY: The writing is sufficiently complex to allow the writer to show skill in using* a *wide range of conventions. For writers at younger ages, the writing shows control over those conventions that are grade/age appropriate.* 
 
-#### 3 The writer shows reasonable control over a limited range of standard writing conventions. Conventions are sometimes handled well and enhance readability; at other times, errors are distrading and impair readability.
-
+3: The writer shows reasonable control over a limited range of standard writing conventions. Conventions are sometimes handled well and enhance readability; at other times, errors are distrading and impair readability.
 - A. Spelling is usually corred or reasonably phonetic on common words, but more difficult words are problematic.
 - B. End punduation is usually corred; internal punctuation (commas, apostrophes, semicolons, dashes, colons, parentheses) is sometimes missing/wrong.
 - C. Most words are capitalized correctly; control over more sophisticated capitalization skills may be spotty.
 - D. Paragraphing is attempted but may run together or begin in the wrong places.
 - E. Problems with grammar or usage are not serious enough to distort meaning but may not be correct or accurately applied all of the time.
 - F. Moderate (a little of this, a little of that) editing would be required to polish the text for publication.
-- 1 Errors in spelling, punduation, capitalization, usage and grammar, andjor paragraphing repeatedly distrad the reader and make the text difficult to read. The writing reflects more than one of these problems:
-	- A. Spelling errors are frequent even on common words.
-	- B. Punduation (including terminal punctuation) is often missing or incorrect
-	- C. Capitalization is random, and only the easiest rules show awareness of correct use.
-	- D. Errors in grammar or usage are very noticeable, frequent, and affect meaning.
-	- E. Paragraphing is missing, irregular, or so frequent (every sentence) that it has no relationship to the organizational structure of the text
-	- F. The reader must read once to decode, then again for meaning. Extensive editing (virtually every line) would be required to polish the text for publication.
 
+1: Errors in spelling, punduation, capitalization, usage and grammar, andjor paragraphing repeatedly distrad the reader and make the text difficult to read. The writing reflects more than one of these problems:
+- A. Spelling errors are frequent even on common words.
+- B. Punduation (including terminal punctuation) is often missing or incorrect
+- C. Capitalization is random, and only the easiest rules show awareness of correct use.
+- D. Errors in grammar or usage are very noticeable, frequent, and affect meaning.
+- E. Paragraphing is missing, irregular, or so frequent (every sentence) that it has no relationship to the organizational structure of the text
+- F. The reader must read once to decode, then again for meaning. Extensive editing (virtually every line) would be required to polish the text for publication.
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
-
-<span id="page-158-0"></span>![](_page_158_Figure_1.jpeg)
+![](_page_158_Figure_1.jpeg)
 
 SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use in the classroom.
 
 #### **PRESENTATION (optional)**
 
-- <span id="page-159-0"></span>**5 The form and presentation of the text enhances the ability for the reader to understand and conned with the message. It is pleasing to the eye.** 
-	- A. If handwritten (either cursive or printed), the slant is consistent letters are clearly formed, spacing is uniform between words, and the text is easy to read.
-	- B. If word-processed, there is appropriate use of fonts and font sizes which invites the reader into the text.
-	- C. The use of white space on the page (spacing, margins, etc.) allows the intended audience to easily focus on the text and message without distractions. There is just the right amount of balance of white space and text on the page. The formatting suits the purpose for writing.
-	- D. The use of a title, side heads, page numbering, bullets, and evidence of correct use of a style sheet (when appropriate) makes it easy for the reader to access the desired information and text. These markers allow the hierarchy of information to be clear to the reader.
-	- E. When appropriate to the purpose and audience, there is effective integration of text and illustrations, charts, graphs, maps, tables, etc. There is clear alignment between the text and visuals. The visuals support and clarify important information or key points made in the text
+5: The form and presentation of the text enhances the ability for the reader to understand and conned with the message. It is pleasing to the eye.** 
+- A. If handwritten (either cursive or printed), the slant is consistent letters are clearly formed, spacing is uniform between words, and the text is easy to read.
+- B. If word-processed, there is appropriate use of fonts and font sizes which invites the reader into the text.
+- C. The use of white space on the page (spacing, margins, etc.) allows the intended audience to easily focus on the text and message without distractions. There is just the right amount of balance of white space and text on the page. The formatting suits the purpose for writing.
+- D. The use of a title, side heads, page numbering, bullets, and evidence of correct use of a style sheet (when appropriate) makes it easy for the reader to access the desired information and text. These markers allow the hierarchy of information to be clear to the reader.
+- E. When appropriate to the purpose and audience, there is effective integration of text and illustrations, charts, graphs, maps, tables, etc. There is clear alignment between the text and visuals. The visuals support and clarify important information or key points made in the text
 
-#### **3 The writer's message is understandable in this format.**
+3: The writer's message is understandable in this format.**
 
 - A. Handwriting is readable, although there may be discrepandes in letter shape and form, slant and spadng that may make some words or passages easier to read than others.
 - B. Experimentation with fonts and font sizes is successful in some places but begins to get fussy and cluttered in others. The effed is not consistent throughout the text
@@ -3665,8 +3516,7 @@ SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use 
 - D. Although some markers are present (titles, numbering, bullets, side heads, etc.), they are not used to their fullest potential as a guide for the reader to access the greatest meaning from the text
 - E. An attempt is made to integrate visuals and the text, although the connections may be limited.
 
-#### **1 The reader receives a garbled message due to problems relating to the presentation of the text.**
-
+1: The reader receives a garbled message due to problems relating to the presentation of the text.**
 - A. Because the letters are irregularly slanted, formed inconsistently, or incorrectly, and the spacing is unbalanced or not even present, it is very difficult to read and understand the text
 - B. The writer has gone wild with multiple fonts and font sizes. It is a major distraction to the reader.
 - C. The spadng is random and confusing to the reader. There may be little or no white space on the page.
@@ -3675,485 +3525,501 @@ SOURCE:© Northwest Regional Educational Laboratory. Permission granted for use 
 
 SOURCE:© 2000, Northwest Regional Educational Laboratory, Portland, OR; 503-275-9500. Permission granted for use in the classroom.
 
-#### **K-5 DEVELOPMENTAL WRITING SCALE**
+### **K-5 DEVELOPMENTAL WRITING SCALE**
 
-#### <span id="page-160-0"></span>*Prewriter Stage*
-
-By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-| Step 1<br>Picture Writing                                                                                               | Step2<br>Scribble Writing                                                                                                                                                                                                                                                              | Step3<br>Mock Writing                                                                                                                                                                                                                                                | Step4<br>Random Letter Writing                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                         | ~<br>~l,<br>'~<br>. -<br>W'{lf':C'<br>~<br>rv\£y<br>                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                      | f<br>iVff<M<br>~~--~--                                                                                                                                                                                                                                                           |
-| PRODUCT CHARAITERISTICS<br>• Message conveyed in the<br>picture (precommunicative A<br>spelling stage)                  | PRODUCT CHARAITERISTICS<br>• Writing is represented as lines,<br>scribbles, and scrawls or as a picture<br>(precommunicative A spelling stage)<br>• No recognizable letters<br>• Writer can read the scribble but not<br>overtime<br>• Writing can show knowledge of<br>directionality | PRODUCT CHARAITERISTICS<br>• Letter-like forms in imitation of writing<br>• Often a mixture of real letters andjor<br>drawings<br>• Little or no sound/symbol relationships<br>(precommunicative B spelling stage)<br>• May be anywhere on the paper                 | PRODUCT CHARACTERISTICS<br>• Letters begin to appear usually strung<br>together, along with letter-like symbols<br>• Contains more real letters<br>• May show some sound/symbol<br>relationships<br>• A correctly spelled word may appear<br>(precommunicative B spelling stage) |
-| PROCESS CHARAITERISTICS<br>• Talk revolves around the<br>picture<br>• Dictated message may convey<br>a complete thought | PROCESS CHARACTERISTICS<br>• Prewrite by drawing/interaction with<br>teacher<br>• Talk revolves around the picture<br>• Access ideas expressed in their own<br>writing through meaningful play<br>experiences<br>• Dictated message may convey complete<br>thought                     | PROCESS CHARACTERISTICS<br>• Prewrite by drawing/interaction with<br>teacher<br>• Talk revolves around the picture<br>• Access ideas expressed in their own<br>writing through meaningful play<br>experiences<br>• Dictated message may convey a<br>complete thought | PROCESS CHARACTERISTICS<br>• Prewrite by drawing/interaction with<br>teacher<br>• Talk revolves around the picture<br>• Access ideas expressed in their own<br>writing through meaningful play<br>experiences<br>• Dictated message may convey a<br>complete thought             |
-
-<span id="page-161-0"></span>Emergent Writer Stage
+#### *Prewriter Stage*
 
 By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
+**TABLE-Prewriter stage**
+| Step 1 Picture Writing                     | Step2 Scribble Writing                                       | Step3 Mock Writing                               | Step4 Random Letter Writing                             |
+| PRODUCT CHARAITERISTICS                    | PRODUCT CHARAITERISTICS                                      | PRODUCT CHARAITERISTICS                          | PRODUCT CHARACTERISTICS                                 |
+| • Message conveyed in the picture          | • Writing is represented as lines, scribbles, and            | • Letter-like forms in imitation of writing      | • Letters begin to appear usually strung together,      |
+|  (precommunicative A spelling stage)       |   scrawls or as a picture (precommunicative A spelling stage)| • Often a mixture of real letters andjor drawings|   along with letter-like symbols                        |
+|                                            | • No recognizable letters                                    | • Little or no sound/symbol relationships        | • Contains more real letters                            |
+|                                            | • Writer can read the scribble but not overtime              |  (precommunicative B spelling stage)             | • May show some sound/symbol relationships              |
+|                                            | • Writing can show knowledge of directionality               | • May be anywhere on the paper                   | • A correctly spelled word may appear (precommunicative |  
+|                                            |                                                              |                                                  | spelling stage)                                         |
+| PROCESS CHARAITERISTICS                    | PROCESS CHARAITERISTICS                                      | PROCESS CHARAITERISTICS                          | PROCESS CHARAITERISTICS                                 |
+| • Talk revolves around the picture         | • Prewrite by drawing/interaction with teacher               | • Prewrite by drawing/interaction with teacher   | • Prewrite by drawing/interaction with teacher          |
+| • Dictated message may convey a complete   | • Talk revolves around the picture                           | • Talk revolves around the picture               | • Talk revolves around the picture                      |
+|   thought                                  | • Access ideas expressed in their own writing  through       | • Access ideas expressed in their own writing    | • Access ideas expressed in their own writing           |
+|                                            | meaningful play experiences.                                 |   through meaningful play experiences            |   through meaningful play experiences                   |
+|                                            | • Dictated message may convey complete thought               | • Dictated message may convey a complete though  | • Dictated message may convey a complete thought        |
+                
+#### Emergent Writer
+**TABLE-Emergent Writer Stage**
+By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
+**TABLE-Emergent writer stage**
+| Step 5  Writing Awareness                          | Step 6 Stylized Sentence Writing                             | Step7 Conventional Writing                             |
+| PRODUCT CHARAITERISTICS                            | PRODUCT CHARAITERISTICS                                      | PRODUCT CHARAITERISTICS                                | 
+| Shows concept of letter and word                   | • Will stylize sentences around known words,                 | • Beginning to gain control of conventions of writing  | 
+| • May or may not have spacing between words)       |   repetitive phrases, and sentence beginnings                | •  Sentences are short, simple, and can be repetitious |  
+| • May include sight words                          | • Uses words from the environment to complete  sentences     | • Messages are little stories                          | 
+| • Evidence of sound/symbol correspondence          |   (phonetiC/transitional spelling stage)                     | • Use both invented spelling and conventional spelling | 
+| • Use of dominant consonants and some vowel sounds | •  Message is predominantly contained in the writing         |   (transitional spelling stage)                        |  
+| • Contains all real letters (semi-phonetiC/phonetic| • Writing now provides the clues which enable the            |                                                        |
+|   spelling stage)                                  |   message to be read over time                               |                                                        |
+|                                                    |                                                              |                                                        |
+| PROCESS CHARAITERISTICS                            | PROCESS CHARAITERISTICS                                      | PROCESS CHARAITERISTICS                                |  
+| • Experiment with letter shapes to arrive at consis| • Begin to show concern for the conventions of writing o.e., | • Write freely, creatively, and independently          |  
+|   tency of letter form                             |   pacing, capitalization, punctuation                        | • Taking more risks                                    |  
+| • May begin to use a word processor to create tex  | • Begin to develop an awareness of their audience            | • Begin to edit                                        | 
+|                                                    | • Experiment with letter shapes to arrive at consistency of  |                                                        |   
+|                                                    | letter form                                                  | • May begin to use a word processor to create text     | 
+|                                                    | • May begin to use a word processor to create text           |                                                        |
 ![](_page_161_Figure_2.jpeg)
 
-~ oj:l. t1l
-
 SOURCE: © 1995, Wauwatosa, Wisconsin School District. Used with permission.
 
-#### ..... <sup>~</sup>*Emergent Writer Stage*
+#### Developing Writer Stage
+**TABLE- Developing Writer Stage**
+| Step 8 Early Transitional                                        | Step 9 Mid Transitional                                      | Step 10 Late Transitional                                    |
+| PRODUCT CHARACTERISTICS                                          | PRODUCT CHARACTERISTICS                                      | PRODUCT CHARACTERISTICS                                      |
+| • Begins to contain variation in sentence structure              | • Organization is tightly structured, step-by-step           | • Creative approach to interpretation of topic               |
+| Stronger sense of voice emerges-at times can be wooden or        | • Little use of transitions                                  | • Sense of voice is evident                                  |
+| inconsistent                                                     | • Sense of voice is more consistent                          | • Sense of audience is evident and consistent                |
+| • Story language and/or structure may be evident                 | • Some things have more importance than oth                  | • Accurate use of simple conventions of writing and spelling |
+| • Reflects chronology of life's events, rather than a response to|   ers Beginning use of description is evident                |   (conventional spelling stage)                              |
+|   them                                                           | • Beginning to select relevant details                       | • Includes descriptive language                              |
+| • Tends to be organized but may break down                       | • Uses conventions of writing more accurately                | • Includes interesting vocabulary                            |
+| • Length of text increases and may include less important        | • More accurate use of conventional spelling                 | • May include paragraphing                                   |
+|   information                                                    |   patterns (transitional/conventional spelling stage)        |                                                              |
+| • Tells everything that happens-doesn't weigh importance         | • Ues more varied sentences                                  |                                                              |
+| • Sequenced and chronological                                    |                                                              |                                                              |
+| • Uses more conventions of writing (mechanics)                   |                                                              |                                                              |
+| • Evidence of conventional spelling of high frequency words and  |                                                              |                                                              |
+|   more accurate use of vowel patterns (transitional spelling     |                                                              |                                                              |
+|   stage)                                                         |                                                              |                                                              |
+|                                                                  |                                                              |                                                              |   
+| PROCESS CHARACTERISTICS                                          | PROCESS CHARACTERISTICS                                      | PROCESS CHARACTERISTICS                                      |
+| • Think they are finished too soon                               | • May concentrate on one component of writing at a time      | • Additional risk-taking with complex conventions is noted   |
+| • Preoccupation with correctness may restrict quality            | • Write for audience-believe writing is good if              | • Prewriting and drafting almost become one                  |
+| • Begin to worry over topic                                      |  it's exciting, long, focused, full of sound effects,        | • Can zoom ahead in mind's eye and return to organize and    |
+| • Develop balance between content and mechanics                  |  dialogue, and action                                        |   rearrange                                                  |
+| • Continue to edit and begin to revise                           | • Continue to edit and begin to revise                       | • Gradually can think more things through before they write  | 
+| • Revisions tend to be corrections                               | • Revisions tend to be corrections                           | • First drafts gradually become more detailed and fluent     |
+| • Initially choose giant topics                                  | • Initially choose giant topics                              | • Develop and internalize strategies to make revisions       |
+| • Become more aware of the end product                           | • Become more aware of the end product                       | • Become more aware of the end product                       |
+| • May begin to use a word processor to manipulate and publish    | • May begin to use a word processor to manipulate and        | • May begin to use a word processor to manipulate and publish|
+|   text                                                           |    publish text                                              |   text                                                       |
+| • Broader writing episodes, encompassing looking ahead, look     | • Broader writing episodes, encompassing looking ahead,      | • Broader writing episodes, encompassing looking ahead, look |
+|   ing back, anticipating. critiquing                             |    looking back. anticipating, critiquing                    |   ing back, anticipating critiquing                          |
+|------------------------------------------------------------------|-----------------------------------------------------------   |--------------------------------------------------------------|
 
-By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-| StepS<br>Writing Awareness                                                                                                    | Step6<br>Stylized Sentence Writing                                                                                                                                                                                                                                                          | Step 7<br>Conventional Writinga                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| :t tlll C TD '?A').<br>"l. 'tO<br>\)'i L<br>G~ll<br>I!J<br>SePl.\'1 Q)<br>!J<br>t ~. ,.,.,. Jtor+o  bo E. '1!5a~<br>1-••M••-. | '1j<br>f"[~RI.{I)~<br>{ o Df\1( "'(' 1111V<br>\?nD Wont'\'<br>WtNb iS<br>lllf<br>0 I 0<br>IS<br>AflO<br>THe<br>:lf'IO<br>1'\"11) 1<br>'"'"''<br>we wtll<br>[b)~.<br>1\.i6)V I'll<br>~'<br><br>;_;,:~~~-<br>~<br>,.1'<!'01!\'"~'·<br><br>··r;·;.w:~->=~?""<br>.;c.<br>---~ :·<br>d\<br>r:Z;, | r f r were in the Winter Olytnpics tny sport<br>wol.lld be bobsled I want to be in that<br>sport becaliSe r like to go selding very<br>fast I WOllld practice going downhill in a<br>big seld with three of tny friends r wol.lld<br>practice for 1.1 years I WOl.lld go with<br>three of tny friends r wol.lld win a silver<br>tnedaii wol.lld get in second placer<br>wol.lld wear a sillt with the Atneracin flag<br>printed on it My firends and I will help<br>and get a coach and get to the<br>Olytnpics.<br>When I was walking ol.lt of my holiSei<br>saw two cars crash. fhe color of the<br>car that crashed into the other car was<br>black. And the color of the other car<br>was red. When they crashed it tnade a<br>bad bl.ltnp sol.lnd. |
-|                                                                                                                               |                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
-#### <span id="page-163-0"></span>Developing Writer Stage\*
-
-By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-| StepB<br>Early Transitional                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Step9<br>Mid Transitional                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | SteplO<br>Late Transitional                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PRODUCT CHARACTERISTICS<br>• Begins to contain variation in sentence structure<br>• Stronger sense of voice emerges-at times can be wooden or<br>inconsistent<br>• Story language and/or structure may be evident<br>• Reflects chronology of life's events, rather than a response to<br>them<br>• Tends to be organized but may break down<br>• Length of text increases and may include less important<br>information<br>• Tells everything that happens-doesn't weigh importance<br>• Sequenced and chronological<br>• Uses more conventions of writing (mechanics)<br>• Evidence of conventional spelling of high frequency words and<br>more accurate use of vowel patterns (transitional spelling<br>stage) | PRODUCT CHARACTERISTICS<br>• Organization is tightly structured, step-by-step<br>• Little use of transitions<br>• Sense of voice is more consistent<br>• Some things have more importance than oth<br>ers Beginning use of description is evident<br>• Beginning to select relevant details<br>• Uses conventions of writing more accurately<br>• More accurate use of conventional spelling<br>patterns (transitional/conventional spelling<br>stage)<br>• Ues more varied sentences                                                                                 | PRODUCT CHARACTERISTICS<br>• Creative approach to interpretation of topic<br>• Sense of voice is evident<br>• Sense of audience is evident and consistent<br>• Accurate use of simple conventions of writing and spelling<br>(conventional spelling stage)<br>• Includes descriptive language<br>• Includes interesting vocabulary<br>• May include paragraphing                                                                                                                                                                                                                                                             |
-| PROCESS CHARACTERISTICS<br>• Think they are finished too soon<br>• Preoccupation with correctness may restrict quality<br>• Begin to worry over topic<br>• Develop balance between content and mechanics<br>• Continue to edit and begin to revise<br>• Revisions tend to be corrections<br>• Initially choose giant topics<br>• Become more aware of the end product<br>• May begin to use a word processor to manipulate and publish<br>text<br>• Broader writing episodes, encompassing looking ahead, look<br>ing back, anticipating. critiquing                                                                                                                                                               | PROCESS CHARACTERISTICS<br>• May concentrate on one component of writing<br>at a time<br>• Write for audience-believe writing is good if<br>it's exciting, long, focused, full of sound effects,<br>dialogue, and action<br>• Continue to edit and begin to revise<br>• Revisions tend to be corrections<br>• Initially choose giant topics<br>• Become more aware of the end product<br>• May begin to use a word processor to manipu<br>late and publish text<br>• Broader writing episodes, encompassing look<br>ing ahead, looking back. anticipating, critiquing | PROCESS CHARACTERISTICS<br>• Additional risk-taking with complex conventions is noted<br>• Prewriting and drafting almost become one<br>• Can zoom ahead in mind's eye and return to organize and<br>rearrange<br>• Gradually can think more things through before they write<br>• First drafts gradually become more detailed and fluent<br>• Develop and internalize strategies to make revisions<br>• Become more aware of the end product<br>• May begin to use a word processor to manipulate and pub<br>lish text<br>• Broader writing episodes, encompassing looking ahead, look<br>ing back, anticipating critiquing |
-
-SOURCE: © 1995, Wauwatosa, Wisconsin School District. Used with permission. Note: \*This stage could last a long time and could include children of various ages.
-
-#### ~ ~ -.,J
-
-#### My weekend
-
-Over the weekend I went to Madison.r went there to see a play.rt was really good.rt was called the Magichin 's Nephew .r liked it a lot. f hen we went to Michael's CtPtl.lrd and bro~.rgh ctPt~.rrd horne for my Grandpa and Dad and AI. fhe play was the first of Narnia.rt was abo~.rt God Ol.rr creater. f hen r went l.rP north. When we got in Parteevillie there was 101 grage sales (I didn't co~.rnt.r•m jtPt being sarcastic.) fhere was grage sale after grage sale. We stoped at one b~.rt didn't get anything. When we got l.rP north my cotPin Annie asked if r wanted to go over to my Granny's old hotPe.r saids~.rre.5he has a go cart and trampoleen. My cotPin ca~.rght a cat fish like two feet long. We went on o1.rr boat. fhe gocart is not o~.rrs.rt is *my* Llncle f *om.*  B~.rt we tPe it becatPe we let him tPe o1.rr boat. WejtPt got a boat lift for it.r didn't catch anything. My friend Ashely is in sixth grade.Her cabin is ~.rpthe hill and down. 5he is going to sale her cabin. My Llncle f om (a different one) wants to look at her cabin for a cabin. Well bye.
+**TABLE-Step 8 Early Transitional**
+|                                                                  | The American Egil ride                                       | The Missing Book                                             |
+| My weekend                                                       | Once my mom and I went on the Amaracen Egil. We both sate    | Last Friday I had a sleep over. I invited Natalie and Nicole. When   | 
+| Over the weekend I went to Madison . I went there to see a play. | in the sam car. When we were going up I started to get really| we were getting in bed, Natalie said, "Can we read before we go to   |
+| It was really good. It was called the Magichin 's Nephew .       | scaerd. Then we got to the top and I was even more scaerd.   | bed? "Sure," I said.So that night we read. The next morning Natalie  |
+| I liked it a lot. Then we went to Michael's custard and brought  | Then we started going down, first slow and then fast. I      | got ready to go because she had to go at 8:00. We had breakfast      |
+| custard home for my Grandpa and Dad and AI.the play was the first| told my mom I was really scaerd. She said, ult would not     | and then the doorbell rang. It was Natalie's dad. I got Natalie's    |
+| of Narnia. It was about God Our creater. Then I went up north.   | be very scaery. Then we were going really fast and I said,   | things and said "bye. "Then Nicole and me made a fort and we put     |
+| When we got in Parteevillie there was 101 grage sales (I didn't  | because I thought I would fall out. I also held onto my      | our books in our sleeping bags. Then it was noon so we had to take   |
+| count Im just being sarcastic.) There was grage sale after grage | Mom because the wind was blowing into my face and pushing    | Nicole home. The next day I was looking for my book. I couldn't      |
+| sale. We stoped at one but didn't get anything. When we got up   | me. I also held onto my mom because my stumik was feeling    | find it anywhere. Four days latter I was still looking for it Then   |
+| north my cousin Annie asked if I wanted to go over to my Granny's| very sike when we stated going very fast.                    | I said, "Maybe it's in my sleeping bag." So I looked and there it was|
+| old house. I said surere.5he has a go cart and trampoleen. My    | A week ago my crayfish shed his xoscallaton and he got biger.| my book. I raced downstairs and told my Dad.-He was so happy I found |
+| cousin caught a cat fish like two feet long. We went on our boat.| Not he is 21-2 inches long. Sometimes when my fish go near my| it And then I started to reading it.                                 |
+| the gocart is not ours. it is *my* uncle's Tom's.*  But we use it| crayfish he snaps at them or he charges at them. My fish are | My Cousins Football Game                                             |
+| because we let him use our boat. We just got a boat lift for it. | about 21-2 inches long, they are black. They have white dots | One day I came home from school my mother asked me if I wanted to go |
+| I didn't catch anything. My friend Ashely is in sixth grade.Her  | their forheads and one of my fish ownly has one fin on the   | to my cousin's football game. I said I would so she dropped me off   |
+| cabin is Up the hill and down. 5he is going to sale her cabin. My| side I like my fish and my crayfish. My fish likes sleeping  | over my aunt's house. From there we went to the football game. It    |
+| uncle Tom (a different one) wants to look at her cabin for a     | in groups on the left side. My cray fish likes sleeping in   | was a huge stadiam. The game had already started. My cousin's team   |
+| cabin. Well bye.                                                 | My cray fish likes sleeping in a house of rocks that we put  | was looseing. The name of my cousin's team is the wildcats. The      |
+|                                                                  | My crayfish has shed his x-o-scallaton 2 times so far this   | other team is tech. My cousin's team lost 20-0. A few days later he  |
+|                                                                  | year.They live in a fish bowl with a peble bottom. We clean  | said his side hurt. He had to stay in bed because he was sick after  |
+|                                                                  | the fish bowl every 3 weeks or every month. I caught my fish | that. I never heard of him playing football again.                   |
+|                                                                  | in a pond with a net                                         | 
 
 Developing Writer Stage\* By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
+ing Book
 
-#### Step 8-Early Transitional
+**Step 9 Mild Transitional**
+| The WierdGuy                                                      | SANTA CLAUSE                                                         | The Road Trip to Florida
+| It all started Uke a nortnal day. fhen the clouds started rnoving | Once there was a man who lived in a log cabin in the North Pole. The | We left our house at 5:00 p.m. and my family hoped to reach Florida     |
+| in. My friend and! decided to go on a bike ride. We started out on| man always stayed in his cabin except when he needed supplies like   | by the next night. As we were crossing the border between Wisconsin     |
+| our street and went by.Subway.fhen we went by the rnovie store and| wood for fires and building, paint to paint the things he built, and | and Illinois I heard the clang, clang of the money going into the toll  | 
+| past PillS *Xi.* We turned arol!nd and went the other way. We just| food for him and his wife to eat and cook with. The man and his wife | booth. Then I thought to myself this is going to be a long trip. It's   |
+| got on Glenview Road when this brown car started following hiS.   | were a little chubby. In winter their cheeks were as red as roses.   | 8:30 right now and everybody is yelling and screaming. 1 wish we could  |
+| We went threw .St. Jude but he was waiting right where we got out.| The man always wore trowsers and knit pants. His wife wore dresses.  | just turn around. Julie turned around and said to me.                   |
+| We started back to rny hol!Se but he followed liS. We went down   | All of the clothes they wore were red, white, and green. One day the | ·Look what the sign says. It says we're already in Indianapolis:        |
+| Blue Mound R.D.but he still followed liS. We turned on Honey Creak| sky got very dark. Over night there was a snowstorm. When the man    | ·coot; I said with excitement ... Now it's 10:30 and 2 hours have gone  |
+| Road and we saw hirn start to pull something out of a bag.He put  | woke up he looked out the window and saw all the snow on the ground. | by and Mom and Sarah are sleeping but 1 am keeping Dad company. I think |
+| it in when the car carne by. He turned to go back on are street.  | He was so excited that he yelled out to his wife. "There's about 2   | Brian is going to be the only one keeping Dad company pretty soon. It's |
+| We had to bike up a step hiii.He almost crashed into liS but we   | feet of snow on the ground." When the man's wife heard her husband   | 6:15 a.m. and we're somewhere in Tennessee and the sunrise is beautiful.|
+| rnoved over way to the side. We got up and started for rny hol!Se.| yell she hopped out of bed and ran into the family roon where she    | Everything is a golden yellow orange color. Now Mom is stirring because |
+| We were going as fast as we could. We j liSt got to my drive way  | found her husband jumping up and down. "I know that you love it when | Dad definitely needs a rest.                                            |
+| and hestoped.He watched liS until we got inside.I have never seen | it snows but you're going to have to calm down." Well it just so     | ____ just woke up and the first person he is waking up is ____.         |
+| him or his car since.                                             | happened that almost everyone that lived in the North Pole knew that | Lucky her, I thought to myself sarcastically.                           |
+|                                                                   | the man loved snow. A little boy named Sam Tomson who was 3 years    | ·can 1 wake up Dad, it's 9:00?" 1 said                                  |
+|                                                                   | old wanted to know if the man was excited so he walked in 2 feet of  | ·No, just calm down. Dad needs his rest,· said Mom. At 11:30 we         |
+|                                                                   | snow up the mountain to the man and his wife's house. When he got in | finally stopped because everybody was sick of sitting around In the van.|
+|                                                                   | the man's house he knocked on the door. He wondered what the man and | ·we·re already in Atlanta," 1 said with excitement. We                  |
+|                                                                   | his wife looked like. Just then the door swung open. At the door was | jumped back in the car and hit the road .... My mom called her family   |
+|                                                                   | the man and his wife. The man had a white beard and white hair. He   | wow what a trip: rm wiped out. As we went to bed. . .                   |
+|                                                                   | was about 5 feet tall. (The size of an elf.) The man's wife had gray |                                                                         |
+|                                                                   | hair and was about 5 feet tall also. The first thing he said was,    |                                                                         |
+|                                                                   | •Hi, do you want to go on a walk with me?" ·sure!" said the old man  |                                                                         |
+|                                                                   | So the old man got his winter coat on. Then they went on a walk. When|                                                                         |
+|                                                                   | they were on the walk they talked about the snowstorm. •1 love snow!•|                                                                         |
+|                                                                   | said the old man.                                                    |                                                                         |
+|                                                                   | •Me to!" said Sam. Just then the man heard something. The man turned |                                                                         |
+|                                                                   | around and saw 8 reindeer. •My reindeer!" the man shouted. I found my|                                                                         |
+|                                                                   | 8 reindeer that I lost last Christmas!•                              |                                                                         |
+|                                                                   | "Do you want to take your reindeer home" asked Sam.                  |                                                                         |
+|                                                                   | "Sure!" said the old man. So the old man and Sam took the reindeer to|                                                                         |
+|                                                                   | the old man's house. When the old men and Sam got to the old man's   |                                                                         |
+|                                                                   | house the old man put his 8 reindeer in a barn he had in his backyard|                                                                         |
+|                                                                   | After he did that he went back out to his front yard to say good bye |                                                                         |
+|                                                                   | to Sam. In the man's front yard Sam was waiting for the old man to   |                                                                         |
+|                                                                   | come back. When the man came back Sam said, "I'm sorry but I have to |                                                                         |
+|                                                                   | go home to eat lunch.""OK," said the old man and waved good bye. Sam |                                                                         |
+|                                                                   | waved back. Then the man opened the door and went inside.Sam was just|                                                                         | 
+|                                                                   | about to leave but he saw a sign on the old man's door. The sign said|                                                                         |
+|                                                                   | SANTA'S WORK SHOP. Sam was so excited that he ran home as fast as he |                                                                         |
+|                                                                   | could. He couldn't wait to tell his mom, his dad, his 2 brothers, and|                                                                         |
+|                                                                   | his 3 sisters. When Sam got home he ran all over his house yelling,  |                                                                         |
+|                                                                   | "Hey everybody, I know where Santa lives." Just then Sam's mother saw|                                                                         |
+|                                                                   | Sam running all over the house. "What are you doing Sam?You know that|                                                                         |
+|                                                                   | your not allowed to run in the house the night before Christmas Eve  |                                                                         |
+|                                                                   | when we are having the Christmas party. You might break something,"  |                                                                         |
+|                                                                   | said Sam's mother."                                                  |                                                                         |
+|                                                                   | "Sorry," said Sam.Just then Sam's sister Sara yelled,"What's going on|                                                                         |
+|                                                                   | in here" Sam was running around the kitchen table when Sara and Sam's|                                                                         |
+|                                                                   | 2 olderbrothers Mike and Dan andhis other 2 sisters lindsay and Emily|                                                                         |
+|                                                                   | came running intothe kitchen.Sam had to stop to catch his breath,then|                                                                         |
+|                                                                   | he said, "I know where Santa lives!"                                 |                                                                         |
+|                                                                   | "How do you know where he lives"? asked Emily.                       |                                                                         |
+|                                                                   |"Because I went up the mountain to tell the old man how much it snowed|                                                                         |
+|                                                                   | on his door there was a sign that said SANTA'S WORKSHOP on it"       |                                                                         |
+|                                                                   | "Does he have any reindeer?" Sara asked.                             |                                                                         |
+|                                                                   | "Yes he does and he has exactly 8," Sam said.                        |                                                                         |
+|                                                                   | "Well you better show him to us some time or we won't believe you"   |                                                                         |
+|                                                                   | said Sara.                                                           |                                                                         |  
+|                                                                   | "No I can't!" Sam said. "Why can't you?" Mike said in a mean tone.   |                                                                         |
+|                                                                   | "Because!" Sam said back to him. "Children stop fighting and get     |                                                                         |
+|                                                                   | upstairs and get ready for the party." So the children went          |                                                                         |
+|                                                                   | upstairs and got ready. When all the children were ready they        |                                                                         |
+|                                                                   | sat down and told each other what they wanted for Christmas. When    |                                                                         |
+|                                                                   | they all told each other what they wanted they went downstairs. When |                                                                         |
+|                                                                   | they got downstairs they noticed everyone was there. "Wash up for    |                                                                         |
+|                                                                   | dinner," their mother said. So the children went to wash their hands.|                                                                         |
+|                                                                   | When they came back to the table everyone was already eating dinner. |                                                                         |
+|                                                                   | The children went and got their plates and dished themselves up. Then|                                                                         | 
+|                                                                   | they had dinner with everyone else. After everyone was done and all  |                                                                         |
+|                                                                   | the plates were washed and put away, everyone went into the living   |                                                                         |
+|                                                                   | room to exchange gifts. After all the gifts were passed out the      |                                                                         |
+|                                                                   | children went upstairs and got in their beds. During the night Santa |                                                                         |
+|                                                                   | came to everyone in the world. In the morning they opened their      |                                                                         |
+|                                                                   | presents from Santa. They all got neat presents and after that even  |                                                                         |
+|                                                                   | Sara believed Sam saw the real Santa. THE END.                       |                                                                         |
 
-#### The Ameracen Egil ride
-
-Once my mom and I went on the Amaracen Egil. We both sate in the sam car. When we were going up I started to get really scaerd. Then we got to the top and I was even more scaerd. Then we started going down, first slow and then fast. I told my mom I was really scaerd. She said, ult would not be very scaery. Then we were going really fast and I said, ul don't like this ride anymore.n Then I held onto my mom because I thought I would fall out. I also held onto my Mom because the wind was blowing into my face and pushing me. I also held onto my mom because my stumik was feeling very sike when we stated going very fast.
-
-A week ago my crayfish shed his x-o-scallaton and he got biger. Not he is 21-2 inches long. Sometimes when my fish go near my crayfish he snaps at them or he charges at them. My fish are about 21-2 inches long, they are black. They have white dots on their forheads and one of my fish ownly has one fin on the side. I like my fish and my crayfish. My fish likes sleeping in groups on the left side. My cray fish likes sleeping in a house of rocks that we put in. My crayfish has shed his x-o-scallaton 2 times so far this year. They live in a fish bowl with a peble bottom. We clean the fish bowl every 3 weeks or every month. I caught my fish in a pond with a net.
-
-#### The Missing Book
-
-Last Friday I had a sleep over. I invited Natalie and Nicole. When we were getting in bed, Natalie said, "Can we read before we go to bed? "Sure," I said.
-
-So that night we read. The next morning Natalie got ready to go because she had to go at 8:00. We had breakfast and then the doorbell rang. It was Natalie's dad. I got Natalie's things and said "bye."
-
-Then Nicole and me made a fort and we put our books in our sleeping bags. Then it was noon so we had to take Nicole home.
-
-The next day I was looking for my book. I couldn't find it anywhere. Four days latter I was still looking for it Then I said, "Maybe it's in my sleeping bag." So I looked and there it was my book. I raced downstairs and told my Dad.-He was so happy I found it And then I started to reading it.
-
-#### My Cousins Football Game
-
-One day I came home from school my mother asked me if I wanted to go to my cousin's football game. I said I would so she dropped me off over my aunt's house. From there we went to the football game. It was a huge stadiam. The game had already started. My cousin's team was looseing. The name of my cousin's team is the wildcats. The other team is tech. My cousin's team lost 20-0. A few days later he said his side hurt. He had to stay in bed because he was sick after that. I never heard of him playing football again.
-
-#### Developing Writer Stage\*
-
-fhe WierdGuy
-
-It all started Uke a nortnal day. fhen the clouds started rnoving in. My friend and! decided to go on a bike ride. We started out on our street and went by.Subway.fhen we went by the rnovie store and past PillS *Xi.* We turned arol!nd and went the other way. Wej liSt got on Glenview Road when this brown car started following liS.
-
-We went threw .St. Jude but he was waiting right where we got out. We started back to rny hol!Se but he followed liS. We went down Blue Mound R.D.but he still followed liS.
-
-We turned on Honey Creak Road and we saw hirn start to pull something out of a bag.He put it in when the car carne by. He turned to go back on are street. We had to bike up a step hiii.He almost crashed into liS but we rnoved over way to the side. We got up and started for rny hol!Se. We
-
-By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-#### Step 9-Mid Transitional SANTA CLAUSE
-
-Once there was a man who lived in a log cabin in the North Pole. The man always stayed in his cabin except when he needed supplies like wood for fires and building, paint to paint the things he built, and food for him and his wife to eat and cook with. The man and his wife were a little chubby. In winter their cheeks were as red as roses. The man always wore trowsers and knit pants. His wife wore dresses. All of the clothes they wore were red, white, and green. One day the sky got very dark. Over night there was a snowstorm. When the man woke up he looked out the window and saw all the snow on the ground. He was so excited that he yelled out to his wife. "There's about 2 feet of snow on the ground." When the man's wife heard her husband yell she hopped out of bed and ran into the family roon where she found her husband jumping up and down. "I know that you love it when it snows but you're going to have to calm down." Well it just so happened that almost everyone that lived in the North Pole knew that the man loved snow. A little boy named Sam Tomson who was 3 years old wanted to know if the man was excited so he walked in 2 feet of snow up the mountain to the man and his wife's house. When he got in the man's house he knocked on the door. He wondered what the man and his wife looked like. Just then the door swung open. At the door was the man and his wife. The man had a white beard and white hair. He was about 5 feet tall. (The size of an elf.) The man's wife had gray hair and was about 5 feet tall also. The first thing he said was, •Hi, do you want to go on a walk with me?" ·sure!" said the old man So the old man got his winter coat on. Then they went on a walk. When they were on the walk they talked about the snowstorm. •1 love snow!• said the old man.
-
-•Me to!" said Sam. Just then the man heard something. The man turned around and saw 8 reindeer. •My reindeer!" the man shouted. •1 found my 8 reindeer that I lost last Christmas!•
-
-The Road Trip to Florida
-
-We left our house at 5:00 p.m. and my family hoped to reach Florida by the next night. As we were crossing the border between Wisconsin and Illinois I heard the clang, clang of the money going into the toll booth. Then I thought to myself this is going to be a long trip. It's 8:30 right now and everybody is yelling and screaming. 1 wish we could just turn around. Julie turned around and said to me.
-
-·Look what the sign says. It says we're already in Indianapolis:
-
-·coot; I said with excitement ... Now it's 10:30 and 2 hours have gone by and Mom and Sarah are sleeping but 1 am keeping Dad company. I think Brian is going to be the only one keeping Dad company pretty soon. It's 6:15 a.m. and we're somewhere in Tennessee and the sunrise is beautiful.
-
-Everything is a golden yellow orange color. Now Mom is stirring because Dad definitely needs a rest.
 
 SOURCE:© 1995, Wauwatosa, Wisconsin School District. Used with permission. (continued) Note: \*This stage could last a long time and could include children of various ages.
-
-#### ~ <sup>~</sup>Developing Writer Stage (continued)
-
-fhe Wierd Guy (continued)
-
-were going as fast as we could. We j liSt got to my drive way and hestoped.He watched liS until we got inside.I have never seen him or his car since.
-
-#### SANTA CLAUSE (continued)
-
-"Do you want to take your reindeer home" asked Sam.
-
-"Sure!" said the old man. So the old man and Sam took the reindeer to the old man's house. When the old men and Sam got to the old man's house the old man put his 8 reindeer in a barn he had in his backyard. After he did that he went back out to his front yard to say good bye to Sam. In the man's front yard Sam was waiting for the old man to come back. When the man came back Sam said, "I'm sorry but I have to go home to eat lunch.""OK," said the old man and waved good bye. Sam waved back. Then the man opened the door and went inside. Sam was just about to leave but he saw a sign on the old man's door. The sign said SANTA'S WORK SHOP. Sam was so excited that he ran home as fast as he could. He couldn't wait to tell his mom, his dad, his 2 brothers, and his 3 sisters. When Sam got home he ran all over his house yelling, "Hey everybody, I know where Santa lives." Just then Sam's mother saw Sam running all over the house. "What are you doing Sam? You know that your not allowed to run in the house the night before Christmas Eve when we are having the Christmas party. You might break something," said Sam's mother."
-
-"Sorry," said Sam.Just then Sam's sister Sara yelled, "What's going on in here" Sam was running around the kitchen table when Sara and Sam's 2 older brothers Mike and Dan and his other 2 sisters lindsay and Emily came running into the kitchen. Sam had to stop to catch his breath, then he said, "I know where Santa lives!"
-
-"How do you know where he lives"? asked Emily.
-
-"Because I went up the mountain to tell the old man how much it snowed an on his door there was a sign that said SANTA'S WORKSHOP on it"
-
-"Does he have any reindeer?" Sara asked.
-
-"Yes he does and he has exactly 8," Sam said.
-
-"Well you better show him to us some time or we won't believe you" said Sara.
-
-#### The Road Trip to Florida (continued)
-
-\_just woke up and the first person he is waking up is \_. Lucky her, I thought to myself sarcastically.
-
-·can 1 wake up Dad, it's 9:00?" 1 said
-
-·No, just calm down. Dad needs his rest,· said Mom. At 11:30 we finally stopped because everybody was sick of sitting around In the van.
-
-·we·re already in Atlanta," 1 said with excitement. We jumped back in the car and hit the road ....
-
-My mom called her family. . . ·wow what a trip: rm wiped out. As we went to bed. . .
-
-"No I can't!" Sam said. "Why can't you?" Mike said in a mean tone. "Because!" Sam said back to him. "Children stop fighting and get upstairs and get ready for the party." So the children went upstairs and got ready. When all the children were ready they sat down and told each other what they wanted for Christmas. When they all told each other what they wanted they went downstairs. When they got downstairs they noticed everyone was there. "Wash up for dinner," their mother said. So the children went to wash their hands. When they came back to the table everyone was already eating dinner. The children went and got their plates and dished themselves up. Then they h ad dinner with everyone else. After everyone was done and all the plates were washed and put away, everyone went into the living room to exchange gifts. After all the gifts were passed out the children went upstairs and got in their beds. During the night Santa came to everyone in the world. In the morning they opened their presents from Santa. They all got neat presents and after that even Sara believed Sam saw the real Santa. THE END.
-
-SOURCE:© 1995, Wauwatosa, Wisconsin School District. Used with permission. Note: \*This stage could last a long time and could include children of various ages.
-
+By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0)
 Developing Writer Stage\* By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
 
-#### THE ENORMOUS EGG
-
-Once upon a time about a few years ago, there lived a boy named Tim and his pa. They dwelled together on a big farm in Wisconsin.
-
-The farm had lots of animals, chickens, roosters, horses, pigs, and even a little barnyard kitten.
-
-Early every spring morning, Tim gathered the eggs from the chickens and some days he left an egg or two for a chicken to hatch.
-
-On morning when Tim was gathering eggs, he found an ENORMOUS egg! It was as big as the WHOLE nest and the nest was pretty big!
-
-Tim darted back into the house and woke Pa.
-
-"Pa" called Tim, "Pa, come look what I found! It's a HUGE egg! Hurry up!· Pa dashed to the barn calling, "Where is it. Where is it?"
-
-When they both arrived at the barn Jim called, "It's right over here! Look how big it is! •
-
-Pa arrived at the next, "Yup that's a big one.·
-
-"It's not just big it's HUGE! • Tim replied.
-
-It was about easter now. Tim and Pa were hanging up decorations. Pa asked curiously "Has that egg hatched yet?"
-
-"No, Pa, not yet," Tim answered.'
-
-"It's been a month so far and that egg hasn't hatched yet..
-
-#### Step 10-Late Transitional
-
-#### Tiger
-
-My cat is Tiger Manders. Tiger is big. He has orange fur with brownish stripes. He also has large eyes that turn yellow and glow in the dark. He is a tabby cat, though he doesn't act like one. About the only characteristics that are the same are inherited. He must get all his other things from environment. Unlike most tabbies Tiger isn't afraid of water, other cats, dogs, raccoons, unfamiliar people, and other dangers. Tiger is strong and can jump high, climb trees, and climb our house without front claws.
-
-My cat can be very mean. He got in a fight with a raccoon once. We were scared Tiger might get hurt. We only heard sounds but we knew it was Tiger.
-
-"Tigerl' we yelled.
-
-'Maaaaaaareowl' he seemed to answer in a plea. It was only for a short while but it seemed like years. All of a sudden the noise stopped.
-
-Tiger walked up.
-
-One day my dad and I went up in an airplane with two parachutes and were going to attempt the most high jump in the history of America. We had been training for this jump for over 3 years now. If one little thing went wrong, we would just be one greesy spot in the road. We were so high that we couldn't see the ground, only because the clouds were thick that day. We were about to jump so we double checked our gear and on 10 we would jump. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. ahhhhh!!!! The sensation of flying like a bird was the best feeling I ever had. I was just floating for about 3 minutes when I realised it was time to open my shoot So I reached back to pull the cord and waited for it to come out. .. It didn't I pulled it again and again and it still did not open. I was scared out of my mind that I was going to be flat in about 1 minute. I would just be a greesy spot in the road. I tried to reach back for the emergency shoot but the force of the wind was to strong. I could see the ground very clearly now. I got closer and closer and started to yell and screme and all of a sudden I landed with a big thump. I could not beleive I was alive. I opened my eyes and ....
-
-I saw my bed to the right of me. Then I felt my cat come and lick my face. I was thinking that I had died and gone to heaven. But when I saw my mom come in and say, "Time for breakfast, what do you want." Then I realised that I was just having a bad dream, a night mare, and I didn't' really jump out of a plane and the shoot didn't open. I had just fallen out of my bed.
-
-Tim replied, •1 wonder when it's going to hatch: At supper Tim was all worked up because dinner was the next day.
-
-•pa, Pa easter's tomorrow! • Tim shouted. ·1 can't waiW
-
-Well you better settle down and get to bed or the easter Bunny won't come; Pa said.
-
-·Good night, Pa; said Tim.
-
-• Good night, • said Pa.
-
-Tim dawdled slowly up to bed. He was too excited to sleep but some how he drifted off.
-
-In the morning darted downstairs. He ran outside to get the eggs. When Tim checked in on the big egg it had a crack in it.
-
-Tim ran to tell Pa the news. •pa, the egg has a crack in it! • Pa came rushing to the barn wearing his robe and pajamas.
-
-Pa arrived at the nest. The egg had hatched. Inside the egg were lots of tiny chocolate eggs covered in tin foil.
-
-SOURCE: © 1995, Wauwatosa, Wisconsin School District. Used with permission. Note: \*This stage could last a long time and could include children of various ages.
-
-"What happened to your someone questioned knowing he wouldn't get an answer. Tiger's fur was sticking straight up. He wanted to go inside immediately. Tiger ran in and ate.
-
-He turned out not being hurt at all. In all the fight's Tiger has gotten in it has turned out the same. Tiger always seems to come out on top. I hope it stays that way forever.
-
-#### A Day At The Ponds
-
-Yesterday, November 10th, my class went to the ponds. Mike, Brian, and I went to make a fort in a tree, near the ponds. There are already some boobie traps there like we were wipped by branches on the tree. When we got there, we looked for that very tree and we climb up it and saw a rabbit bound away. It was very coo II One glimps of that rabbit and I felt like it was a bolt of lighning, flashing by twisting and turning. Then I saw it bound away from Steve and Eric. I couldn't believe my eyes. Jim also saw it and he seemed like it had never happened to him before. We were all astounded by how it dashes away from a preditor ... It was the neatest sight I ever saw I
-
-PRODUCT CHARACTERISTICS • Strong sense ofvoice • Strong sense of audience • Well developed
-
-Independent Writer Stage\* By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-#### Step 11-lndependent Writing
-
-#### She, the Adventuress
-
-| • Strong sense ofvoice<br>• Strong sense of audience<br>• Well developed<br>• Includes supportive details<br>• Sentences are correct and var<br>ied to create interest<br>• The message creates impact and<br>evokes the desired response<br>and/or further thinking from the<br>reader<br>• Accurate use of simple and<br>more complex conventions of<br>writing, including introduction,<br>conclusion, paragraphing (con<br>ventional spelling stage)<br>• Includes rich, descriptive<br>language<br>• May include more than one<br>point of view<br>• Realizes that the audience<br>expects to see a correct script<br>PRODUa CHARAaERISTICS<br>• Internalize questions good writ<br>ers ask themselves<br>• Has internalized the process | "Good-bye! We will miss you!· Angela Pine called out to her 17 year old daughter,<br>Anita. "Oohh! Oohh!" sounded the ship's whistle. The ship was leaving.<br>Anita Pine was an only child and smart for her age. She like adventures and that's<br>why she was going on this trip ALONE.<br>The best was going to the Island of Pyzihohy. This was Anita's first trip alone.<br>"How do you like the ride so far, Miss Pine?" asked the captain.<br>"Very nice,· answered Anita.<br>A man in a sailor suit came along.<br>"Hi Tim,· said the captain. "Miss Pine, this is Tim, He is my first mate."<br>"Pleased to meet you, Ma'am." Tim told Anita.<br>Anita blushed.<br>"Take her bags, will you?" asked the captain.<br>"Yes Sir! •<br>Anita followed Tim to her cabin on the ship. She opened the door with her key.<br>"Thanks," she said. "I'm going to turn in." She closed the door.<br>That night Anita was sleeping very peacefully until she heard a big, thundering<br>crash that came from the deck. Anita grabbed her pants and a sweater, put them on,<br>opened the door, walked outside, locked her cabin, and ran.<br>When Anita stepped on the deck she almost fell into the pool. The captain was out<br>on the deck in his pajamas with his daughter, Lou. There were boxes scattered every<br>where. There were thirteen to be exact.<br>"Tim!· called the captain. "Get on the deck right now!·<br>Tim came in his robe. "Why Sir, why did you do this?"<br>"I didn't do it! Do you think I'd want to do this?"<br>"No Sir!"<br>"Captain, Tim, what's the need for arguing? What we've go to do is found out who<br>did it?" said Anita.<br>Now before I go on, there is one thing I should tell you. Anita Pine LOVES mysteries.<br>In fact, some people call her Private Eye Pine! |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-While Tim, Anita, the captain, and Lou were picking up the bones, a lady came out screaming.
-
-#### Life's Mystery
-
-So swiftly she moved, her pale feet, brushing gently *across* the silken *meadows.* She drifted, *as* if *soaring*  through the *clean* fresh *air,* on *a*  sparrow's wing. But she *wasn't.* She *was* not *floating* but *falling,* plunging to her *death.* I *ran* to *save* her but it *was* too late. She hit the ground *and* then her eyes closed. The birds stopped singing *and* the leaves stopped *falling.* It *wasn't* the *same*  without her. She *was a* goddess to everyone *and* brought spring, summer, *and* fall. Only one *season* did she not bring. The evil winter. He killed her for revenge. For she *was*  beautiful *and* he *was* ugly. She brought happy times *and* he brought times of *anger and famine, disease and hate.* Everyone loved her, everyone *hated* him. He *made* her fall, but how could someone so good die? Now everyone must love him, *and thank*  him for the *seasons* of good. But when he *had* all the *seasons* in his power, nothing seemed to be good *anymore.* People *hated each* other, *and* killed, *and* fought *wars.* This *was*  the *way* he liked it. No person *was* 
-
-<span id="page-170-0"></span>
-
-"I just saw a dark figure go pass my window, • said lady. "My cabin number is 238. My name is Shirley Burge." • Miss. . . • started Anita. "Mrs: "Oh yeah, Mrs. Burge. Come on! let's find the dude! Don't worry." Anita said as she grabbed Mrs. Burge's hand. "Really some kid, isn't she Captain?" asked Tim. "I guess: ·First, let's inspect your area and window,· Anita said. "Why the window?" inquired Mrs. Burge. "Just in case the window was playing tricks on you." They looked for prints, too. • I found some!· screamed Mrs. Burge suddenly. lights went on aboard the ship. Alot of "shh" and "Can't you se some of us are trying to sleep?" were heard. "Never mind them," Anita told Mrs. Burge. "Where do they lead to?" "Well let's see-right here! Agh! • There was a man standing at the end of the tracks. "Got you!· shouted Anita. lights went on again. "Shut up!· shouted a man. "Back to you!" yelled Mrs. Burge. Anita grabbed a fishing net and threw it over the man's head. "Why, you're just a kid!· yelled the man in a voice that knifed across to the deck. The captain, Tim, and lou came running. "You've caught him! • said the amazed First Mate. "Yes she has,· grunted the man. Some gold coins fell out of the man's pocket. "You're the one who stole them! • shouted the captain. "We'll put you in jail. These are the ship's.· The next three days were boring when compared to the first night. That is, all except for the last night. There was a big dance. Anita danced with Tim the whole night. The days on the island were hot, but not too to ruin Anita's fun. She went to the beach every day. She went shopping also. Anita had fun. On the plan ride home to Poway (San Diego) Anita had lobster and potatoes. (A VERY delicious meal.) When Anita got home everyone greeted her with a warm welcome. "I missed you all," said Anita and began telling them her adventures. THE END swer.
-
-SOURCE: © 1995, Wauwatosa, Wisconsin School District. Used with permission.
-
-u; Note: \*This stage could last a long time and could include children of various ages.
-
-*c..n* 
-
-happy with what they got. It *was*  now *a* world of greed, and plague. People stole and polluted. There *was*  only one peaceful place. *That was*  where She *was* buried. Four people spent their lives there, worshipping her. They could not be touched by the evil one. Around them they could not see the bad things that were going on. They did not want to look either. The evil one had gained so much power that whole countries suffered, and people had to build jails and courthouses. There were *many* for miles around. Too much crime *was*  going on. *Was* there *a way* to stop it? *Was* there *a way* to stop the pollution? The people were getting desper*ate.* The earth *was* getting too crowded. *What* were we to do? It all depended on the children. Could they change what has happened to the world? Maybe. But maybe not. If you want to know, I can't tell you the *an-*
-
-#### ,.... *c.n*  0)
-
-Independent Writer Stage\* By the end of second grade, most children will enter the *Developing Writer Stage* (Step 8). In Grades 3, 4, and 5, children will progress within the *Developing Writer Stage.* By the end of the fifth grade, many children will be at the *Developing Writer Stage* (Step 1 0).
-
-#### Step 11-Independent Writing
-
-"Hi Mom! I'm home!" cried David Caliron. "Wow! What's that?"
-
-"It's a plant that I bought at the plant store. Do you like the big flower on it?" asked Mrs. Caliron.
-
-"Yes! It's beautiful!" exclaimed David.
-
-"Hi, Mom!" said Nancy Cali ron as she came into the room. "Wow! What a beautiful plant!"
-
-"Mom got it at the plant store," said David.
-
-"It sure is pretty. What kind of plant is it?" asked Nancy.
-
-"I asked the florist. but he didn't know. He said he had bought it from a horticulturist who didn't say what kind of plant it was."
-
-"What's a horticulturist?" asked David.
-
-"A horticulturist is someone who grows plants and sells them to a florist," answered Mrs. Caliron. "But enough about plants. Come and eat your snack." So Nancy and David forgot all about the plant.
-
-The next morning Nancy noticed that there was a lot more dirt in the plant's pot. "Mom, wasn't there enough dirt in the plant's pot before?" Nancy asked Mrs. Caliron.
-
-"I didn't put any dirt in the plant's pot," Mrs. Caliron replied. Just then David called from the kitchen,
-
-"Mom, I thought it was my job to take out the garbage!"
-
-"It is your job." Said Mrs. Caliron.
-
-"Then why isn't there any garbage in the garbage can?"
-
-"I don't know. I didn't take out the garbage. Did you take out the garbage Nancy?" Mrs. Caliron asked.
-
-"No," said Nancy and before David could say anything else, she asked him, 'Why did you put more dirt in the plant's pat?"
-
-"I didn't put any more dirt in the plant's pot," David said.
-
-"Wait a minute," Mrs. Caliron said. "If none of us took out the garbage, and none of us put more dirt in the plant's pot, who did?"
-
-SOURCE:© 1995, Wauwatosa, Wisconsin School District. Used with permission. Note: \*This stage could last a long time and could include children of various ages.
-
-"A burgler?" Nancy whispered.
-
-"Of course not. silly," David said. "Burglers don't go around taking out the garbage and filling plants' pots with dirt!" "I know!" cried Nancy. The plant ate the garbage and turned it into dirt."
-
-"Yeah!" said David.
-
-"That's ridiculous!" said Mrs. Cali ron. But the next day the garbage was gone and there was more dirt in the pot.
-
-"Kids, if it's true that this plant eats garbage we could make more of them and with a lot more of them the world would be a much better place," Mrs. Caliron exclaimed.
-
-"But how do we make more of them?" David asked.
-
-"With seeds in that flower," Mrs. Clairon said. In a few weeks, the seeds that David, Nancy and Mrs. Cal iron had planted had grown very big. Then Mrs. Cali ron took half of them to the plant store, after taking the seeds out of the flowers. That way, people would buy them and take them home and the plants would eat their garbage.
-
-"What are you going to do with the other half, Mom?" Nancy asked. "You will see," Mrs. Caliron answered.
-
-When she got back home, Mrs. Caliron told David and Nancy what they woul do with the other half of their plants.
-
-"We will plant these plants outside all over the place! The plants will spread their seeds and make more plants! Whenever someone litters, the plants will eat it up!" Mrs. Cali ron exclaimed. "We could put them in landfills too," said David.
-
-Well, after a while people had realized that this kind of plant ate garbage. Nancy, David, and Mrs. Caliron were famous and the world was free of garbage.
-
-THE END
-
-#### **GROUP DISCUSSION RUBRIC**
-
-<span id="page-173-0"></span>This is a composite rubric synthesized from several sources. It is not meant to be a checklist-the descriptors under each level of performance are indicators of the quality of performance rather than an exhaustive listing; not everything must be "checked off' to receive a score of a particular level. The rubric should be considered a work in progress. *(Note:* The article by David Harris cited in the footnote provides sample dialogues that illustrate many of the indicators in the rubric.)
+**TABLE-Step 10 Late Transitional**
+| Once upon a time about a few years ago, there lived a    | My cat is Tiger Manders. Tiger is big. He      | One day my dad and I went up in an airplane with two para       |
+| boy named Tim and his pa. They dwelled together on a     | has orange fur with brownish stripes. He       | chutes and were going to attempt the most high jump in the      |
+| big farm in Wisconsin.                                   | also has large eyes that turn yellow and       | history of America. We had been training for this jump for      |
+| The farm had lots of animals, chickens, roosters,        | glow in the dark. He is a tabby cat, though    | over 3 years now. If one little thing went wrong, we would      |
+| horses, pigs, and even a little barnyard kitten.         | he doesn't act like one. About the only        | just be one greesy spot in the road. We were so high that we    |
+| Early every spring morning, Tim gathered the eggs        | characteristics that are the same are          | couldn't see the ground, only because the clouds were thick     |
+| from the chickens and some days he left an egg or two for| inherited. He must get all his other things    | that day. We were about to jump so we double checked our        |
+| a chicken to hatch.                                      | from environment. Unlike most tabbies Tiger    | gear and on 10 we would jump. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.    |
+| On morning when Tim was gathering eggs, he found         | isn't afraid of water, other cats, dogs,       | ahhhhh!!!! The sensation of flying like a bird was the best     |
+| an ENORMOUS egg! It was as big as the WHOLE nest and     | raccoons, unfamiliar people, and other         | feeling I ever had. I was just floating for about 3 minutes     |
+| the nest was pretty big!                                 | dangers. Tiger is strong and can jump high,    | when I realised it was time to open my shoot So I reached       |
+| Tim darted back into the house and woke Pa.              | climb trees, and climb our house without       | back to pull the cord and waited for it to come out... It didn't|
+| "Pa" called Tim, "Pa, come look what I found! It's a     | front claws.                                   | I pulled it again and again and it still did not open. I was    |
+| HUGE egg! Hurry up!· Pa dashed to the barn calling,      | My cat can be very mean. He got in a           | scared out of my mind that I was going to be flat in about 1    |
+| "Where is it. Where is it?"                              | fight with a raccoon once. We were scared      | minute. I would just be a greesy spot in the road. I tried to   |
+| When they both arrived at the barn Jim called, "It's     | Tiger might get hurt. We only heard sounds     | reach back for the emergency shoot but the force of the wind    |
+| right over here! Look how big it is! •                   | but we knew it was Tiger.                      | was to strong. I could see the ground very clearly now. I got   |
+| Pa arrived at the next, "Yup that's a big one.·          | "Tigerl' we yelled.                            | closer and closer and started to yell and screme and all of a   |
+| "It's not just big it's HUGE! • Tim replied.             | 'Maaaaaaareowl' he seemed to answer            | sudden I landed with a big thump. I could not beleive I was     |
+| It was about easter now. Tim and Pa were hanging up      | in a plea. It was only for a short while but it| alive. I opened my eyes and ....                                |
+| decorations. Pa asked curiously "Has that egg hatched    | seemed like years. All of a sudden the noise   | I saw my bed to the right of me. Then I felt my cat come        |
+| yet?"                                                    | stopped. Tiger walked up.                      | and lick my face. I was thinking that I had died and gone to    |
+| "No, Pa, not yet," Tim answered.'                        |                                                | heaven. But when I saw my mom come in and say, "Time for        |
+| "It's been a month so far and that egg hasn't hatched    |                                                | breakfast, what do you want." Then I realised that I was just   | 
+| yet..                                                    |                                                | having a bad dream, a night mare, and I didn't' really jump     |
+|                                                          |                                                | out of a plane and the shoot didn't open. I had just fallen out |
+|                                                          |                                                | of my bed                                                       |
+| Tim replied, •1 wonder when it's going to hatch:         | "What happened to your someone                 |                                                                 | 
+| At supper Tim was all worked up because dinner was       | Questioned knowing he wouldn't get an          |                                                                 |
+| the next day                                             | answer. Tiger's fur was sticking straight up.  |                                                                 |
+|pa, Pa easter's tomorrow! • Tim shouted. ·1 can't wait    | He wanted to go inside immediately. Tiger      |                                                                 |
+| Well you better settle down and get to bed or the        | ran in and ate.                                |                                                                 |
+| easter Bunny won't come; Pa said.                        | He turned out not being hurt at all. In all    |                                                                 |
+| "Good night, Pa; said Tim.                               | he fight's Tiger has gotten in it has turned   |                                                                 |
+| " Good night, • said Pa.                                 | out the same. Tiger always seems to come       |                                                                 |
+| Tim dawdled slowly up to bed. He was too excited to      | out on top. I hope it stays that way forever.  |                                                                 |
+| sleep but some how he drifted off.                       |                                                |                                                                 |
+| In the morning darted downstairs. He ran outside to      |                                                |                                                                 |
+| get the eggs. When Tim checked in on the big egg it had a|                                                |                                                                 |
+| crack in it.                                             |                                                |                                                                 |
+| Tim ran to tell Pa the news. •pa, the egg has a crack in |                                                |                                                                 |
+| it! • Pa came rushing to the barn wearing his robe and pa|                                                |                                                                 |
+| jamas.                                                   |                                                |                                                                 |
+| Pa arrived at the nest. The egg had hatched. Inside the  |                                                |                                                                 |
+| egg were lots of tiny chocolate eggs covered in tin foil.|                                                |                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+**TABLE-Step 11-lndependent Writing**
+| PRODUCT CHARACTERISTICS              | She, the Adventuress                                                                   | Life's Mystery                                                                |
+| • Strong sense ofvoice               | "Good-bye! We will miss you!· Angela Pine called out to her 17 year old daughter,      | So swiftly she moved, her pale feet, brushing gently across the silken        |
+| • Strong sense of audience           | Anita. "Oohh! Oohh!" sounded the ship's whistle. The ship was leaving.                 | meadows. She drifted, as if soaring through the clean fresh air, on a         |
+| • Well developed                     | Anita Pine was an only child and smart for her age. She like adventures and that's     | sparrow's wing. But she wasn't. She was not floating but falling, plung       |
+| • Includes supportive details        | why she was going on this trip ALONE                                                   | ing to her death. I ran to save her but it was too late. She hit the          |
+| • Sentences are correct and varied   | The best was going to the Island of Pyzihohy. This was Anita's first trip alone.       | ground and then her eyes closed. The birds stopped singing and the leaves     |
+|   to create interest                 | "How do you like the ride so far, Miss Pine?" asked the captain.                       | stopped falling. It wasn't the same without her. She was a goddess to         |
+| • The message creates impact and     | "Very nice,· answered Anita                                                            | everyone and brought spring, summer, and fall. Only one season did            |
+|   evokes the desired response        | A man in a sailor suit came along                                                      | she not bring. The evil winter. He killed her for revenge. For she was        |
+|   and/or further thinking from the   | "Hi Tim,· said the captain. "Miss Pine, this is Tim, He is my first mate."             | beautiful and he was ugly. She brought happy times and he brought             |
+|   reader                             | "Pleased to meet you, Ma'am." Tim told Anita.                                          | times of anger and famine, disease and hate. Everyone loved her, every        |
+| • Accurate use of simple and         | Anita blushed.                                                                         | one hated him. He made her fall, but how could someone so good die? Now       |
+|   more complex conventions of        | "Take her bags, will you?" asked the captain.                                          | everyone must love him, and thank him for the seasons of good. But            |
+|   writing, including introduction,   | "Yes Sir! •                                                                            | when he had all the seasons in his power, nothing seemed to be good           |
+|   conclusion, paragraphing (con      | Anita followed Tim to her cabin on the ship. She opened the door with her key.         | anymore. People hated each other, and killed, and fought wars. This was       |
+|   ventional spelling stage)          | "Thanks," she said. "I'm going to turn in." She closed the door.                       | the way he liked it. No person was                                            |
+| • Includes rich, descriptive         | That night Anita was sleeping very peacefully until she heard a big, thundering        | happy with what they got. It was now a world of greed, and plague.            |
+|   language                           | crash that came from the deck. Anita grabbed her pants and a sweater, put them on,     | People stole and polluted. There was only one peaceful place. That was        |
+| • May include more than one          | opened the door, walked outside, locked her cabin, and ran.                            | where She was buried. Four people spent their lives there, worshipping        |
+|   point of view                      | When Anita stepped on the deck she almost fell into the pool. The captain was out      | her. They could not be touched by the evil one. Around them they could not    |
+| • Realizes that the audience         | on the deck in his pajamas with his daughter, Lou. There were boxes scattered every    | see the bad things that were going on. They did not want to look either.      |
+|   expects to see a correct script    | where. There were thirteen to be exact.                                                | The evil one had gained so much power that whole countries suffered           |
+|                                      | "Tim!· called the captain. "Get on the deck right now!·                                | and people had to build jails and courthouses. There were many for            |
+| PRODUCT CHARAaERISTICS               | Tim came in his robe. "Why Sir, why did you do this?"                                  | miles around. Too much crime was going on. Was there a way to stop it?        |
+| • Internalize questions good writers | "I didn't do it! Do you think I'd want to do this?"                                    | Was there a way to stop the pollution? The people were getting desper         |
+|   ask themselves                     | "No Sir!"                                                                              | ate. The earth was getting too crowded. What were we to do? It all            |
+| • Has internalized the process       | "Captain, Tim, what's the need for arguing? What we've go to do is found out who       | depended on the children. Could they change what has happened to the          |
+|                                      |  did it?" said Anita.                                                                  | world? Maybe. But maybe not. If you want to know, I can't tell you the answer |
+|                                      |  Now before I go on, there is one thing I should tell you. Anita Pine LOVES mysteries. |                                                                               |
+|                                      | In fact, some people call her Private Eye Pine!                                        |                                                                               |
+|                                      | While Tim, Anita, the captain, and Lou were picking up the bones, a lady came out      |                                                                               |
+|                                      | screaming                                                                              |                                                                               |
+|                                      | "I just saw a dark figure go pass my window, • said lady. "My cabin number is 238.     |                                                                               |
+|                                      | My name is Shirley Burge."                                                             |                                                                               |
+|                                      | • Miss. . . • started Anita.                                                           |                                                                               |
+|                                      | "Mrs:                                                                                  |                                                                               |
+|                                      | "Oh yeah, Mrs. Burge. Come on! let's find the dude! Don't worry." Anita said as she    |                                                                               |
+|                                      | grabbed Mrs. Burge's hand.                                                             |                                                                               |
+|                                      | "Really some kid, isn't she Captain?" asked Tim.                                       |                                                                               |
+|                                      | "I guess:                                                                              |                                                                               |
+|                                      | ·First, let's inspect your area and window,· Anita said.                               |                                                                               |
+|                                      | "Why the window?" inquired Mrs. Burge.                                                 |                                                                               |
+|                                      | "Just in case the window was playing tricks on you."                                   |                                                                               |
+|                                      | They looked for prints, too. •                                                         |                                                                               |
+|                                      | I found some!· screamed Mrs. Burge suddenly.                                           |                                                                               |
+|                                      | lights went on aboard the ship. Alot of "shh" and "Can't you se some of us are try     |                                                                               |
+|                                      | ing to sleep?" were heard.                                                             |                                                                               |
+|                                      | "Never mind them," Anita told Mrs. Burge. "Where do they lead to?"                     |                                                                               |
+|                                      | "Well let's see-right here! Agh! •                                                     |                                                                               |
+|                                      | There was a man standing at the end of the tracks. "Got you!· shouted Anita.           |                                                                               |
+|                                      | lights went on again. "Shut up!· shouted a man.                                        |                                                                               |
+|                                      | "Back to you!" yelled Mrs. Burge.                                                      |                                                                               |
+|                                      | Anita grabbed a fishing net and threw it over the man's head.                          |                                                                               |
+|                                      | "Why, you're just a kid!· yelled the man in a voice that knifed across to the deck.    |                                                                               |
+|                                      | The captain, Tim, and lou came running.                                                |                                                                               |
+|                                      | "You've caught him! • said the amazed First Mate.                                      |                                                                               |
+|                                      | "Yes she has,· grunted the man. Some gold coins fell out of the man's pocket.          |                                                                               |
+|                                      | "You're the one who stole them! • shouted the captain. "We'll put you in jail. These   |                                                                               |
+|                                      | are the ship's.·                                                                       |                                                                               |
+|                                      | The next three days were boring when compared to the first night. That is, all except  |                                                                               |
+|                                      | for the last night. There was a big dance. Anita danced with Tim the whole night.      |                                                                               |
+|                                      | The days on the island were hot, but not too to ruin Anita's fun. She went to the      |                                                                               |
+|                                      | beach every day. She went shopping also. Anita had fun.                                |                                                                               |
+|                                      | On the plan ride home to Poway (San Diego) Anita had lobster and potatoes. (A          |                                                                               |
+|                                      | VERY delicious meal.)                                                                  |                                                                               |
+|                                      | When Anita got home everyone greeted her with a warm welcome. "I missed you            |                                                                               |
+|                                      | all," said Anita and began telling them her adventures.                                |                                                                               |
+|                                      | THE END                                                                                |                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**TABLE- Step 11 Independant Writing**
+|                                      | "Hi Mom! I'm home!" cried David Caliron. "Wow! What's that?"                           | A burgler?" Nancy whispered. 
+|                                      | "It's a plant that I bought at the plant store. Do you like the big flower on it?"     | "Of course not. silly," David said. "Burglers don't go around taking out the gar
+|                                      | asked Mrs. Caliron.                                                                    | bage and filling plants' pots with dirt!" "I know!" cried Nancy. The plant ate the gar
+|                                      | "Yes! It's beautiful!" exclaimed David.                                                | bage and turned it into dirt."
+|                                      | "Hi, Mom!" said Nancy Cali ron as she came into the room. "Wow! What a beauti          | "Yeah!" said David.
+|                                      | ful plant!"                                                                            | "That's ridiculous!" said Mrs. Cali ron. But the next day the garbage was gone and 
+|                                      | "Mom got it at the plant store," said David.                                           | there was more dirt in the pot. 
+|                                      | "It sure is pretty. What kind of plant is it?" asked Nancy.                            | "Kids, if it's true that this plant eats garbage we could make more of them and 
+|                                      | "I asked the florist. but he didn't know. He said he had bought it from a horticul     | with a lot more of them the world would be a much better place," Mrs. Caliron ex
+|                                      | turist who didn't say what kind of plant it was."                                      | claimed
+|                                      | "What's a horticulturist?" asked David.                                                | "But how do we make more of them?" David asked.
+|                                      | "A horticulturist is someone who grows plants and sells them to a florist," an         | "With seeds in that flower," Mrs. Clairon said. In a few weeks, the seeds that Da
+|                                      | swered Mrs. Caliron. "But enough about plants. Come and eat your snack." So Nancy      | vid, Nancy and Mrs. Cal iron had planted had grown very big. Then Mrs. Cali ron took 
+|                                      | and David forgot all about the plant.                                                  | half of them to the plant store, after taking the seeds out of the flowers. That way,
+|                                      | The next morning Nancy noticed that there was a lot more dirt in the plant's pot.      | people would buy them and take them home and the plants would eat their garbage.
+|                                      | "Mom, wasn't there enough dirt in the plant's pot before?" Nancy asked Mrs.            | "What are you going to do with the other half, Mom?" Nancy asked.
+|                                      | Caliron.                                                                               | "You will see," Mrs. Caliron answered. 
+|                                      | "I didn't put any dirt in the plant's pot," Mrs. Caliron replied. Just then David      | When she got back home, Mrs. Caliron told David and Nancy what they woul do 
+|                                      | called from the kitchen,                                                               | with the other half of their plants. 
+|                                      | "Mom, I thought it was my job to take out the garbage!"                                | "We will plant these plants outside all over the place! The plants will spread their
+|                                      | "It is your job." Said Mrs. Caliron.                                                   | seeds and make more plants! Whenever someone litters, the plants will eat it up!" 
+|                                      | "Then why isn't there any garbage in the garbage can?"                                 | Mrs. Cali ron exclaimed. "We could put them in landfills too," said David.
+|                                      | "I don't know. I didn't take out the garbage. Did you take out the garbage Nancy?"     | Well, after a while people had realized that this kind of plant ate garbage. Nancy, 
+|                                      | Mrs. Caliron asked.                                                                    | David, and Mrs. Caliron were famous and the world was free of garbage. 
+|                                      | "No," said Nancy and before David could say anything else, she asked him, 'Why         |
+|                                      | did you put more dirt in the plant's pat?"                                             |
+|                                      | "I didn't put any more dirt in the plant's pot," David said.                           |
+|                                      | "Wait a minute," Mrs. Caliron said. "If none of us took out the garbage, and none      |
+|                                      | of us put more dirt in the plant's pot, who did?"
+
+
+### **GROUP DISCUSSION RUBRIC**
+This is a composite rubric synthesized from several sources. It is not meant to be a checklist-the descriptors under each level of performance are indicators of the quality of performance rather than an exhaustive listing; not everything must be "checked off' to receive a score of a particular level. The rubric should be considered a work in progress. *(Note:* The article by David Harris cited in the footnote provides sample dialogues that illustrate many of the indicators in the rubric.)
 
 #### **Trait 1 : Content Understanding-comprehension of the content under discussion**
 
-#### **High**
+ **High**
+- The student understands significant ideas relevant to the issue under discussion. This is indicated by correct use of terminology, precise selection of the pieces of information required to make a point, correct and appropriate use of examples and counterexamples, demonstration of which distinctions are important to make, and explanations that are concise and to the point
+-  Information and knowledge are accurate.
+- The student elaborates statements with accurate explanations, reasons, or evidence.
 
-- "\*The student understands significant ideas relevant to the issue under discussion. This is indicated by correct use of terminology, precise selection of the pieces of information required to make a point, correct and appropriate use of examples and counterexamples, demonstration of which distinctions are important to make, and explanations that are concise and to the point
-- 111,. Information and knowledge are accurate.
-- 111,. The student elaborates statements with accurate explanations, reasons, or evidence.
+ **Medium**
+- Ideas are reasonably clear, but the listener needs to make some guesses as to what the student meant.
+- Some vocabulary is used correctly and some is not.
+- Ideas are correct but not concise.
+- Contributions to the group are generally supported by some facts, examples, analogies, statistics, and so forth, but there's a sense that more is needed.
 
-#### **Medium**
-
-- ,,.. Ideas are reasonably clear, but the listener needs to make some guesses as to what the student meant.
-- ~• Some vocabulary is used correctly and some is not.
-- 111,. Ideas are correct but not concise.
-- "\* Contributions to the group are generally supported by some facts, examples, analogies, statistics, and so forth, but there's a sense that more is needed.
-
-- ,,.. The student uses foundational knowledge incorrectly.
-- ,,.. The student struggles to provide ideas or support for ideas.
-- "\* Ideas are extremely limited or hard to understand.
-- 111,. The student has difficulty understanding themes and distinguishing main ideas and supporting details.
-- ~• Terminology is used incorrectly.
+**Low**
+- The student uses foundational knowledge incorrectly.
+- The student struggles to provide ideas or support for ideas.
+- Ideas are extremely limited or hard to understand.
+- The student has difficulty understanding themes and distinguishing main ideas and supporting details.
+- Terminology is used incorrectly.
 
 SOURCE:© 1999 Assessment Training Institute, Portland, OR, 503-228-3060; used with permission.
 
-#### <span id="page-174-0"></span>**Trait 2: Reasoning-ability to use the content to explore an Issue, reach agreement, make a dedslon, or discuss a point**
+#### **Trait 2: Reasoning-ability to use the content to explore an Issue, reach agreement, make a dedslon, or discuss a point**
+ **High**
+- The student actively participates in the development of the group mission.
+- The student states and identifies relevant subordinate issues. These can be ethical rshould we make a value judgment of what is right or wrong?j, definitional ("Are we all using this word in the same manner?j, or factual ('What evidence do we have for this claim?j. There is deliberate and systematic consideration of embedded and related issues.
+- The student takes a position or makes a claim and defends it with explanations, reasons, or evidence.
+- The student stipulates claims or definitions (e.g., "For our discussion, let's agree that conduct refers to behavior while on military duty or while off duty but in uniformj. The student realizes when such stipulations are needed.
+- The student recognizes values or value conflict as things that form the assumption basis of arguments and recognizes when it is important to acknowledge these values.
+- The student argues by analogy.
+- The student recognizes the accuracy, logic, relevance, or clarity of statements. The student recognizes contradictions and irrelevant comments.
+- he student has a clear idea of the shape of the task and sustains inquiry until the task is completed. The student knows when the task is completed satisfactorily.
+- The student asks clarifying questions and knows when clarifying questions need to be asked.
+- The student distinguishes fact from opinion.
+- The student summarizes points of agreement and disagreement to set the stage for further movement; the student knows when such summaries are useful.
 
-#### **High**
+ **Medium**
+- The student relies on the momentum of the group to motivate inquiry.
+- The student generally distinguishes fact from opinions.
+- The student may be repetitive with comments.
 
-- ,,.. The student actively participates in the development of the group mission.
-- II .. The student states and identifies relevant subordinate issues. These can be ethical rshould we make a value judgment of what is right or wrong?j, definitional ("Are we all using this word in the same manner?j, or factual ('What evidence do we have for this claim?j. There is deliberate and systematic consideration of embedded and related issues.
-- 11 ... The student takes a position or makes a claim and defends it with explanations, reasons, or evidence.
-- ,,.. The student stipulates claims or definitions (e.g., "For our discussion, let's agree that conduct refers to behavior while on military duty or while off duty but in uniformj. The student realizes when such stipulations are needed.
-- 11 ... The student recognizes values or value conflict as things that form the assumption basis of arguments and recognizes when it is important to acknowledge these values.
-- 11 ... The student argues by analogy.
-- 11 ... The student recognizes the accuracy, logic, relevance, or clarity of statements. The student recognizes contradictions and irrelevant comments.
-- 11 ... The student has a clear idea of the shape of the task and sustains inquiry until the task is completed. The student knows when the task is completed satisfactorily.
-- 11 ... The student asks clarifying questions and knows when clarifying questions need to be asked.
-- 11 ... The student distinguishes fact from opinion.
-- 11 ... The student summarizes points of agreement and disagreement to set the stage for further movement; the student knows when such summaries are useful.
-
-#### **Medium**
-
-- ,,.. The student relies on the momentum of the group to motivate inquiry.
-- 11 ... The student generally distinguishes fact from opinions.
-- 11 ... The student may be repetitive with comments.
-
-- 11 ... The student accepts ideas of others without much thought
-- 11 ... The student jumps randomly from one aspect of an issue to another.
-- 11 ... The student provides little relevant information or contributes little to the discussion.
-- ,,.. Opinions may be stated as facts.
-- ,,.. The student shows little evidence of understanding the task and how to sustain the inquiry to adequately fulfill it.
-- ,,.. There is little sense of which information is of most importance.
-- 11 ... The student frequently asks for repetition of ideas but shows little evidence of understanding.
+**Low**
+- The student accepts ideas of others without much thought
+- The student jumps randomly from one aspect of an issue to another.
+- The student provides little relevant information or contributes little to the discussion.
+- Opinions may be stated as facts.
+- The student shows little evidence of understanding the task and how to sustain the inquiry to adequately fulfill it.
+- There is little sense of which information is of most importance.
+- The student frequently asks for repetition of ideas but shows little evidence of understanding.
 
 #### **Trait 3: Interaction With Others**
 
-#### **High**
+ **High**
+- The student initiates the development of the group process including identifying roles and accepting responsibility for fulfilling assigned roles within the group.
+- Interaction reflects group norms-the student is appropriate for the group and setting.
+- The student invites contributions from others as needed and the student knows when such contributions are needed.
+- The student acknowledges the statements of others in a way that builds a consecutive interchange between participants.
+- Replies to others are responsive to the statement and indicate that the student understood it and thought about it
+- When disagreeing, the student does it respectfully. The nature of the disagreement is stated and an invitation to respond extended.
+- The student makes sure that all relevant points of view are heard.
+- The student is courteous and attentive.
+- Nonverbal behavior is consistent with verbal behavior; both are positive. Positive nonverbal behavior includes nodding, learning forward, and maintaining eye contact.
+- The student is aware of cultural differences in social interactions and behaves in an appropriate fashion.
+- When conflicts arise, the student attempts to resolve them.
+- Talking is task-oriented and group-oriented-"we."
+-  Decision making is shared; there is lots of evidence of teaming and collaboration.
 
-- 11• The student initiates the development of the group process including identifying roles and accepting responsibility for fulfilling assigned roles within the group.
-- ~~• Interaction reflects group norms-the student is appropriate for the group and setting.
-- ~~• The student invites contributions from others as needed and the student knows when such contributions are needed.
-- ~~• The student acknowledges the statements of others in a way that builds a consecutive interchange between participants.
-- 11• Replies to others are responsive to the statement and indicate that the student understood it and thought about it
-- 11• When disagreeing, the student does it respectfully. The nature of the disagreement is stated and an invitation to respond extended.
-- ~~• The student makes sure that all relevant points of view are heard.
-- ~~• The student is courteous and attentive.
-- ~~• Nonverbal behavior is consistent with verbal behavior; both are positive. Positive nonverbal behavior includes nodding, learning forward, and maintaining eye contact.
-- ~~• The student is aware of cultural differences in social interactions and behaves in an appropriate fashion.
-- ~~• When conflicts arise, the student attempts to resolve them.
-- ~~• Talking is task-oriented and group-oriented-"we."
-- ~~• Decision making is shared; there is lots of evidence of teaming and collaboration.
+ **Medium**
+- The student participates in the development of the group process including identifying roles and accepting responsibility for fulfilling assigned roles within the group.
+- The student attends to the discussion but doesn't participate very much.
+- The student's contributions do not detract from the group's purpose or goals.
+- The student participates in the group with prompting.
+- The student responds to solicitation of opinions or ideas but doesn't volunteer them.
 
-#### **Medium**
-
-- ~~• The student participates in the development of the group process including identifying roles and accepting responsibility for fulfilling assigned roles within the group.
-- 11• The student attends to the discussion but doesn't participate very much.
-- 11• The student's contributions do not detract from the group's purpose or goals.
-- ~~• The student participates in the group with prompting.
-- ~• The student responds to solicitation of opinions or ideas but doesn't volunteer them.
-
-- ~• The student does not fulfill assigned roles.
-- 11• Interaction does not reflect group norms.
-- 11• The student makes irrelevant or distracting statements.
-- ~~• Interruptions, when they occur, are unconstructive and noncourteous.
-- ~• The student monopolizes the conversation-a pattern of domination with the effect of preventing others from contributing.
-
+**Low**
+- The student does not fulfill assigned roles.
+- Interaction does not reflect group norms.
+- The student makes irrelevant or distracting statements.
+- Interruptions, when they occur, are unconstructive and noncourteous.
+- The student monopolizes the conversation-a pattern of domination with the effect of preventing others from contributing.
+- The student makes a personal attack; language might suggest bias toward a group member or others.
+- The student is uninvolved in the discussion, even when directly asked for an opinion.
+-  Nonverbal behavior is inconsistent with verbal behavior-usually the nonverbal behavior is very negative while the verbal behavior might be positive. Nonverbal behavior may alienate the student from other group members.
+- The student appears unaware of cultural differences in conducting discussions.
+- Talk is self-oriented-ul."
+- Work is done by individuals; there is little attempt at teaming or collaboration.
 SOURCE:© 1999 Assessment Training Institute, Portland, OR, 503-228-3060; used with permission.
-
-- ,,... The student makes a personal attack; language might suggest bias toward a group member or others.
-- ,,... The student is uninvolved in the discussion, even when directly asked for an opinion.
-- ,\_. Nonverbal behavior is inconsistent with verbal behavior-usually the nonverbal behavior is very negative while the verbal behavior might be positive. Nonverbal behavior may alienate the student from other group members.
-- ,,... The student appears unaware of cultural differences in conducting discussions.
-- ,,... Talk is self-oriented-ul."
-- ,,... Work is done by individuals; there is little attempt at teaming or collaboration.
 
 #### **Trait 4: Language**
 
-#### **High**
+ **High**
+- The student uses precise vocabulary and economical syntax. Words and syntax are purposefully chosen to make a point
+- The student uses language that others in the group will understand.
+- The student defines or clearly explains language or concepts that might be unfamiliar to others; the student knows when such explanations might be necessary.
 
-- ,,... The student uses precise vocabulary and economical syntax. Words and syntax are purposefully chosen to make a point
-- ,,... The student uses language that others in the group will understand.
-- ,,... The student defines or clearly explains language or concepts that might be unfamiliar to others; the student knows when such explanations might be necessary.
-
-#### **Medium**
-
-- ,,... The student uses general vocabulary and tends to express ideas wordily.
-- ,,... Although correct, language might not be equally understandable to all members of the group.
-
-- ,,... The student uses language that others in the group are unlikely to understand.
-- ,,... Ideas appear disproportionately lengthy and are difficult to follow.
-- ,,... Language choices are vague, abstract, or trite. Jargon may be used when more precise language is needed.
+ **Medium**
+-  The student uses general vocabulary and tends to express ideas wordily.
+-  Although correct, language might not be equally understandable to all members of the group.
+-  The student uses language that others in the group are unlikely to understand.
+-  Ideas appear disproportionately lengthy and are difficult to follow.
+-  Language choices are vague, abstract, or trite. Jargon may be used when more precise language is needed.
 
 SOURCE: © 1999, Assessment Training Institute, Portland, OR; 503-228-3060. Used with permission. Condensed from: (1) David Harris, *Assessing Discussion of Public Issues: A Scoring Guide,* in Ronald Evans and David Warren Saxe (Eds.) *Handbook on Teaching Social Issues,* NCSS Bulletin 93, 1996; (2) Alberta Education, *Oral Communication Evaluation: English 30/33 Activities and Scoring Guides,*  Learning Resources Distributing Center, 12360 142nd St., Edmonton, Alberta T5L 4X9, 1992; (3) John Zola, *Scored Discussions, Social Education,* February 1992, pp. 121-125; (4) *History-Social Science, Grade 11,* California Learning Assessment System, California Department of Education, P.O. Box 944272, Sacramento, California 94244; (5) Paula Usrey, Group Discussion Member Rubric, NWREL, 503-275-9500, 1998; (6) Kansas State Department of Education, *State Assessment-Social Studies,*  1995; (7) Oregon Department of Education, *Collaborate Scoring Guide,* July 1994.
 
-#### **GENERAL CONCEPTUAL UNDERSTANDING RUBRIC**
-
-<span id="page-177-0"></span>Conceptual understanding is the extent to which students understand the content to be learned.
+### **GENERAL CONCEPTUAL UNDERSTANDING RUBRIC**
+CConceptual understanding is the extent to which students understand the content to be learned.
 
 High: A high score in conceptual understanding means that the student shows an accurate and extensive understanding of the topic. This can be shown in many ways, including:
-
-- '"\* Correct and precise use of terminology
-- ,,... Precise selection of the pieces of information required to make a point (no more, no less)
-- ,., Correct and appropriate use of examples and counterexamples
-- "'\* Few errors in information
-- "'\* Connections made to other, related topics
-- '"\* Demonstration of which distinctions are important to make
-- "\* Key concepts identified and addressed
-- "'\* A relevant focus sustained throughout the work
-- "'\* Relevant use of a diagram or graph; knows when such things will aid understanding
-- "'\* Concise explanations that are to the point
+-  Correct and precise use of terminology
+-  Precise selection of the pieces of information required to make a point (no more, no less)
+-  Correct and appropriate use of examples and counterexamples
+-  Few errors in information
+-  Connections made to other, related topics
+-  Demonstration of which distinctions are important to make
+-  Key concepts identified and addressed
+-  A relevant focus sustained throughout the work
+-  Relevant use of a diagram or graph; knows when such things will aid understanding
+-  Concise explanations that are to the point
 
 Medium: A medium score in conceptual understanding means that the student presents some important information, but there is a sense that the student is only about halfway home in terms of understanding. Performance is indicated by:
-
-- "'\* Reasonably clear ideas, but the readers needs to make some guesses as to what the student meant
-- ,,. Even though a general point is made, the student hasn't fine-tuned the topic
-- "'\* Some parts of the work seem repetitive
-- ,. The balance in the work seems a little off
-- ,., Some vocabulary is used well, some is not
-- "'\* Some examples and graphics are appropriate, some aren't
-- "'\* Sometimes the student seems to know which concepts and points are most important and telling; other times not
-- ,,. Information seems to be based on retelling rather than the student making his or her own connections
-- "'\* The focus tends to shift
+- Reasonably clear ideas, but the readers needs to make some guesses as to what the student meant
+- Even though a general point is made, the student hasn't fine-tuned the topic
+- Some parts of the work seem repetitive
+- The balance in the work seems a little off
+- Some vocabulary is used well, some is not
+- Some examples and graphics are appropriate, some aren't
+- Sometimes the student seems to know which concepts and points are most important and telling; other times not
+- Information seems to be based on retelling rather than the student making his or her own connections
+- The focus tends to shift
 
 SOURCE:© 2000, Assessment Training Institute, Portland, OR; 503-228-3060. Used with permission.
 
 Low: A low score in conceptual understanding indicates that the student is still searching for the connections that will make the content meaningful. Weak performance is indicated by such things as:
-
-- ~~• Ideas are extremely limited or hard to understand, even when the reader tries to draw inferences based on what is there
-- ~~• The text may be repetitious or read like a collection of disconnected, random thoughts
-- , .. Information is inaccurate
-- ~~• Terminology is used incorrectly
-- 11• There is little sense of which information is most important
-- ~~• Visual displays, when used, are not helpful or unrelated to any points the student is trying to make
+- Ideas are extremely limited or hard to understand, even when the reader tries to draw inferences based on what is there
+- The text may be repetitious or read like a collection of disconnected, random thoughts
+- Information is inaccurate
+- Terminology is used incorrectly
+- There is little sense of which information is most important
+- Visual displays, when used, are not helpful or unrelated to any points the student is trying to make
 
 SOURCE:© 2000, Assessment Training Institute, Portland, OR; 503-228-3060. Used with permission.
 
-#### **ON-DEMAND SPEAKING**
+### **ON-DEMAND SPEAKING**
 
 #### **Content**
-
-<span id="page-179-0"></span>The content rating focuses on the specific things which are said. It is concerned with the amount of content related to the task, the relevance of the content to the task and the adaptation of the content to the listener and the situation.
-
+The content rating focuses on the specific things which are said. It is concerned with the amount of content related to the task, the relevance of the content to the task and the adaptation of the content to the listener and the situation.
 - 1 =The delivery is **inadequate** in meeting the requirements of the task.
 	- The speaker says practically nothing.
 	- The speaker focuses primarily on irrelevant content.
@@ -4178,9 +4044,7 @@ SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission
 SOURCE: © 1983, Massachusetts Department of Education. Reprinted with permission from *Development of the State Speaking Assessment Instrument: Reliability and Feasibility Study, 1983* and *Reliability and Feasibility Study, 1982,* State of Massachusetts, Department of Education, 350 Main Street, Malden, Massachusetts 02148.
 
 #### **ORGANIZATION**
-
 The organization rating focuses on how the content of the message is structured. It is concerned with sequence and the relationships among the ideas in the message.
-
 - 1 = The organization is inadequate in meeting the requirements of the task. Examples are:
 	- The message is so disorganized that you cannot understand most of the message.
 - 2 = The organization is minimal in meeting the requirements of the task. Examples are:
@@ -4201,9 +4065,7 @@ The organization rating focuses on how the content of the message is structured.
 SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission from *Development of the State Speaking Assessment Instrument: Reliability and Feasibility Study, 1983* and *Reliability and Feasibility Study, 1982,* State of Massachusetts, Department of Education, 350 Main Street, Malden, Massachusetts 02148.
 
 #### **DELIVERY**
-
 The delivery rating focuses on the transmission of the message. It is concerned with *volume, rate,* and *articulation.* Articulation refers to pronunciation and enunciation. Some examples of poor articulation include mumbling, slurring words, stammering, stuttering, and exhibiting disfluencies such as "ahs," "uhms," or "you knows."
-
 - 1 = The delivery is inadequate in meeting the requirements of the task. Examples are:
 	- The volume is so low that you cannot understand most of the message.
 	- The rate is so fast that you cannot understand most of the message.
@@ -4234,9 +4096,7 @@ SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission
 SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission from *Development of the State Speaking Assessment Instrument: Reliability and Feasibility Study, 1983* and *Reliability and Feasibility Study, 1982,* State of Massachusetts, Department of Education, 350 Main Street, Malden, Massachusetts 02148.
 
 #### **LANGUAGE**
-
-<span id="page-184-0"></span>The language rating deals with the language which is used to convey the message. It is concerned with *grammar* and *choice of words.* 
-
+The language rating deals with the language which is used to convey the message. It is concerned with *grammar* and *choice of words.* 
 - 1 = The language is inadequate in meeting the requirements of the task.
 	- The grammar and vocabulary are so poor that you cannot understand most of the message.
 - 2 = The language is minimal in meeting the requirements of the task.
@@ -4253,9 +4113,8 @@ SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission
 
 SOURCE:© 1983, Massachusetts Department of Education. Reprinted with permission from *Development of the State Speaking Assessment Instrument: Reliability and Feasibility Study, 1983* and *Reliability and Feasibility Study, 1982,* State of Massachusetts, Department of Education, 350 Main Street, Malden, Massachusetts 02148.
 
-#### **ASSESSING "INTELLECTUAL QUALITY" OF STUDENT WORK**
-
-<span id="page-185-0"></span>In order to understand the rubric, you need a little context. In the booklet from which these rubrics come, the authors' premise is that innovative teaching techniques (e.g., cooperative learning, group discussions, hands-on experiments, and videos) do not guarantee a change in the "intellectual quality" of what students are asked to do. For example, "a portfolio that shows a variety of student work over a semester might replace the final exam taken in one sitting, but the portfolio itself could be filled with tasks" devoted to remembering and listing isolated bits of information. Thus, the merit of any teaching technique should be judged by its ability to improve the "intellectual quality" of student performance.
+### **ASSESSING "INTELLECTUAL QUALITY" OF STUDENT WORK**
+In order to understand the rubric, you need a little context. In the booklet from which these rubrics come, the authors' premise is that innovative teaching techniques (e.g., cooperative learning, group discussions, hands-on experiments, and videos) do not guarantee a change in the "intellectual quality" of what students are asked to do. For example, "a portfolio that shows a variety of student work over a semester might replace the final exam taken in one sitting, but the portfolio itself could be filled with tasks" devoted to remembering and listing isolated bits of information. Thus, the merit of any teaching technique should be judged by its ability to improve the "intellectual quality" of student performance.
 
 Therefore, in the booklet, the authors attempt to define "intellectual quality," and then use this definition to develop three sets of rubrics: to judge the intellectual quality of the school work students are asked to perform, the intellectual quality of assessment tasks given to students, and the intellectual quality of student work that results from the tasks.
 
@@ -4273,7 +4132,7 @@ These three standards are applied in different ways to the three sets of rubrics
 
 SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, F., Secade, W., & Wehlager, G. *A Guide to Authentic Instruction and Assessment.* Used with permission.
 
-#### **PART Ill: STUDENT PERFORMANCE**
+### **PART Ill: STUDENT PERFORMANCE**
 
 #### Overview and General Rules
 
@@ -4291,7 +4150,7 @@ D. When it is difficult to decide between two scores (e.g., a 2 or a 3), give th
 
 #### **Mathematics**
 
-#### Mathematics Standard 1: Analysis
+##### Mathematics Standard 1: Analysis
 
 Student performance demonstrates thinking with mathematical content by organizing, synthesizing, interpreting, hypothesizing, describing patterns, making models or simulations, constructing mathematical arguments, or inventing procedures.
 
@@ -4310,7 +4169,7 @@ There are two guiding questions here: First, has the student demonstrated mathem
 
 Example: If no work was shown and 3/4 of the questions were judged to require analysis to get the right answer, and the student did all of those correctly, she or he would score a 3 on this scale. On the other hand, if the student got them all wrong, he or she would get a 1. In short, the scorer should estimate the percent of the total task that the number of correctly answered analytic questions comprised.
 
-#### Mathematics Standard 2: Disciplinary Concepts
+##### Mathematics Standard 2: Disciplinary Concepts
 
 Student performance demonstrates an understanding of important mathematical ideas that goes beyond application of algorithms by elaborating definitions, making connections to other mathematical concepts, or making connections to other disciplines.
 
@@ -4329,7 +4188,7 @@ Completion of the task is not necessary to score high.
 - 2 = There is some evidence that the student understands the mathematical concepts that are central to the task. Where the student uses appropriate mathematical concepts, the application of those concepts is flawed or incomplete.
 - 1 = There is little or no evidence that the student understands the mathematical concepts that are central to the task, or the mathematical concepts that are used are totally inappropriate to the task, or they are applied in inappropriate ways.
 
-#### *Mathematics Standard 3: Elaborated Written Communication*
+##### *Mathematics Standard 3: Elaborated Written Communication*
 
 Student performance demonstrates a concise, logical, and well articulated explanation or argument that justifies the mathematical work.
 
@@ -4347,9 +4206,9 @@ SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, E, Secade, W., &
 
 SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, F., Secade, W., & Wehlager, G. *A Guide to Authentic Instruction and Assessment.* Used with permission.
 
-#### <span id="page-190-0"></span>**Soda/ Studies**
+#### *Social Studies**
 
-#### Social Studies Standard 1: Analysis
+##### Social Studies Standard 1: Analysis
 
 Student performance demonstrates higher order thinking with social studies content by organizing, synthesizing, interpreting, evaluating, and hypothesizing to produce comparisons/ contrasts, arguments, application of information to new contexts, and consideration of different ideas or points of view.
 
@@ -4366,7 +4225,7 @@ SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, E, Secade, W., &
 
 In scoring analysis, the proportion of work that illustrates analysis is more important than the actual number of statements indicating analysis.
 
-#### Social Studies Standard 2: Disciplinary Concepts
+##### Social Studies Standard 2: Disciplinary Concepts
 
 Student performance demonstrates an understanding of ideas, concepts, theories, and principles from the social disciplines and civic life by using them to interpret and explain specific, concrete information or events.
 
@@ -4385,7 +4244,7 @@ SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, F., Secade, W., 
 
 The score for social studies Disciplinary Concepts should be based on the quality of use of social studies concepts, not on the proportion of student work that reflects social studies concepts.
 
-#### Social Studies Standard 3: Elaborated Written Communication
+##### Social Studies Standard 3: Elaborated Written Communication
 
 Student performance demonstrates an elaborated account that is clear, coherent, and provides richness in details, qualifications, and argument. The standard could be met by elaborated consideration of alternative points of view.
 
@@ -4400,9 +4259,9 @@ When a task includes several parts, the score for elaboration should be based on
 
 SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, E, Secade, W., & Wehlager, G. *A Guide to Authentic Instruction and Assessment.* Used with permission.
 
-#### **RUBRICS FOR INFORMATION-PROCESSING STANDARDS**
+### **RUBRICS FOR INFORMATION-PROCESSING STANDARDS**
 
-- <span id="page-193-0"></span>A. Effectively interprets and synthesizes information.
+- A. Effectively interprets and synthesizes information.
 	- 4 Interprets the information gathered for a task in accurate and highly insightful ways. Provides a highly creative and unique synthesis of the information.
 	- 3 Accurately interprets information gathered for a task and concisely synthesizes it.
 	- 2 Makes significanterrors in interpreting the information gathered for a task or synthesizes the information imprecisely or awkwardly.
@@ -4413,14 +4272,11 @@ SOURCE:© 1995, University of Wisconsin, Madison. From Newmann, E, Secade, W., &
 	- 2 Fails to use some significant information-gathering techniques and information resources necessary to complete the task.
 	- 1 Fails to use the most important information-gathering techniques or the major information resources necessary to complete the task.
 
-#### C. Accurately assesses the value of information.
-
-- 4 Analyzes information in detail, accurately and insightfully determining whether it is credible and relevent to a specific task.
-- 3 Accurately determines whether information is credible and relevant to a specific task.
-- 2 Makes some significant errors in determining whether information is credible and relevant to a specific task.
-- 1 Makes little or no attempt to determine whether information is credible and relevant to a specific task or totally misjudges the relevance and credibility of information.
-
-SOURCE:© 1993. McREL. Used with permission.
+- C. Accurately assesses the value of information.
+   - 4 Analyzes information in detail, accurately and insightfully determining whether it is credible and relevent to a specific task.
+   - 3 Accurately determines whether information is credible and relevant to a specific task.
+   - 2 Makes some significant errors in determining whether information is credible and relevant to a specific task.
+   - 1 Makes little or no attempt to determine whether information is credible and relevant to a specific task or totally misjudges the relevance and credibility of information.
 
 - D. Recognizes where and how projects would benefit from additional information.
 	- 4 Insightfully determines the types of information that will benefit a task and effectively seeks out that information.
@@ -4428,11 +4284,12 @@ SOURCE:© 1993. McREL. Used with permission.
 	- 2 Does not accurately assess the information needs of the task or fails to seek out needed information.
 	- 1 Makes little or no attempt to assess whether a task would benefit from additional information.
 
-SOURCE: ©1993 McREL. Used with permission.
+SOURCE:© 1993. McREL. Used with permission.
 
-# **Glossary**
 
-<span id="page-195-0"></span>So, what's in a word? A lot of confusion iffolks are using terminology differently. Therefore, we present the following glossary of definitions *for the terms we use in this book.* Remember that there is not 100% agreement on some of these definitions. Regardless of whether or not you like *our* definitions, it is important to establish common agreement among your colleagues on the meaning of the terms *you* use.
+## **Glossary**
+
+So, what's in a word? A lot of confusion iffolks are using terminology differently. Therefore, we present the following glossary of definitions *for the terms we use in this book.* Remember that there is not 100% agreement on some of these definitions. Regardless of whether or not you like *our* definitions, it is important to establish common agreement among your colleagues on the meaning of the terms *you* use.
 
 Analytical trait scoring-Scoring procedure in which performances are evaluated for selected traits, with each trait receiving a separate score. For example, a piece of writing may be evaluated according to organization, use of details, attention to audience, and language usage/mechanics. Trait scores may be weighted and/ or totaled. (see *Holistic* and *Primary Trait Scoring)* 
 
@@ -4444,7 +4301,7 @@ Authentic-Refers to assessment tasks that elicit demonstrations of knowledge and
 
 Bias and distortion-Factors, unrelated to the skill being assessed, that interfere with a valid inference regarding a student's true ability. For example, too much reading on a mathematics test might result in a distorted vision of a student's mastery of mathematics content. (see *Reliability* and *Validity)* 
 
-<span id="page-196-0"></span>Constructed response-Assessment questions that require a student to produce a response rather than selecting it from a list. For example, essays, reports, oral presentations, reading fluency, open-ended mathematics problems, and so forth.
+Constructed response-Assessment questions that require a student to produce a response rather than selecting it from a list. For example, essays, reports, oral presentations, reading fluency, open-ended mathematics problems, and so forth.
 
 Content standard-Goal statement identifying the knowledge, skills, and dispositions to be developed through instruction. (see *Target)* 
 
@@ -4464,11 +4321,7 @@ Norm-referenced-Describing a student's performance by comparison to other, simil
 
 Performance assessment-Assessment activity that requires students to construct a response, create a product, or perform a demonstration. Since performance assessments generally do not yield a single correct answer or solution method, evaluations of student products or performances are based on judgments guided by criteria. (see *Assessment, Criteria,* and *Task)* 
 
-Performance list-Scoring guide consisting of designated criteria but without descriptive details. For example, a performance list for writing might contain six features: ideas, organization, voice, word choice, sentence fluency,
-
-#### <span id="page-197-0"></span>*Glossary*
-
-and conventions. Unlike a rubric, a performance list merely provides a set of features without defining the terms or providing indicators of quality. (see *Anchor, Criteria, Rubric,* and *Scoring guide)* 
+Performance list-Scoring guide consisting of designated criteria but without descriptive details. For example, a performance list for writing might contain six features: ideas, organization, voice, word choice, sentence fluency,and conventions. Unlike a rubric, a performance list merely provides a set of features without defining the terms or providing indicators of quality. (see *Anchor, Criteria, Rubric,* and *Scoring guide)* 
 
 Performance standard-An established level of achievement, quality of performance, or degree of proficiency. Performance standards specify how well students are expected to achieve or perform. (see *Anchor* and *Content standard)* 
 
@@ -4484,7 +4337,7 @@ Scoring guide-Generic term for a criterion-based tool used in judging performanc
 
 Standardized-Set of consistent procedures for constructing, administering, and scoring an assessment. The goal of standardization is to ensure that all students are assessed under uniform conditions so that interpretation of their performance is comparable and not influenced by differing conditions. Both norm-referenced and criterion-referenced assessments can be standardized.
 
-Task-Assessment exercise involving students in producing a response, product or performance (e.g., solving a mathematics problem, conducting a laboratory in science, or writing a paper). Since tasks are associated with per<span id="page-198-0"></span>formance assessments, many are complex and open-ended, requiring responses to a challenging question or problem. However, there can be simple performance tasks, such as reading aloud to measure reading rate. Tasks don't have to be exclusively used as stand-alone activities that occur at the end of instruction; teachers can observe students working on tasks during the course of regular instruction in order to provide ongoing feedback. (see *Assessment*  and *Test)* 
+Task-Assessment exercise involving students in producing a response, product or performance (e.g., solving a mathematics problem, conducting a laboratory in science, or writing a paper). Since tasks are associated with performance assessments, many are complex and open-ended, requiring responses to a challenging question or problem. However, there can be simple performance tasks, such as reading aloud to measure reading rate. Tasks don't have to be exclusively used as stand-alone activities that occur at the end of instruction; teachers can observe students working on tasks during the course of regular instruction in order to provide ongoing feedback. (see *Assessment*  and *Test)* 
 
 Target (as in "learning target")-Statement of what we want students to know and be able to do. (see *Content standard)* 
 
@@ -4496,20 +4349,17 @@ Validity-Indication of how well an assessment measures what it was intended to m
 
 ## **References and Further Readings**
 
-#### <span id="page-199-0"></span>**Chapter 1**
-
+### **Chapter 1**
 Stiggins, R. (2001). *Student-involved classroom assessment* (3rd ed.). New York: Merrill.
 
-#### **Chapter2**
-
+### **Chapter2**
 - Blum, R., &Arter, J. (Eds.). (1996).A *handbook for student performance assessment in an era of restructuring* (Section VI). (Available from ASCD, 1250 N. Pitt, Alexandria, VA 22314; telephone 800-933-2723)
 - Illinois State Board of Education. (1995). *Effective scoring rubrics-A guide to their development and use.* (Available from Illinois State Board of Education, 100 N. First Street, Springfield, IL 62777)
 - Perlman, C. (1998). *The CPS performance assessment idea book.* (Available from Chicago Public Schools, 1819 W. Pershing Road, Chicago, IL 60609)
 - Rogers, S., & Graham, S. (1998). *The high performance toolbox.* (Available from Peak Learning Systems, 6784 S. Olympus Drive, Evergreen, CO 90349)
 - Wiggins, G. (1998). *Educative assessment.* San Francisco: Jossey-Bass.
 
-#### **Chapter 3**
-
+### **Chapter 3**
 - Goldberg, Gail, Maryland Department of Education; telephone 410-767-0100.
 - Blum, R., &Arter, J. (Eds.). (1996).A *handbook for student performance assessment in an era of restructuring* (Section VI). Alexandria, VA: ASCD.
 - Illinois State Board of Education. (1995). *Effective scoring rubrics-A guide to their development and use.* Springfield: Author.
@@ -4517,13 +4367,11 @@ Stiggins, R. (2001). *Student-involved classroom assessment* (3rd ed.). New York
 - Taggart, G. L., Phifer, S. *].,* Nixon,]. A., & Wood, M. (Eds.) (1998). *Rubrics-A handbook for construction and use.* Lancaster, PA: Technomic.
 - Wiggins, G. (1998). *Educative assessment.* San Francisco: Jossey-Bass.
 
-#### **ChapterS**
-
+### **ChapterS**
 - Guskey, T. (Ed.). (1996). *ASCD year book 1996-Communicating student learning.* Alexandria, VA: Association for Supervision and Curriculum Development.
 - O'Connor, K. (1999).How *togradeforlearning.Arlington* Heights, IL: Skylight.
 
-#### **Chapter6**
-
+### **Chapter6**
 NWREL. (1999). *Seeing with new eyes* (Video). lOX; telephone 310-822-3225. NWREI:s Six-Trait web site:<http://www.nwrel.org/eval/writing>
 
 Spandel, V. (2001). *Creating writers.* NewYork: Longman.
@@ -4531,72 +4379,35 @@ Spandel, V. (2001). *Creating writers.* NewYork: Longman.
 - Span del, V., & Culham, R. (1996). *Writingfrom the inside out* (Video). lOX; telephone 310-822-3275.
 - Spandel, V., & Culham, R. (1999). *Seeing with new eyes.* NWREL; telephone 503-275-9500.
 
-# **Index**
-
-<span id="page-201-0"></span>Absolute scale approach, [76](#page-92-0)  Analytical rubrics, [18-21](#page-34-0)  Assessing "Intellectual Quality" of Student work, [97,](#page-113-0) [169-176](#page-185-0)  ATI Group Discussion, [97,](#page-113-0) [157-160](#page-173-0)  Central Kitsap Mathematics, [96](#page-112-0)  Central Kitsap Mathematics Rubric, [69-70,](#page-85-0) [101-107](#page-117-0)  lllinois Mathematics, [96,](#page-112-0) [108-109](#page-124-0)  Juneau Primary Reading Developmental Continuum, [71,](#page-87-0) [96,](#page-112-0) [112-117](#page-128-0)  Maryland Language Usage, [29,](#page-45-0) [97](#page-113-0)  Massachusetts Oral Presentation, [97](#page-113-0)  NWREL Informational Reading, [96](#page-112-0)  NWREL Mathematics, [96,](#page-112-0) [110-](#page-126-0)[111](#page-127-0)  NWRELSix-Trait+ 1 rubric, [97,](#page-113-0) [130-143](#page-146-0)  Oregon Reading, [96,](#page-112-0) [121-125](#page-137-0)  strengths/weaknesses, [22-25](#page-38-0)  trait-scoring systems for, [41-43](#page-57-0) value-neutral trait definitions, [43](#page-59-0)  Anchor, [179](#page-195-0) Arguments/refutation, [129](#page-145-0) Art work assessments, [6-7](#page-22-0)  *Assessing Outcomes: Performance Assessment Using the Dimensions of Learning Model,* [36](#page-52-0)  Assessment methods, [2-3](#page-18-0)  authenticity of, [179](#page-195-0)  constructed response, [3](#page-19-0) definition, [179](#page-195-0) evaluation of, [180](#page-196-0)  selected response/short answer, [2.](#page-18-0) *See also* Metarubrics Assessment Training Institute. *See* ATI Group Discussion
-
+## **Index**
+Absolute scale approach, [76](#page-92-0)  Analytical rubrics, [18-21](#page-34-0)  Assessing "Intellectual Quality" of Student work, [97,](#page-113-0) [169-176](#page-185-0)  ATI Group Discussion, [97,](#page-113-0) [157-160](#page-173-0)  Central Kitsap Mathematics, [96](#page-112-0)  Central Kitsap Mathematics Rubric, [69-70,](#page-85-0) [101-107](#page-117-0)  lllinois Mathematics, [96,](#page-112-0) [108-109](#page-124-0)  Juneau Primary Reading Developmental Continuum, [71,](#page-87-0) [96,](#page-112-0) [112-117](#page-128-0)  Maryland Language Usage, [29,](#page-45-0) [97](#page-113-0)  Massachusetts Oral Presentation, [97](#page-113-0)  NWREL Informational Reading, [96](#page-112-0)  NWREL Mathematics, [96,](#page-112-0) [110-](#page-126-0)[111](#page-127-0)  NWRELSix-Trait+ 1 rubric, [97,](#page-113-0) [130-143](#page-146-0)  Oregon Reading, [96,](#page-112-0) [121-125](#page-137-0)  strengths/weaknesses, [22-25](#page-38-0)  trait-scoring systems for, [41-43](#page-57-0) value-neutral trait definitions, [43](#page-59-0)  Anchor, [179](#page-195-0) Arguments/refutation, [129](#page-145-0) Art work assessments, [6-7](#page-22-0)  *Assessing Outcomes: Performance Assessment Using the Dimensions of Learning Model,* [36](#page-52-0)  Assessment methods, [2-3](#page-18-0)  authenticity of, [179](#page-195-0)  constructed response, [3](#page-19-0) definition, [179](#page-195-0) evaluation of, [180](#page-196-0)  selected response/short answer, [2.](#page-18-0) *See also* Metarubrics Assessment Training Institute. *See* ATI Group Discussion
 ATI Group Discussion rubric, [97,](#page-113-0)  [157-160](#page-173-0) 
-
 Bias/ distortion, [179](#page-195-0)  Bulletin boards, [84](#page-100-0)  Business letter rubric, [58-60,](#page-74-0) [68](#page-84-0) 
-
 California Mathematics rubric, [29,](#page-45-0) [96,](#page-112-0)  [98-100](#page-114-0)  Central Kitsap Mathematics Rubric, [69-70,](#page-85-0) [96,](#page-112-0) [101-107](#page-117-0)  Checklists, [5-6](#page-21-0)  Chicago Public Schools, [36](#page-52-0) Clarity traits, [48-49,](#page-64-0) [60-66](#page-76-0)  Communication: California Mathematics rubric and, [98-100](#page-114-0)  Central Kitsap Mathematics Rubric and, [106-107](#page-122-0)  Illinois Mathematics rubric, [108-109](#page-124-0)  NWRELMathematics rubric, [110-111](#page-126-0)  Conceptual understanding, [161-162](#page-177-0)  Constructed responses, [2-3,](#page-18-0) [181](#page-197-0) Content/coverage traits, [46-47,](#page-62-0) [53-60](#page-69-0) ATI Group Discussion rubric and, [157](#page-173-0)  McREL Rubric for Information-Processing Standards, [177-178](#page-193-0) standard for, [181](#page-197-0)  *CPS Performance Assessment Idea Book, The[,36](#page-52-0)*  Creativity: California Mathematics rubric and, [98](#page-114-0)  rubrics and, [61](#page-77-0)
-
 Criterion-references, [181](#page-197-0)  Critical thinking: Oregon Reading rubric and, [121-125](#page-137-0)  strategies for teaching writing traits, [84-93](#page-100-0) 
-
 Debate, [131.](#page-147-0) *See also* Oral communication Delivery skills. *See* Oral communication Developing writer stage,[147-153](#page-163-0)  Dispositions, [181](#page-197-0)  Distortion, [180](#page-196-0) 
-
 Emergent readers. *See* Reading rubrics Emergent writer stage, [145-146](#page-161-0)  Essay tests, [3](#page-19-0) Evaluation of rubric. *See* Metarubrics
-
 General Conceptual Understanding Rubric, [97,](#page-113-0) [161-162](#page-177-0)  Generic (general) rubrics, [24,](#page-40-0) [26-28,](#page-42-0) [181](#page-197-0)  Grading, [77-81](#page-93-0)  rubric conversion to, [73-74,](#page-89-0)[78-80](#page-94-0)  score points and, [31](#page-47-0)  *Great Tasks and More!,* [36](#page-52-0)  Group interaction: ATI Group Discussion rubric, [97,](#page-113-0) [157-160](#page-173-0)  clarity trait of, [62](#page-78-0)  rubric for, [9](#page-25-0) teaching strategy of writing traits by, [91-](#page-107-0) [92.](#page-108-0) *See also* Oral communication
-
 Holistic rubrics, [18-19,](#page-34-0) [21](#page-37-0)  California Mathematics, [29,](#page-45-0) [96,](#page-112-0) [98-100](#page-114-0)  General Conceptual Understanding, [97,](#page-113-0)  [161-162](#page-177-0)  Maryland Language Usage, [29,](#page-45-0) [97,](#page-113-0) [126](#page-142-0)  scoring of, [181](#page-197-0)  strengths/weaknesses, [21-22,](#page-37-0) [24-25](#page-40-0)  Wauwatosa Developmental Continuum, [29](#page-45-0),[97,](#page-113-0)[144-156](#page-160-0)
-
 Illinois Mathematics rubric, [96,](#page-112-0) [108-109](#page-124-0)  *Improving Classroom Assessment: A Toolkit for Professional Developers,* [36](#page-52-0) Independent writer stage, [154-156](#page-170-0)  Information processing, [64](#page-80-0)  Informative scoring guide, [128](#page-144-0)
-
 Juneau Primary Reading Developmental Continuum, [71,](#page-87-0) [112-117](#page-128-0) 
-
 KIRIS Grade 12 Mathematics Rubric, [67-68](#page-83-0) 
-
 Language: ATI Group Discussion rubric and, [158](#page-174-0)  Maryland Scoring Rubric for Language in Use, [97,126](#page-113-0) Massachusetts Oral Presentation rubric, [168](#page-184-0)  oral presentation rubric and, [57](#page-73-0) teaching criteria, [84-86](#page-100-0)  usability in rubrics and, [51](#page-67-0)  Letter grading. *See* Grading
-
 Maryland Scoring Rubric for Language in Use, [29,](#page-45-0) [97,](#page-113-0) [126](#page-142-0)  Marzano, Robert, [36](#page-52-0)  Massachusetts Oral Presentation rubric, [97,](#page-113-0)  [163-168](#page-179-0) score points of, [29](#page-45-0) Mathematics assessments: analytical rubric for, [19](#page-35-0)  California Mathematics rubric, [96,](#page-112-0) [98-100](#page-114-0) Central Kitsap Mathematics Rubric, [69-](#page-85-0) [70,](#page-86-0) [96,](#page-112-0) [101-107](#page-117-0)  examples of attributes for, [39-40,](#page-55-0) [42](#page-58-0)  Illinois Mathematics rubric, [96,](#page-112-0) [108-109](#page-124-0)  NWREL Informational Reading rubric, [118-120](#page-134-0)  NWREL Mathematics rubric, [96,](#page-112-0) [110-111](#page-126-0)  rubric evaluation and, [67-68](#page-83-0)  McREL Rubric for Library Research, [97](#page-113-0)  McTighe, Jay, [36](#page-52-0) Metarubrics: clarity trait, [48-49,](#page-64-0) [60-66](#page-76-0)  content/coverage trait, [46-47,](#page-62-0) [53-60](#page-69-0) practicality/usability trait, [49-50,](#page-65-0) [66-69](#page-82-0)  technical quality trait, [50-53,](#page-66-0) [69-71](#page-85-0)  Multiple choice responses, [2](#page-18-0) Musical instruments, [3](#page-19-0)
-
 NAEP Primary Trait rubrics, [27,](#page-43-0) [97,](#page-113-0) [127-129](#page-143-0)  Narrative scoring guide, [128](#page-144-0)  National Assessment of Educational Progress, [27,](#page-43-0) [97,](#page-113-0) [127-129](#page-143-0)
-
-#### 186
-
-#### *Index*
-
 National Council of Supervisors of Mathematics, [36](#page-52-0)  Negativity: rubric evaluation and, [51](#page-67-0)  in scaling, [38](#page-54-0) Norm-referenced, [181](#page-197-0) Northwest Regional Educational Laboratory (NWREL). *See NWREL entries*  NWREL Informational Reading rubric, [96,](#page-112-0)  [118-120](#page-134-0)  NWREL Mathematics rubric, [96,](#page-112-0) [110-111](#page-126-0)  NWREL Six-Trait+ 1 rubric (student version),[97,](#page-113-0) [132](#page-148-0),[134](#page-150-0),[136](#page-152-0),[138,](#page-154-0)[140,](#page-156-0)[142](#page-158-0)  NWREL Six-Trait+ 1 rubric (teacher version), [97,](#page-113-0) [130-131,](#page-146-0) [133,](#page-149-0) [135,](#page-151-0) [137,](#page-153-0) [139,](#page-155-0)  [141,](#page-157-0) [143](#page-159-0)  Objective test items. *See* Selected response/ short answers On-Demand Speaking Rubric, [97,](#page-113-0) [163-164](#page-179-0)  Oral communication: assessment of, [2](#page-18-0) clarity trait of, [63-64](#page-79-0) Massachusetts Oral Presentation rubric, [97,](#page-113-0) [163-168](#page-179-0)  On-Demand Speaking Rubric, [97,](#page-113-0) [163-164](#page-179-0)  rubric evaluation and, [54,](#page-70-0) [56-58.](#page-72-0) *See also*  Communication Oregon Reading rubric, [96,](#page-112-0) [121-125](#page-137-0)  Organizational skills: constructed response assessments and,[3](#page-19-0) Massachusetts Oral Presentation rubric, [163](#page-179-0) 
-
 Peer-assessment, [83-93.](#page-99-0) *See also* Students Performance criteria: benefits for students, [12-14,](#page-28-0) [16](#page-32-0)  benefits for teachers, [16](#page-32-0)  checklists/performance lists and, [5-8](#page-21-0)  consistency in scoring through, [8-10](#page-24-0)  definition, [3-4](#page-19-0)  definitions, [181](#page-197-0)  elucidating, [83](#page-99-0)  grading, [77-81](#page-93-0)  how to identify, [33-36](#page-49-0) importance of, [11,](#page-27-0) [14](#page-30-0)  improved instruction through, [10-12](#page-26-0)  need for, [2-3](#page-18-0)  for parents, [15](#page-31-0) 
-
 setting standards, [7 4-77](#page-90-0)  social studies, [97,](#page-113-0) [169-170,](#page-185-0) [174-176](#page-190-0)  and standards-based education, [15-16,](#page-31-0) [182](#page-198-0)  Performance lists, [6-8,](#page-22-0) [181-182](#page-197-0) Persuasive scoring guide, [129](#page-145-0)  Physical skills: analytical rubrics and, [23](#page-39-0)  assessment lists for, [5](#page-21-0) assessment of, [2](#page-18-0)  task-specific rubrics and, [29](#page-45-0)  Pickering, Debra, [36](#page-52-0)  Practicality/usability traits, [49-50,](#page-65-0) [66-69](#page-82-0)  Prewriter stage, [144](#page-160-0) Primary trait scoring, [182](#page-198-0)  Problem solving: Central Kitsap Mathematics Rubric and, [104-105](#page-120-0)  rubric evaluation and, [63](#page-79-0) 
-
 Reading rate: assessment of, [2](#page-18-0)  performance criteria for, [4](#page-20-0)  Reading rubrics: Juneau Primary Reading Developmental Continuum, [71,](#page-87-0) [112-117](#page-128-0) NWREL Informational Reading, [96](#page-112-0)  NWREL Informational Reading rubric, [118-120](#page-134-0) Oregon Reading rubric, [96,](#page-112-0) [121-125](#page-137-0) Reasoning, [158](#page-174-0)  Regional Educational Laboratories, [36](#page-52-0)  Relative scale approach, [76-77](#page-92-0)  Reliability, [182](#page-198-0)  Research, [64](#page-80-0)  Rubrics: analytical rubrics, [18-21](#page-34-0)  ATI Group Discussion, [97,](#page-113-0) [157-160](#page-173-0)  California Mathematics, [96,](#page-112-0) [98-100](#page-114-0)  Central Kitsap Mathematics, [96,](#page-112-0) [102-107](#page-118-0)  conversion to grading, [73-74,](#page-89-0) [78-'80](#page-94-0)  creativity and, [61](#page-77-0)  definition, [8,](#page-24-0) [182](#page-198-0)  evaluating quality of. *See* Metarubrics examples of developmental attributes, [39-40](#page-55-0) generic, [24,](#page-40-0) [26-28](#page-42-0)  holistic rubrics, [18-19,](#page-34-0) [21-22](#page-37-0)  identification of performance criteria for, [33-36](#page-49-0)  Illinois Mathematics, [96,](#page-112-0) [108-109](#page-124-0)
-
 Juneau Primary Reading Developmental Continuum, [112-117](#page-128-0)  length of, [66](#page-82-0)  Maryland Scoring Rubric for Language in Use, [97,](#page-113-0) [126](#page-142-0)  Massachusetts Oral Presentation, [97](#page-113-0) McREL Rubric for Library Research, [97](#page-113-0)  NAEP Primary Trait, [127-129](#page-143-0)  number of score points for, [29-31](#page-45-0)  NWREL Informational Reading, [96,](#page-112-0) [118-120](#page-134-0)  NWREL Mathematics, [96,](#page-112-0) [110-111](#page-126-0)  NWRELSix-Trait+ 1 rubric, [97,](#page-113-0)[130-143](#page-146-0)  on-demand speaking, [97,](#page-113-0) [163-164](#page-179-0)  Oregon Reading, [96,](#page-112-0) [121-125](#page-137-0)  primary trait, [21](#page-37-0)  science, [179](#page-195-0)  sources for, [36](#page-52-0) task-specific, [24,](#page-40-0) [25](#page-41-0) Thinking Skills in Mathematics (U ofWis.), [97](#page-113-0)  Thinking Skills in Social Studies (U ofWis.), [97](#page-113-0)  Wauwatosa Developmental Continuum in Writing, [97,](#page-113-0)[144-156.](#page-160-0) *See also* Analytical rubrics; Holistic rubrics; Six-Trait WritingRubric Scales of rubrics, [29-31](#page-45-0),[75-77](#page-91-0)  Scoring consistency, [8-10](#page-24-0)  choosing method for, [29-31](#page-45-0)  informative scoring guide, [128](#page-144-0)  Maryland Scoring Rubric for Language in Use, [97,](#page-113-0) [126](#page-142-0)  narrative scoring guide, [127](#page-143-0)  persuasive scoring guide, [129](#page-145-0)  task-specific rubrics and, [28-29](#page-44-0)  Scoring guide, [182](#page-198-0)  Selected response/short answers, [2,](#page-18-0) [182](#page-198-0) Self-assessment, [83](#page-99-0) Central Kitsap Mathematics Rubric and, [102-107](#page-118-0) Self-reflection, [39-40,](#page-55-0) [42](#page-58-0)  Short answers. *See* Selected response *I* short answers
-
 Silverdale, Washington. *See* Central Kitsap Mathematics Rubric Six-Trait Model: clarity trait of, [64-65](#page-80-0)  content/ coverage trait of, [60](#page-76-0)  technical quality trait of, [70](#page-86-0)  usability trait of, [68-69](#page-84-0) 
-
 Six-Trait Writing rubric, [20,](#page-36-0) [29,](#page-45-0) [31.](#page-47-0) *See also the NWREL entries*  Social studies rubric, [97](#page-113-0) Speaking skills. *See* Group interaction; Oral communication Standards-based education, [15-16](#page-31-0)  Students: analytical rubrics and, [22](#page-38-0)  benefits of performance criteria for, [12-14](#page-28-0)  and generic rubrics, [27](#page-43-0) identification of performance criteria via, [34](#page-50-0) identification of trait definitions via, [43](#page-59-0) performance criteria awareness for, [83](#page-99-0) performance criteria made public for, [15](#page-31-0)  rubric development and, [36-40](#page-52-0) Subjectiveness, [2](#page-18-0) Task-specific rubrics, [24,](#page-40-0) [26,](#page-42-0) [28-29](#page-44-0)  definitions,[182-183](#page-198-0)  Teachers: analytical rubrics and, [22](#page-38-0) benefits of performance criteria for, [8-12](#page-24-0) confidence of, [10](#page-26-0)  and generic rubrics, [26-28](#page-42-0)  performance criteria made public for, [15](#page-31-0)  sample student work and, [36-38,](#page-52-0) [43](#page-59-0)  strategies for teaching writing traits, [84-](#page-100-0) [93,](#page-109-0)[85-86](#page-101-0) variance of grading and, [80](#page-96-0) Teaching. *See* Instruction Technical quality traits, [50-53,](#page-66-0) [69-71](#page-85-0) 
-
 Thinking Skills in Social Studies and Mathematics rubric, [97](#page-113-0)  Traits, [41-43.](#page-57-0) *See also* Analytical rubrics True-false responses, [2](#page-18-0) 
-
 Usability traits. *See* Practicality/usability traits
-
-#### Validity, [183](#page-199-0)
-
+Validity, [183](#page-199-0)
 Wauwatosa Developmental Continuum in Writing, [29,](#page-45-0) [97,](#page-113-0) [144-156](#page-160-0)  Writing: assessment lists for, [5](#page-21-0)  assessment of, [2](#page-18-0) effect of process of assessing on, [10](#page-26-0) 
-
-#### *Index*
-
 essay tests, [3](#page-19-0) informative scoring guide, [130](#page-146-0)  NAEP Primary Trait rubrics, [129-131](#page-145-0)  narrative scoring guide, [129](#page-145-0)  NWREL Six-Trait+ 1 rubric (student version),[97,](#page-113-0) [132](#page-148-0),[134](#page-150-0),[136](#page-152-0),[138](#page-154-0),[140](#page-156-0),[142](#page-158-0) NWREL Six-Trait+ 1 rubric (teacher version), [97,](#page-113-0) [130-131](#page-146-0), [133,](#page-149-0) [135,](#page-151-0) [137,](#page-153-0) [139,](#page-155-0)  [141,](#page-157-0) [143](#page-159-0)  persuasive scoring guide, [129](#page-145-0)  teaching strategy of focused revision, [88,](#page-104-0) [90-91](#page-106-0)  teaching strategy of languages, [85-88,](#page-101-0) [90-93](#page-106-0)  teaching strategy of model revision, [91-92](#page-107-0) 
-
 teaching strategy of reading/ scoring, [88,](#page-104-0)  [90-91](#page-106-0)  teaching strategy of using language of traits, [92-93](#page-108-0)  Writing assessments: analytical rubric for, [20](#page-36-0)  analytical rubrics and, [23](#page-39-0)  business letter rubric, [58-60,](#page-74-0) [68](#page-84-0)  examples of attributes for, [39-40,](#page-55-0) [42](#page-58-0)  rubric evaluation and, [54-55](#page-70-0)  Wauwatosa Developmental Continuum in Writing, [97,](#page-113-0) [144-156](#page-160-0)  Writing rubrics: Maryland Scoring Rubric for Language in Use, [97,](#page-113-0) [126](#page-142-0) 
-
 This page intentionally left blank
-
 ![](_page_207_Picture_0.jpeg)
-
 The Corwin Press logo-a raven striding across an open book-represents the happy union of courage and learning. We are a professional-level publisher of books and journals for K-12 educators, and we are committed to creating and providing resources that embody these qualities. Corwin's motto is "Success for All Learners."
