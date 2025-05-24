@@ -2,7 +2,6 @@ import re
 import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-# Load the Markdown content
 with open(
     r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\CoreTextbooks\measure_and_assess_teaching\measurement_and_assement_in_teaching.MD",
     "r",
@@ -10,7 +9,6 @@ with open(
 ) as f:
     markdown_text = f.read()
 
-# Initialize text splitter with 10-word overlap
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=300,
     chunk_overlap=10,
@@ -18,7 +16,6 @@ text_splitter = RecursiveCharacterTextSplitter(
     separators=["\n\n", "\n", " ", ""],
 )
 
-# Updated Regex patterns to match new structure
 source_pattern = r"^# (.+)"
 book_section_pattern = r"^## (.+)"
 chapter_pattern = r"^### (.+)"
@@ -27,7 +24,6 @@ subsection_pattern = r"^##### (.+)"
 page_pattern = r"\*\*Page (\d+)\*\*"
 table_pattern = r"\*\*TABLE-[^\*]+\*\*"
 
-# Tracking variables
 chunks = []
 chunk_id_counter = 1
 current_source = None
@@ -91,7 +87,6 @@ def flush_current_text():
         current_text_lines = []
 
 
-# Process line by line
 lines = markdown_text.splitlines()
 i = 0
 while i < len(lines):
