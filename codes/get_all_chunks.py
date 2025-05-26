@@ -24,7 +24,7 @@ def load_chunks_from_folder(folder_path):
     return all_chunks
 
 
-def get_all_books_chunks():
+def get_all_course_chunks():
     all_chunks = []
 
     researcharticle_chunks = load_chunks_from_folder(
