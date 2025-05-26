@@ -307,13 +307,14 @@ Constructs are the traits or characteristics a test is designed to measure (AERA
 In assessment terminology, a construct is simply the trait or characteristic thatla testis designed tolmeasure. For example, achievement is a construct that reflects an individual's knowledge or accomplishments
 
 **TABLE-1.2 Norm- Criterion-Referenced Scores**
-| Score Type of  Score        | Description                                                                | Example                                            |
-|  Norm-referenced score      | An examinee's performance is compared to that of other people.             | An examinee earns a percentile the meaning that of 50, rank   
-|                             | Interpretation is relative to that  of other people                        | of the than 50% eS better standardization in the individuals sample.                    
-                           |  |
-| scores Criterion-referenced | performance is examinee's An of specified level a compared to performance. | of answers 50% correctly student A test. items on a the                                                            |  |
-|                                | absolute (not Interpretation is relative).                                                   | examinee an licensing exam, a On the cut greater than score obtains a score and receives a passing score. |  |
-
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Score Type of  Score        | Description                                                                | Example                                                                       |
+|  Norm-referenced score      | An examinee's performance is compared to that of other people.             | An examinee earns a percentile the meaning that of 50, rank                   |
+|                             | Interpretation is relative to that  of other people                        | of the than 50% eS better standardization in the individuals sample.          |           
+| Criterion-referenced scores | An examinee's performance is compared aof specified level of  performance. | A student correctly answers 50% of the items on test                          |
+|                             | Interpretation isabsolute (not relative).                                  | On a licensing exam the examinee obtains a score greater than the cut score   |
+|                             |                                                                            | and receives a passing score                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 in areas in which they have received instruction (AERA et al., 1999). In schools we are often interested in measuring a number of constructs, such as a student's intelligence, achievement in a specific content area, or attitude toward learning. This assumption simply acknowledges that constructs such as intelligence, achievement, or attitudes exist.
@@ -376,16 +377,18 @@ Although many people might initially argue that the elimination of all tests wou
 These assumptions are listed in Table 1.3. As we noted, these seemingly simple as sumptions represent some complex and controversial issues, and there is considerable debate regarding the pros and cons of testing and assessment. Many of the controversies surround ing the use of tests are the results of misunderstandings and misuses of tests. As noted in assumption 3 in Table 1.3, tests and all other assessment procedures contain some degree of measurement error. Tests are not perfect and they should not be interpreted as if they were perfect. However, this limitation is not limited to psychological and educational measure ment; all measurement is subject to error. Chemistry, physics, and engineering all struggle with imperfect, error-laden measurement that is always, to some extent, limiting advance ment in the disciplines. An example most of us can relate to involves the medical profession. There is error in medical assessment procedures such as blood pressure tests or tests of blood cholesterol level, but they still provide useful information. The same is true of educational assessment procedures. They are not perfect, but they still provide useful information. While you probably will not hear anyone proclaim that there should be a ban on the use of medical
 
 **TABLE-1.3 Assumptions of Educational Assessment**
-- . Psychological and educational constructs exist.
-- . Psychological and educational constructs can be measured.
-- . Although we can measure constructs, our measurement is not perfect.
-- . There are different ways to measure any given construct.
--   All assessment procedures have strengths and limitations.
-- . Multiple sources of information should be part of the assessment process.
-- . Performance on tests can be generalized to nontest behaviors.
-- . Assessment can provide information that helps educators make better educational decisions.
-- . Assessments can be conducted in a fair manner.
-- SeCmMmIAMEWNE . Testing and assessment can benefit our educational institutions and society as a whole. 1
+|---------------------------------------------------------------------------------------------------------------|
+| - . Psychological and educational constructs exist.                                                           |
+| - . Psychological and educational constructs can be measured.                                                 |
+| - . Although we can measure constructs, our measurement is not perfect.                                       |
+| - . There are different ways to measure any given construct.                                                  |
+| -   All assessment procedures have strengths and limitations.                                                 |
+| - . Multiple sources of information should be part of the assessment process.                                 | 
+| - . Performance on tests can be generalized to nontest behaviors.                                             | 
+| - . Assessment can provide information that helps educators make better educational decisions.                |
+| - . Assessments can be conducted in a fair manner.                                                            |
+| -  Testing and assessment can benefit our educational institutions and society as a whole. 1                  |
+|---------------------------------------------------------------------------------------------------------------|
 
 tests, you will hear critics of educational and psychological testing call for a ban on, or at least a significant reduction in, the use of tests. Although educational tests are not perfect (and never will be), testing experts spend considerable time and effort studying the measurement characteristics of tests. This process allows us to determine how accurate and reliable tests are, can provide guidelines for their appropriate interpretation and use, and can result in the development of more accurate assessment procedures (e.g., Friedenberg, 1995).
 
@@ -548,13 +551,15 @@ Although this listing of common applications of testing and assessment is clearl
 So far in this chapter we have discussed the central concepts related to educational assessment and some of the many applications of assessment in today's schools. We will now elaborate on what teachers need to know about educational testing and assessment. First we want to 22 CHAPTER
 
 **TABLE-1.4 Common Applications of Educational Assessments**
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Type of Application                                   | Examples                                                                                                                                                   |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Student evaluations                                   | Summative evaluation (e.g., assigning grades) Formative evaluation (e.g., providing feedback)                                                           |
-| Instructional decisions                               | Placement assessment (e.g., sizing up) Diagnostic assessment (detecting cognitive strengths and weaknesses) Feedback on effectiveness of instruction |
-| Selection, placement, and classification decisions | College admission decisions Assigning students to remedial, regular, or honors programs Determining eligibility for special education services       |
+| Student evaluations                                   | Summative evaluation (e.g., assigning grades) Formative evaluation (e.g., providing feedback)                                                              |
+| Instructional decisions                               | Placement assessment (e.g., sizing up) Diagnostic assessment (detecting cognitive strengths and weaknesses) Feedback on effectiveness of instruction       |
+| Selection, placement, and classification decisions    | College admission decisions Assigning students to remedial, regular, or honors programs Determining eligibility for special education services             |
 | Policy decisions                                      | Evaluating curriculum and instructional practices                                                                                                          |
 | Counseling and guidance decisions                     | Promote self-understanding and help students plan for the future                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 emphasize our recognition that most teachers will not make psychometrics their focus of study. However, because assessment plays such a prominent role in schools and teachers devote so much of their time to assessment-related activities, there are some basic competencies that all teachers should master. In fact in 1990 the American Federation of Teachers, the National Council on Measurement in Education, and the National Education Association collaborated to develop a document titled Standards for Teacher Competence in Educational Assessment of Students. In the following section we will briefly review these competencies (this document is reproduced in its entirety in Appendix E). Where appropriate, we will identify which chapters in this text are most closely linked to specific competencies.
@@ -880,20 +885,22 @@ Table 2.1 gives examples of common nominal, ordinal, interval, and ratio scales 
 
 
 **TABLE-2.1 Common Nominal, Ordinal, Interval, and Ratio Scales**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Scale    | Example                                                                      | Sample Scores                                                                                                  |
 |----------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Nominal  | Gender of participant                                                        | Females="1 Male = 2                                                                                         |
-|          | Ethnicity                                                                    | African American =   Caucasian = 2 Hispanic American = 3 Native American = 4 Asian American = 5 |
-|          | Place of birth                                                               | Northeast = 1 Southeast = 2 Midwest = 3 Southwest = 4 Northwest = 5 Pacific = 6              |
-| Ordinal  | Preference for activity                                                      | 1 = Most preferred 2 = Intermediate preferred 3 = Least preferred                                        |
-|          | Graduation class rank                                                        | 1 = Valedictorian 2 = Salutatorian 3 = Third Rank Etc.                                                |
-|          | Percentile rank                                                              | 99th Percentile 98th Percentile 97th Percentile Etc.                                                  |
+| Nominal  | Gender of participant                                                        | Females="1 Male = 2                                                                                            |
+|          | Ethnicity                                                                    | African American =   Caucasian = 2 Hispanic American = 3 Native American = 4 Asian American = 5                |
+|          | Place of birth                                                               | Northeast = 1 Southeast = 2 Midwest = 3 Southwest = 4 Northwest = 5 Pacific = 6                                |
+| Ordinal  | Preference for activity                                                      | 1 = Most preferred 2 = Intermediate preferred 3 = Least preferred                                              |
+|          | Graduation class rank                                                        | 1 = Valedictorian 2 = Salutatorian 3 = Third Rank Etc.                                                         |
+|          | Percentile rank                                                              | 99th Percentile 98th Percentile 97th Percentile Etc.                                                           |
 | Interval | Intelligence scores                                                          | Intelligence quotient of 100                                                                                   |
 |          | Personality test scores                                                      | Depression score of 75                                                                                         |
 |          | Graduate Record Exam                                                         | Verbal score of 550                                                                                            |
 | Ratio    | Height in inches                                                             | 60 inches tall                                                                                                 |
 |          | Weight in pounds                                                             | 100 pounds                                                                                                     |
-|          | Percent correct on classroom test ESS Se TLE TEE DEERE TLE | 100% sivas] ECE secon Rs SAS Lk ned Sane a Cie                                   |
+|          | Percent correct on classroom test ESS Se TLE TEE DEERE TLE                   | 100% sivas] ECE secon Rs SAS Lk ned Sane a Cie                                                                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 and ratio scales being the most sophisticated and providing the most information. Nominal scales allow you to assign a number to a person that associates that person with a set or category, but other useful quantitative properties are missing. Ordinal scales have all the positive properties of nominal scales with the addition of the ability to rank people according to the amount of a characteristic they possess. Interval scales have all the positive properties of ordinal scales and also incorporate equal scale units. The inclusion of equal scale units allows one to make relative statements regarding scores (e.g., the difference between a score of 82 and a score of 84 is the same as the difference between a score of 92 and 94). Finally, ratio scales have all of the positive properties of an interval scale with the addition of an absolute zero point. The inclusion of an absolute zero point allows us to form meaningful ratios between scores (e.g., a score of 50 reflects twice the amount of the characteristic as a score of 25). Although these scales do form a hierarchy, this does not mean the lower scales are of little or no use. If you want to categorize students according to their academic major, a nominal scale is clearly appropriate. Accordingly, if you simply want to rank people according to height, an ordinal scale would be adequate and appropriate. However, in most measurement situations you want to use the scale that provides the most information. Special Interest Topic 2.1 elaborates on technical distinctions among the four scales of measurement.
@@ -926,44 +933,64 @@ Note: While these technical guidelines are widely accepted, there is not univers
 some situations there are so many possible scores that it is not practical to list each potential score individually. In these situations it is common to use a grouped frequency distribution. In grouped frequency distributions the possible scores are "combined" or "grouped" into class intervals that encompass a range of possible scores. Table 2.4 presents a grouped
 
 **TABLE-2.2 Distribution of Scores for 20 Students TABLE 2.3 Ungrouped Frequency Distribution**
+| Student      | Homework Scores |
+|--------------|-----------------|
+| Cindy        | 7               | 
+| Tommy        | 8               | 
+| Paula        | 9               | 
+| Steven       | 6               | 
+| Angela       | 7               | 
+| Robert       | 6               |
+| Kim          | 10              | 
+| Kevin        | 8               | 
+| Randy        | 5               | 
+| Charles      | 9               |
+| Hada         | 9               | 
+| Shawn        | 9               |     
+| Koren        | 8               |
+| Paul         | 4               | 
+| Teresa       | 5               |
+| Freddie      | 6               | 
+| Tammy        | 7               | 
+| Shelly       | 8               | 
+| Carol        | 8               | 
+| Johnny       | 7               |
+| Mean = 7.3   |                 | 
+| Median = 7.5 |                 |
+|--------------------------------| 
 
-| Student      | Homework Scores | Score                  | Frequency                                   |
-|--------------|-----------------|------------------------|---------------------------------------------|
-| Cindy        | fl              | 10                     | 1                                           |
-| Tommy        | 8               | 9                      | 4                                           |
-| Paula        | 9               | 8                      | 5                                           |
-| Steven       | 6               | 7                      | 4                                           |
-| Angela       | u               | 6                      | 3                                           |
-| Robert       | 6               | 5                      | 2                                           |
-| Kim          | 10              | 4                      | l                                           |
-| Kevin        | 8               | mee                    |                                             |
-| Randy        |                 | Note: This reflects | the same distribution of scores depicted in |
-| Charles      | 2 9          | Table 2.2.             |                                             |
-| Hada         | 9               | TABLE 2.4              | Grouped Frequency Distribution              |
-| Shawn        | 9               |                        |                                             |
-| Koren        | 8               | Class Interval         | Frequency                                   |
-| Paul         | 4               | 125-129                | 6                                           |
-| Teresa       | 5               | 120-124                | 14                                          |
-| Freddie      | 6               | 115-119                | 17                                          |
-| Tammy        | 7               | 110-114                | 23                                          |
-| Shelly       | 8               | 105-109                | 27                                          |
-| Carol        | 8               | 100-104                | 42                                          |
-| Johnny       | 7               | 95-99                  | 39                                          |
-| Mean = 7.3   |                 | 90-94                  | 25                                          |
-| Median = 7.5 |                 | 85-89                  | ON                                          |
-| i blah    | OSE             | 80-84                  | 17                                          |
-|              | IEE             | 75-79                  | 13                                          |
 
-| mee |  |
-|-----|--|
+**TABLE-2.3 Ungrouped Frequency Distribution**
+|----------------------------------------------------------------------|
+| Score                  | Frequency                                   |
+|------------------------|---------------------------------------------|
+| 10                     | 1                                           |
+| 9                      | 4                                           |
+| 8                      | 5                                           |
+| 7                      | 4                                           |
+| 6                      | 3                                           |
+| 5                      | 2                                           |
+| 4                      | l                                           |
+|----------------------------------------------------------------------|
+
+**TABLE-2.4 Grouped Frequency Distribution**
+|----------------------------------------------------------------------|
+| Class Interval         | Frequency                                   |
+| 125-129                | 6                                           |
+| 120-124                | 14                                          |
+| 115-119                | 17                                          |
+| 110-114                | 23                                          |
+| 105-109                | 27                                          |
+| 100-104                | 42                                          |
+| 95-99                  | 39                                          |
+| 90-94                  | 25                                          |
+| 85-89                  | 22                                          |
+| 80-84                  | 17                                          |        
+| 75-79                  | 13                                          |
+|----------------------------------------------------------------------|
 
 Note: This reflects the same distribution of scores depicted in
 
-| OSE        |               |    |
-|------------|---------------|----|
-| IEE ERE | 75-79         | 13 |
-|            | SEAR 70-74 | 2) |
-|            |               |    |
 
 Note: This presents a grouped frequency distribution of 250 hy pothetical scores that are grouped into class intervals that incorporate five score values.
 
@@ -1100,33 +1127,33 @@ Choosing between the Range, Standard Deviation, and Variance. As we noted, the r
 | The discussion and formulas provided in this chapter are those used in descriptive statistics. In inferential statistics when the population variance is estimated from a sample, the N in the denominator is replaced with N — 1.
 
 **TABLE-2.5 Calculating the Standard Deviation and Variance**
+|------------------------------------------------------------------------------------------------------|
 | Student Scores        | Difference (Score — Mean) | Difference Squared                               |
 |-----------------------|---------------------------|--------------------------------------------------|
-|                       | 73) = (7 —0.3       | 0.09                                             |
-|                       | 07 (8 7.3) =        | 0.49                                             |
-|                       | 73) = (9 Ly,        | 2.89                                             |
-|                       | 73) = (6 -1.3       | 1.69                                             |
-|                       | 7 7.3) = —0.3       | 0.09                                             |
-| ON te 'o.oo           | (6 7.3) = -1.3      | 1.69                                             |
-| = (=)                 | D7 (10 7.3) =       | De?                                              |
-|                       | 73) = (8 0.7        | 0.49                                             |
-|                       | (5 —2.3 7.3) =      | 5:29                                             |
-|                       | LY (9 7.3) =        | 2.89                                             |
-|                       | hy (9 7.3) =        | 2.89                                             |
-|                       | (9 7.3) = Mey,      | 2.89                                             |
-|                       | (8 7.3) = 0.7       | 0.49                                             |
-|                       | (4 7.3) = —3.3      | 10.89                                            |
-|                       | 73) = (5 —2.3       | 529                                              |
-|                       | (6 —1.3 7.3) =      | 1.69                                             |
-|                       | (7 —0.3 7.3) =      | 0.09                                             |
-|                       | (8 7.3) = 0.7       | 0.49                                             |
-| nan                   | (8 7.3) = 0.7       | 0.49                                             |
-| SIroo UO OtrC © | 73) = 0.3 (7        | 0.09                                             |
-| Sum 146 =       |                           | Sum 48.2                                      |
-| Mean i] (es           |                           | Variance 48.2/(n) 48.2/20 = 2.41        |
-|                       |                           | \ Variance Standard Deviation 2.41 1.55 |
-
-TABLE 2.5 Calculating the Standard Deviation and Variance
+|     7                 | (7-7.3) = —0.3            | 0.09                                             |
+|     8                 | (8-7.3) = 0.7             | 0.49                                             |
+|     9                 | (9-7.3) = 1.7             | 2.89                                             |
+|     6                 | (6-7.3) = -1.3            | 1.69                                             |
+|     7                 | (7-7.3) = —0.3            | 0.09                                             |
+|     6                 | (6 7.3) = -1.3            | 1.69                                             |
+|     10                | (10-7.3) = 3.3            | 7.29                                             |
+|     8                 | (8-7.3) = 1.3             | 0.49                                             |
+|     5                 | (5-7.3) = —2.3            | 5:29                                             |
+|     9                 | (9-7.3) = 2.3             | 2.89                                             |
+|     9                 | (9-7.3) = 2.3             | 2.89                                             |
+|     9                 | (9-7.3) = 2.3             | 2.89                                             |
+|     8                 | (8 7.3) = 0.7             | 0.49                                             |
+|     4                 | (4 7.3) = —3.3            | 10.89                                            |
+|     5                 | (5-7.3) = -2.3            | 5.29                                             |
+|     6                 | (6-7.3) = -1.3            | 1.69                                             |
+|     7                 | (7-7.3) = —0.3            | 0.09                                             |
+|     8                 | (8-7.3) = 0.7             | 0.49                                             |
+|     8                 | (8-7.3) = 0.7             | 0.49                                             |
+|     7                 | (7-7.3) = —0.3            | 0.09                                             |
+|                       |                           | Sum 48.2                                         |
+|                       |                           | Variance 48.2/(n) 48.2/20 = 2.41                 |
+|                       |                           | \ Variance Standard Deviation 2.41 1.55          |
+|------------------------------------------------------------------------------------------------------|
 
 tance that scores vary from the mean of the distribution. The larger the standard deviation, the more variability there is in the distribution. The standard deviation is very useful in describing distributions and will be of particular importance when we turn our attention to the interpretation of scores in the next chapter. The variance is another important and use ful measure of variability. Because the variance is expressed in terms of squared measure ment units, it is not as useful in interpreting individual scores as is the standard deviation.
 
@@ -1190,7 +1217,7 @@ situations. Specific correlation coefficients are appropriate for specific situa
 
 correlation. The Pearson coefficient is appropriate when the variables being correlated are measured on an interval or ratio scale. Table 2.6 illustrates the calculation of the Pearson correlation coefficient. Although the formula for calculating a Pearson correlation may appear rather intimidating, it is not actually difficult, and we encourage you to review this section if you are interested in how these coefficients are calculated (or if your professor wants you to be familiar with the process). Spearman's rank correlation coefficient, another popular coef ficient, is used when the variables are measured on an ordinal scale. The point-biserial cor- relation coefficient is also widely used in test development when one variable is dichotomous (meaning only two scores are possible, e.g., pass or fail, 0 or 1, etc.) and the other variable is measured on an interval or ratio scale. A common application of the point-biserial cor relation is in calculating an item-total test score correlation. Here the dichotomous variable is the score on a single item (e.g., right or wrong) and the variable measured on an interval scale is the total test score. A large item-total correlation is taken as evidence that an item is measuring the same construct as the overall test measures.
 
-**TABLE 2.6 Calculating a Pearson Correlation Coefficient**
+
 
 There are different formulas for calculating a Pearson correlation coefficient and we will illustrate one of the simpler ones. For this illustration we will use the homework assignment scores we have used before as the X variable and another set of 20 hypothetical scores as the Y variable. The formula is: A) 3 NXXY — (2X)(2X)
 
@@ -1207,7 +1234,8 @@ Y = sumof Y scores
 X? = sum of squared X scores
 
 Y? = sum of squared Y scores
-
+**TABLE-2.6 Calculating a Pearson Correlation Coefficient**
+|------------------------------------------------------------------------------------------------ |
 | Homework 1 (X) | x2                            | Homework 2 (Y) | Y?            | (X)(Y)        |
 |----------------|-------------------------------|----------------|---------------|---------------|
 | Hh             | 49                            | 8              | 64            | 56            |
@@ -1230,16 +1258,14 @@ Y? = sum of squared Y scores
 | 8              | 64                            | 9              | 81            | 2             |
 | 8              | 64                            | 8              | 64            | 64            |
 | 7              | 49                            | 6              | 36            | 42            |
-| X = 146     | X? = 1,114                 | e=ai43         | Y2 = 1,067 | XY = 1,083 |
-|                | =e: 20(1,083) — (140)(143) |                |               |               |
-
-| Seem 20(1,083) — (140)(143)         |         |
-|----------------------------------------|---------|
-| (201,114) - (146 /20(1,067) - (143° |         |
-| 21,660 — 20,878                        | ___782  |
-| 22,280 — 21,316/21,340 — 20,449        | 964/891 |
-| 782                                    |         |
-| (31.048)(29.849)                       |         |
+| X = 146        | X(squared) = 1,114            | Y=143          | Y(squared) = 1,067 | XY = 1,083    |
+|--------------------------------------------------------------------------------------------------|
+$$
+r_{xy} = \frac{20(1{,}083) - (140)(143)}{\sqrt{20(1{,}114) - (146)^2} \cdot \sqrt{20(1{,}067) - (143)^2}} \\
+= \frac{21{,}660 - 20{,}878}{\sqrt{22{,}280 - 21{,}316} \cdot \sqrt{21{,}340 - 20{,}449}} \\
+= \frac{782}{\sqrt{964} \cdot \sqrt{891}} \\
+= \frac{782}{(31.048)(29.849)} = 0.843
+$$
 
 #### Correlation versus Causality
 
@@ -1256,10 +1282,6 @@ In this chapter we surveyed the basic mathematical concepts and procedures essen
 Nominal scale: a qualitative system for categorizing people or objects into categories. In nominal scales the categories are not ordered in a meaningful manner and do not convey quantitative information.
 
 Ordinal scale: a quantitative system that allows you to rank people or objects accord ing to the amount of a characteristic possessed. Ordinal scales provide quantitative information, but they do not ensure that the intervals between the ranks are consistent.
-
-'
-
-a
 
 **SPECIAL INTEREST TOPIC. 2.4 Caution: Drawing Conclusions of Causality**
 
@@ -1327,46 +1349,79 @@ This site is great for sports enthusiasts! It provides access This is the Global
 #### PRACTICE ITEMS
 
 1. Calculate the mean, variance, and standard deviation for the following score distributions. For these exercises, use the formulas listed in Table 2.5 for calculating variance and standard deviation.
+ Distributions
 
-| Distribution 1       | Distribution 2 | Distribution 3                        |  |
-|----------------------|----------------|---------------------------------------|--|
-| 10                   | 10             |                                       |  |
-| 10                   |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                |                                       |  |
-|                      |                | NNwWHhPhANAMAD FBPNWHRRUAMNNADAA>I |  |
-| VA AIANAN WO BBA COW | ADA DH ~ COO   | >) © OO                               |  |
-
-
-| Sample 1      |            | Sample 2   |            | Sample 3   |            |
-|---------------|------------|------------|------------|------------|------------|
-| Variable X | Variable Y | Variable X | Variable Y | Variable X | Variable Y |
-| 9             | 10         | 9          | LO ses  | 9          | i;         |
-| 10            | 9          | 9          | 9          | 9          | 7          |
-| 9             | 8          | 8          | 8          | 8          | 8          |
-| 8             | 4          | 8          | 7          | 8          | 5          |
-| 9             | 6          | a          | 5          | 7          | 4          |
-| 5             | 6          | i          | 5          | 7          | 3          |
-| 8}            | 6          | 6          | 4          | 6          | 5          |
-| Tl            | 5          | 6          | 3          | 6          | 5          |
-| 5             | 5          | 5          | 4          | 5          | 4          |
-| 4             | 5          | 5          | 5)         | 5          | 4          |
-| a             | 4          | 4          | 4          | 4          | 7          |
-| 3             | 4          | 4          | 3          | 4          | 8          |
-| 5)            | 3          | 3)         | 7          | 3          | 5          |
-| 6             | 2,         | p)         | 3          | 2          | 5          |
-| 5)            | 2          | 2}         | 2,         | 2          | 5          |
+| Distribution 1 | Distribution 2 | Distribution 3 |
+|----------------|----------------|----------------|
+| 10             | 10             | 9              |
+| 10             | 9              | 8              |
+| 9              | 8              | 7              |
+| 9              | 7              | 7              |
+| 8              | 6              | 6              |
+| 8              | 6              | 6              |
+| 7              | 5              | 5              |
+| 7              | 5              | 5              |
+| 6              | 4              | 4              |
+| 5              | 3              | 3              |
+| 4              | 2              | 2              |
+| 4              | 2              | 1              |
 
 2. Calculate the Pearson correlation coefficient for the following pairs of scores.
+### Sample Data for Pearson Correlation Coefficient
+ Sample 1
+| Variable X | Variable Y |
+|------------|------------|
+| 9          | 10         |
+| 10         | 9          |
+| 9          | 8          |
+| 8          | 7          |
+| 9          | 6          |
+| 7          | 6          |
+| 3          | 6          |
+| 4          | 5          |
+| 7          | 5          |
+| 3          | 4          |
+| 7          | 4          |
+| 3          | 3          |
+| 6          | 2          |
+| 5          | 2          |
+
+ Sample 2
+| Variable X | Variable Y |
+|------------|------------|
+| 9          | 10         |
+| 9          | 9          |
+| 8          | 8          |
+| 8          | 7          |
+| 7          | 5          |
+| 7          | 5          |
+| 6          | 4          |
+| 5          | 4          |
+| 5          | 4          |
+| 4          | 3          |
+| 4          | 3          |
+| 3          | 2          |
+| 2          | 3          |
+| 2          | 2          |
+
+ Sample 3
+| Variable X | Variable Y |
+|------------|------------|
+| 9          | 7          |
+| 9          | 7          |
+| 8          | 8          |
+| 8          | 5          |
+| 7          | 4          |
+| 7          | 5          |
+| 6          | 5          |
+| 5          | 6          |
+| 5          | 4          |
+| 4          | 7          |
+| 4          | 8          |
+| 3          | 2          |
+| 2          | 5          |
+| 2          | 5          |
+
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter.
 
@@ -1647,7 +1702,9 @@ below the mean (exceeding only approximately 2% of the scores in the distributio
 
 Normalized Standard Scores. Discussion about standard scores thus far applies primarily to scores from distributions that are normal (or that at least approximate normality) and were computed using a linear transformation. As noted earlier, although it is commonly held that psychological and educational variables are normally distributed, this is not always the case. Many variables such as intelligence, memory skills, and academic achievement will closely approximate the normal distribution when well measured. However, many variables of interest in psychology and education, especially behavioral ones (€.g., aggression, attention, and hyperactivity), may deviate substantially from the normal distribution. As a result it is not unusual for test developers to end up with distributions that deviate from normality enough to cause concern. In these situations test developers may elect to develop normalized standard
 
-| Z-scores X=0 SD = 1                        | T-scores X = 50 SD = 10                     | IQ X = 100 SD = 15                | CEEB Scores X = 500 SD = 100 | Percentile Rank |
+**TABLE-3.2 Relationship of Different Standard Score Formats**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Z-scores X=0 SD = 1                                 | T-scores X = 50 SD = 10                           | IQ X = 100 SD = 15                            | CEEB Scores X = 500 SD = 100          | Percentile Rank    |
 |-----------------------------------------------------|---------------------------------------------------|-----------------------------------------------|---------------------------------------|--------------------|
 | 2.6                                                 | 76                                                | 139                                           | 760                                   | >99                |
 | 2.4                                                 | 74                                                | 136                                           | 740                                   | 99                 |
@@ -1673,11 +1730,10 @@ Normalized Standard Scores. Discussion about standard scores thus far applies pr
 | —1.6                                                | 34                                                | 76                                            | 340                                   | 5                  |
 | -1.8                                                | 32                                                | 3                                             | 320                                   | 4                  |
 | —2.0                                                | 30                                                | 70                                            | 300                                   | 2                  |
-| 2.2                                                 | 28                                                | 67                                            | 280                                   | 1                  |
-| 2.4                                                 | 26                                                | 64                                            | 260                                   | 1                  |
-| —2.6 be erent pcaagmeier aS aos reat | 24 a ks ee BR even SSIS simi: r | ASRS em appt 61 ab meee: _— SS | 240 cee art areca etre          | 1                  |
-
-TABLE 3.2 Relationship of Different Standard Score Formats
+| -2.2                                                | 28                                                | 67                                            | 280                                   | 1                  |
+| -2.4                                                | 26                                                | 64                                            | 260                                   | 1                  |
+| —2.6                                                | 24                                                | 61                                            | 240                                   | 1                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Note: X = mean, SD = standard deviation.
 
@@ -1874,22 +1930,23 @@ Although our discussion to this point has emphasized differences between norm-re
 A
 
 **TABLE-3.4 Characteristics of Norm-Referenced and Criterion-Referenced Scores**
-
-| Norm-Referenced                                                                                                                                   | Criterion-Referenced                                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Interpretations                                                                                                                                   | Interpretations                                                                                                                                                                             |
-| Compare performance to a specific reference group—                                                                                                | Compare performance to a specific level of                                                                                                                                                  |
-| a relative interpretation.                                                                                                                        | performance—an absolute interpretation.                                                                                                                                                     |
-| Useful interpretations require a relevant reference                                                                                               | Useful interpretations require a carefully defined                                                                                                                                          |
-| group.                                                                                                                                            | knowledge or skills domain.                                                                                                                                                                 |
-| Usually assess a fairly broad range of knowledge                                                                                                  | Usually assess a limited or narrow domain of                                                                                                                                                |
-| or skills.                                                                                                                                        | knowledge or skills.                                                                                                                                                                        |
-| Typically have only a limited number of items to measure each objective or skill.                                                              | Typically have several items to measure each test objective or skill.                                                                                         |
-| Items are selected that are of medium difficulty and                                                                                              | Items are selected that provide good coverage of                                                                                                                                            |
-| maximize variance; very difficult and very easy items                                                                                             | content domain; the difficulty of the items matches                                                                                                                                         |
-| are usually deleted.                                                                                                                              | the difficulty of content domain.                                                                                                                                                           |
-| Example: Percentile rank—a percentile rank of 80 indicates that the examinee scored better than 80% of the subjects in the reference group. | Example: Percentage correct—a percentage correct score of 80 indicates that the examinee successfully answered 80% of the test items. |
-|                                                                                                                                                   |                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Norm-Referenced                                                                      | Criterion-Referenced                                                      |
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Interpretations                                                                      | Interpretations                                                           |                                
+| Compare performance to a specific reference group—                                   | Compare performance to a specific level of                                |
+| a relative interpretation.                                                           | performance—an absolute interpretation.                                   |
+| Useful interpretations require a relevant reference                                  | Useful interpretations require a carefully defined                        |
+| group.                                                                               | knowledge or skills domain.                                               |
+| Usually assess a fairly broad range of knowledge                                     | Usually assess a limited or narrow domain of                              |
+| or skills.                                                                           | knowledge or skills.                                                      |
+| Typically have only a limited number of items to measure each objective or skill.    | Typically have several items to measure each test objective or skill      |
+| Items are selected that are of medium difficulty and                                 | Items are selected that provide good coverage of                          |
+| maximize variance; very difficult and very easy items                                | content domain; the difficulty of the items matches                       |
+| are usually deleted.                                                                 | the difficulty of content domain.                                         |
+| Example: Percentile rank—a percentile rank of 80 indicates that the examinee scored  | Example: Percentage correct—a percentage correct score of 80              |
+| better than 80% of the subjects in the reference group.                              |  indicates that the examinee successfully answered 80% of the test items. |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 tions, they are not mutually exclusive. Tests can be developed that provide both norm-referenced and criterion-referenced interpretations. Both interpretative approaches have positive characteristics and provide useful information (see Table 3.4). Whereas norm-referenced interpretations provide important information about how an examinee performed relative to a specified reference group, criterion-referenced interpretations provide important information about how well an examinee has mastered a specified knowledge or skills domain. It is possible, and sometimes desirable, for a test to produce both norm-referenced and criterion-referenced scores. For example, it would be possible to interpret a student's test performance as "by correctly answering 75% of the multiplication problems, the student scored better than 60% of the students in the class." Although the development of a test to provide both norm-referenced and criterion-referenced scores may require some compromises, the increased interpretative versatility may justify these compromises (e.g., Linn & Gronlund, 2000). As a result, some test publishers are beginning to produce more tests that provide both interpretative formats. Nevertheless, most tests are designed for either norm-referenced or criterion-referenced interpretations. Although the majority of published standardized tests are designed to produce norm-referenced interpretations, tests producing criterion-referenced interpretations play an extremely important role in educational and other settings.
 
@@ -1899,17 +1956,21 @@ Qualitative descriptions of test scores help professionals communicate results i
 
 Test developers commonly provide qualitative descriptions of the scores produced by their tests. These qualitative descriptors help professionals communicate results in written reports and other formats. For example, the Stanford-Binet Intelligence Scales, Fifth Edition (SB5) (Roid, 2003) provides the following qualitative descriptions:
 
+**TABLE-IQ and Classification**
+|------------------------------------------------------------------|
 | IQ                  | Classification                             |
 |---------------------|--------------------------------------------|
-| and above 145 | Advanced Highly Very Gifted or |
-| 130-144             | Advanced or Very Gifted           |
+| and above 145       | Advanced Highly Very Gifted or             |
+| 130-144             | Advanced or Very Gifted                    |
 | 120-129             | Superior                                   |
-| 110-119             | Average High                            |
+| 110-119             | Average High                               |
 | 90-109              | Average                                    |
-| 80-89               | Low Average                             |
-| 70-79               | Delayed Impaired or Borderline    |
-| 55-69               | or Delayed Impaired Mildly        |
-| 40-54               | Delayed Impaired or Moderately    |
+| 80-89               | Low Average                                |
+| 70-79               | Delayed Impaired or Borderline             |
+| 55-69               | or Delayed Impaired Mildly                 |
+| 40-54               | Delayed Impaired or Moderately             |
+|------------------------------------------------------------------|
+
 
 These qualitative descriptors help professionals communicate information about an examinee's performance in an accurate and consistent manner. That is, professionals using the SBS should consistently use these descriptors when describing test performance.
 
@@ -1991,12 +2052,12 @@ This Parents' Guide to Understanding the IQ Test Scores contains a good discussi
 
 2. Convert the following z-scores to T-scores and CEEB scores.
 
-| 1) z-SCOore =           | T-score | CEEB score      |
+| 1) z-SCOore =              | T-score | CEEB score      |
 |----------------------------|---------|-----------------|
-| . z-SCOre = -1.5        | T-score | CEEB score I |
-| 25 z-Score i]        | T-score | CEEB score      |
-| ae) - z-score = —2.0 | T-score | CEEB score      |
-| —1.70 z-SCOre =         | T-score | CEEB score      |
+| . z-SCOre = -1.5           | T-score | CEEB score I    |
+| 25 z-Score i]              | T-score | CEEB score      |
+| ae) - z-score = —2.0       | T-score | CEEB score      |
+| —1.70 z-SCOre =            | T-score | CEEB score      |
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter.
 
@@ -2137,16 +2198,18 @@ a single administration of a test (internal consistency coefficients). A fourth 
 attributable to true variance. For example, a reliability coefficient of 0.90 indicates that 90% of the variance in test scores is attributable to true variance. The remaining 10% reflects error variance. We will now consider each of these methods of estimating reliability.
 
 **TABLE-4.1 Major Types of Reliability**
-| Type of Reliability Estimate | Common Symbol | Number of Test Forms | Number of Testing Sessions | Summary eS ee ee ee                                                                                                                                                                                  |
-|---------------------------------------|------------------|-------------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Test-Retest                           | r19              | One form                   | Two sessions                     | Administer the same test to the same group at two different sessions.                                                                                                                       |
-| Alternate forms                       |                  |                               |                                     |                                                                                                                                                                                                                  |
-| Simultaneous administration        | hs               | Two forms                  | One session                      | Administer two forms of the test to the same group in the same session.                                                                                                   |
-| Delayed administration             | oe               | Two forms                  | Two sessions                     | Administer two forms of the test to the same group at two different sessions.                                                                                             |
-| Split-half                            | oy               | One form                   | One session                      | Administer the test to a group one time. Split the test into two equivalent halves, typically correlating scores on the odd numbered items with scores on the even-numbered items. |
-| Coefficient alpha or KR-20   | te               | One form                   | One session                      | Administer the test to a group one time. Apply appropriate procedures.                                                                                                             |
-| Inter-rater                           | F                | One form                   | One session                      | Administer the test to a group one time. Two or more raters score the test independently. PVs                                                                    |
-
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Type of Reliability Estimate                      | Common Symbol | Number of Test Forms   | Number of Testing Sessions   | Summary                                                                                 |
+|---------------------------------------------------|---------------|------------------------|------------------------------|-----------------------------------------------------------------------------------------|
+| Test-Retest                                       | r₁₂           | One form               | Two sessions                 | Administer the same test to the same group at two different sessions.                   |
+| Alternate forms  <br> Simultaneous administration | rₐb           | Two forms              | One session                  | Administer two forms of the test to the same group in the same session.                 |
+| Alternate forms  <br> Delayed administration      | rₐb           | Two forms              | Two sessions                 | Administer two forms of the test to the same group at two different sessions.           |
+| Split-half                                        | rₒₑ           | One form               | One session                  | Administer the test to a group one time. Split the test into two equivalent halves,     |
+|                                                   |               |                        |                              | typically correlating scores on the odd-numbered items with scores on the even-numbered | 
+|                                                   |               |                        |                              | items.                                                                                  |
+| Coefficient alpha or KR-20                        | rₓₓ           | One form               | One session                  | Administer the test to a group one time. Apply appropriate procedures.                  |
+| Inter-rater                                       | r             | One form               | One session                  | Administer the test to a group one time. Two or more raters score the test independently|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### Test-Retest Reliability
 
@@ -2225,7 +2288,8 @@ Coefficient Alpha and Kuder-Richardson Reliability. Other approaches to estimati
 by content sampling, but also reflect the heterogeneity of test content.
 
 to all the individual items on the test. Reliability estimates produced Coefficient alpha and Kuder- with these formulas can be thought of as the average of all possible Richardson reliability are split-half coefficients. Like split-half reliability, these estimates are sensitive to error introduced sensitive to measurement error introduced by content sampling. Additionally, they are also sensitive to the heterogeneity of the test content. When we refer to content heterogeneity, we are concerned with the degree to which the test items measure related characteristics. For example, our 25-item math test involving multiplying two-digit numbers would probably be more homogeneous than a test designed
-
+**TABLE- 4.2 Half-Test Coefficients and Corresponding Full-Test**
+|----------------------------------------------------|
 | Half-Test Correlation | Spearman-Brown Reliability |
 |-----------------------|----------------------------|
 | 0.50                  | 0.67                       |
@@ -2238,11 +2302,8 @@ to all the individual items on the test. Reliability estimates produced Coeffici
 | 0.85                  | 0.92                       |
 | 0.90                  | 0.95                       |
 | 0.95                  | 0.97                       |
-|                       | eee                        |
+|----------------------------------------------------|
 
-| TABLE 4.2 | Half-Test Coefficients and Corresponding Full-Test     |
-|-----------|--------------------------------------------------------|
-|           | Coefficients Corrected with the Spearman-Brown Formula |
 
 to measure both multiplication and division. An even more heterogeneous test would be one that involves multiplication and reading comprehension, two fairly dissimilar content domains. As discussed later, sensitivity to content heterogeneity can influence a particular reliability formula's use on different domains.
 
@@ -2258,7 +2319,7 @@ On some tests, inter-rater reliability is of little concern. For example, on a t
 
 > grader. However, for some tests inter-rater reliability is a major concern. Classroom essay tests are a classic example. It is common for students to feel that a different teacher might have assigned a different score to their essays. It can be argued that the teacher's personal biases, preferences, or mood influenced the score, not only the content and quality of the student's essay. Even on our 25-item math test, if the teacher required that the students "show their work" and this influenced the students' grades, subjective judgment might be involved and inter-rater reliability could be a concern.
 
-**TABLE-4.3 Calculating KR-20**
+**Calculating KR-20**
 
 KR-20 is sensitive to measurement error due to content sampling and is also a measure of item heterogeneity. KR-20 is applicable when test items are scored dichotomously, that is, simply right or wrong, as 0 or 1. The following formula is used for calculating KR-20:
 
@@ -2278,7 +2339,8 @@ P;,, = proportion of correct responses on item
 q, = proportion of incorrect responses on item
 
 Consider these data for a five-item test administered to six students. Each item could receive a score of either | or 0.
-
+**TABLE-4.3 Calculating KR-20**
+|---------------------------------------------------------------------------------------------|
 |           | Item 1 | Item 2 | Item 3 | Item 4       | Item 5       | Total Score            |
 |-----------|--------|--------|--------|--------------|--------------|------------------------|
 | Student 1 | 1      | 0      | 1      | 1            | 1            | 4                      |
@@ -2287,9 +2349,10 @@ Consider these data for a five-item test administered to six students. Each item
 | Student 4 | 0      | 0      | 0      | 1            | 0            | 1                      |
 | Student 5 | 1      | 1      | 1      | 1            | 1            | 5                      |
 | Student 6 | 1      | 1      | 0      | 1            | 1            | 4                      |
-| D:        | 0.8333 | 0.5    | 0.6667 | 0.8333       | 0.6667       | SD? = 2.25             |
+| pi        | 0.8333 | 0.5    | 0.6667 | 0.8333       | 0.6667       | SD(squared) = 2.25     |
 | qi        | 0.1667 | 0.5    | 0.3333 | 0.1667       | 0.3333       |                        |
-| PX 4;  | 0.1389 | 0.25   | 072222 | 0.1389 ee | 0.2222 Ee | ee eee ee eee |
+| p1 x qi;  | 0.1389 | 0.25   | 0.2222 | 0.1389       | 0.2222       |                        |
+|---------------------------------------------------------------------------------------------|
 
 Note: When calculating SD, n was used in the denominator.
 
@@ -2311,7 +2374,7 @@ $$
 
 Psychological and educational measurement often yields multiple scores that can be com bined to form a composite. For example, the assignment of grades in educational settings is often based on a composite of several tests and other assessments administered over a grad-
 
-***TABLE-4.4 Calculating Coefficient Alpha**
+**Calculating Coefficient Alpha**
 
 Coefficient alpha is sensitive to méasurement error due to content sampling and is also a measure of item heterogeneity. It can be applied to tests with items that are scored dichotomously or that have multiple values. The formula for calculating coefficient alpha is:
 
@@ -2324,15 +2387,18 @@ where k = number of items SD,? = variance of individual items SD? = variance of 
 
 Consider these data for a five-item test that was administered to six students. Each item could receive a score ranging from | to 5.
 
+**TABLE-4.4 Calculating Coefficient Alpha**
+|----------------------------------------------------------------------|
 |           | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 | Total Score |
 |-----------|--------|--------|--------|--------|--------|-------------|
-| Student 1 | 4      | 3      | 4      | >      | 5      | Bil         |
-| Student 2 | 3      | 3      | wy     | 3      | 3      | 14          |
-| Student 3 | p]     | 3      | 2      | 2      | 1      | 10          |
+| Student 1 | 4      | 3      | 4      | 5      | 5      | 21          |
+| Student 2 | 3      | 3      | 2      | 3      | 3      | 14          |
+| Student 3 | 2      | 3      | 2      | 2      | 1      | 10          |
 | Student 4 | 4      | 4      | 5      | 3      | 4      | 20          |
 | Student 5 | 2      | 3      | 4      | 2      | 3      | 14          |
 | Student 6 | 2      | 2      | 2      | 1      | 3      | 10          |
-| SD?       | 0.8056 | 0.3333 | 1.4722 | 1.5556 | 1.4722 | SD*=18.8    |
+| SD(^2)    | 0.8056 | 0.3333 | 1.4722 | 1.5556 | 1.4722 | SD(^2)=18.8 |
+|----------------------------------------------------------------------|
 
 Note: When calculating SD? and SD, n was used in the denominator.
 
@@ -2350,14 +2416,17 @@ Performance assessments require test takers to complete a process or produce a p
 
 Consider an example wherein two judges rated poems composed by 25 students. The poems were scored from | to 5 based on criteria specified in a rubric, with 1 being the lowest performance and 5 being the highest. The results are illustrated in the following table:
 
+**Table Calculatin inter rater agreement**
+|-----------------------------------------------------------|
 |                    |   | Ratings of Rater 1 |    |   |    |
 |--------------------|---|--------------------|----|---|----|
-| Ratings of Rater 2 | 1 | 2                  | 3) | d | 3) |
-| P)                 | 0 | 0                  | 1  | 2 | 4  |
-| 4                  | 0 | 0                  | 2  | B | Z  |
+| Ratings of Rater 2 | 1 | 2                  | 3  | 4 | 5  |
+| 5                  | 0 | 0                  | 1  | 2 | 4  |
+| 4                  | 0 | 0                  | 2  | 3 | 2  |
 | 3                  | 0 | 2                  | 3  | 1 | 0  |
 | Z                  | 1 | 1                  | 1  | 0 | 0  |
 | 1                  | 1 | 1                  | 0  | 0 | 0  |
+|-----------------------------------------------------------|
 
 Once the data are recorded you can calculate inter-rater agreement with the following formula:
 
@@ -2394,15 +2463,17 @@ When a test is designed to be administered only one time, an estimate of interna
 half reliability estimates error variance resulting from content sampling whereas coefficient alpha and KR-20 estimate error variance due to content sampling and content heterogeneity. Because KR-20 and coefficient alpha are sensitive to content heterogeneity, they are applicable when the test measures a homogeneous domain of knowledge or a unitary characteristic. For example, our 25-item test measuring the ability to multiply double digits reflects a homogeneous domain and coefficient alpha would provide a good estimate of reliability. However, if we have a 50-item test, 25 measuring multiplication with double digits and 25 measuring division, the domain is more heterogeneous and coefficient alpha
 
 **TABLE-4.5 Sources of Error Variance Associated with the Major Types of Reliability**
+|--------------------------------------------------------------------------------------------|
 | Type of Reliability                  | Error Variance                                      |
 |--------------------------------------|-----------------------------------------------------|
-| reliability Test-retest           | sampling Time                                    |
+| reliability Test-retest              | sampling Time                                       |
 | Alternate-form reliability           |                                                     |
-| administration Simultaneous       | Content sampling                                 |
-| administration Delayed            | sampling and content Time sampling      |
-| reliability Split-half            | sampling Content                                 |
-| and KR-20 Coefficient alpha | and item Content sampling heterogeneity |
-| reliability Inter-rater           | raters/scorers Differences due to          |
+| administration Simultaneous          | Content sampling                                    |
+| administration Delayed               | sampling and content Time sampling                  |
+| reliability Split-half               | sampling Content                                    |
+| and KR-20 Coefficient alpha          | and item Content sampling heterogeneity             |
+| reliability Inter-rater              | raters/scorers Differences due to                   |
+|--------------------------------------------------------------------------------------------|
 
 and KR-20 would probably underestimate reliability. In the situation of a test with heterogeneous content (the heterogeneity is intended and not a mistake), the split-half method is preferred. Because the goal of the split-half approach is to compare two equivalent halves, it would be necessary to ensure that each half has equal numbers of both multiplication and division problems.
 
@@ -2486,25 +2557,23 @@ In some situations various factors will limit the number of items we can include
 
 In Chapter 6 we will discuss a set of procedures collectively referred to as "item analyses." These procedures help us select, develop, and retain test items with good measurement characteristics. While it is premature to discuss these procedures in detail, it should be noted that selecting or developing good items is an important step in developing a good test. Selecting and developing good items will enhance the measurement characteristics of the assessments you use.
 
-Another way to reduce the effects of measurement error is what Ghiselli, Campbell, and Zedeck (1981) refer to as "good housekeeping procedures." By this they mean test developers should provide precise and clearly stated procedures regarding the administra-
+Another way to reduce the effects of measurement error is what Ghiselli, Campbell, and Zedeck (1981) refer to as "good housekeeping procedures." By this they mean test developers should provide precise and clearly stated procedures regarding the administration and scoring of tests. Examples include providing explicit instructions for standardized administration, developing high-quality rubrics to facilitate reliable scoring, and requiring extensive training before individuals can administer, grade, or interpret a test.
 
 **TABLE-4.6 Reliability Expected when Increasing the Number of Items**
-|                                                                        | The Reliability Expected when the Number of Items Is Increased By: |           |          |      |  |  |  |
-|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------|----------|------|--|--|--|
-| Current Reliability 0.50 0.55 0.60 0.65 0.70 0.75 | ae Eee)                                                                                       | x 1.50 | x 2.0 | DS)  |  |  |  |
-|                                                                        | 0.56                                                                                             | 0.60      | 0.67     | 0.71 |  |  |  |
-|                                                                        | 0.60                                                                                             | 0.65      | 0.71     | 0.75 |  |  |  |
-|                                                                        | 0.65                                                                                             | 0.69      | 0.75     | 0.79 |  |  |  |
-|                                                                        | 0.70                                                                                             | 0.74      | 0.79     | 0.82 |  |  |  |
-|                                                                        | 0.74                                                                                             | 0.78      | 0.82     | 0.85 |  |  |  |
-|                                                                        | 0.79                                                                                             | 0.82      | 0.86     | 0.88 |  |  |  |
-| 0.80                                                                   | 0.83                                                                                             | 0.86      | 0.89     | 0.91 |  |  |  |
-| 0.85                                                                   | 0.88                                                                                             | 0.89      | 0.92     | 0.93 |  |  |  |
-| 0.90                                                                   | 0.92                                                                                             | 0.93      | 0.95     | 0.96 |  |  |  |
-
-
-
-tion and scoring of tests. Examples include providing explicit instructions for standardized administration, developing high-quality rubrics to facilitate reliable scoring, and requiring extensive training before individuals can administer, grade, or interpret a test.
+|-------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                        | The Reliability Expected when the Number of Items Is Increased By|
+|------------------------------------------------------------------------|------------------------------------------------------------------|
+| Current Reliability                                                    | x 1.25           | x 1.5     |   x 2.0          | x 2.5          |
+| 0.50                                                                   | 0.56             | 0.60      |    0.67          | 0.71           |  
+| 0.55                                                                   | 0.60             | 0.65      |    0.71          | 0.75           |  
+| 0.60                                                                   | 0.65             | 0.69      |    0.75          | 0.79           |  
+| 0.65                                                                   | 0.70             | 0.74      |    0.79          | 0.82           |  
+| 0.70                                                                   | 0.74             | 0.78      |    0.82          | 0.85           |  
+| 0.75                                                                   | 0.79             | 0.82      |    0.86          | 0.88           |  
+| 0.80                                                                   | 0.83             | 0.86      |    0.89          | 0.91           |  
+| 0.85                                                                   | 0.88             | 0.89      |    0.92          | 0.93           |  
+| 0.90                                                                   | 0.92             | 0.93      |    0.95          | 0.96           |  
+|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### Special Problems in Estimating Reliability
 
@@ -2542,10 +2611,10 @@ As noted in the text, the size of reliability coefficients is substantially affe
 
 The procedure for examining the consistency of classification on parallel mastery tests is fairly straightforward. Simply administer both tests to a group of students and complete a table like the one that follows. For example, consider two mathematics mastery tests designed to assess students' ability to multiply fractions. The cut score is set at 80%, so all students scoring 80% or higher are classified as having mastered the skill while those scoring less than 80% are classified as not having mastered the skill. In the following example, data are provided for 50 students:
 
-|                                             | Form B: Nonmastery (score <80%) | Form B: Mastery (score of 80% or better) |  |
+|                                             | Form B: Nonmastery (score <80%) | Form B: Mastery (score of 80% or better)       |  |
 |---------------------------------------------|------------------------------------|---------------------------------------------|--|
-| Form A: Mastery (score of 80% or better) | 4                                  | 32                                          |  |
-| Form A: Nonmastery (score <80%)          | 1h on                           | 3 ———_—————————————                      |  |
+| Form A: Mastery (score of 80% or better)    | 4                                  | 32                                          |  |
+| Form A: Nonmastery (score <80%)             | 11                                 | 3                                           |  |
 
 Students classified as achieving mastery on both tests are denoted in the upper right-hand cell while students classified as not having mastered the skill are denoted in the lower left-hand cell. There were four students who were classified as having mastered the skills on Form A but not on Form B (denoted in the upper left-hand cell). There were three students who were classified as having mastered the skills on Form B but not on Form A (denoted in the lower right-hand cell). The next step is to calculate the percentage of consistency by using the following formula:
 
@@ -2586,25 +2655,26 @@ SEM = 4.5
 Notice that as the reliability of the test scores decreases, the SEM increases. Because the reliability coefficient reflects the proportion of observed score variance due to true score variance and the SEM is an estimate of the amount of error in test scores, this inverse relationship is what one would expect. The greater the reliability of test scores, the smaller the SEM and the more confidence we have in the precision of test scores. The lower the reliability of a test, the larger the SEM and the less confidence we have in the precision of test scores. Table 4.7 shows the SEM as a function of SD and reliability, Examining the
 
 **TABLE-4.7 Standard Errors of Measurement for Values of Reliability and Standard Deviation**
-|                       | ae   | a Reliability Coefficients a he   Pan = ari San |      |       |      |       |  |  |
+|--------------------------------------------------------------------------------------------------------------------------------|
+|                       | ae   | a Reliability Coefficients a he   Pan = ari San             |      |       |      |       |  |  |
 |-----------------------|------|-------------------------------------------------------------|------|-------|------|-------|--|--|
-| Standard Deviation | 0.95 | 0.90                                                        | 0.85 | 0.80  | OM)  | .70   |  |  |
-| 30                    | 6.7  | 95                                                          | 11.6 | 13.4  | 15.0 | 16.4  |  |  |
-| 28                    | 6.3  | 8.9                                                         | 10.8 | IIPS) | 14.0 | 115); |  |  |
+| Standard Deviation    | 0.95 | 0.90                                                        | 0.85 | 0.80  | 0.75 | 0.70  |  |  |
+| 30                    | 6.7  | 9.5                                                         | 11.6 | 13.4  | 15.0 | 16.4  |  |  |
+| 28                    | 6.3  | 8.9                                                         | 10.8 | 12.5  | 14.0 | 15.3  |  |  |
 | 26                    | 5.8  | 8.2                                                         | 10.1 | 11.6  | 13.0 | 14.2  |  |  |
-| 24                    | 5.4  | 7.6                                                         | 93   | 10.7  | 12.0 | 13.1  |  |  |
+| 24                    | 5.4  | 7.6                                                         | 9.3  | 10.7  | 12.0 | 13.1  |  |  |
 | 22                    | 4.9  | 7.0                                                         | 8.5  | 9.8   | 11.0 | 12.0  |  |  |
-| 20                    | 4.5  | 6.3                                                         | ey   | 8.9   | 10.0 | 11.0  |  |  |
-| 18                    | 4.0  | oF7                                                         | 7.0  | 8.0   | 9.0  | 9.9   |  |  |
-| 16                    | 3.6  | Epil                                                        | 6.2  | Ted   | 8.0  | 8.8   |  |  |
-| 14                    | 3.1  | 4.4                                                         | 5.4  | 6.3   | 7.0  | Wed)  |  |  |
-| 12                    | DH   | 3.8                                                         | 4.6  | 5.4   | 6.0  | 6.6   |  |  |
-| 10                    | 2.2  | 32                                                          | 3.9) | 4.5   | 5.0  | 3155) |  |  |
-| 8                     | 1.8  | DiS                                                         | 3.1  | 3.6   | 4.0  | 4.4   |  |  |
-| 6                     | 13   | 1.9                                                         | pe)  | Dei,  | 3.0  | 33    |  |  |
-| 4                     | 0.9  | 3)                                                          | 5    | 1.8   | 2.0  | 22,   |  |  |
-| 4                     | 0.4  | 0.6                                                         | 0.8  | 0.9   | 1.0  | tell  |  |  |
-
+| 20                    | 4.5  | 6.3                                                         | 7.7  | 8.9   | 10.0 | 11.0  |  |  |
+| 18                    | 4.0  | 5.7                                                         | 7.0  | 8.0   | 9.0  | 9.9   |  |  |
+| 16                    | 3.6  | 5.1                                                         | 6.2  | 7.0   | 8.0  | 8.8   |  |  |
+| 14                    | 3.1  | 4.4                                                         | 5.4  | 6.3   | 7.0  | 7.7   |  |  |
+| 12                    | 2.7  | 3.8                                                         | 4.6  | 5.4   | 6.0  | 6.6   |  |  |
+| 10                    | 2.2  | 3.2                                                         | 3.9  | 4.5   | 5.0  | 5.5   |  |  |
+| 8                     | 1.8  | 2.5                                                         | 3.1  | 3.6   | 4.0  | 4.4   |  |  |
+| 6                     | 13   | 1.9                                                         | 2.3  | 2.7   | 3.0  | 3.3   |  |  |
+| 4                     | 0.9  | 1.3                                                         | 1.5  | 1.8   | 2.0  | 2.2   |  |  |
+| 4                     | 0.4  | 0.6                                                         | 0.8  | 0.9   | 1.0  | 1.1   |  |  |
+|--------------------------------------------------------------------------------------------------------------------------------|
 
 first row in the table shows that on a test with a standard deviation of 30 and a reliability coefficient of 0.95 the SEM is 6.7. In comparison, if the reliability of the test score is 0.90 the SEM is 9.5; if the reliability of the test is 0.85 the SEM is 11.6; and so forth. The SEM is used in calculating intervals or bands around observed scores in which the true score is expected to fall. We will now turn to this application of the SEM.
 
@@ -2687,17 +2757,18 @@ A reliability coefficient of 0.93 for a classroom test is excellent! Don't be di
 Source: Saupe, J. L. (1961). Some useful estimates of the Kuder-Richardson formula number 20 reliability coefficient. Educational and Psychological Measurement, 2, 63-72.
 
 **TABLE-4.8 KR-21 Reliability Estimates for Tests with a Mean of 80%**
-
+|-------------------------------------------------------------------------------------------
 |                              | Standard Deviation of Test |         |            |  |  |  |
 |------------------------------|----------------------------|---------|------------|--|--|--|
-| Number of Items (n) | 0.10(n)                    | 0.15(n) | 0.20(n)    |  |  |  |
+| Number of Items (n)          | 0.10(n)                    | 0.15(n) | 0.20(n)    |  |  |  |
 | 10                           | —                          | 0.29    | 0.60       |  |  |  |
 | 20                           | 0.20                       | 0.64    | 0.80       |  |  |  |
 | 30                           | 0.47                       | 0.76    | 0.87       |  |  |  |
 | 40                           | 0.60                       | 0.82    | 0.90       |  |  |  |
 | 50                           | 0.68                       | 0.86    | 0.92       |  |  |  |
 | 75                           | 0.79                       | 0.91    | 0.95       |  |  |  |
-| 100                          | 0.84                       | 0.93    | SR 0.96 |  |  |  |
+| 100                          | 0.84                       | 0.93    | 0.96       |  |  |  |
+|-------------------------------------------------------------------------------------------|
 
 ### Reliability for Teachers 119
 
@@ -2766,10 +2837,10 @@ SD? = variance of total test scores
 | Student 3 |              | 0      |         |          |       |             |
 | Student 4 |              | 0      |         |          |       |             |
 | Student 5 |              | 1      |         |          |       |             |
-| Student 6 | OFF Pr CO | 1      | oF ORee | KF OK CO | Ree   | oroorr      |
+| Student 6 | OFF Pr CO    | 1      | oF ORee | KF OK CO | Ree   | oroorr      |
 | Pi        |              |        |         |          |       | SD?         |
 | qj        |              |        |         |          |       |             |
-| DX 4G; |              |        |         |          |       |             |
+| DX 4G;    |              |        |         |          |       |             |
 
 Note: When calculating SD2?, use 7 in the denominator.
 
@@ -2915,14 +2986,15 @@ Sources of validity evidence These sources of evidence will differ in their impo
 > At this point you might be asking, "Why are the authors wasting my time with a discussion of the history of technical jargon?" There are at least two important reasons. First, it is likely that in your readings and studies you will come across references to various "types of validity." Many older test and measurement textbooks refer to content, criterion, and construct validity, and some newer texts still use that or a similar nomenclature. We hope that when you come across different terminology you will not be confused, but instead will understand its meaning and origin. Second, the Standards are widely accepted and serve as professional guidelines for the development and evaluation of tests. For legal and ethical reasons test developers and publishers generally want to adhere to these guidelines. As a result, we expect test publishers will adopt the new nomenclature in the next few years. Currently test manuals and other test-related documents are adopting this new nomenclature (e.g., Reynolds, 2002). However, older tests typically have supporting literature that uses the older terminology, and you need to understand its origin and meaning. When reviewing test manuals and assessing the psychometric properties of a test, you need to be aware of the older as well as the newer terminology.
 
 **TABLE-5.1 Tracing Historical Trends in the Concept of Validity**
-
-| 1974 Standards (Validity as Three Types) | 1985 Standards (Validity as Three _Interrelated Types) | 1999 Standards (Validity as a Unitary Construct) ee                    |
-|---------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|
-| Content validity                            | Content-related validity                                  | Validity evidence based on test content                       |
-| Criterion validity                          | Criterion-related validity                                | Validity evidence based on relations to other variables |
-| Construct validity                          | Construct-related validity                                | Validity evidence based on internal structure                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1974 Standards (Validity as Three Types)    | 1985 Standards (Validity as Three _Interrelated Types)       | 1999 Standards (Validity as a Unitary Construct) ee           |
+|---------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------|
+| Content validity                            | Content-related validity                                     | Validity evidence based on test content                       |
+| Criterion validity                          | Criterion-related validity                                   | Validity evidence based on relations to other variables       |
+| Construct validity                          | Construct-related validity                                   | Validity evidence based on internal structure                 |
 |                                             |                                                              | Validity evidence based on response processes                 |
-|                                             |                                                              | Validity evidence based on consequences of testing         |
+|                                             |                                                              | Validity evidence based on consequences of testing            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Types of Validity Evidence
 
@@ -3140,17 +3212,19 @@ u Evidence based on response processes can be useful with practically any test t
 
 u Evidence based on consequences of testing is most applicable to tests designed for selection and promotion, but can be useful with a wide range of tests.
 
-You might have noticed that most types of validity evidence have applications to a broad variety of tests, and this is the way it should be. The integration of multiple lines of research or types of evidence results in a more compelling validity argument. It is also important to remember that every interpretation or intended use of a test must be validated. As we noted earlier, if a test is used for different applications, each use or application must be validated. In these situations it is imperative that different types of validity evidence be provided. Table 5.2 provides a summary of the major applications of different types of validity evidence. a TABLE 5.2 Sources of Validity Evidence ge ee ee
-
-ge
-
-| Source                                                          | Example                                                                                                                    | Major Applications                                                                                                                                                              |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| test content Evidence based on                            | Analysis of item relevance and content coverage                                                          | Achievement tests and tests used in the selection of employees                                                                                          |
-| relations Evidence based on to other variables            | Test-criterion; convergent and discriminant evidence; contrasted groups studies                                | Wide variety of tests                                                                                                                                                     |
-| Evidence based on internal structure                      | Factor analysis, analysis of test homogeneity                                                                           | Wide variety of tests, but particularly useful with tests of constructs such as personality or intelligence                                                               |
-| Evidence based on response processes                | Analysis of the processes engaged in by the examinee or examiner                             | Any test that requires examinees to engage in a cognitive or behavioral activity                                                               |
-| Evidence based on consequences of testing structure | Analysis of the intended and unintended consequences of testing SSIES AS SRST Ra UR | Most applicable to tests designed for selection and promotion, but useful on a wide range of tests en ERTS SS TS ge |
+You might have noticed that most types of validity evidence have applications to a broad variety of tests, and this is the way it should be. The integration of multiple lines of research or types of evidence results in a more compelling validity argument. It is also important to remember that every interpretation or intended use of a test must be validated. As we noted earlier, if a test is used for different applications, each use or application must be validated. In these situations it is imperative that different types of validity evidence be provided. Table 5.2 provides a summary of the major applications of different types of validity evidence. a 
+**TABLE-5.2 Sources of Validity**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Source                                          | Example                                                                        | Major Applications                                                                |
+|-------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Evidence based on test content                  | Analysis of item relevance and content coverage                                | Achievement tests and tests used in the selection of employees                    |
+| Evidence based on relations  to other variables | Test-criterion; convergent and discriminant evidence; contrasted groups studies| Wide variety of tests                                                             |
+| Evidence based on internal structure            | Factor analysis, analysis of test homogeneity                                  | Wide variety of tests, but particularly useful with tests of constructs such      |
+|                                                 |                                                                                |  as personality or intelligence                                                   |
+| Evidence based on response processes            | Analysis of the processes engaged in by the examinee or examiner               | Any test that requires examinees to engage in a cognitive or behavioral activity  |
+| Evidence based on consequences of testing       | Analysis of the intended and unintended consequences of testing                | Most applicable to tests designed for selection and promotion, but useful on a    |
+| structure                                       |                                                                                | wide range of tests                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Validity: Practical Strategies for Teachers
 
@@ -3287,18 +3361,16 @@ is that items on a test are often correlated with each other, which means the me
 Another reason why 0.50 is not the optimal difficulty level for every testing situation involves the influence of guessing. On constructed-response items (e.g., essay and short-answer items) for which guessing is not a major concern, 0.50 is typically considered the optimal difficulty level. However, with selected-response items (e.g., multiple choice and true—false items) for which test takers might answer the item correctly simply by guessing, the optimal difficulty level varies. To take into consideration the effects of guessing,
 
 **TABLE-6.1 Optimal p Values for Items with Varying Numbers of Choices**
-
+|--------------------------------------------------------------|
 | Number of Choices                     | Optimal Mean p Value |
 |---------------------------------------|----------------------|
 | 2 (e.g., true—false)                  | 0.85                 |
 | 3                                     | 0.77                 |
 | 4                                     | 0.74                 |
 | 5                                     | 0.69                 |
-| Constructed response (e.g., essay)    | TN REE IT 0.50 |
-| ARR RT BTR Sats SEE Se NS |                      |
-
-Source: Based on Lord (1952).
-
+| Constructed response (e.g., essay)    | 0.50                 |
+| Source: Based on Lord (1952).                                |
+|--------------------------------------------------------------|
 the optimal item difficulty level is set higher than for constructed- i . For exan Norm pl-oeie lens i Tourpons vse sold be HppO RAR ord, 1952). That is, the test developer might select items with difficulty levels ranging from 0.64 to 0.84 with a mean of approximately 0.74. Table 6.1 provides information on the optimal mean p value for selected-response items with varying numbers of alternatives or choices.
 
 #### Special Assessment Situations and Item Difficulty
@@ -3345,17 +3417,19 @@ serious problems. Other testing assessment experts have provided different guide
 As a general rule, we suggest that items with D values over 0.30 are acceptable (the larger the better), and items with D values below 0.30 should be carefully reviewed and possibly revised or deleted. However, this is only a general rule and there are exceptions. For example, most indexes of item discrimination, including the item discrimination index (D), are biased in favor of items with intermediate difficulty levels. That is, the maximum D value of an item is
 
 **TABLE-6.2 Guidelines for Evaluating D Values**
+|------------------------------------------------------|
 | Difficulty      |                                    |
 |-----------------|------------------------------------|
 | 0.40 and larger | Excellent                          |
 | 0.30-0.39       | Good                               |
 | 0.11-0.29       | Fair                               |
 | 0.00-0.10       | Poor                               |
-| Negative values | Se Miskeyed or other major flaw |
-| ee ee ee  | ee en ee                        |
-Source: Based on Hopkins (1998).
+| Negative values | Miskeyed or other major flaw       |
+| Source: Based on Hopkins (1998).                     |
+|------------------------------------------------------|
 
 **TABLE-6.3. Maximum D Values at Different Difficulty Levels**
+|------------------------------------------------------|
 | Item Difficulty Index (p) | Maximum D Value |  |  |  |
 |---------------------------|-----------------|--|--|--|
 | 1.00                      | 0.00            |  |  |  |
@@ -3368,9 +3442,8 @@ Source: Based on Hopkins (1998).
 | 0.30                      | 0.60            |  |  |  |
 | 0.20                      | 0.40            |  |  |  |
 | 0.10                      | 0.20            |  |  |  |
-| A a 0.00 Se      | A 0.00       |  |  |  |
-| Ee                        | aR BS Ee RE  |  |  |  |
-
+| 0.00 Se                   | 0.00            |  |  |  |
+|------------------------------------------------------|
 
 related to its p value (see Table 6.3). Items that all test takers either pass or fail (i.e., p values of either 0.0 or 1.0) cannot provide any information about individual differences and their D values will always be zero. If half of the test takers correctly answered an item and half failed (i.e., p value of 0.50), then it is possible for the item's D value to be 1.0. This does not mean that all items with p values of 0.50 will have D values of 1.0, but just that the item can conceivably have a D value of 1.0. As a result of this relationship between p and D, items that have excellent discrimination power (i.e., D values of 0.40 and above) will necessarily have p values between 0.20 and 0.80. In testing situations in which it is desirable to have either very easy or very difficult items, D values can be expected to be lower than those normally desired. Additionally, items that measure abilities or objectives that are not emphasized throughout the test may have poor discrimination due to their unique focus. In this situation, if the item measures an important ability or learning objective and is free of technical defects, it should be retained (e.g., Linn & Gronlund, 2000).
 
@@ -3721,8 +3794,8 @@ ees) b. 18
 | Administration Date: September 3, 2003              |   |         |         |    |
 |-----------------------------------------------------|---|---------|---------|----|
 |                                                     |   |         | Options |    |
-| p = 0.68 D = 0.37                                | A | B       | Le      | Dt |
-| ee Number in top group Number in bottom group | 1 | 2 ee | 1       | 26 |
+| p = 0.68 D = 0.37                                   | A | B       | Le      | Dt |
+|  Number in top group Number in bottom group         | 1 | 2       | 1       | 26 |
 
 "Correct answer
 
@@ -3881,14 +3954,14 @@ Comprehension. Objectives explain, and summarize. Educational objectives at the 
 - m The student will be able to explain how interest rates affect unemployment.
 
 **TABLE-7.1 Bloom's Taxonomy of Educational Objectives**
-|   | Level         | Description                                                                               | Example                                                                                                           |
-|---|---------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|   | Knowledge     | Rote memory, learning facts                                                               | Name each state capital.                                                                                          |
-| 3 | Comprehension | Summarize, interpret, or explain material                                              | Summarize the use of every symbol on a geographical survey map.                                                |
-|   | Application   | Use general rules and principles to solve new problems                                 | Write directions for traveling by numbered road from any city on a map to any other city.                   |
-|   | Analysis      | Reduction of concepts into parts and showing the relationship of parts to the whole | Describe maps in terms of function —_ and form.                                                                |
-|   | Synthesis     | Creation of new ideas or results from existing concepts                                | Construct a map of a hypothetical country with given characteristics.                                          |
-|   | Evaluation    | Judgment of value or worth                                                                | The student will evaluate the usefulness of a map to enable him or her to travel from one place to another. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Level         | Description                                                                            | Example                                                                                                     |
+| Knowledge     | Rote memory, learning facts                                                            | Summarize the use of every symbol on a geographical survey map.                                             |
+| Application   | Use general rules and principles to solve new problems                                 | Write directions for traveling by numbered road from any city on a map to any other city.                   |
+| Analysis      | Reduction of concepts into parts and showing the relationship of parts to the whole    | Describe maps in terms of function and form.                                                                |
+| Synthesis     | Creation of new ideas or results from existing concepts                                | Counstruct a map of hypothetical country with given characteristics                                         |
+| Evaluation    | Judgment of value or worth                                                             | The student will evaluate the usefulness of a map to enable him or her to travel from one place to another. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 Application. Objectives at th®applicationIévelivolveahemsejofwgeneral ules, prind. Objectives at the application level include the following examples:
@@ -3928,15 +4001,16 @@ The student will demonstrate interest in earth science by conducting a science f
 As a general rule, affective objectives are emphasized more in elementary school curricula than secondary curricula. A taxonomy of affective objectives developed by Krathwohl, Bloom, and Masia (1964) is presented in Table 7.2. This taxonomy involves levels of
 
 **TABLE-7.2 Krathwohl's Taxonomy of Affective Objectives**
-| Level                                           | Description                                                                                               | Sublevels                                                    |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Receiving (attending)                           | Being aware of and willing to attend to something (e.g., instruction)                                  | Awareness, willingness to attend, and selective attention |
-| Responding                                      | Actively participating in an activity or process                                                       | Acquiescence, willingness, and satisfaction               |
-| Valuing                                         | Assigning value or worth to an activity or idea                                                        | Acceptance, preference, and commitment                    |
-| Organization                                    | Ideas and values become internalized and organized into one's personal system of values and beliefs | Conceptualization and hierarchy                           |
-| Characterization by a value or value complex | Individual values are exemplified characteristic set of behaviors ina and actions                | Generalized set and examples of characterization          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Level                                        | Description                                                                                         | Sublevels                                                 |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Receiving (attending)                        | Being aware of and willing to attend to something (e.g., instruction)                               | Awareness, willingness to attend, and selective attention |
+| Responding                                   | Actively participating in an activity or process                                                    | Acquiescence, willingness, and satisfaction               |
+| Valuing                                      | Assigning value or worth to an activity or idea                                                     | Acceptance, preference, and commitment                    |
+| Organization                                 | Ideas and values become internalized and organized into one's personal system of values and beliefs | Conceptualization and hierarchy                           |
+| Characterization by a value or value complex | Individual values are exemplified characteristic set of behaviors ina and actions                   | Generalized set and examples of characterization          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-TABLE-7.2 Krathwohl's Taxonomy of Affective Objectives
 
 Source: Based on Krathwohl et al. (1964).
 
@@ -3949,16 +4023,19 @@ Krathwohl's taxonomy of affective objectives has never approached the popularity
 The third class of objectives deals with physical activity and is referred to as psychomotor objectives. : t .g., biology or computer science), or career—technical classes such as woodworking, electronics, automotive, or metalwork. For example, in physical education there are countless psychomotor activities such as rolling a bowling ball a certain way or hitting tennis balls with a certain motion. Biology classes also have many psychomotor activities, including focusing a microscope, staining cells, and dissection. Computer science courses require skill in using a computer keyboard and assembling computer hardware. Taxonomies of psychomotor objectives have been developed, and Harrow's (1972) model is illustrated in Table 7.3. Psychomotor objectives are typically tied to cognitive objectives
 
 **TABLE-7.3 Harrow's Taxonomy of Psychomotor Objectives**
-| Level                                    | Description                                                                                                                                                  | Sublevels                                                                              |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Reflex movements                         | Involuntary actions                                                                                                                                          | Segmental, intersegmental, and suprasegmental reflexes                              |
-| Basic fundamental movements           | Inherent movement patterns that are a combination of reflex movements and serve as the basis for more complex movements                                | Locomotor, nonlocomotor, and manipulative movements                                 |
-| Perceptual abilities                     | Involves interpretation of sensory input that in turn guides movement                                                                                     | Kinesthetic, visual, auditory, and tactile discrimination, coordinated abilities |
-| Physical abilities                       | Functional physical characteristics that serve as the basis for skilled movements                                                                      | Endurance, strength, flexibility, and agility                                       |
-| Skilled movements                     | Complex movements that are the result of learning and based on inherent movement — patterns (see level 2) | Simple, compound, and complex adaptive skills                           |
-| Nondiscursive communication grapes | Nonverbal communication ranging from facial expressions to expressive dance                                                          | Expressive and interpretive movements                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Level                              | Description                                                                                                              | Sublevels                                              |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Reflex movements                   | Involuntary actions                                                                                                      | Segmental, intersegmental, and suprasegmental reflexes |
+| Basic fundamental movements        | Inherent movement patterns that are a combination of reflex movements and serve as the basis for more complex movements  | Locomotor, nonlocomotor, and manipulative movements    |
+| Perceptual abilities               | Involves interpretation of sensory input that in turn guides movement                                                    | Kinesthetic, visual, auditory, and tactile             |
+|                                    |                                                                                                                          | discrimination, coordinated abilities                  |
+| Physical abilities                 | Functional physical characteristics that serve as the basis for skilled movements                                        | Endurance, strength, flexibility, and agility          |
+| Skilled movements                  | Complex movements that are the result of learning and based on inherent movement — patterns (see level 2)                | Simple, compound, and complex adaptive skills          |
+| Nondiscursive communication grapes | Nonverbal communication ranging from facial expressions to expressive dance                                              | Expressive and interpretive movements                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-ource: Based on Harrow (1972).
+source: Based on Harrow (1972).
 
 because almost every physical activity involves cognitive processes. As a result, like affective objectives, psychomotor objectives typically are adjuncts to cognitive objectives. Nevertheless, they do appear in the school curriculum and their specification may enhance instruction and assessment.
 
@@ -4001,18 +4078,19 @@ Given a map of the United States, the student will be able to correctly identify
 In this example, a map of the United States is identified as material necessary for achiev ing the objective. Kubiszyn and Borich (2000) list specific times, settings, equipment, and resources as conditions that should be included in an objective when they are relevant.
 
 **TABLE-7.4 Learning Objectives for Chapter 2, The Basic Math of Measurement**
-
-After reading and studying Chapter 2, the student should be able to
-
-- Define measurement.
-- Describe the different scales of measurement and give examples.
-- Describe the measures of central tendency and their appropriate use.
-- Describe the measures of variability and their appropriate use.
-- Explain the meaning of correlation coefficients and how they are used.
-- Explain how scatterplots are used to describe the relationships between two variables.
-- Describe how linear regression is used to predict performance.
-- . Describe major types of correlation coefficients. WYN = CeONINMN . Distinguish between correlation and causation. See Bent ch cin cat SSE EE EN
-- 
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| After reading and studying Chapter 2, the student should be able to                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|- Define measurement.                                                                                                                                   |
+| - Describe the different scales of measurement and give examples.                                                                                      |
+| - Describe the measures of central tendency and their appropriate use.                                                                                 |
+| - Describe the measures of variability and their appropriate use.                                                                                      |
+| - Explain the meaning of correlation coefficients and how they are used.                                                                               |
+| - Explain how scatterplots are used to describe the relationships between two variables.                                                               |
+| - Describe how linear regression is used to predict performance.                                                                                       |
+| - Describe major types of correlation coefficients. WYN = CeONINMN . Distinguish between correlation and causation. See Bent ch cin cat SSE EE EN      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+ 
 
 '4. When appropriate, specify an outcome criterion. As we discussed earlier, it is sometimes beneficial to specify an outcome criterion, that is, the level of performance viewed as indicating that the student has achieved the objective. This is most applicable when using behavioral objectives.
 
@@ -4025,14 +4103,15 @@ You might be asking why we have spent so much time discussing educational object
 sure what was taught. Classroom tests should emphasize what was The table of specifications, or emphasized in class. The method of ensuring congruence between test blueprint, is used to ensure classroom instruction and test content is the development and apcongruence between classroom plication of a table of specifications, also referred to as a test blueinstruction and test content. print. An example is given in Table 7.5 for Chapter 2 of this text.
 
 **TABLE-7.5 Table of Specifications for Test on Chapter 2 Based on Content Areas (Number of Items)**
-
+|--------------------------------------------------------------------------------------------------------------------------------|
 |                                 | Level of Objective |               |             |          |           |            |       |
 |---------------------------------|--------------------|---------------|-------------|----------|-----------|------------|-------|
 | Content Area                    | Knowledge          | Comprehension | Application | Analysis | Synthesis | Evaluation | Total |
-| Scales of measurement        | 2                  | 2             |             | 2        |           |            | 6     |
-| Measures of central tendency | 5                  | 5)            |             |          |           |            | 6     |
-| Measures of variability      | 3                  | 3             | 3           |          |           |            | 2,    |
-| Correlation and regression   | 2                  | 3             |             | 2        | 2         |            | 9     |
+| Scales of measurement           | 2                  | 2             |             | 2        |           |            | 6     |
+| Measures of central tendency    | 5                  | 5)            |             |          |           |            | 6     |
+| Measures of variability         | 3                  | 3             | 3           |          |           |            | 2,    |
+| Correlation and regression      | 2                  | 3             |             | 2        | 2         |            | 9     |
+|--------------------------------------------------------------------------------------------------------------------------------|
 
 
 The column on the left, labeled Content Area, lists the major content areas to be covered in the test. These content areas are derived by carefully reviewing the educational objectives and selecting major content areas to be included in the test. Across the top of the table we list the levels of Bloom's cognitive taxonomy. The inclusion of this section encourages us to consider the complexity of the cognitive processes we want to measure. As noted earlier, there is a tendency for teachers to rely heavily on lower-level processes (e.g., rote memory) and to underemphasize higher-level cognitive processes. By incorporating these categories in our table of specifications, we are reminded to incorporate a wider range of cognitive processes into our tests.
@@ -4042,13 +4121,15 @@ The numbers in the body of the table reflect the number of items to be devoted t
 Some testing experts recommend using percentages instead of the number of items when developing a table of specifications. This approach is illustrated in Table 7.6. For example, you might determine that approximately 20% of your instruction involved the different scales of measurement. You would like to reflect this weighting in your test so you devote 20% of the test to this content area. If you are developing a 30-item test this means you will write six items to assess objectives related to scales of measurement (0.20 x 30 = 6). If you are developing a 40-item test, this means you will write eight items to assess
 
 **TABLE-7.6 Table of Specifications for Test on Chapter 2 Based on Content Areas (Percentages)**
+|--------------------------------------------------------------------------------------------------------------------------------------------|
 |                                           | Level of Objective |                 |             |          |           |            |       |
 |-------------------------------------------|--------------------|-----------------|-------------|----------|-----------|------------|-------|
 | Content Areas                             | Knowledge          | = Comprehension | Application | Analysis | Synthesis | Evaluation | Total |
-| Scales of measurement                  | 6.7%               | 6.7%            |             | 6.7%     |           |            | 20%   |
-| Measures of central tendency           | 10%                | 10%             |             |          |           |            | 20%   |
-| Measures of variability                | 10%                | 10%             | 10%         |          |           |            | 30%   |
-| Correlation and AS regression ET | 6.7%               | 10%             |             | 6.7%     | 6.7%      |            | 30%   |
+| Scales of measurement                     | 6.7%               | 6.7%            |             | 6.7%     |           |            | 20%   |
+| Measures of central tendency              | 10%                | 10%             |             |          |           |            | 20%   |
+| Measures of variability                   | 10%                | 10%             | 10%         |          |           |            | 30%   |
+| Correlation and AS regression ET          | 6.7%               | 10%             |             | 6.7%     | 6.7%      |            | 30%   |
+|--------------------------------------------------------------------------------------------------------------------------------------------|
 
 objectives related to scales of measurement (0.20 x 40 = 8). An advantage of using percentages rather than number of items is that you do not have to determine beforehand how many items you will have on a test. Nevertheless, the decision to use percentages or numbers of items is probably best left to the individual teacher because either approach can result in useful specification tables.
 
@@ -4093,18 +4174,17 @@ classification system is the one we will use in this textbook. In subsequent cha
 As we indicated, on selected-response items students select the appropriate response from options that are provided. On a true—false item the student simply selects true or false to answer the item. On multiple-choice items the student selects the best response from a list of alternatives. On matching items the student matches premises (typically listed on the left) with the appropriate responses (typically listed on the right). The key factor is that all
 
 **TABLE-7.7 Strengths and Weaknesses of Selected-Response Items**
-
-Strengths of Selected-Response Items
-
-- 1. You can typically include a relatively large number of selected-response items in your test. This facilitates adequate sampling of the content domain.
-- 2. They can be scored in an efficient, objective, and reliable manner.
-- 3. They are particularly good for measuring lower-level objectives.
-- 4. They can reduce the influence of certain construct-irrelevant factors.
- Weaknesses of Selected-Response Items
-
-- 1. They are relatively difficult to write.
-- 2. They are not able to assess all educational objectives (e.g., writing ability).
-- 3. They are subject to random guessing. EEE
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strengths of Selected-Response Items                                                                                                                           |
+| - 1. You can typically include a relatively large number of selected-response items in your test. This facilitates adequate sampling of the content domain.    |
+| - 2. They can be scored in an efficient, objective, and reliable manner.                                                                                       |
+| - 3. They are particularly good for measuring lower-level objectives.                                                                                          |  
+| - 4. They can reduce the influence of certain construct-irrelevant factors.                                                                                    |
+|  Weaknesses of Selected-Response Items                                                                                                                         |
+| - 1. They are relatively difficult to write.                                                                                                                   |
+| - 2. They are not able to assess all educational objectives (e.g., writing ability).                                                                           |
+| - 3. They are subject to random guessing.                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 selected-response items provide the answer; the student simply selects the appropriate one. Although there are considerable differences among these selected-response item formats, we can make some general statements about their strengths and limitations (see Table 7.7). Strengths include the following:
 
@@ -4131,18 +4211,18 @@ Constructed-response items include short-answer items, essays, performance asses
 = Constructed-response items are well suited for assessing higher-order cognitive abilities and complex task performance, and some tasks simply require a constructedresponse format (e.g., composing a letter, demonstrating problem-solving skills). As a result they expand the range of learning objectives that can be assessed.
 
 **TABLE-7.8 Strengths and Weaknesses of Constructed-Response Items**
-Strengths of Constructed-Response Items
-
-- 1. Compared to selected-response items, they are often easier to write.
-- 2. They are well suited for assessing higher-order cognitive abilities and complex task performance.
-- 3. They eliminate random guessing.
-
-Weaknesses of Constructed-Response Items
-
-- 1. Because they typically take more time than selected-response items for the students to complete, you cannot include as many items in a test. As a result, you are not as able to sample the content domain as thoroughly.
-- 2. They are more difficult to score in a reliable manner.
-- 3. They are vulnerable to feigning.
-- 4. They are vulnerable to the influence of construct-irrelevant factors.
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strengths of Constructed-Response Items                                                                                                                                               |
+| - 1. Compared to selected-response items, they are often easier to write.                                                                                                             |
+| - 2. They are well suited for assessing higher-order cognitive abilities and complex task performance.                                                                                |
+| - 3. They eliminate random guessing.                                                                                                                                                  |
+| Weaknesses of Constructed-Response Items                                                                                                                                              |
+| - 1. Because they typically take more time than selected-response items for the students to complete, you cannot include as many items in a test. As a result, you are not as able    |
+|      to sample the content domain as thoroughly.                                                                                                                                      |
+| - 2. They are more difficult to score in a reliable manner.                                                                                                                           |
+| - 3. They are vulnerable to feigning.                                                                                                                                                 |
+| - 4. They are vulnerable to the influence of construct-irrelevant factors.                                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 = Constructed-response items eliminate blind guessing.
 
@@ -4169,15 +4249,17 @@ test. We will be discussing these assessment formats in the next three chapters,
 We will now provide some suggestions for organizing and assembling your classroom as sessment. Many of these suggestions will be addressed in more detail in the context of the
 
 **TABLE-7.9 Practical Suggestions for Assembling an Assessment**
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - 1. Adhere to your table of specifications.                                                                                                                                          |
+| - 2. Provide clear instructions.                                                                                                                                                      |
+| - 3. State items clearly.                                                                                                                                                             |
+| - 4. Develop items that can be scored in a decisive manner.                                                                                                                           |
+| - 5. Avoid inadvertent cues to the correct answers.                                                                                                                                   |
+| - 6. Arrange items in a manner that facilitates student performance and scoring.                                                                                                      |
+| - 7. Include items that contribute to the reliability and validity of your assessment results.                                                                                        |
+| - 8. When determining how many items to include in an assessment, consider factors such as the age of the students, the types of items employed, and the type and purpose of the test.|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- 1. Adhere to your table of specifications.
-- 2. Provide clear instructions.
-- 3. State items clearly.
-- 4. Develop items that can be scored in a decisive manner.
-- 5. Avoid inadvertent cues to the correct answers.
-- 6. Arrange items in a manner that facilitates student performance and scoring.
-- 7. Include items that contribute to the reliability and validity of your assessment results.
-- 8. When determining how many items to include in an assessment, consider factors such as the age of the students, the types of items employed, and the type and purpose of the test.
 
 different item formats, but their introduction here will hopefully help you begin to consider some of the main issues. Some of these suggestions might seem obvious, but sometimes the obvious is overlooked! Table 7.9 summarizes these suggestions.
 
@@ -4301,11 +4383,11 @@ ae
 
 Some educators embrace selected-response items because they can contribute to the development of psychometrically sound tests. Other educators reject them because they believe they cannot adequately measure the really important knowledge and skills they want students to acquire.
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Multiple-Choice Items Matching Items True—False Items
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -4326,7 +4408,7 @@ Ih the last chapter we addressed the development of educational objectives and p
 
 selected-response item. If it requires a student to create or construct a response, it is classified as a constructedresponse item.
 
-# Multiple-Choice Items
+### Multiple-Choice Items
 
 If an item requires a student to In this chapter we will address selected-response items in detail. select a response from available We will discuss their strengths and weaknesses and provide suggesalternatives, it is classified as a tions for developing effective items. In the next chapter we will address essay and short-answer items. In Chapter 10 we will address performance assessments and portfolios—types of constructed-response assessments that have gained increased popularity in recent years. In these chapters we will focus on items used to assess student achievement (as opposed to interests, personality characteristics, etc.).
 
@@ -4342,7 +4424,7 @@ Multiple-choice items can be written so the stem is in the form of a direct ques
 
 question is formatted as an incomplete statement, it is suggested that the omission occur near the end of the stem. Our recommendation is to use the direct-question format unless the problem can be stated more concisely using the incomplete-sentence format without any loss of clarity. Examine these examples of the two formats.
 
-# Example 1 Direct-Question Format
+ Example 1 Direct-Question Format
 
 - 1. Which river is the largest in the United States of America?
 	- A. Mississippi <
@@ -4350,7 +4432,7 @@ question is formatted as an incomplete statement, it is suggested that the omiss
 	- C. Ohio
 	- D. Rio Grande
 
-# Example 2 Incomplete-Sentence Format
+ Example 2 Incomplete-Sentence Format
 
 - 2. The largest river in the United States of America is the
 	- A. Mississippi. <
@@ -4362,7 +4444,7 @@ Another distinction is made between multiple-choice items that have what is know
 
 items. The Mississippi is the largest river in the United States of America and the other answers are incorrect. However, multiple-choice items can be written for situations having more than one correct answer. The objective is to identify the "best answer."
 
-# Example 3 Best-Answer Format
+ Example 3 Best-Answer Format
 
 - 1. Which variable is generally thought to be the most important when buying a house?
 	- A. cost
@@ -4372,7 +4454,7 @@ items. The Mississippi is the largest river in the United States of America and 
 
 In Example 3 all the variables listed are important to consider when buying a house, but as almost any realtor will tell you, location is the most important. Most test developers prefer the best-answer format for two reasons. First, in some situations it is difficult to write an answer that everyone will agree is correct. The best-answer format allows you to frame it as an answer that most experts will agree with. Second, the best-answer format often requires the student to make more subtle distinctions among the alternatives, which results in more demanding items that measure more complex educational objectives.
 
-# Guidelines for Developing Multiple-Choice Items
+#### Guidelines for Developing Multiple-Choice Items
 
 Use a Printed Format That Makes the Item as Clear as Possible. While there is not a universally accepted format for multiple-choice items, here are a few recommendations regarding physical layout that can enhance clarity.
 
@@ -4395,9 +4477,9 @@ m The item stem should be numbered for easy identification, while the alternativ
 
 The following use formats that promote clarity, illustrating many of these suggestions.
 
-### Example 4
+ Example 4
 
-### Directions: Read each question carefully and select the best answer. Circle the letter of the answer you have selected.
+ Directions: Read each question carefully and select the best answer. Circle the letter of the answer you have selected.
 
 - 1. Which type of validity study involves a substantial time interval between when the test is administered and when the criterion is measured?
 	- A. delayed study
@@ -4405,7 +4487,7 @@ The following use formats that promote clarity, illustrating many of these sugge
 	- C. factorial study
 	- D. predictive study <
 
-### Example 5
+ Example 5
 
 - 2. The type of validity study that involves a substantial time interval between when the test is administered and when the criterion is measured is a
 	- A. delayed study.
@@ -4413,9 +4495,9 @@ The following use formats that promote clarity, illustrating many of these sugge
 	- C. factorial study.
 	- D. predictive study. <
 
-# Have the Item Stem Contain All the Information Necessary to Understand the Problem or Question. When writing multiple-choice items, the problem or question should be fully developed in the item stem. Poorly developed multiple-choice items often contain an inadequate stem that leaves the test taker unclear about the central problem or question. Compare the stems in the following two examples.
+ Have the Item Stem Contain All the Information Necessary to Understand the Problem or Question. When writing multiple-choice items, the problem or question should be fully developed in the item stem. Poorly developed multiple-choice items often contain an inadequate stem that leaves the test taker unclear about the central problem or question. Compare the stems in the following two examples.
 
-# Example 6 Poor Item—Inadequate Stem
+ Example 6 Poor Item—Inadequate Stem
 
 - 1. Absolute zero point.
 	- A. interval scale
@@ -4423,7 +4505,7 @@ The following use formats that promote clarity, illustrating many of these sugge
 	- C. ordinal scale
 	- D. ratio scale <
 
-## Example 7 Better Item—Adequate Stem
+ Example 7 Better Item—Adequate Stem
 
 - 1. Which scale of measurement incorporates a true or absolute zero point?
 	- A. interval scale
@@ -4435,7 +4517,7 @@ Your students are not mind readers, and item stems that are not fully developed 
 
 While we encourage you to develop the problem fully in the item stem, it is usually not beneficial to include irrelevant material in the stem. Consider this example.
 
-## Example 8 Poor Item—Unnecessary Content
+ Example 8 Poor Item—Unnecessary Content
 
 - 1. There are several different scales of measurement used in educational settings. Which scale of measurement incorporates a true or absolute zero point?
 	- A. interval scale
@@ -4449,7 +4531,7 @@ Provide between Three and Five Alternatives. Although there is no "correct" numb
 
 Keep the Alternatives Brief and Arrange Them in an Order That Promotes Efficient Scanning. As we noted, the item stem should contain as much of the content as possible and should not contain irrelevant material. A correlate of this is that the alternatives should be as brief as possible. This brevity makes it easier for the students to scan the alternatives looking for the correct answer. Consider Examples 9 and 10. While they both measure the same content, the first one contains an inadequate stem and lengthy alternatives whereas the second one has an adequate stem and brief alternatives.
 
-## Example 9 Poor Item—Inadequate Stem and Lengthy Alternatives
+ Example 9 Poor Item—Inadequate Stem and Lengthy Alternatives
 
 - 1. Andrew Jackson
 	- A. was born in Virginia.
@@ -4457,7 +4539,7 @@ Keep the Alternatives Brief and Arrange Them in an Order That Promotes Efficient
 	- C. was the 7th president of the United States. <
 	- D. served three terms as president of the United States.
 
-#### Example 10 Better Item—Adequate Stem and Brief Alternatives
+ Example 10 Better Item—Adequate Stem and Brief Alternatives
 
 - 2. Who was the 7th president of the United States of America?
 	- A. Andrew Jackson <
@@ -4466,8 +4548,7 @@ Keep the Alternatives Brief and Arrange Them in an Order That Promotes Efficient
 	- D. Martin Van Buren
 
 When applicable, alternatives should be arranged in a logical order to promote efficient scanning. For example, numbers should be placed in ascending order, dates ordered in temporal sequence, and nouns and names alphabetized. See Examples 11 and 12.
-
-## Example 11 Poor Item—lIllogical Arrangement of Alternatives
+ Example 11 Poor Item—lIllogical Arrangement of Alternatives
 
 - 1. What year did the Spanish-American War occur?
 	- 1912
@@ -4476,7 +4557,7 @@ When applicable, alternatives should be arranged in a logical order to promote e
 	- 1898 < Pie <sup>1902</sup>
 	-
 
-# Example 12 Better Item—Logical Arrangement of Alternatives
+ Example 12 Better Item—Logical Arrangement of Alternatives
 
 - 2. What year did the Spanish-American War occur?
 	- 1890
@@ -4489,7 +4570,7 @@ Avoid Negatively Stated Stems in Most Situations. As a general rule you should a
 
 Occasionally it may be necessary or desirable to state stems in the negative. For example, in some situations it is important for students to know what not to do (e.g., what should you not do if you smell gas?) or identify an alternative that differs in some way from the other alternatives. In these situations you should highlight the negative terms by capitalizing, underlining, or printing them in bold type. Examine Examples 13 and 14.
 
-# Example 13 Poor Item—Negatively Stated Stem
+ Example 13 Poor Item—Negatively Stated Stem
 
 - 1. Which state does not have a coastline on the Gulf of Mexico?
 	- A. Alabama
@@ -4497,7 +4578,7 @@ Occasionally it may be necessary or desirable to state stems in the negative. Fo
 	- C. Tennessee <
 	- D. Texas
 
-# Example 14\_ Better Item—Negative Term Highlighted
+ Example 14 Better Item—Negative Term Highlighted
 
 - 2. Which state does NOT have a coastline on the Gulf of Mexico?
 	- A. Alabama
@@ -4511,7 +4592,7 @@ Make Sure Only One Alternative Is Correct or Represents the Best Answer. Careful
 
 Occasionally it might be appropriate to include more than one correct alternative in a multiple-choice item and require the students to identify all of the correct alternatives. It is usually best to format these questions as a series of true—false items, an arrangement referred to as a cluster-type or multiple true—false item. See Examples 15 and 16.
 
-# Example 15 Poor Item—Multiple-Choice Item with Multiple Correct Alternatives
+Example 15 Poor Item—Multiple-Choice Item with Multiple Correct Alternatives
 
 - 1. Which states have a coastline on the Gulf of Mexico?
 	- A. Alabama <
@@ -4519,7 +4600,7 @@ Occasionally it might be appropriate to include more than one correct alternativ
 	- C. Tennessee
 	- D. Texas <
 
-# Example 16 Better Item—Multiple True-False Item
+Example 16 Better Item—Multiple True-False Item
 
 2. Which of the following states have a coastline on the Gulf of Mexico? Underscore the T if the state has a Gulf coastline or the F if the state does not have a Gulf coastline.
 
@@ -4530,8 +4611,8 @@ Occasionally it might be appropriate to include more than one correct alternativ
 | Texas     | T | F |
 
 Avoid Cues That Inadvertently Identify the Correct Answer. Item stems should not contain information that gives away the answer. A cue is something in the stem that provides aclue to the answer that is not based on knowledge. It often involves an association between the words in the stem and the correct alternative. See Examples 17 and 18.
-
-#### Example 17 Poor Item—Stem Contains a Cue to the Correct Answer
+ 
+Example 17 Poor Item—Stem Contains a Cue to the Correct Answer
 
 - 1. Which type of validity study examines the ability of test scores to predict a criterion?
 	- A. interval study
@@ -4539,7 +4620,7 @@ Avoid Cues That Inadvertently Identify the Correct Answer. Item stems should not
 	- C. factorial study
 	- D. predictive study <
 
-# Example 18 Better Item—Cues Avoided
+Example 18 Better Item—Cues Avoided
 
 - 2. Which type of validity study involves a substantial time interval between when the test is administered and when the criterion is measured?
 	- A. interval study
@@ -4547,13 +4628,11 @@ Avoid Cues That Inadvertently Identify the Correct Answer. Item stems should not
 	- C. factorial study
 	- D. predictive study <
 
-# 202 CHAPTER 8
-
 In Example 17, the use of predict in the stem and predictive in the correct alternative provides a cue to the correct answer. This is corrected in Example 18. Additionally, in the second example there is an intentional verbal association between the stem and the first distracter (i.e., interval). This association makes the first-distracter more attractive, particularly to students relying on cues, who do not know the correct answer.
 
 In addition to the stem containing cues to the correct answer, the alternatives can themselves contain cues. One way to avoid this is to ensure that all alternatives are approximately equal in length and complexity. In an attempt to be precise, teachers may make the correct answer longer or more complex than the distracters. This can serve as another type of cue for students. Although in some cases it might be possible to both maintain precision and shorten the correct alternative, it is usually easier to lengthen the distracters (though this does make scanning the alternatives more difficult for students). Compare Examples 19 and 20.
 
-# Example 19 Poor Item—Unequal Length and Complexity of Alternatives
+Example 19 Poor Item—Unequal Length and Complexity of Alternatives
 
 - 1. Ecology is the study of
 	- A. genetics.
@@ -4561,7 +4640,7 @@ In addition to the stem containing cues to the correct answer, the alternatives 
 	- C. internal balances.
 	- D. evolution.
 
-### Example 20 Better Item—Alternatives Similar in Length and Complexity
+ Example 20 Better Item—Alternatives Similar in Length and Complexity
 
 - 2. Ecology is the study of
 	- A. the genetic and molecular basis of organisms.
@@ -4571,14 +4650,14 @@ In addition to the stem containing cues to the correct answer, the alternatives 
 
 When dealing with numerical alternatives, the visual characteristics of the choices can also serve as a cue. Examine the following examples.
 
-## Example 21 Poor Item—Alternative Contains a Visual Cue to the Correct Answer
+Example 21 Poor Item—Alternative Contains a Visual Cue to the Correct Answer
 
 - 1. The correlation between two measures is 0.90. What is the coefficient of determination?
 	- A. 0.1 B. 0.3 C. 0.81 D. 0.9
 
 <
 
-# Example 22 Better Item—Cues Avoided
+Example 22 Better Item—Cues Avoided
 
 - 2. The correlation between two measures is 0.90. What is the coefficient of determination?
 	- A. 0.10
@@ -4590,7 +4669,7 @@ In Example 21, the third option (i.e., C) is the only alternative that, like the
 
 Make Sure All Alternatives Are Grammatically Correct Relative to the Stem. Grammatical cues that may help the uninformed student select the correct answer are usually the result of inadequate proofreading. Examine the following examples.
 
-# Example 23 Poor Item—Grammatical Cue Present
+Example 23 Poor Item—Grammatical Cue Present
 
 - 1. Which individuals are credited with making the first successful flights in a heavierthan-air aircraft that was both powered and controlled?
 	- A. Octave Chanute
@@ -4598,7 +4677,7 @@ Make Sure All Alternatives Are Grammatically Correct Relative to the Stem. Gramm
 	- C. Samuel Langley
 	- D. Wilbur and Orville Wright <
 
-# Example 24 \_ Better Item—Grammatical Cue Avoided
+Example 24  Better Item—Grammatical Cue Avoided
 
 - 2. Which individuals are credited with making the first successful flights in a heavierthan-air aircraft that was both powered and controlled?
 	- A. Octave Chanute and Sir George Cayley
@@ -4610,7 +4689,7 @@ In Example 23 the phrase "individuals are" in the stem indicates a plural answer
 
 Another common error is inattention to the articles a and an. See the following.
 
-## Example 25 Poor Item—Grammatical Cue Present
+Example 25 Poor Item—Grammatical Cue Present
 
 - 1. A coherent and unifying explanation for a class of phenomena is a
 	- A. analysis.
@@ -4618,7 +4697,7 @@ Another common error is inattention to the articles a and an. See the following.
 	- C. observation.
 	- D. theory. <
 
-#### Example 26 Better Item—Grammatical Cue Avoided
+Example 26 Better Item—Grammatical Cue Avoided
 
 - 2. Acoherent and unifying explanation for a class of phenomena is a
 	- A. conjecture.
@@ -4626,7 +4705,7 @@ Another common error is inattention to the articles a and an. See the following.
 	- C. prediction.
 	- D. theory. <
 
-### Example 27 Better Itemn—Grammatical Cue Avoided
+Example 27 Better Itemn—Grammatical Cue Avoided
 
 - 3. A coherent and unifying explanation for a class of phenomena is a(n)
 	- A. experiment.
@@ -4658,32 +4737,32 @@ Companies who publish tests estimate a completion time for each item. For exampl
 
 Be Flexible When Applying These Guidelines. Apply these guidelines in a flexible manner. Although these suggestions apply in most cases, there are exceptions. The goal is to write items that measure your educational objectives and contribute to psychometrically sound tests. As you gain more experience writing items, you may occasionally need to
 
-### TABLE 8.1 Checklist for the Development of Multiple-Choice Items
-
-| . Are the items clear and easy to read?                                                                |  |
-|--------------------------------------------------------------------------------------------------------|--|
+**TABLE-8.1 Checklist for the Development of Multiple-Choice Items**
+|-----------------------------------------------------------------------------------------------------------|
+| - Are the items clear and easy to read?                                                                |  |
 | - Does the item stem clearly state the problem or question?                                            |  |
 | . Are there between three and five alternatives?                                                       |  |
-| WB NO> = . Are the alternatives brief and arranged in an order that promotes efficient scanning? |  |
+| . Are the alternatives brief and arranged in an order that promotes efficient scanning?                |  |
 | . Have you avoided negatively stated stems?                                                            |  |
 | . Is there only one alternative that is correct or represents the best answer?                         |  |
 | . Have you checked for cues that accidentally identify the correct answer?                             |  |
 | . Are all alternatives grammatically correct relative to the stem?                                     |  |
-| nm eonrmnnrn . Have you checked to make sure no item reveals the answer to another item?         |  |
-| Do all distracters appear plausible? 10.                                                            |  |
-| Did you use alternative positions in a random manner for the correct answer? 11.                    |  |
-| Did you minimize the use of "none of the above" and avoid using 12. "all of the above'?          |  |
-| Is the reading level appropriate? 13.                                                               |  |
-| Did you limit the use of always and never in the alternatives? 14,                                  |  |
-| Did you avoid using the exact phrasing from the text? 15.                                           |  |
-| Is the test organized in a logical manner? 16.                                                      |  |
-| Can the test be completed in the allotted time period? 17.                                          |  |
+| . Have you checked to make sure no item reveals the answer to another item?                            |  |
+| . Do all distracters appear plausible?                                                                 |  |
+| .  Did you use alternative positions in a random manner for the correct answer?                        |  |
+| . Did you minimize the use of "none of the above" and avoid using "all of the above'?                  |  |
+| . Is the reading level appropriate?                                                                    |  |
+| . Did you limit the use of always and never in the alternatives?                                       |  |
+| . Did you avoid using the exact phrasing from the text?                                                |  |
+| . Is the test organized in a logical manner?                                                           |  |
+| . Can the test be completed in the allotted time period?                                               |  |
+|-----------------------------------------------------------------------------------------------------------|
 
 violate one of the guidelines to write the most efficient and effective item. This is clearly appropriate, but if you find yourself doing it routinely, you are most likely being lazy or careless in your test preparation. Table 8.1 provides a summary of these guidelines.
 
 As we noted earlier the multiple-choice format is the most popular selected-response format. Major strengths of multiple-choice include the following.
 
-# Strengths of Multiple-Choice Items
+#### Strengths of Multiple-Choice Items
 
 Multiple-Choice Items Are Versatile. Multiple-choice items can be used to assess achievement in a wide range of content areas from history and geography to items can be Statistics and research design. They can be used to assess a variety of variety of educational objectives ranging from the simple to the complex. One of objectives ranging the most frequent (but unfounded) criticisms of multiple-choice items the complex. is that they are limited to lower-level objectives. With creativity and
 
@@ -4703,7 +4782,7 @@ from
 
 effort multiple-choice items can be written that measure more complex objectives. Consider the following example suggested by Green (1981) of an item designed to assess a complex learning objective.
 
-# Example 28 Item Assessing Complex Objectives
+Example 28 Item Assessing Complex Objectives
 
 - 1. The correlation of SAT verbal and SAT math among all test takers is about 0.5. What is the correlation between SAT verbal and SAT math among applicants admitted to Harvard?
 	- greater than 0.50
@@ -4719,7 +4798,7 @@ Multiple-Choice Items Are Not Unduly Subject to Guessing. Although multiplechoic
 
 Multiple-Choice Items Are Not Significantly Influenced by Response Sets. A response set is a tendency for an individual to respond in a specific manner. For example, when unsure of the correct response on a true—false item, there is an "acquiescence set" whereby students are more likely to select true than false (Cronbach, 1950). Although students might have a tendency to select the middle alternatives when unsure of the answer,
 
-# SPECIAL INTEREST TOPIC 8.1 Do Multiple-Choice Items Penalize Creative Students?
+**SPECIAL INTEREST TOPIC 8.1 Do Multiple-Choice Items Penalize Creative Students?**
 
 Critics of multiple-choice and other selected-response items have long asserted that these items measure only superficial knowledge and conventional thinking and actually penalize students who are creative, deep thinkers. In a recent study, Powers and Kaufman (2002) examined the relationship between performance on the Graduate Record Examination (GRE) General Test and selected personality traits, including creativity, quickness, and depth. In summary, their analyses revealed that there was no evidence that deeper-thinking students were penalized by the multiple-choice format. The correlation between GRE scores and Depth were as follows: Analytical = 0.06, Quantitative = 0.08, and Verbal = 0.15. The results in terms of creativity were more positive, with the correlation between GRE scores and Creativity as follows: Analytical = 0.24, Quantitative = 0.26, and Verbal = 0.29 (all p < 0.001). Similar results were obtained with regard to Quickness, with the correlation between GRE scores and Quickness as follows: Analytical = 0.21, Quantitative = 0.15, and Verbal = 0.26 (all p < 0.001). In summary, there is no evidence that individuals who are creative, deep thinking, and mentally quick are penalized by multiple-choice items. In fact, the research reveals modest positive correlations between the GRE scores and these personality traits. To be fair, there was one rather surprising finding, a slightly negative correlation between GRE scores and Conscientious (e.g., careful, avoids mistakes, completes work on time). The only hypothesis the authors proposed was that being "'conscientious" does not benefit students particularly well on timed tests, such as the GRE, that place a premium on quick performance.
 
@@ -4735,9 +4814,7 @@ Multiple-Choice Items Are Easy to Improve Using the Results of Item Analysis. Th
 
 Multiple-Choice Items Provide Information about the Type of Errors That Students Are Making. Teachers can gain diagnostic information about common student errors and misconceptions by examining the distracters that students commonly endorse. This infor mation can be used to improve instruction in the future, and current students' knowledge base can be corrected in class review sessions.
 
-# SPECIAL INTEREST TOPIC — 8.2
-
-# Correction for Guessing
+**SPECIAL INTEREST TOPIC — 8.2 Correction for Guessing**
 
 Some testing experts support the use of a "correction for guessing" formula with true—false and multiplechoice items. Proponents of this practice use it because it discourages students from attempting to raise their scores through blind guessing. The most common formula for correcting for guessing is:
 
@@ -4767,7 +4844,7 @@ The second issue involves professionally developed standardized tests. When you 
 
 Although multiple-choice items have many strengths to recommend their use, they do have limitations. These include the following.
 
-# Weaknesses of Multiple-Choice Items
+#### Weaknesses of Multiple-Choice Items
 
 Multiple-Choice Items Are Not Effective for Measuring All Educational Objectives. Although multiple-choice items can be written to measure both simple and complex objectives, they are not optimal for assessing all objectives. For example, some objectives simply cannot be measured using multiple-choice items (e.g., writing a poem, engaging in a debate, performing a laboratory experiment).
 
@@ -4781,24 +4858,22 @@ In summary, multiple-choice items are by far the most popular selected-response 
 
 nesses. As a result, they are often the preferred format for professionally developed tests. When skillfully developed, they can contribute to the construction of psychometrically sound class room tests. Table 8.2 summarizes the strengths and weaknesses of multiple-choice items.
 
-#### TABLE 8.2 Strengths and Weaknesses of Multiple-Choice Items
+**TABLE-8.2 Strengths and Weaknesses of Multiple-Choice Items**
+|------------------------------------------------------------------------------------|
+| Strengths of Multiple-Choice Items                                                 |
+| - Multiple-choice items are versatile.                                             |
+| - Multiple-choice items can be scored in an objective and reliable manner.         |
+| - Multiple-choice items are not overly subject to guessing.                        |
+| - Multiple-choice items are not significantly influenced by response sets.         |
+| - Multiple-choice items are an efficient way of sampling the content domain.       |
+| - Multiple-choice items are easy to refine using the results of item analysis.     |
+| - Multiple-choice items provide diagnostic information.                            |
+| Weaknesses of Multiple-Choice Items                                                |
+| - Multiple-choice items are not effective for measuring all educational objectives.|
+| - Multiple-choice items are not easy to write.                                     |
+|------------------------------------------------------------------------------------|
 
-### Strengths of Multiple-Choice Items
-
-- Multiple-choice items are versatile.
-- Multiple-choice items can be scored in an objective and reliable manner.
-- Multiple-choice items are not overly subject to guessing.
-- Multiple-choice items are not significantly influenced by response sets.
-- Multiple-choice items are an efficient way of sampling the content domain.
-- Multiple-choice items are easy to refine using the results of item analysis.
-- Multiple-choice items provide diagnostic information.
-
-### Weaknesses of Multiple-Choice Items
-
-- = Multiple-choice items are not effective for measuring all educational objectives.
-- = Multiple-choice items are not easy to write.
-
-# True—False Items
+### True—False Items
 
 The next selected-response format we will discuss is the true—false format. True—false items are very popular, second only to the multiple-choice format. We will actually use the term true—false items to refer to a broader class of items. Sometimes this category is referred to as binary-choice items, two-option items, or alternate-choice items. The common factor is that all these items involve a statement or question that the student marks as true or false, agree or disagree, correct or incorrect, yes or no, fact or opinion, and so on. Because the most common
 
@@ -4808,14 +4883,14 @@ form is true—false, we will use this term generically to refer to all two-
 
 statement or question that the Here follow examples of true—false items. Example 29 takes student marks as true or false, the form of the traditional true—false format. Example 30 takes the agree or disagree, yes or no, form of the correct—incorrect format. We also provide examples of and so on. the type of directions needed with these questions.
 
-#### Example 29 True—False Item with Directions
+ Example 29 True—False Item with Directions
 
 Directions: Carefully read each of the following statements. If the statement is true, underscore the T. If the statement is false, underscore the F.
 
 - deel F In recent years, malaria has been eliminated worldwide.
 - 2. 1 F The ozone layer protects us from harmful ultraviolet radiation.
 
-### Example 30 Correct-Incorrect Item with Directions
+ Example 30 Correct-Incorrect Item with Directions
 
 Directions: Carefully read each of the following sentences. If the sentence is grammatically correct, underscore C. If the sentence contains a grammatical error, underscore I for incorrect.
 
@@ -4824,22 +4899,22 @@ Directions: Carefully read each of the following sentences. If the sentence is g
 
 Two variations of the true—false format are fairly common and deserve mention. The first is the multiple true—false format we briefly mentioned when discussing multiple-choice items. On traditional multiple-choice items the student must select one correct answer from the alternatives, whereas on multiple true—false items the student indicates whether each one of the alternatives is true or false. Frisbie (1992) provides an excellent discussion of the multiple true—false format. Example 31 is a multiple true—false item.
 
-### Example 31 Multiple True—False Item
+Example 31 Multiple True—False Item
 
 1. Which of the following Apollo astronauts actually landed on the moon? Underscore the T if the astronaut landed on the moon, the F if the astronaut did not land on the moon.
 
 | Edwin Aldrin      |                       |    |
-|----------------------|-----------------------|----|
+|-------------------|-----------------------|----|
 | Frank Borman      |                       |    |
 | Neil Armstrong    |                       |    |
 | Pete Conrad       |                       |    |
-| Thomas Patten     |                       | es |
-| Cunningham Walter | oe HAs leo ies >i) |    |
-|                      |                       |    |
+| Thomas Patten     |                       |    |
+| Cunningham Walter |                       |    |
+|                   |                       |    |
 
 In the second variation of the traditional true—false format, the student is required to correct false statements. This is typically referred to as true—false with correction format. With this format it is important to indicate clearly which part of the statement may be changed by underlining it (e.g., Linn & Gronlund, 2000). Consider Example 32.
 
-### Example 32. True—False Items with Correction of False Items
+ Example 32. True—False Items with Correction of False Items
 
 Directions: Read each of the statements. If the statement is true, underscore the T. If the statement is false, underscore the F and change the word or words that are underlined to make the statement true. To make the correction, write the correct word or words in the blank space.
 
@@ -4847,7 +4922,7 @@ healt: FE Apollo7\_ Apollo 5 was the first Apollo mission to conduct an orbit fl
 
 Although this variation makes the true—false items more demanding and less susceptible to guessing, it also introduces some subjectivity in scoring, which may reduce reliability.
 
-# Guidelines for Developing True—False Items
+#### Guidelines for Developing True—False Items
 
 Avoid Including More than One Idea in the Statement. True-false items should address only one central idea or point. Consider the following examples.
 
@@ -4857,11 +4932,11 @@ Avoid Including More than One Idea in the Statement. True-false items should add
 
 eT: F The study of biology helps us understand living organisms and predict the weather.
 
-#### Example 34 Better Item—Statement Contains Only One Idea
+ Example 34 Better Item—Statement Contains Only One Idea
 
 2. 1 rE The study of biology helps us understand living organisms.
 
-#### Example 35 Better Item—Statement Contains Only One Idea
+ Example 35 Better Item—Statement Contains Only One Idea
 
 peak EF The study of biology helps us predict the weather.
 
@@ -4869,11 +4944,11 @@ Example 33 contains two ideas, one that is correct and one that is false. Theref
 
 Avoid Specific Determiners and Qualifiers That Might Serve as Cues to the Answer. Specific determiners such as never, always, none, and all occur more frequently in false statements and serve as cues to uninformed students that the statement is too broad to be true. Accordingly, moderately worded statements including usually, sometimes, and fre quently are more likely to be true and these qualifiers also serve as cues to uninformed students. Although it would be difficult to avoid using qualifiers in true—false items, they can be used equally in true and false statements so their value as cues is diminished. Exam ine the following examples.
 
-# Example 36 Poor Item—Specific Determiners Serve as Cue
+ Example 36 Poor Item—Specific Determiners Serve as Cue
 
 Leck F Longer tests always produce more reliable scores than shorter tests.
 
-# Example 37 Better Item—Cue Eliminated
+Example 37 Better Item—Cue Eliminated
 
 2 EF Shorter tests usually produce more reliable scores than longer tests.
 
@@ -4895,7 +4970,7 @@ Testing experts provide mixed evaluations of true—false items. Some experts ar
 
 True—False Items Can Be Scored in an Objective Manner. Like other selected-response items, true—false items can be scored easily, objectively, and reliably.
 
-### TABLE 8.3 Checklist for the Development of True—False Items
+**TABLE 8.3 Checklist for the Development of True—False Items**
 
 - 1. Does each statement include only one idea?
 - 2. Have you avoided using specific determiners and qualifiers that could serve as cues to the answer?
@@ -4909,7 +4984,7 @@ manner.
 
 True-—false items are effective at True—-False Items Are Efficient. Students can respond quickly to sampling the content domain true—false items, even quicker than they can to multiple-choice items. and can be scored in a reliable This allows the inclusion of more items on a test designed to be administered in a limited period of time.
 
-# Weaknesses of True—False Items
+#### Weaknesses of True—False Items
 
 True—False Items Are Not Particularly Useful Except with the Simplest Educational Objectives. Many testing experts believe that true—false items are useful only for assessing low-level objectives such as knowledge and comprehension. Much of what we hope to teach our students cannot be divided into the clear dichotomies represented by true—false items and, as a result, is not well suited for this format. Additionally, many
 
@@ -4931,29 +5006,27 @@ Effective True—False Items Appear Easy to Write to the Casual Observer. This I
 
 In summary, true—false items are a popular selected-response format. They can be scored in an objective and reliable manner and students can answer many items in a short period of time. However, they have numerous weaknesses including being limited to the assessment of simple learning objectives and being vulnerable to guessing. Before using true—false items, we suggest that you weight their strengths and weaknesses and ensure that they are appropriate for assessing the specific learning objectives. Table 8.4 provides a summary of the strengths and weaknesses of true—false items.
 
-# Matching Items
+### Matching Items
 
 The final selected-response format we will discuss is matching items. Matching items usually contain two columns of words or phrases. One column contains words or phrases for which the student seeks a match. This column is traditionally placed on the left and the phrases are referred to as premises. The second column contains words that are available for selection. The items in this column are referred to as responses. The premises are numbered and the responses are identified with letters. Directions are provided that indicate the basis for matching the items in the two lists. Here is an example of a matching item.
 
-#### TABLE 8.4 Strengths and Weaknesses of True—False Items
-
-#### Strengths of True—False Items
-
-- = True-false items can be scored in an objective and reliable manner.
-- a True—false items are efficient.
-
-#### Weaknesses of True—False Items
-
-- m True-false items are not particularly useful except with the simplest educational objectives.
-- True—false items are vulnerable to guessing.
-- True—false items are subject to response sets.
-- True—false items provide little diagnostic information.
-- True—false items may produce a negative suggestion effect.
-- Effective true—false items are not easy to write.
+**TABLE-8.4 Strengths and Weaknesses of True—False Items**
+|------------------------------------------------------------------------------------------------------------|
+| Strengths of True—False Items                                                                              |
+| - True-false items can be scored in an objective and reliable manner.                                      |
+| - True—false items are efficient.                                                                          |
+| Weaknesses of True—False Items                                                                             |
+| - True-false items are not particularly useful except with the simplest educational objectives.            |
+| - True—false items are vulnerable to guessing.                                                             |
+| - True—false items are subject to response sets.                                                           |
+| - True—false items provide little diagnostic information.                                                  | 
+| - True—false items may produce a negative suggestion effect.                                               |
+| - Effective true—false items are not easy to write.                                                        |
+|------------------------------------------------------------------------------------------------------------|
 
 Matching items usually contain two columns of words or phrases. One column, typically located on the left, contains words or phrases for which the student seeks a match.
 
-### Example 38 Matching Items
+ Example 38 Matching Items
 
 Directions: Column A lists major functions of the brain. Column B lists different brain structures. Indicate which structure primarily serves which function by placing the appropriate letter in the blank space to the left of the function. Each brain structure listed in Column B can be used once, more than once, or not at all.
 
@@ -4964,7 +5037,7 @@ Directions: Column A lists major functions of the brain. Column B lists differen
 - . Connects the two hemispheres.
 - ls Nm . Controls the release of certain hormones important in controlling the internal environment of the body.
 
-### Column A Column B
+ Column A Column B
 
 - 
 - b. cerebellum
@@ -4976,13 +5049,13 @@ Directions: Column A lists major functions of the brain. Column B lists differen
 
 This item demonstrates an imperfect match because there are more responses than premises. Additionally, the instructions also indicate that each response may be used once, more than once, or not at all. These procedures help prevent students from matching items simply by elimination.
 
-# Guidelines for Developing Matching Items
+#### Guidelines for Developing Matching Items
 
 Limit Matching Items to Homogeneous Material. Possibly the most important guideline to remember when writing matching items is make sure the lists contain homogeneous content. By this we mean you should base the lists on a common theme. For example, in the previous example (Example 38) all of the premises specified functions served by brain structures, and all of the responses were brain structures. Other examples of homogeneous lists could be the achievements matched with famous individuals, historical events matched with dates, definitions matched with words, and so on. What should be avoided is including heterogeneous material in your lists. For example, consider Example 39.
 
 Example 39 Poor Item—Heterogeneous Content Directions: Match the items in Column A with the items in Column B. Each item in Column B can be used once, more than once, or not at all.
 
-# Column A Column B
+Column A Column B
 
 - £1. Most populous U.S. city. a. Amazon
 - Bie 2: Largest country in South America. b. Brazil
@@ -5009,7 +5082,7 @@ Place All Items on the Same Page. Finally, keep the directions and all items on 
 
 Testing experts generally provide favorable evaluations of the matching format. Although this format does not have as many advantages as multiple-choice items, it has fewer limitations than the true—false format.
 
-# Strengths of Matching Items
+Strengths of Matching Items
 
 Matching Items Can Be Scored in an Objective Manner. Like other selected-response items, matching items can be scored easily, objectively, and reliably.
 
@@ -5027,22 +5100,22 @@ EOC
 
 fort. The secret to writing good matching items is developing two homogeneous sets of items to be matched and avoiding cues to the correct answer. If they are not developed well, efficiency and usefulness are lost.
 
-# Weaknesses of Matching Items
+Weaknesses of Matching Items
 
 Matching Items Have Limited Scope and Application in Assessing Student Learning. With matching items, students are asked to match two things based on logical and usually simple associations. Although matching items measure this type of learning outcome fairly
 
-#### se TABLE 8.5 Checklist for the Development of Matching Items
-
-| Is the material homogeneous and appropriate for the matching format?                                                                 |           |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| - Do the directions indicate the basis for matching premises and responses?                                                    |           |
-| Have unintentional cues to the correct answer been avoided?                                                                             |           |
-| . Are there more responses than premises?                                                                                                                       |           |
-| - Do the directions an WwWKY & = indicate that responses may be used once, more than once, or not at all? |           |
-| 6. Are the lists relatively short to facilitate scanning (e.g., < 10)?                                                         |           |
-| 7. Are the responses brief and arranged in a logical order?                                                                       |           |
-| 8. Are all the items on the same page?                                                                                                                          | IT TTT |
-|                                                                                                                                                                 |           |
+**TABLE-8.5 Checklist for the Development of Matching Items**
+|---------------------------------------------------------------------------------------------------------- |
+| Is the material homogeneous and appropriate for the matching format?                                      |
+|-----------------------------------------------------------------------------------------------------------|
+| - Do the directions indicate the basis for matching premises and responses?                               |          
+| - Have unintentional cues to the correct answer been avoided?                                             |           
+| - Are there more responses than premises?                                                                 |           
+| - Do the directions an WwWKY & = indicate that responses may be used once, more than once, or not at all? |           
+| - Are the lists relatively short to facilitate scanning (e.g., < 10)?                                     |
+| - Are the responses brief and arranged in a logical order?                                                |
+| - Are all the items on the same page?                                                                     |
+|---------------------------------------------------------------------------------------------------------- |
 
 well, much of what we teach students involves greater understanding and higher-level skills.
 
@@ -5056,28 +5129,25 @@ Matching items are fairly Matching Items May Promote Rote Memorization. Due to t
 
 > In summary, matching items are a prevalent selected-response format. They can be scored in an objective manner, are relatively easy to write, and are efficient. They do have weaknesses, including being limited in the types of learning outcomes they can measure and potentially encouraging students to simply memorize facts and simple associations. You also need to be careful when writing matching items to avoid cues that inadvertently provide hints to the correct answer. Nevertheless, when dealing with information that has acommon theme and that lends itself to this item format, they may be particularly useful. Table 8.6 provides a summary of the strengths and weaknesses of matching items.
 
-# Summary
+### Summary
 
 All test items can be classified as either selected-response items or constructed-response items. Selected-response items include multiple-choice, true—false, and matching items whereas constructed-response items include essay items, short-answer items, and performance assessments. We discussed each specific selected-response format, describing how to write effective items and their individual strengths and weaknesses.
 
-#### TABLE 8.6 Strengths and Weaknesses of Matching Items
+**TABLE-8.6 Strengths and Weaknesses of Matching Items**
+|---------------------------------------------------------------------------------------|
+| Strengths of Matching Items                                                           |
+| - = Matching items can be scored in an objective and reliable manner.                 |
+| - = Matching items are efficient.                                                     |
+| - = Matching items are relatively simple to write.                                    |
+| Weaknesses of Matching Items                                                          |
+| - = Matching items have limited scope and application in assessing student learning.  |
+| - = Matching items may promote rote memorization.                                     |
+| - = Matching items are vulnerable to cues that increase the chance of guessing.       |
+| - = It is often difficult to develop homogeneous lists of meaningful material. Pre    |
+|---------------------------------------------------------------------------------------|
 
-#### Strengths of Matching Items
 
-- = Matching items can be scored in an objective and reliable manner.
-- = Matching items are efficient.
-- = Matching items are relatively simple to write.
-
-#### Weaknesses of Matching Items
-
-- = Matching items have limited scope and application in assessing student learning.
-- = Matching items may promote rote memorization.
-- = Matching items are vulnerable to cues that increase the chance of guessing.
-- = It is often difficult to develop homogeneous lists of meaningful material. Pre
-
-# SPECIAL INTEREST TOPIC 8.3
-
-# What Research Says about '"'Changing Your Answer"
+**SPECIAL INTEREST TOPIC 8.3 What Research Says about '"'Changing Your Answer"**
 
 Have you ever heard that it is usually not in your best interest to change your answer on a multiplechoice test? Many students and educators believe that you are best served by sticking with your first impression. That is, don't change your answer. Surprisingly this is not consistent with the research! Pike (1979) reviewed the literature and came up with these conclusions:
 
@@ -5094,7 +5164,7 @@ This does not mean that you should encourage your students to change their answe
 
 In the next two chapters we will address constructed-response items, including essays, short-answer items, performance assessments, and portfolios. We stated earlier in the textbook that typically the deciding factor when selecting an assessment or item format involves identifying the format that most directly measures the behaviors specified by the educational objectives. The very nature of some objectives mandates the use of constructed-response items (e.g., writing a letter), but some objectives can be measured equally well using either selectedresponse or constructed-response items. If after thoughtful consideration you determine that both formats are equally well suited, we typically recommend the use of selected-response items because they allow broader sampling of the content domain and can be scored in a more reliable manner. However, we do not want you to think that we have a bias against constructed-response items. We believe that educational assessments should contain a variety of assessment procedures that are individually tailored to assess the educational objectives of interest.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Alternatives, p. 196 Best-answer format, p. 197 Constructed-response items, p. 195 Correct-answer format, p. 197 Cue, p. 201 Direct-question format, p. 196 Distracters, p. 196
 
@@ -5109,7 +5179,7 @@ Alternatives, p. 196 Best-answer format, p. 197 Constructed-response items, p. 1
 
 Selected-response items, p. 195 Stems, p. 196 True-false items, p. 211 True—false with correction, p. 212
 
-# RECOMMENDED READING
+### RECOMMENDED READING
 
 - Aiken, L. R. (1982). Writing multiple-choice items to measure higher-order educational objectives. Educational & Psychological Measurement, 42, 803-806. A respected author presents suggestions for writing multiple-choice items that assess higher-order learning objectives.
 - Beck, M. D. (1978). The effect of item response changes on scores on an elementary reading achievement test. Journal of Educational Research, 71, 153-156. This article is an example of the research that has examined the issue of students changing their responses on achievement tests. A good example!
@@ -5130,19 +5200,17 @@ I
 
 ET
 
-# CHAPTER
-
-# The Development and Use of Constructed-Response Items
+## CHAPTER 9 The Development and Use of Constructed-Response Items
 
 In recent years there has been increased criticism of selected-response items and aeall for relying more on constructed-response items. Proponents of constructed-response items claim that they provide a more "authentic" assessment of student abilities, one that more closely resembles the way these abilities are applied in the real world. 2
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Oral Testing: The Oral Essay as a Short-Answer Items ; Essay Items Selected-Response Items
 
 Precursor of Constructed-Response Items A Final Note: Constructed-Response versus
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -5161,7 +5229,7 @@ After reading and studying this chapter, students should be able to
 
 We have noted that most test items used in the classroom can be classified as either selected-response or constructed-response items. If an item requires a student to select a response from a list of alternatives, it is classified as a selected-response item. Examples of selected-response items include multiple-choice, true—false, and matching items. In contrast, if an item requires students to create or construct a response, it is classified as a constructedresponse item. Essay and short-answer items are common examples of constructed-response items and will be the focus of this chapter. We will discuss their strengths and weaknesses and provide suggestions for developing effective items. In the next chapter we will address performance and portfolio assessments, which are types of constructed-response assessments that have gained increased popularity in recent years. In all of these chapters we will focus on the development of items to assess classroom achievement.
 
-# Oral Testing: The Oral Essay as a Precursor of Constructed-Response Items
+### Oral Testing: The Oral Essay as a Precursor of Constructed-Response Items
 
 We would like to begin our discussion of constructed-response items by briefly tracing their history. Written constructed-response items had their beginning in oral testing. Oral testing
 
@@ -5173,7 +5241,7 @@ as a method of examination was a prominent aspect of Greek teachings Oral testin
 
 on their memory. In oral examinations a premium is often placed on the student's facility with oral responding. For example, students are rarely given extended time to formulate a response, and hesitation is often taken as lack of knowledge. With this arrangement the achievement being measured may be achievement in the articulation of subject matter rather than knowledge of subject matter. If that is the expressed educational objective, as in rhetoric or debate, then the oral test is clearly appropriate. Otherwise it may not be a valid measure of the specified educational objectives. A final limitation of oral testing is one first recognized during the nineteenth-century industrialization process: inefficiency. The total testing time for a class is equal to the number of students times the number of minutes allotted to each student times the number of examiners. As you can see, the testing time adds up quickly. Teachers are very busy professionals and time is at a premium. All of these shortcomings of oral testing provide sufficient reason for its use to be quite restricted.
 
-# Essay Items
+### Essay Items
 
 #### An essay item poses a question or problem for the student to respond to in a written format.
 
@@ -5185,20 +5253,21 @@ Written essay items were used in Chinese civil service examinations as long as t
 
 Essay items can be classified according to their educational purpose or focus (i.e., evaluating content, style, or grammar), the complexity of the task presented (e.g., knowl edge, comprehension, application, analysis, synthesis, and evaluation), and how much structure they provide (restricted or extended response). We will begin by discussing how essay items can vary according to their educational purpose.
 
-# Purposes of Essay Testing
+#### Purposes of Essay Testing
 
 Table 9.1 illustrates different purposes for which essay items are typically used when assess ing student achievement. The major purposes are for assessing content, style, and gram-
 
+**TABLE-9.1 Purposes of Essay Testing**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         | Content                                                                      | Style                                                   | Grammar                             |
 |---------|------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------|
-| Content | Assess cognitive objectives or knowledge of content only —_ writing style | Assess content and                                      | Assess content and grammar       |
-| Style   |                                                                              | Assess writing ability and style only                | Assess writing style and grammar |
+| Content | Assess cognitive objectives or knowledge of content only —_ writing style    | Assess content and                                      | Assess content and grammar          |
+| Style   |                                                                              | Assess writing ability and style only                   | Assess writing style and grammar    |
 | Grammar |                                                                              |                                                         | Assess grammar only                 |
 |         |                                                                              | Content—Style—Grammar                                   |                                     |
-|         |                                                                              | Assess content knowledge, writing style, and grammar |                                     |
+|         |                                                                              | Assess content knowledge, writing style, and grammar    |                                     |
 |         |                                                                              |                                                         |                                     |
-
-TABLE 9.1 Purposes of Essay Testing
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Essay items can be scored in terms of content, style, and grammar.
 
@@ -5214,19 +5283,19 @@ All the other elements (i.e., off-diagonal elements) combine two purposes. For e
 
 While theoretically essay items can be scored independently based on these three purposes, this is actually much more difficult than it appears. For example, research has shown that factors such as grammar, penmanship, and even the length of the answer influence the scores assigned, even when teachers are instructed to grade only on content and disregard style and grammar. We will come back to this and other scoring issues later in this chapter.
 
-# Essay Items at Different Levels of Complexity
+#### Essay Items at Different Levels of Complexity
 
 Essay items can be written to Essay items can be written to measure objectives at all levels of the measure objectives at all levels cognitive taxonomy. Some examples of items written at each level of of the cognitive taxonomy. the cognitive taxonomy follow.
 
 > Knowledge. At the knowledge level, essay items are likely to include verbs such as define, describe, identify, list, and state. A knowledge level item follows:
 
-## Example 1 Knowledge Level Item
+ Example 1 Knowledge Level Item
 
 1. List the four scales of measurement and define each scale.
 
 Comprehension. Comprehension level essay items often include verbs such as explain, paraphrase, summarize, and translate. An example of a comprehension level question follows:
 
-## Example 2 Comprehension Level Item
+Example 2 Comprehension Level Item
 
 1. Explain the use of the Spearman-Brown formula in calculating split-half reliability.
 
@@ -5234,7 +5303,7 @@ Knowledge and comprehension level objectives can also be assessed with selectedr
 
 Application. Application level essay items typically include verbs such as apply, compute, develop, produce, solve, and use. An example of an application level item follows:
 
-## Example 3 Application Level Item
+Example 3 Application Level Item
 
 1. For the objective listed below, develop a multiple-choice item and a true—false item. Objective: The student will be able to compute the reliability for a test that is doubled in length and had an initial reliability of 0.50.
 
@@ -5242,7 +5311,7 @@ Example 3 demonstrates the application of a general procedure, principle, or rul
 
 Analysis. Analysis level items are frequently encountered in essay tests. Verbs used at the analysis level include analyze, break down, differentiate, illustrate, outline, and summarize. Consider this example:
 
-# Example 4 Analysis Level Item
+ Example 4 Analysis Level Item
 
 1. Summarize in a systematic, coherent manner the effects of the Industrial Revolution on educational testing.
 
@@ -5250,13 +5319,13 @@ In Example 4 the student is asked to analyze the material by identifying and des
 
 Synthesis. Essay items written at the synthesis level require students to create something new and original. Verbs often encountered at the synthesis level include compose, create, develop, and design. Here is an example of an essay item at the synthesis level:
 
-### Example 5 Synthesis Level Item
+Example 5 Synthesis Level Item
 
 1. Create a new educational objective and corresponding essay item at the analysis level for the content area of your choice.
 
 Evaluation. The evaluation level of the cognitive taxonomy requires judgments concerning value and worth. Essay items written at this level often involve "choice" as in the next example.
 
-## Example 6 Evaluation Level Item
+Example 6 Evaluation Level Item
 
 1. Specify what you view as the best type of item for assessing analysis level objectives and defend your choice. Be sure to stipulate the basis for your choice, highlighting the qualities that make this item type optimal and the reasons you selected it over the other item types.
 
@@ -5264,26 +5333,26 @@ Here students select the best item type, a subjective choice, and defend their s
 
 In place of a personal subjective choice, the criteria may be defined in terms of scientific, legal, social, or other external standards. Consider this example:
 
-## Example 7 Evaluation Level Item
+Example 7 Evaluation Level Item
 
 1. Do you believe essay tests are biased against minorities? State your position and defend it using current legal, scientific, and social standards.
 
 In Example 7 the students must choose a position and build a case for it based on their understanding of current mores and standards as well as psychometric expertise.
 
-# Restricted-Response versus Extended-Response Essays
+#### Restricted-Response versus Extended-Response Essays
 
 So far we have discussed how essay items can be used for different purposes (i.e., content, style, and grammar) and how to measure objectives at different levels of the cognitive complexity (e.g., knowledge, comprehension, application, analysis, synthesis, and evaluation). In addition to these distinctions, essay items are often classified as either restricted response or extended response. Restricted-response items are highly structured and clearly spec-
 
 ify the form and scope of a student's response. Restricted-response Essay items can be written to items typically require students to list, define, describe, or give reaelicit restricted responses or sons. These items may specify time or length limits for the response. extended responses. Here are examples of restricted-response items.
 
-## Example 8 Restricted-Response Items
+Example 8 Restricted-Response Items
 
 - 1. In the space provided, define homeostasis and describe its importance.
 - 2. List the types of muscle tissue and state the function of each.
 
 Extended-response items provide more latitude and flexibility in how the students can respond to the item. There is little or no limit on the form and scope of the response. When limitations are provided, they are usually held to a minimum (e.g., page and time limits). Extendedresponse items often require students to compose, summarize, formulate, compare/interpret, interpret, and so forth. Examples of extended-response items include the following:
 
-## Example 9 Extended-Response Items
+Example 9 Extended-Response Items
 
 - 1. Summarize and write a critical evaluation of the research on global warming. Include a detailed analysis of the strengths and weaknesses of the empirical research, and provide an evaluative statement regarding your conclusions on the topic.
 - 2. Compare and contrast asthma and emphysema in terms of physiological processes, treatment options, and prognosis.
@@ -5292,7 +5361,7 @@ Extended-response items provide less structure and this promotes greater creativ
 
 As you might expect, restricted-response and extended-response essay items have their own strengths and limitations. Restricted-response essay items are particularly good for assessing objectives at the knowledge, comprehension, and application levels. They can be answered in a timely fashion by students, which allows you to include more items, and they are easier to score in a reliable manner than extended-response items. In contrast, extended-response items are particularly well suited for assessing higher-level cognitive ob jectives. However, they are difficult to score in a reliable manner and because they take considerable time for students to complete, you typically have to limit your test to relatively few items, which results in limited sampling of the content domain. Although restricted-response items have the advantage of more reliable and efficient scoring, along with better sampling of the content domain, certain learning objectives simply require the use of extended-response essay items. In these situations, it is important to write and score extended-response items as carefully as possible and take into consideration the limitations. To that end, we will start by giving you some general guidelines for writing good essay items. '
 
-## Guidelines for Developing Essay Items
+#### Guidelines for Developing Essay Items
 
 Write in a Clear, Straightforward Manner. The most important criterion for a good essay item is that it clearly specifies the assessment task. The assessment task is simply what
 
@@ -5302,11 +5371,11 @@ you want the student to do. We recommend that you provide enough information in 
 
 > point value of the item or how much time students should devote to it. On extended-response items, some experts recommend that you specify your grading criteria so the students will \_ have a clear picture of what you expect (e.g., Gronlund, 1998). Also, avoid using unneces- \_ sarily difficult or technical language. The student should not have to guess your intentions from obtuse wording or technical jargon. We are not suggesting that your essay items be unnecessarily lengthy. In fact we recommend that they be as brief as possible, that is, as brief as possible and still clearly specify the assessment task. Consider the following examples, one of a poor essay item, the other of a better, more specific essay item.
 
-## Example 10 Poor Item—Unclear Assessment Task
+Example 10 Poor Item—Unclear Assessment Task
 
 1. Why did World War II begin?
 
-## Example 11 Better Item—Clear Assessment Task
+ Example 11 Better Item—Clear Assessment Task
 
 2. Describe the course of events that led up to Britain and France's policy of appeasement toward Germany in 1938. In your response explain why Chamberlain and Daladier pursued this policy. Explain what event or events later convinced Britain and France to abandon their policy of appeasement? Answer in the space provided. (counts as 25% of the test grade)
 
@@ -5320,19 +5389,20 @@ Limit the Use of Essay Items to Educational Objectives That Cannot Be Measured U
 
 So far we have alluded to some of the strengths and weaknesses of essay items, and this is probably an opportune time to discuss them more directly.
 
-# Strengths of Essay Items
+#### Strengths of Essay Items
 
 Essay items can be written to assess higher-level cognitive skills and are ideal for measuring some objectives such as writing skills.
 
 Essay Items Can Be Written to Assess Higher-Level Cognitive Skills. In the last chapter we argued that multiple-choice items can be written to assess higher-level cognitive objectives. We still stand by that statement. Nevertheless, some educational objectives are most 'easily measured with essay items, and these tend to be higher-level objectives. Some objectives such as writing skills literally require the use of essay items. Essay items also have the advantage of requiring
 
-### TABLE 9.2 Checklist for the Development of Essay Items
-
-- 1. Are the items written in a clear, straightforward manner?
-- 2. Will the students be able to complete the test in the time available?
-- 3. Will all students respond to the same set of items?
-- 4. When appropriate, did you use more restricted-response items in place of fewer extended-response items?
-- 5. Did you limit the use of essay items to objectives that cannot be measured with selected-response items?
+**TABLE-9.2 Checklist for the Development of Essay Items**
+|----------------------------------------------------------------------------------------------------------------------|
+| - 1. Are the items written in a clear, straightforward manner?                                                       |
+| - 2. Will the students be able to complete the test in the time available?                                           |
+| - 3. Will all students respond to the same set of items?                                                             |
+| - 4. When appropriate, did you use more restricted-response items in place of fewer extended-response items?         |
+| - 5. Did you limit the use of essay items to objectives that cannot be measured with selected-response items?        |
+|----------------------------------------------------------------------------------------------------------------------|
 
 recall, often denoting stronger mastery of the material than recognition, as required with selected-response items.
 
@@ -5342,7 +5412,7 @@ The Use of Essay Items Largely Eliminates Blind Guessing. Because essay items re
 
 When Studying for Essay Tests, Students May Spend Less Time on Rote Memorization and More Time Analyzing and Synthesizing Information. Many teachers believe that students study differently for essay tests than they do for selected-response tests, and some research supports this claim (e.g., Coffman, 1972; Hakstian, 1971). It is possible that students preparing for essay tests spend more time analyzing and synthesizing information rather than memorizing facts. Hopkins (1998) suggests that teachers may combine a few essay items with selected-response items to achieve this potential instructional benefit.
 
-# Weaknesses of Essay Items
+#### Weaknesses of Essay Items
 
 in a reliable manner.
 
@@ -5366,25 +5436,23 @@ Restricted Sampling of the Content Domain. Because essay items typically require
 
 Scoring Essay Items Is Time Consuming. In addition to it being difficult to score essay items in a reliable manner, it is a tedious, time-consuming process. Although selected-response items tend to take longer to develop, they can usually be scored easily, quickly, and reliably.
 
-#### TABLE 9.3 Strengths and Weaknesses of Essay Items
-
-#### Strengths of Essay Items
-
-- m Essay items are good for assessing some higher-level cognitive skills.
-- m Essay items are easier to write than objective items.
-- m Essay items eliminate blind guessing.
-- m Essay items may promote a higher level of learning.
-
-### Weaknesses of Essay Items
-
-- m Essay items are difficult to score in a reliable manner.
-- m The use of essay items may result in a limited sample of the content domain.
-- m Scoring essay items is a tedious and time-consuming process.
-- m Essay items are subject to bluffing.
+**TABLE-9.3 Strengths and Weaknesses of Essay Items**
+|-------------------------------------------------------------------------------------|
+| Strengths of Essay Items                                                            |
+| -  Essay items are good for assessing some higher-level cognitive skills.           |
+| -  Essay items are easier to write than objective items.                            |
+| -  Essay items eliminate blind guessing.                                            |
+| -  Essay items may promote a higher level of learning.                              |
+| Weaknesses of Essay Items                                                           |
+| -  Essay items are difficult to score in a reliable manner.                         |
+| -  The use of essay items may result in a limited sample of the content domain.     |
+| -  Scoring essay items is a tedious and time-consuming process.                     |
+| -  Essay items are subject to bluffing.                                             |
+|-------------------------------------------------------------------------------------|
 
 Bluffing. Although the use of essay items eliminates random guessing, bluffing is introduced. Bluffing occurs when a student does not possess the knowledge or skills to respond to the item, but tries to "bluff" or feign a response. Due to the subjective nature of essay scoring, student bluffing may result in them receiving partial or even full credit. Experience has shown that some students are extremely proficient at bluffing. For example, a student may be aware that teachers tend to give lengthy responses more credit and so simply reframe the initial question as a statement and then repeat the statement in slightly different ways. Table 9.3 provides a summary of the strengths and weaknesses of essay items.
 
-## Guidelines for Scoring Essay Items
+#### Guidelines for Scoring Essay Items
 
 essay tests, you need to develop structured, unbiased scoring procedures.
 
@@ -5402,13 +5470,11 @@ Some testing experts suggest that, instead of using holistic rubrics to assign a
 
 To illustrate the differences between holistic and analytic scoring rubrics, consider this essay question:
 
-# Example 12 Sample Essay Item
+Example 12 Sample Essay Item
 
 1. Describe and then compare and contrast Thurstone's model of intelligence with that presented by Gardner. Give examples of the ways they are similar and the ways they differ.
 
 Table 9.4 presents a holistic scoring rubric that might be used when scoring this item. Table 9.5 presents an analytic scoring rubric that might be used when scoring this item.
-
-## TABLE 9.4 Holistic Scoring Rubric (5-Point Scale)
 
 Essay Item: Compare and contrast Thurstone's model of intelligence with that presented by Gardner. Give examples of the ways they are similar and the ways they differ.
 
@@ -5418,29 +5484,29 @@ Poor The student showed very little understanding of the models and was ! not ab
 
 Very poor The student showed no understanding of the models. 0
 
-| Classification | Description                                                                                                                                                                                                   | Rating   |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Excellent      | The student demonstrated a thorough understanding of both models of intelligence and could accurately describe in detail similarities and differences and give examples. This is an exemplary response. | = __5___ |
-| Good           | The student demonstrated a good understanding of the models and could describe similarities and differences and give examples.                                                                             | 4        |
-| Average        | The student demonstrated an adequate understanding of the models and could describe some similarities and differences. Depth of understanding was limited and there were gaps in knowledge.             | 3        |
-| Marginal       | The student showed limited understanding of the models and                                                                                                                                                    | 2        |
+**TABLE-9.4 Holistic Scoring Rubric (5-Point Scale)**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Classification | Description                                                                                                                                                                                 | Rating   |
+|Excellent |The student demonstrated a thorough understanding of both models of intelligence and could accurately describe in detail similarities and differences and give examples. This is an exemplary response. | 5   |
+| Good     | The student demonstrated a good understanding of the models and could describe similarities and differences and give examples.                                                                         | 4   |
+| Average  | The student demonstrated an adequate understanding of the models and could describe some similarities and differences. Depth of understanding was limited and there were gaps in knowledge.            | 3   |
+| Marginal | The student showed limited understanding of the models and were either vague, irrelevant, or not applicable.                                                                                           | 2   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-were either vague, irrelevant, or not applicable.
 
-### TABLE 9.5 Analytic Scoring Rubric (15-Point Item)
 
-RSE REESE ESERIES TRI MINERS AIEEE ELIT PASSED
-
-Essay Item: Compare and contrast Thurstone's model of intelligence with that presented by Gardner. Give examples of the ways they are similar and the ways they differ.
-
-| Area                                                                                                          | Poor (0 points) | Average (1 point) | Above Average (2 points) | Excellent (3 Points) |
+**TABLE-9.5 Analytic Scoring Rubric (15-Point Item)**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Essay Item: Compare and contrast Thurstone's model of intelligence with that presented by Gardner. Give examples of the ways they are similar and the ways they differ.                                           |
+| Area                                                                                                          | Poor (0 points)    | Average (1 point)    | Above Average (2 points)    | Excellent (3 Points)    |
 |---------------------------------------------------------------------------------------------------------------|--------------------|----------------------|-----------------------------|-------------------------|
-| The student demonstrated an understanding of Thurstone's model.                                            |                    |                      |                             |                         |
-| The student demonstrated an understanding of Gardner's model.                                              |                    |                      |                             |                         |
-| The student was able to compare and contrast the models.                                                   |                    |                      |                             |                         |
-| The student was able to present relevant and clear examples high lighting similarities and differences. | § —___             |                      |                             |                         |
-| The response was clear, well organized, and showed a thorough understanding of the material.            | se fauna           |                      |                             |                         |
+| The student demonstrated an understanding of Thurstone's model.                                               |                    |                      |                             |                         |
+| The student demonstrated an understanding of Gardner's model.                                                 |                    |                      |                             |                         |
+| The student was able to compare and contrast the models.                                                      |                    |                      |                             |                         |
+| The student was able to present relevant and clear examples high lighting similarities and differences.       |                    |                      |                             |                         |
+| The response was clear, well organized, and showed a thorough understanding of the material.                  |                    |                      |                             |                         |
 |                                                                                                               |                    | Total                | Number of Points Awarded    | _____                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Our final comment regarding scoring rubrics is that to be effective they should be used in a consistent manner. Keep the rubric in front of you while you are scoring and apply it in a fair, evenhanded manner.
 
@@ -5454,18 +5520,18 @@ Avoid Fatigue. The difficult task of grading essays is best approached as a seri
 
 Score Essays More than Once. Whenever possible it is desirable to score essays items at least two times. This can be accomplished either by you scoring the items twice or having a colleague score them after you have scored them. When the two scores or ratings are con-
 
-# TABLE 9.6 Guidelines for Scoring Essay Items
-
-- 1. Develop a scoring rubric for each item that clearly specifies the scoring criteria.
-- 2. Take steps to avoid knowing whose paper you are scoring.
-- 3. Avoid allowing writing effects to influence scoring if they are not considered essential.
-- 4. Score the same question for all students before proceeding to the next item.
-- 5. Score the essays in one- or two-hour periods with adequate rest breaks.
-- 6. Score each essay more than one time (or have a colleague score them once after you have scored them).
-
+**TABLE 9.6 Guidelines for Scoring Essay Items**
+|--------------------------------------------------------------------------------------------------------------|
+| - 1. Develop a scoring rubric for each item that clearly specifies the scoring criteria.                     |
+| - 2. Take steps to avoid knowing whose paper you are scoring.                                                |
+| - 3. Avoid allowing writing effects to influence scoring if they are not considered essential.               |
+| - 4. Score the same question for all students before proceeding to the next item.                            |
+| - 5. Score the essays in one- or two-hour periods with adequate rest breaks.                                 |
+| - 6. Score each essay more than one time (or have a colleague score them once after you have scored them).   |
+|--------------------------------------------------------------------------------------------------------------|
 sistent, you can be fairly confident in the score. If the two ratings are significantly different, you should average the two scores. Table 9.6 summarizes our suggestions for scoring essay items. Special Interest Topic 9.1 presents a brief discussion of automated essay scoring systems that are being used in several settings.
 
-# Short-Answer Items
+### Short-Answer Items
 
 Short-answer items are items that require the student to supply a word, phrase, number, or symbol.
 
@@ -5477,21 +5543,19 @@ Short-answer items are the final type of constructed-response item we will discu
 
 (this format is sometimes referred to as a completion item). Here are examples of both formats.
 
-## Example 13 Direct-Question Format
+Example 13 Direct-Question Format
 
 - 1. What is the membrane surrounding the nucleus called?
 - 2. What is the coefficient of determination if the correlation coefficient is 0.60?
 
-## Example 14 Incomplete-Sentence Format
+Example 14 Incomplete-Sentence Format
 
 - The membrane surrounding the nucleus is called the i
 - 2. For a correlation coefficient of 0.60, the coefficient of determination is
 
 Relative to essay items, short-answer items place stricter limits on the nature and length of the response. Practically speaking, short-answer items can be viewed as a type of restricted-response essay item. As we noted, restricted-response essay items provide more structure and limit the form and scope of a student's response relative to an extendedresponse essay item. Short-answer items take this a step further, providing even more structure and limits on the student's response.
 
-# SPECIAL INTEREST TOPIC 9.1
-
-# Automated Essay Scoring Systems
+**SPECIAL INTEREST TOPIC 9.1 Automated Essay Scoring Systems**
 
 Myford and Cline (2002) note that even though essays are respected and desirable assessment techniques, their application in large-scale standardized assessment programs has been limited because scoring them with human raters is usually expensive and time consuming. For example, they note that when using human raters, students may take a standardized essay test at the end of an academic year and not receive the score reports until the following year. The advent of automated essay-scoring systems holds promise for helping resolve these problems. By using an automated scoring system, testing companies can greatly reduce expense and the turnaround time. As a result, educators and students can receive feedback in a fraction of the time. Although such systems have been around since at least the 1960s, they have become more readily available in recent years. Myford and Cline (2002) note that these automated systems generally evaluate essays on the basis of either content (i.e., subject matter) or style (i.e., linguistic style). Contemporary essay scoring systems also provide constructive feedback to students in addition to an overall score. For example, a report might indicate that the student is relying too much on simple sentences or a limited vocabulary (Manzo, 2003).
 
@@ -5506,7 +5570,7 @@ These programs are receiving more and more acceptance in both classrooms and lar
 - w IntelliMetric, www.intellimetric.com
 - = Bayesian Essay Scoring System, http://ericae.net/betsy
 
-# Guidelines for Developing Short-Answer Items
+#### Guidelines for Developing Short-Answer Items
 
 Structure the Item So That the Response Is as Short as Possible. As the name implies, you should write short answer-items so that they require a short answer. This makes scoring easier, less time consuming, and more reliable.
 
@@ -5538,21 +5602,21 @@ How would you score it if the student responded only "Braintree" or only "Massac
 
 These guidelines are summarized in Table 9.7.
 
-## TABLE 9.7 Checklist for the Development of Short-Answer Items
-
-| 1. Does the item require a short response?                                                                     |
+**TABLE-9.7 Checklist for the Development of Short-Answer Items**
 |----------------------------------------------------------------------------------------------------------------|
+| 1. Does the item require a short response?                                                                     |
 | 2. Is there only one correct response?                                                                         |
-| 3. Did you use an incomplete sentence only when there was no loss of clarity relative to a direct question? |
+| 3. Did you use an incomplete sentence only when there was no loss of clarity relative to a direct question?    |
 | 4. Do incomplete sentences contain only one blank?                                                             |
 | 5. Are blanks in incomplete sentence near the end of the sentence?                                             |
 | 6. Have you carefully checked for unintentional cues to the answer?                                            |
 | 7. Do the blanks provide adequate space for the answers?                                                       |
 | 8. Did you indicate the degree of precision required for quantitative answers?                                 |
-| ere 9. Did you avoid lifting sentences directly from the textbook?                                          |
-| 10. Have you created a scoring rubric for each item? ee                                                     |
+| 9. Did you avoid lifting sentences directly from the textbook?                                                 |
+| 10. Have you created a scoring rubric for each item? ee                                                        |
+|----------------------------------------------------------------------------------------------------------------|
 
-# Strengths of Short-Answer Items
+#### Strengths of Short-Answer Items
 
 Like all item types, short-answer items have their own strengths and weaknesses. First, we will address their strengths.
 
@@ -5566,31 +5630,28 @@ When recall is important, Short-Answer Items Require Recall, Not Just Recognitio
 
 > Short-Answer Items Are Relatively Easy to Write. We are always cautious when we say an item type is easy to write, so we say it is relatively easy to write. Compared to multiplechoice items, short-answer items are easier to write. Even though they are relatively easy to write, they still need to be developed with care following the guidelines provided.
 
-# Weaknesses of Short-Answer Items
+#### Weaknesses of Short-Answer Items
 
 Scoring Short-Answer Items in a Reliable Manner Is Difficult. Some authors classify short-answer items as objective items, which suggests they can be scored in an objective manner. Actually there is considerable subjective judgment involved in scoring short-answer items. For example, how will you score misspellings and responses that are only partially legible? What if the misspelling is so extreme it is difficult to determine what the student is actually attempting to spell? Also, no matter how carefully you write short-answer items, inevitably a student will provide a response that is not what was desired or expected, but can still be construed as at least partially correct. Although scoring well-written short-answer items in a reliable manner is easier than scoring extended-response essay items, there is still a significant degree of subjectivity involved and it can be a lengthy and tiresome process.
 
 With the Exception of Quantitative Problems and the Interpretation of Graphic Material, Short-Answer Items Are Often Limited to Assessing Fairly Simple Educational Objectives. If you rely extensively on short-answer items, it may encourage students to emphasize rote memorization when studying rather than developing a more thorough understanding of the material. This can be countered by not relying exclusively
 
-### TABLE 9.8 Strengths and Weaknesses of Short-Answer Items
-
-#### Strengths of Short-Answer Items
-
-- m Short-answer items require recall, not just recognition.
-- = Short-answer items are well suited for assessing quantitative problems and problems requiring the interpretation of graphic material.
-- = Because students can answer more short-answer items than essay items, they may allow better content sampling.
-- m Short-answer items are relatively easy to write.
-
-#### Weaknesses of Short-Answer Items
-
-- m Short-answer items are difficult to score in a reliable manner.
-- m With the exception of quantitative problems and the interpretation of graphic material, short-answer items are often limited to assessing fairly simple educational objectives.
-
+**TABLE-9.8 Strengths and Weaknesses of Short-Answer Items**
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strengths of Short-Answer Items                                                                                                                                                    |
+| - m Short-answer items require recall, not just recognition.                                                                                                                       |
+| - = Short-answer items are well suited for assessing quantitative problems and problems requiring the interpretation of graphic material.                                          |
+| - = Because students can answer more short-answer items than essay items, they may allow better content sampling.                                                                  |
+| - m Short-answer items are relatively easy to write.                                                                                                                               |
+| Weaknesss of Short-Answer Items                                                                                                                                                    |
+| - m Short-answer items are difficult to score in a reliable manner.                                                                                                                |
+| - m With the exception of quantitative problems and the interpretation of graphic material, short-answer items are often limited to assessing fairly simple educational objectives.|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 on short-answer items and incorporating other item types that demand higher-level cognitive processes.
 
 As aresult of these limitations, we generally recommend that the use of short-answer items be limited to those situations for which they are uniquely effective. When recall is important, when dealing with quantitative problems, and when interpreting graphic material, short-answer items can be extremely effective. However, if the educational objective can be assessed equally well with a selected-response item, it is preferable to use the selectedresponse format due to potentially enhanced reliability and validity. These strengths and weaknesses are summarized in Table 9.8.
 
-# A Final Note: Constructed-Response versus Selected-Response Items
+### A Final Note: Constructed-Response versus Selected-Response Items
 
 Throughout much of the twentieth century, critics of essay items emphasized their weaknesses (primarily unreliable scoring and reduced content sampling) and promoted the use of selected-response items. In recent years there has been increased criticism of selectedresponse items and a call for relying more on essays and other constructed-response items. Proponents of constructed-response tests, particularly essay items (and performance assessments, discussed in the next chapter), generally claim they provide a more "authentic" assessment of student abilities, one that more closely resembles the way abilities and knowledge are demonstrated or applied in the real world. Arguments on both sides are pervasive and often passionate. We take the position that both formats have an important role to play in educational assessment. As we have repeated numerous times, to adequately assess the complex array of knowledge and skills emphasized in today's schools, teachers need to take advantage of the full range of assessment procedures available. Due to the tendency for selected-response items to provide reliable and valid measurement, we promote their use when they can adequately assess the educational objectives. However, it is important
 
@@ -5598,7 +5659,7 @@ To adequately assess the complex array of knowledge and skills emphasized in tod
 
 to recognize that there are educational objectives that cannot be adequately assessed using selected-response items. In these situations you should use constructed-response items. By being aware of the weaknesses of constructed-response items and using the guidelines for developing and scoring them outlined in this chapter you will be able to write items that produce results you can have considerable confidence in. Remember that the best practice is to select items that provide the most valid and reliable information about your students' knowledge and skills.
 
-# Summary
+### Summary
 
 In this chapter we focused on the development and use of constructed-response items. Essay items have a long history, dating back to China over two thousand years ago. An essay item poses a question or problem that the student responds to in a written format. Although essay items vary in terms of the limits they place on student responses, most essay items give students considerable freedom in developing their responses. Essay tests gained popularity in the United States in the nineteenth century largely due to problems associated with oral testing. Even though written essay tests addressed some of the problems associated with oral testing, essays have their own associated problems. The most prominent weaknesses of essay items involve difficulty scoring in a reliable manner and limited content sampling. Both of these issues can result in reduced reliability and validity. On the positive side, essay items are well suited for measuring many complex educational objectives and are relatively easy to write. We provided numerous suggestions for writing and scoring essay items, but encouraged teachers to limit the use of essay items to the measurement of educational objectives that are not easily assessed using selected-response items.
 
@@ -5606,7 +5667,7 @@ The second type of constructed-response item addressed in this chapter was short
 
 We ended this chapter by highlighting the classic debate between proponents of selected-response and constructed-response formats. We believe both have a role to play in educational assessment and that by knowing the strengths and limitations of both formats one will be better prepared to develop and use tests in educational settings. In the next chapter we will turn your attention to performance assessments and portfolios. These are special types of constructed-response items (or tasks) that have been around for many years, but have gained increasing popularity in schools in recent years.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Content indeterminancy effect, p. 231 Content, style, and grammar, p. 224 Direct-question format, p. 237 Expectancy effects, p. 232
 
@@ -5614,7 +5675,7 @@ Extended-response items, p. 228 Fatigue effects, p. 232 Handwriting, grammar, an
 
 Intra-rater inconsistency, p. 231 Oral testing, p. 223 Order effects, p. 232 Restricted-response items, p. 228 Short-answer items, p. 237
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 - Fleming, K., Ross, M., Tollefson, N., & Green, S. (1998). Teacher's choices of test-item formats for classes with diverse achievement levels. Journal of Educational Research, 91, 222-228. This interesting article reports that teachers tend to prefer using essay items with high achieving classes and more recognition items with mixed-ability or low-achieving classes.
 - students prefer and why. College Student Journal, 27, ment and grading of essay items. 17-26. This article reports that the most popular item
@@ -5627,15 +5688,15 @@ Gulliksen, H. (1986). Perspective on educational measurement. Applied Psychologi
 
 UR ae MED eens ages ag NRE TTS Ee Meee Ge Gee MIC eee ey we me ees Ce SNE Ge SESE HRN TO T aoees MONO REE Oe
 
-# CHAPTER : | () Performance Assessments : and Portfolios
+## CHAPTER 10 Performance Assessments : and Portfolios
 
 Performance assessment is claimed to be useful for evaluating programs, improving instruction, comparing districts, and evaluating university and job applicants. Tomorrow's news will probably report it lowers cholesterol. —Linn & Baker, 1992, p. 1
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 What Are Performance Assessments? Portfolios Guidelines for Developing Effective Performance Assessments
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -5665,7 +5726,7 @@ real-life situations. For example, a medical student might be required to interv
 
 for many years, and in the last decade portfolios have become increasingly popular in the assessment of students.
 
-# What Are Performance Assessments?
+### What Are Performance Assessments?
 
 We just gave you the definition of performance assessments provided by the Standards (AERA et al., 1999). The Joint Committee on Standards for Educational Evaluation (2003) provides a slightly different definition. It defines a performance assessment as a
 
@@ -5715,7 +5776,7 @@ Performance assessments may This is only a partial list of the many applications
 
 > We just noted that performance assessments can be very time consuming, and this applies to both the teacher and the students. Performance assessments take considerable time for teachers to construct, for students to complete, and for teachers to score. However, not all performance assessments make the same demands on students and teachers. It is common to distinguish between extended-response performance assessments and restricted-response performance assessments. Extended-response performance tasks typically are broad in scope, measure multiple learning objectives, and are designed to closely mirror real-life situations. In contrast, restricted-response performance tasks typically measure a specific learning objective and relative to extended-response assessments are easier to administer and score. However, restricted-response tasks are less likely to mirror real-life situations.
 
-# SPECIAL INTEREST TOPIC 10.1 Example of a Performance Assessment in Mathematics
+**SPECIAL INTEREST TOPIC 10.1 Example of a Performance Assessment in Mathematics**
 
 The issues involved in assessing mathematics problem solving are similar to those in all performance assessments, so we will use this topic to highlight them. Almost all states have incorporated so-called higher-order thinking skills in their curricula and assessments. In mathematics this is commonly focused on problem solving. Common arithmetic and mathematics performance assessments 1n standardized tests that are developed by mathematicians and mathematics educators focus on common problem situations and types. For example, algebra problems may be developed around landscape architectural requirements for bedding perimeters or areas, as well as driving times and distance problems. Students are asked in a series of questions to represent the problem, develop solutions, select a solution, solve the problem, and write a verbal description of the solution.
 
@@ -5735,7 +5796,7 @@ Each part of a mathematics problem such as that just mentioned will be evaluated
 |   | 4            | (16)                    | (20)                                  |
 | : | 5            | — 3) (25)         | (24) 3223999990009) 0 95959595999. |
 
-# CONSTRUCTED-RESPONSE MATHEMATICS ITEM, GRADES 6-8 ALGEBRA CONCEPTS
+CONSTRUCTED-RESPONSE MATHEMATICS ITEM, GRADES 6-8 ALGEBRA CONCEPTS
 
 Directions: All of the questions are about the same problem shown below. Read the problem and then answer each question in the boxes given with each question.
 
@@ -5753,11 +5814,11 @@ Sue is a landscaper who builds patios with gray paving stones and white bricks t
 
 Now write a math statement about the number of the patio design and the number of border bricks: You can use P for patio design and N for the number of border bricks. Thus, your statement should start, N=...
 
-# Guidelines for Developing Effective Performance Assessments
+### Guidelines for Developing Effective Performance Assessments
 
 Due to the great diversity in the types of objectives measured by performance assessments, it is somewhat difficult to develop specific guidelines for developing effective performance assessments. However, most experts tend to agree on some general guidelines for this process (e.g., Gronlund, 1998; Linn & Gronlund, 2000; Nitko, 2001; Popham, 1999, 2000; Stiggins, 2001). These can be classified as suggestions for selecting appropriate performance tasks, developing clear instructions for students, developing procedures for evaluating students' performance, and implementing procedures to minimize rating errors. In summarizing these guidelines, the logical place to start is with the selection of a performance task.
 
-# Selecting Appropriate Performance Tasks
+#### Selecting Appropriate Performance Tasks
 
 appropriate performance task. be considered.
 
@@ -5809,21 +5870,22 @@ Select Performance Tasks That Reflect Educational Objectives That Cannot Be Meas
 
 Table 10.1 provides a summary of guidelines for selecting performance tasks.
 
-# TABLE 10.1 Guidelines for Selecting Performance Tasks
+**TABLE-10.1 Guidelines for Selecting Performance Tasks**
+|----------------------------------------------------------------------------------------------------------------------------------|
+|- 1. Select performance tasks that provide the most direct assessment of the educational objectives you want to measure.          |
+|- 2. Select performance tasks that maximize your ability to generalize the results of the assessment.                             |
+|- 3. Select performance tasks that reflect essential skills.                                                                      |
+|- 4. Select performance tasks that encompass more than one learning objective.                                                    |
+|- 5. Select performance tasks that focus your evaluation on the processes and/or products you are most interested in.             |
+|- 6. Select performance tasks that provide the desired degree of realism.                                                         |
+|- 7. Select performance tasks that measure skills that are "teachable."                                                           |
+|- 8. Select performance tasks that are fair to all students.                                                                      |
+|- 9. Select performance tasks that can be assessed given the time and resources available.                                        |
+|- 10. Select performance tasks that can be scored in a reliable manner.                                                           |
+|- 11. Select performance tasks that reflect educational objectives that cannot be measured using more traditional measures.       |
+|----------------------------------------------------------------------------------------------------------------------------------|
 
-- 1. Select performance tasks that provide the most direct assessment of the educational objectives you want to measure.
-- 2. Select performance tasks that maximize your ability to generalize the results of the assessment.
-- 3. Select performance tasks that reflect essential skills.
-- 4. Select performance tasks that encompass more than one learning objective.
-- 5. Select performance tasks that focus your evaluation on the processes and/or products you are most interested in.
-- 6. Select performance tasks that provide the desired degree of realism.
-- 7. Select performance tasks that measure skills that are "teachable."
-- 8. Select performance tasks that are fair to all students.
-- 9. Select performance tasks that can be assessed given the time and resources available.
-- 10. Select performance tasks that can be scored in a reliable manner.
-- 11. Select performance tasks that reflect educational objectives that cannot be measured using more traditional measures.
-
-# Developing Instructions
+#### Developing Instructions
 
 Because performance tasks often require fairly complex student responses, it is important that your instruction precisely specify the types of responses you are expecting. Because
 
@@ -5845,20 +5907,22 @@ Table 10.2 provides a summary of these guidelines for developing instructions fo
 
 developing performance assessments is to develop procedures for evaluating the students' responses.
 
-# The third major step in Developing Procedures for Evaluating Responses
+the third major step in Developing Procedures for Evaluating Responses
 
 Whether you are evaluating process, product, or a combination of the two, it is imperative that you develop systematic, objective, and reliable procedures for evaluating student responses. Performance assessments are essentially constructed-response assessments, and as such share many of the scoring problems associated with essays we
 
 discussed in Chapter 9. The scoring procedures applied to performance assessments are often referred to as scoring rubrics, which we initially introduced when discussing essay items in
 
-## TABLE 10.2 Guidelines for Developing Instructions for Performance Assessments
+**TABLE-10.2 Guidelines for Developing Instructions for Performance Assessments**
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - 1. Make sure that your instructions clearly specify the types of responses you are expecting.                                                                                               |
+| - 2. Make sure that your instructions specify any important parameters of the performance task (e.g., time limits, the use of equipment or materials).                                        |
+| - 3. Make sure that your instructions clearly specify the criteria you will use when evaluating the students' responses.                                                                      |
+| - 4. Have a colleague read and interpret the instructions before you administer the assessment to your students.                                                                              |
+| - 5. Try out the performance activity with one or a limited number of students before administering it to your whole class to ensure that the instructions are thorough and understandable.   |
+| - 6. Write instructions that students from diverse cultural and ethnic backgrounds will interpret in an accurate manner.                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- 1. Make sure that your instructions clearly specify the types of responses you are expecting.
-- 2. Make sure that your instructions specify any important parameters of the performance task (e.g., time limits, the use of equipment or materials).
-- 3. Make sure that your instructions clearly specify the criteria you will use when evaluating the students' responses.
-- 4. Have a colleague read and interpret the instructions before you administer the assessment to your students.
-- 5. Try out the performance activity with one or a limited number of students before administering it to your whole class to ensure that the instructions are thorough and understandable.
-- 6. Write instructions that students from diverse cultural and ethnic backgrounds will interpret in an accurate manner. [ELSE Saat MAT LIS
 
 the preceding chapter. A rubric is simply a written guide that helps you score constructedresponse assessments. In discussing the development of scoring rubrics for performance assessments, Popham (1999) identified three essential tasks that need to be completed, discussed in the following paragraphs.
 
@@ -5876,107 +5940,97 @@ ditional rubrics is often subtle, they find that rating scales typically Rating 
 
 > A number of different types of rating scales are commonly used in scoring performance assessments. On some rating scales the verbal descriptions are replaced with numbers to facilitate scoring. Table 10.4 provides an example of a numerical rating scale. Another variation, referred to as a graphic rating scale, uses a horizontal line with ratings positioned along the lines. Table 10.5 provides an example of a graphic rating scale. A final popular type of rating scale combines the graphic format with brief descriptive phrases as anchor points. This is typically referred to as a descriptive graphic scale. Linn and Gronlund (2000) suggest that this type of rating scale has a number of advantages that support its use with performance assessments. It communicates more information to the students regarding their performance and it helps teachers rate their students' performance with greater objectivity and accuracy. Table 10.6 provides an example of a descriptive graphic rating scale. When developing rating scales it is usually desirable to have between three and seven rating points. For example, at a minimum you would want your rating scale to include ratings of poor, average, and excellent. Most experts suggest that including more than seven positions is not useful because raters usually cannot make finer discriminations than this.
 
-### TABLE 10.3 Example of a Rating Scale Using Verbal Descriptions
-
+**TABLE-10.3 Example of a Rating Scale Using Verbal Descriptions**
 Directions: Indicate the student's ability to successfully perform the specified activity by circling the appropriate descriptor.
+1. Rate the student's ability to serve the ball. Poor Marginal Average Good Excellent 
+2. Rate the student's ability to strike the tennis ball using the forehand stroke. Poor Marginal Average Good Excellent 
+3. Rate the student's ability to strike the tennis ball using the backhand stroke. Poor Marginal Average Good Excellent BEA EAS RE IOVS OS OA
 
-1. Rate the student's ability to serve the ball. Poor Marginal Average Good Excellent 2. Rate the student's ability to strike the tennis ball using the forehand stroke. Poor Marginal Average Good Excellent 3. Rate the student's ability to strike the tennis ball using the backhand stroke. Poor Marginal Average Good Excellent BEA EAS RE IOVS OS OA
-
-#### TABLE 10.4 Example of a Numerical Rating Scale
-
+**TABLE-10.4 Example of a Numerical Rating Scale**
 Directions: Indicate the student's ability to successfully perform the specified activity by circling the appropriate number. On this scale, the numbers represent the following evaluations: 1 = Poor, 2 = Marginal,3 = Average, 4 = Good, and5 = Excellent.
-
 1. Rate the student's ability to serve the ball. 1 Z 3 4 =
-
 2. Rate the student's ability to strike the tennis ball using the forehand stroke. 1 2 3 4 5
-
 3. Rate the student's ability to strike the tennis ball using the backhand stroke. 1 2 3 4 5 aS ee gc
 
-# TABLE 10.5 Example of a Graphic Rating Scale
+**TABLE-10.5 Example of a Graphic Rating Scale**
+|Directions: Indicate the student's ability to successfully perform the specified activity by marking an X anywhere along the horizontal line below each item.|
+| 1. Rate the student's ability to serve the ball.                                   |
+| Poor                             | Average                        | Excellent      |
+| 2. Rate the student's ability to strike the tennis ball using the forehand stroke. |                
+| Poor                             | Average                        | Excellent      |
+| 3. Rate the student's ability to strike the tennis ball using the backhand stroke. |                
+| Poor                             | Average                        | Excellent      |
 
-Directions: Indicate the student's ability to successfully perform the specified activity by marking an X anywhere along the horizontal line below each item.
+**TABLE-10.6 Example of a Descriptive Graphic Rating Scale**
+|-----------------------------------------------------------|
+| Directions: Indicate the student's ability to successfully| 
+| perform the specified activity by marking an X anywhere   |
+| along the horizontal line below each item.                |
+| 1. Rate the student's ability to serve the ball.          |
+|                                                           |
+| Form is poor | Form and accuracy | Form and accuracy      |
+| and accuracy | usually within    | are consistently       |
+| is poor      | the average range | superior               |
+|                                                           |
+| 2. Rate the student's ability to strike the tennis ball   |
+|    using the forehand stroke.                             |
+|                                                           |
+| Form is poor | Form and accuracy | Form and accuracy      |
+| and accuracy | usually within    | are consistently       |
+| is poor      | the average range | superior               |
+|                                                           |
+| 3. Rate the student's ability to strike the tennis ball   |
+|    using the backhand stroke.                             |
+|                                                           |
+| Form is poor | Form and accuracy | Form and accuracy      |
+| and accuracy | usually within    | are consistently       |
+| is poor      | the average range | superior               |
+|-----------------------------------------------------------|
 
-|            | ee 1. Rate the student's ability to serve the ball.                             |                |
-|------------|------------------------------------------------------------------------------------|----------------|
-| 8 mrooe | tC crap                                                                         | OE xcatient |
-|            | 2. Rate the student's ability to strike the tennis ball using the forehand stroke. |                |
-| = Poot.    | PeAverapents SO MOE I ae SE                                                     | Sex Callent    |
-|            | 3. Rate the student's ability to strike the tennis ball using the backhand stroke. |                |
-| Poor       | Average                                                                            | Excellent      |
+**TABLE-10.7 Example of a Checklist Used with Preschool Children**
+|------------------------------------------------------- |     |
+| Directions: Circle Yes or No to indicate               |     |
+| whether each skill has been demonstrated.              |     |
+|                                                        |     |
+| **Self-Help Skills**                                   |     |
+| Yes | No | Attempts to wash face and hands             |     |
+|-----|----|---------------------------------            |     |
+| Yes | No | Helps put toys away                         |     |
+| Yes | No | Drinks from a standard cup                  |     |
+| Yes | No | Eats using utensils                         |     |
+| Yes | No | Attempts to use the toilet                  |     |
+| Yes | No | Attempts to dress self                      |     |
+| **Language Development**                               |     |
+| Yes | No | Follows simple directions                   |     |
+|-----|----|-------------------------------------------- |     |
+| Yes | No | Verbalizes needs and feelings               |     |
+| Yes | No | Speech can be understood most of the time   |     |
+| Yes | No | Speaks in sentences of three or more words  |     |
+| **Basic Skills Development                             |     |
+| Yes | No | Can count to ten                            |     |
+|-----|----|---------------------------------------------|-----|
+| Yes | No | Recognizes numbers to ten                   |     |
+|     |    | Can name the following shapes:              |     |
+| Yes | No | Circle                                      |     |
+| Yes | No | Square                                      |     |
+| Yes | No | Triangle                                    |     |
+| Yes | No | Star                                        |     |
+|     |    | Can identify the following colors:          |     |
+| Yes | No | Red                                         | 3   |
+| Yes | No | Blue                                        |     |
+| Yes | No | Green                                       |     |
+|     |    | Understands the following concepts:         |     |
+| Yes | No | Up and down                                 |     |
+| Yes | No | Big and little                              |     |
+| Yes | No | Open and closed                             |     |
+| Yes | No | On and off                                  |     |
+| Yes | No | In and out                                  |     |
+| Yes | No | Plays independently                         |     |
+| Yes | No | Plays parallel to other students            |     |
+| Yes | No | Plays cooperatively with other students     |     |
+| Yes | No | Participates in group activities            |     |
+|--------------------------------------------------------------|
 
-### TABLE 10.6 Example of a Descriptive Graphic Rating Scale
-
-Directions: Indicate the student's ability to successfully perform the specified activity by marking an X anywhere along the horizontal line below each item.
-
-1. Rate the student's ability to serve the ball.
-
-| Form is poor | Form and accuracy | Form and accuracy |
-|--------------|-------------------|-------------------|
-| and accuracy | usually within    | are consistently  |
-| is poor      | the average range | superior          |
-
-2. Rate the student's ability to strike the tennis ball using the forehand stroke.
-
-| Form is poor | Form and accuracy | Form and accuracy |
-|--------------|-------------------|-------------------|
-| and accuracy | usually within    | are consistently  |
-| is poor      | the average range | superior          |
-
-3. Rate the student's ability to strike the tennis ball using the backhand stroke.
-
-| Form is poor | Form and accuracy | Form and accuracy |
-|--------------|-------------------|-------------------|
-| and accuracy | usually within    | are consistently  |
-| is poor      | the average range | superior          |
-
-### TABLE 10.7 Example of a Checklist Used with Preschool Children
-
-Directions: Circle Yes or No to indicate whether each skill has been demonstrated.
-
-### Self-Help Skills
-
-| Yes | No | Attempts to wash face and hands |
-|-----|----|---------------------------------|
-| Yes | No | Helps put toys away             |
-| Yes | No | Drinks from a standard cup      |
-| Yes | No | Eats using utensils             |
-| Yes | No | Attempts to use the toilet      |
-| Yes | No | Attempts to dress self          |
-
-### Language Development
-
-| Yes | No | Follows simple directions                  |
-|-----|----|--------------------------------------------|
-| Yes | No | Verbalizes needs and feelings              |
-| Yes | No | Speech can be understood most of the time  |
-| Yes | No | Speaks in sentences of three or more words |
-
-### Basic Skills Development
-
-| Yes | No                           | Can count to ten                            |     |
-|-----|------------------------------|---------------------------------------------|-----|
-| Yes | No                           | Recognizes numbers to ten                   |     |
-|     |                              | Can name the following shapes:              |     |
-| Yes | No                           | Circle                                      |     |
-| Yes | No                           | Square                                      |     |
-| Yes | No                           | Triangle                                    |     |
-| Yes | No                           | Star                                        |     |
-|     |                              | Can identify the following colors:          |     |
-| Yes | No                           | Red                                         | 3   |
-| Yes | No                           | Blue                                        |     |
-| Yes | No                           | Green                                       |     |
-|     |                              | Understands the following concepts:         |     |
-| Yes | No                           | Up and down                                 |     |
-| Yes | No                           | Big and little                              |     |
-| Yes | No                           | Open and closed                             |     |
-| Yes | No                           | On and off                                  |     |
-| Yes | No                           | In and out                                  |     |
-| ES  | Social Development 35:5.) | See ee e.                             | eS  |
-| Yes | No                           | Plays independently                         |     |
-| Yes | No                           | Plays parallel to other students            |     |
-| Yes | No                           | Plays cooperatively with other students     |     |
-| Yes | No                           | R Participates in group activities eA |     |
-|     |                              | je GOES SYAR AD                             | eeS |
 
 Checklists require a simple Checklists are another popular procedure used to score peryes/no judgment. formance assessments. Checklists are similar to rating scales, but whereas rating scales note the quality of performance or the fre-
 
@@ -5984,7 +6038,7 @@ quency of a behavior, checklists require a simple yes/no judgment. Table 10.7 pr
 
 Although there is overlap between traditional scoring rubrics such as those used for scoring essays, rating scales, and checklists, there are differences that may make one preferable for your performance assessment. Consider which format is most likely to produce the most reliable and valid results and which will provide the most useful feedback to the students.
 
-# Implementing Procedures to Minimize Errors in Rating
+#### Implementing Procedures to Minimize Errors in Rating
 
 developing performance assessments is to implement procedures to minimize errors in rating.
 
@@ -6016,7 +6070,7 @@ Have More than One Teacher Rate Each Student's Performance. The combined ratings
 
 '
 
-# SPECIAL INTEREST TOPIC 10.2 Reliability Issues in Performance Assessments
+**SPECIAL INTEREST TOPIC 10.2 Reliability Issues in Performance Assessments**
 
 Reliable scoring of performance assessments is hard to achieve. When estimating the reliability of performance assessments used in standardized assessment programs, multiple readers (also termed raters) are typically given the same student response to read and score. Because it is cost prohibitive for readers to read and score all responses in high-stakes testing, the responses are typically assigned randomly to pairs of readers. For each response, the scores given by the two readers are compared. If they are identical, the essay is given the common score. If they differ meaningfully, such as one score represents a passing performance and the other failing, a procedure to decide on the score given is invoked. Sometimes this involves a third reader or, if the scores are close, an average score is given. For tasks with multiple parts the same two readers evaluate the entire problem. It is important to note that reliability of the parts will be much lower than reliability of the entire problem. Summing the scores of the various parts of the problem will produce a more reliable score than that for any one part, so it is important to decide at what level score reliability is to be assessed. It will be much more costly to require high reliability for scoring each part than for the entire problem.
 
@@ -6039,13 +6093,13 @@ $$
 
 The calculations illustrated next are for hypothetical data for two raters. The numbers in the diagonal of this table reflect agreement between the two raters. For example, if you look in the top left corner you see that there were two cases in which both raters assigned a score of one. Moving to the next column where ratings of two coincide, you see that there were three cases in which both raters assigned a score of two. However, there was one case in which Rater 1 assigned a one and Rater 2 a two. Likewise, there was one case in which Rater 1 assigned a three and Rater 2 a two. Note that we would need a much higher observed agreement to ensure a minimal 70% agreement beyond chance. Because the classical estimate of reliability is always based on excluding error such as chance, Cohen's kappa is theoretically closer to the commonly agreed-on concept of reliability. Unfortunately, there is little evidence that high-stakes assessments employ this method. Again, the cost of ensuring this level of true agreement becomes quite high.
 
-#### Computation of Cohen's Kappa for Two Raters
+Computation of Cohen's Kappa for Two Raters
 
 |                   |         | Rater 2 Scores |     |     |     |         |
 |-------------------|---------|----------------|-----|-----|-----|---------|
 |                   |         | 1              | 2   | 3   | 4   | Percent |
 |                   | 1       |                |     |     |     | 30%     |
-| Rater 1 Scores | I       |                |     |     |     | 30%     |
+| Rater 1 Scores    | 2       |                |     |     |     | 30%     |
 |                   | 3       |                |     |     |     | 20%     |
 |                   | 4       |                |     |     |     | 20%     |
 |                   | Percent | 20%            | 60% | 10% | 10% | 100%    |
@@ -6077,8 +6131,7 @@ A number of Web sites produce this computation. Simply search with the term Cohe
 
 For 20 essays, doubling the number of cases in the table, the estimate remains the same, but the standard error is reduced to 0.2789. For 80 responses, multiplying the numbers in the table by 8, the standard error is 0.1395. Thus, even with 80 responses, given a 70% observed agreement among two raters, the actual Cohen's kappa chance corrected agreement is as low as 0.42 (approximately 0.70 — 1.96 x 0.1395).
 
-## TABLE 10.8 Guidelines for Developing and Implementing Scoring Procedures
-
+**TABLE-10.8 Guidelines for Developing and Implementing Scoring Procedures**
 - . Ensure that the criteria you are evaluating are clearly specified and directly observable.
 - . Ensure that the standards clearly distinguish among levels of performance.
 - . Select the type of scoring procedure that is most appropriate.
@@ -6093,13 +6146,13 @@ Table 10.8 provides a summary of these guidelines for developing and implementin
 
 Much has been written about the strengths and weaknesses of performance assessments, and this is good time to examine them in more detail.
 
-# SPECIAL INTEREST ToPIc 10.3 Performance Assessments in High-Stakes Testing
+**SPECIAL INTEREST ToPIc 10.3 Performance Assessments in High-Stakes Testing**
 
 In our earlier edition we documented the experiences of states such as Kentucky and Vermont in implementing versions of performance assessments as part of their statewide assessment programs. Most of the evaluations of these experiences have been negative in terms of limited reliability, validity, and benefit relative to the cost. Since the implementation of The No Child Left Behind Act (NCLB) in 2001, there has been almost no statewide movement toward employing performance assessments. Even those states that began experimenting with versions of performance assessment have rejected them as too expensive for too little additional validity over paper-and-pencil or computer-based testing.
 
 This does not mean that performance assessment does not exist in education. It has been adopted in postsecondary education in such areas as medical, veterinary, and management education. In these cases there appear to be sufficient resources to conduct these more expensive performance assessments. For example, in medical schools there are relatively few students per course of study, and with a much greater expenditure per student, performance assessments are relatively cheaper to conduct.
 
-# Strengths of Performance Assessments
+#### Strengths of Performance Assessments
 
 Performance Assessments Can Measure Abilities That Are Not Assessable Using Other Assessments. Possibly the greatest strength of performance assessments is
 
@@ -6123,9 +6176,9 @@ A single measure or approach is unlikely to adequately measure the knowledge, sk
 
 Although performance assessments have a number of strengths that support their use, there are some disadvantages. We will now summarize these disadvantages.
 
-# Weaknesses of Performance Assessments
+#### Weaknesses of Performance Assessments
 
-# Performance assessments are time consuming and difficult to score in a reliable manner.
+Performance assessments are time consuming and difficult to score in a reliable manner.
 
 Scoring Performance Assessments in a Reliable Manner Is Difficult. Probably the most common criticism of performance assessments is that due to the inherent subjectivity in scoring they
 
@@ -6149,23 +6202,19 @@ Portfolios are a specific type of performance assessment that involves the syste
 
 their limitations, most recognize these limitations and recommend that these assessments be used in an appropriately cautious manner. We recommend that you limit the use of performance assessments to the measurement of educational objectives that cannot be adequately measured using techniques that afford more objective and reliable scoring. When you do use performance assessments, be cognizant of their limitations and follow the guidelines we have provided to enhance the reliability of their scores and the validity of your inferences. Table 10.9 provides a summary of the strengths and weaknesses of performance assessments.
 
-# Portfolios
+### Portfolios
 
 Portfolios are a specific type of performance assessment that involves the systematic collection of a student's work products over a specified period of time according to a specific set of guidelines (AERA et al., 1999). As we noted earlier, artists, photographers, writers, and others have long used portfolios to represent their work, and in the last decade portfolios have become increasingly popular in the classroom. As typically applied in schools today, portfolios may best be
 
-# TABLE 10.9 Strengths and Weaknesses of Performance Assessments
-
-### Strengths of Performance Assessments
-
+**TABLE-10.9 Strengths and Weaknesses of Performance Assessments**
+Strengths of Performance Assessments
 - Performance assessments can measure abilities that are not assessable using other assessments.
 - The use of performance assessments is consistent with modern learning theory.
 - The use of performance assessments may result in better instruction.
 - Performance assessments may make learning more meaningful and help motivate students.
 - Performance assessments allow you to assess process as well as products.
 - The use of performance assessments broadens your approach to assessment.
-
-### Weaknesses of Performance Assessments
-
+Weaknesses of Performance Assessments
 - m Performance assessments are notorious for producing unreliable scores.
 - w With performance assessments it is difficult to make generalizations about the skills and knowledge the students possess. Se OES EE LE TI SSEES AS SAE RES
 - m Performance assessments are time consuming and difficult to construct, administer, and score.
@@ -6173,7 +6222,7 @@ Portfolios are a specific type of performance assessment that involves the syste
 
 conceptualized as a systematic way of collecting, organizing, and evaluating examples of students' work products. As such, portfolios can conceivably serve as the basis for evaluating students' achievements and providing feedback to the students and their parents.
 
-# Guidelines for Developing Portfolio Assessments
+#### Guidelines for Developing Portfolio Assessments
 
 Like all performance assessments, there is such diversity in portfolios that it is somewhat difficult to specify specific guidelines for their development. However, also like performance assessments, there are some general guidelines that most assessment professionals accept (AERA et al., 1999; Gronlund, 1998; Linn & Gronlund, 2000; Nitko, 2001; Popham, 1999, 2000). These are summarized next.
 
@@ -6195,8 +6244,7 @@ Table 10.10 provides a summary of the guidelines for developing portfolios.
 
 Like all assessment techniques, portfolios have their own set of strengths and weaknesses (Gronlund, 1998; Kubiszyn & Borich, 2003; Linn & Gronlund, 2000; Nitko, 2001; Popham 1999, 2000).
 
-## TABLE 10.10 Guidelines for Developing Portfolio Assessments
-
+**TABLE-10.10 Guidelines for Developing Portfolio Assessments**
 - 1. Decide on the purpose of the portfolio
 	- a. Enhance learning, assign grades, or some combination
 	- b. Best work, representative products, growth or learning progress, or evaluation
@@ -6210,7 +6258,7 @@ Like all assessment techniques, portfolios have their own set of strengths and w
 	- c. Decide on a holistic or analytic approach
 - 4. Promote student involvement in the process
 
-# Strengths of Portfolio Assessments
+#### Strengths of Portfolio Assessments
 
 Portfolios are particularly good at reflecting student achievement and growth over time.
 
@@ -6226,7 +6274,7 @@ When Used Correctly Portfolios Can Strengthen the Relationship between Instructi
 
 Portfolios Can Enhance Teachers' Communication with Both Students and Parents. Providing regular student-teacher and parent-teacher conferences to review the contents of portfolios is an excellent way to enhance communication.
 
-# Weaknesses of Portfolio Assessments
+#### Weaknesses of Portfolio Assessments
 
 manner is difficult.
 
@@ -6242,22 +6290,18 @@ The use of portfolios has great potential for enriching education and student as
 
 We largely concur with Dr. Hopkins. Portfolios (and other performance assessments) hold great potential for enriching educational assessment practices. They have considerable strengths and when used in a judicious manner will enhance the assessment of students. At the same time we encourage teachers to be aware of the specific strengths and weaknesses of all assessment techniques and to factor these in when developing their own procedures for assessing student achievement. No approach to assessment—whether it is selected-response items, constructed-response items, performance assessments, or portfolios—should be viewed as the only way to assess student achievement. As we have repeatedly stated, no single assessment approach can adequately assess all of the complex skills and knowledge taught in today's schools. By using multiple approaches to assessment, one can capitalize on the strengths of the different approaches in order to elicit the most useful, reliable, and accurate information possible. Table 10.11 provides a summary of the strengths and weaknesses of portfolio assessments.
 
-# TABLE 10.11 Strengths and Weaknesses of Portfolio Assessments
-
-#### Strengths of Portfolio Assessments
-
+**TABLE-10.11 Strengths and Weaknesses of Portfolio Assessments**
+Strengths of Portfolio Assessments
 - 1. Portfolios are particularly good at reflecting student achievement and growth over time.
 - 2. Portfolios may help motivate students and get them more involved in the learning process.
 - 3. Portfolios may enhance students' ability to evaluate their own performances and products.
 - 4. When used correctly portfolios can strengthen the relationship between instruction and assessment.
 - 5. Portfolios can enhance teachers' communication with both students and parents.
-
-#### Weaknesses of Portfolio Assessments
-
+Weaknesses of Portfolio Assessments
 - 1. Scoring portfolios in a reliable manner is difficult.
 - 2. Conducting portfolio assessments properly is a time-consuming and demanding process.
 
-# Summary
+### Summary
 
 In this chapter we focused on performance assessments and portfolios. These special types of constructed-response tasks have been around for many years, but have gained increasing popularity in schools in recent years. To many educators performance assessments are seen as a positive alternative to traditional paper-and-pencil tests. Critics of traditional paperand-pencil tests complain that they emphasize rote memory and other low-level learning objectives. In contrast they praise performance assessments, which they see as measuring higher-level outcomes that mirror real-life situations.
 
@@ -6277,7 +6321,7 @@ Performance assessments require students to complete a process or produce a prod
 - m Select tasks that can be scored in a reliable manner.
 - Select tasks that reflect objectives that cannot be measured using traditional assessments.
 
-# Developing Instructions That Clearly Specify What the Student Is Expected to Do
+#### Developing Instructions That Clearly Specify What the Student Is Expected to Do
 
 - Instructions should match the educational level of the students.
 - Instructions should avoid jargon or unnecessary technical language.
@@ -6287,13 +6331,13 @@ Performance assessments require students to complete a process or produce a prod
 - Instructions should specify the criteria used to evaluate the student's responses.
 - Instructions should be clear to students from different backgrounds.
 
-## Developing Procedures to Evaluate the Students' Responses
+#### Developing Procedures to Evaluate the Students' Responses
 
 - Select important criteria that will be considered when evaluating student responses.
 - Specify explicit standards that illustrate different levels of performance on each criteria.
 - Determine what type of scoring procedure you will use (e.g., rating scale, checklist).
 
-# Implementing Procedures to Minimize Errors in Rating
+#### Implementing Procedures to Minimize Errors in Rating
 
 - Have trusted colleagues evaluate your scoring rubric.
 - Rate performances without knowing the student's identity.
@@ -6344,7 +6388,7 @@ Weaknesses of portfolios include the following:
 
 We concluded this chapter by noting that performance assessments have considerable strengths and when used in a prudent manner they can enhance the assessment of students. As a general rule, we recommend that you limit the use of performance assessments to the measurement of educational objectives that cannot be adequately measured using techniques that afford more objective and reliable scoring. At the same time we noted that there are many such objectives. We stressed that no single approach to assessment should be viewed as the one and only way to assess student achievement. As stated before, no single assessment approach can adequately assess all of the complex skills and knowledge taught in today's schools. By using multiple approaches to assessment, one can take advantage of the strengths of the different approaches and obtain the most useful, reliable, and accurate information possible.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Actual performance assessment, Alternative assessments, p. 248
 
@@ -6356,13 +6400,13 @@ assessment, p. 249 Personal biases, p. 261
 
 Best work portfolios, p. 269 Growth or learning-progress Portfolios, p. 268 Central tendency errors, portfolios, p. 270 Rating scales, p. 258 p. 261 Halo effect, p. 261 Reliability decay, p. 262 Checklists, p. 261 Holistic rubrics, p. 257 Representative portfolios, Evaluation of products and Leniency errors, p. 261 p. 269 processes, p. 267 Logical errors, p. 261 Restricted-response performance Evaluation portfolios, p. 270 Order effects, p. 262 assessment, p. 249 Extended-response performance Performance assessments, p. 246 Severity error, p. 261
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 Feldt, L. (1997). Can validity rise when reliability declines? Applied Measurement in Education, 10, 377-387. This extremely interesting paper argues that at least in theory performance tests of achievement can be more valid than constructed-response tests even though the performance assessments have lower reliability. He notes that now the challenge is to find empirical examples of this theoretical possibility.
 
 Rosenquist, A., Shavelson, R., & Ruiz-Primo, M. (2000). On the "exchangeability" of hands-on and computersimulated science performance assessments (CSE Technical Report 531). Stanford University, CA: CRESST. Previous research has shown inconsistencies between scores on hands-on and computer-simulated performance assessments. This paper examines the sources of these inconsistencies.
 
-# INTERNET SITE OF INTEREST
+### INTERNET SITE OF INTEREST
 
 www.cresst.org
 
@@ -6372,11 +6416,11 @@ Sen RTL ne Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ pres
 
 Pees aihe SAS isda Un a fae aes ees Se
 
-# Assigning Grades on the Basis of Classroom Assessments
+## CHAPTER 11 Assigning Grades on the Basis of Classroom Assessments
 
 I love teaching, but I find assigning grades at the end of a semester to be a very difficult and unpleasant process!
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Which Symbols to Use? and Grades Received The Basis for Assigning Grades
 
@@ -6388,7 +6432,7 @@ Frame of Reference
 
 Feedback and Evaluation Combining Grades into a Composite Reporting Student Progress: Informing Students of the Grading System Parent Conferences
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -6412,7 +6456,7 @@ ditionally, in most schools it is mandatory for student evaluations to Marks are
 
 > Our discussion will address a variety of issues associated with the process of assigning grades or marks. First we will discuss some of the ways tests and other assessment procedures are used in schools. This includes providing feedback to students and making evaluative judgments regarding their progress and achievement. In this context we also discuss the advantages and disadvantages of assigning grades. Next we discuss some of the more practical aspects of assigning grades. For example, "What factors should be considered when assigning grades?" and "What frame of reference should be used when assigning grades?" We then turn to a slightly technical, but hopefully practical, discussion of how to combine scores into a composite or cumulative grade. Finally, we present some suggestions on presenting information about grades to students and parents.
 
-# Feedback and Evaluation
+### Feedback and Evaluation
 
 We have noted that tests and other assessment procedures are used in many ways in school settings. For example, tests can be used to provide feedback to students about their progress, to evaluate their achievement, and to assign grades. esting applications can be classified as either formative or summative. Foc matiy a aaaati activities that are aimed at providing feedback to students. In this context, feedback implies the communication of information concerning a student's performance or achievement that is intended to have a corrective effect. Formative evaluation is typically communicated directly to the students and is designed to direct, guide, and modify their behavior. To be useful it should indicate to the students what is being done well and what needs improvement. By providing feedback in a timely manner, formative evaluation can help divide the learning experience into manageable components and provide structure to the instruc-
 
@@ -6438,9 +6482,7 @@ achievement in school. Particularly in an academically oriented home in which ac
 
 As you can see from this brief discussion, grades have both significant benefits and limitations. Nevertheless, they are an engrained aspect of most educational systems and are more than likely going to be with us for the foreseeable future. As a result, it behooves us to understand how to assign grades in a responsible manner that capitalizes on their strengths and minimizes their limitations. Special Interest Topic 11.1 provides a brief history of grading policies in universities and public schools. AR
 
-# SPECIAL INTEREST ToPic I1.1
-
-# A Brief History of Grading
+**SPECIAL INTEREST ToPic I1.1 A Brief History of Grading**
 
 Brookhart (2004) provides a discussion of the history of grading in the United States. Here are a few of the key developments she notes in this time line.
 
@@ -6450,13 +6492,13 @@ Brookhart (2004) provides a discussion of the history of grading in the United S
 
 In some aspects we have come a long way in refining the ways we evaluate the performance of our students. At the same time, we are still struggling with many of the same issues we struggled with a hundred years ago.
 
-# Formal and Informal Evaluation
+#### Formal and Informal Evaluation
 
 Summative evaluation, by its very nature, is typically formal and documented in writing. Formative evaluation, however, is often informal. Teachers are constantly evaluating stu-
 
 Whereas summative evaluation is typically formal formative evaluation is often informal.
 
-dent performance throughout the school day. I aicaghiaianshaasaaEEEEEEC <n the feedback takes the form of a comment such as "that is outstanding," or "that and documented in writing, is not quite right, try again." Although it is usually presented in a nonthreatening manner, public evaluation can be embarrassing or humiliating when thoughtlessly conducted by the teacher. This can result in students' developing negative attitudes toward both teachers and school. These negative attitudes can be very difficult to change
+dent performance throughout the school day. I aicaghiaianshaasaaEEEEEEC the feedback takes the form of a comment such as "that is outstanding," or "that and documented in writing, is not quite right, try again." Although it is usually presented in a nonthreatening manner, public evaluation can be embarrassing or humiliating when thoughtlessly conducted by the teacher. This can result in students' developing negative attitudes toward both teachers and school. These negative attitudes can be very difficult to change
 
 > and these regrettable situations should be avoided. Another potential problem with informal evaluations is that they may not be applied in a consistent manner. For example, some students may receive more consistent feedback than others, which may give them an advantage on upcoming tests and assignments. Additionally, informal evaluations are rarely recorded or documented. Although some teachers do develop daily summative ratings based on their general impression of the students' performance, this is not standard practice and represents the exception rather than the rule.
 
@@ -6464,7 +6506,7 @@ dent performance throughout the school day. I aicaghiaianshaasaaEEEEEEC <n the f
 
 Formative evaluations are often 2 : : incorporated into a summative evaluation. This procedure is reasonable if the material is topical and questionable if the content is sequential.
 
-# The Use of Formative Evaluation in Summative Evaluation
+#### The Use of Formative Evaluation in Summative Evaluation
 
 Formative evaluations are often incorporated into a summative eval uation. For example, teachers will often have a number of small assignments and tests that are primarily designed to evaluate student progress and provide feedback to students, with the scores on these assignments contributing to the final course grade. This procedure is reasonable if the material is topical and questionable if the content
 
@@ -6474,7 +6516,7 @@ The cumulative grade or mark in a course is typically considered a judgment of t
 
 Topical content, material that is related but with objectives that need not be mastered in any particular order, can be evaluated more easily in different sections. Here formative evaluations can easily serve as part of the summative evaluation. There is little need or reason to repetitively test the objectives in each subsequent evaluation. Mixed content, in which some objectives are sequential and others topical, should be evaluated by a combination of the two approaches. Later in this chapter we will show you how you can "weight" different assessments and assignments to meet your specific needs.
 
-# Reporting Student Progress: Which Symbols to Use?
+### Reporting Student Progress: Which Symbols to Use?
 
 Letter grades are the most popular method of reporting student progress and are used in the majority of schools.
 
@@ -6498,15 +6540,13 @@ Verbal Descriptors. Another approach is to replace letter grades with verbal des
 
 Pass-Fail. Pass-fail grades and other two-category grading systems have been used for many years. For example, some high schools and universities offer credit/no-credit grading for selected courses (usually electives). A variant is mastery grading, which is well suited for situations that emphasize a mastery learning approach in which all or most students are expected to master the learning objectives and given the time necessary to do so. In situations in which the learning objectives are clearly specified, a two-category grading system may be appropriate, but otherwise it may convey even less information than traditional letter/ numerical grades or verbal descriptors.
 
-# SPECIAL INTEREST ToPic 11.2
-
-# Schools No Longer Assigning Ds?
+**SPECIAL INTEREST ToPic 11.2 Schools No Longer Assigning Ds?**
 
 Hoff (2003) reports that some California high schools are considering deleting the letter D from their grading systems. He notes that at one high school the English department has experimented with deleting Ds with some success. The rationale behind the decision is that students who are making Ds are not mastering the material at the level expected by the schools. This became apparent when schools noticed that the students making Ds in English were, with very few exceptions, failing the state-mandated exit examination. This caused them to question whether it is appropriate to give students a passing grade if it is almost assured that they will not pass the standardized assessment required for them to progress to the next grade or graduate. Schools also hoped that this policy would motivate some students to try a little harder and elevate their grades to Cs. There is some evidence that this is happening. For example, after one English department did away with Ds, approximately one-third of the students who had made Ds the preceding quarter raised their averages to a C level, while about two-thirds received Fs. The policy has generally been well received by educators and is likely to be adopted by other departments and schools.
 
 Supplemental Systems. Many teachers and/or schools have adopted various approaches to replace or supplement the more traditional marking systems. For example, some teachers use a checklist of specific learning objectives to provide additional information about their students' strengths and weaknesses. Other teachers use letters, phone conversations, or individual conferences with parents to convey more specific information about their students' individual academic strengths and weaknesses. Naturally, all of these approaches can be used to supplement the more traditional grading/marking systems.
 
-# The Basis for Assigning Grades
+### The Basis for Assigning Grades
 
 Another essential question in assigning grades involves a decision regarding the basis for grades. By this we mean "Are grades assigned purely on the basis of academic achievement, or are other student characteristics taken into consideration?" For example, when assigning grades should one take into consideration factors such as a student's attitudes, behavior, class participation, punctuality, work/study habits, and so forth? As a general rule these nonachievement factors receive more consideration in elementary school, whereas in the secondary grades the focus narrows to achievement (Hopkins, 1998). While recognizing the importance of these nonachievement factors, most assessment experts recommend that actual academic achievement be the sole basis for assigning achievement grades. If desired, teachers should assign separate ratings for these nonachievement factors (e.g., excellent,
 
@@ -6514,47 +6554,43 @@ When educators mix achievement and nonachievement factors, the
 
 satisfactory, and unsatisfactory). The key is that these factors should be rated separately and independently from achievement grades. This keeps academic grades as relatively pure marks of achievement that are not contaminated by nonachievement factors. When educators meaning of grades is blurred. mix achievement and nonachievement factors, the meaning of the
 
-# TABLE 11.1 Report Form Reflecting Achievement and Nonachievement Factors
-
-Student Achievement: The following grades reflect the student's achievement in each academic area.
-
-| Grades: | A = Excellent                    | Subject        | Grade |  |
-|---------|----------------------------------|----------------|-------|--|
-|         | B = Above Average C = Average | Reading        |       |  |
-|         | D = Below Average                | Writing        |       |  |
-|         | F = Failing                      | English        |       |  |
-|         |                                  | Math           |       |  |
-|         |                                  | Social studies |       |  |
-|         |                                  | Science        |       |  |
-
-Student Behavior: The following scores reflect the student's behavior at school.
-
-| Rating Scale: E = Excellent                  | Student's effort           | 19  | S  | N   | U   |
-|-------------------------------------------------|----------------------------|-----|----|-----|-----|
-| 4 a casarartiiee                             | Follows directions         | Bon | Ss | oNe | eee |
-| Improvement = Needs U = Unsatisfactory | Acts responsibly :      | je. | S  | N   | U   |
-|                                                 | Completes and returns work | E   | S  | N   | U   |
-|                                                 | Interacts well with peers  | E   | S  | N   | U   |
-|                                                 | Interacts well with adults | E   | S  | N   | U   |
-| EE                                              | ee Overall Classroom    |     |    |     |     |
-| Qe                                              | Behavior                   | E   | S  | N   | U   |
-|                                                 |                            | a   |    | eee |     |
+**TABLE-11.1 Report Form Reflecting Achievement and Nonachievement Factors**
+|--------------------------------------------------------------------------------------------------|
+|Student Achievement: The following grades reflect the student's achievement in each academic area.|
+| Grades: |                                       | Subject        | Grade                      |  |
+|---------|---------------------------------------|----------------|----------------------------|--|
+|         | A = Excellent                         |                |                            |  | 
+|         | B = Above Average C = Average         | Reading        |                            |  |
+|         | D = Below Average                     | Writing        |                            |  |
+|         | F = Failing                           | English        |                            |  |
+|         |                                       | Math           |                            |  |
+|         |                                       | Social studies |                            |  |
+|         |                                       | Science        |                            |  |
+|Student Behavior: The following scores reflect the student's behavior at school.                  |
+| Rating Scale:                                   | Student's effort           | E   | S  | N  | U |
+|-------------------------------------------------|----------------------------|-----|----|----|---|
+| E = Excellent                                   | Follows directions         | E   | S  | N  | U |
+| N = Needs Improvement                           | Acts responsibly :         | E   | S  | N  | U |
+| U = Unsatisfactory                              | Completes and returns work | E   | S  | N  | U |
+| S = Satisfactory                                | Interacts well with peers  | E   | S  | N  | U |
+|                                                 | Interacts well with adults | E   | S  | N  | U |
+| EE                                              | Overall Classroom          |     |    |    |   |
+| Qe                                              | Behavior                   | E   | S  | N  | U |
+|--------------------------------------------------------------------------------------------------|
 
 grades is blurred. Table 11.1 provides an example of an elementary school report intended to separate achievement from other factors. Special Interest Topic 11.3 addresses the issue of lowering grades as a means of classroom discipline.
 
-# Frame of Reference
+### Frame of Reference
 
 Once you have decided what to base your grades on (hopefully academic achievement), you need to decide on the frame of reference you will use. In the following sections we will discuss the most common frames of references.
 
 Norm-referenced or relative grading involves comparing each student's performance
 
-# Norm-Referenced Grading (Relative Grading)
+#### Norm-Referenced Grading (Relative Grading)
 
 The first frame of reference we will discuss is referred to 48q500INE A : to that of a specific reference comparable to the norm-referenced approach to score interpretagroup. tion discussed in Chapter 3). This approach to assigning grades is
 
-# SPECIAL INTEREST ToPic 11.3
-
-# Grading and Punishment?
+**SPECIAL INTEREST ToPic 11.3 Grading and Punishment?**
 
 Nitko (2001) distinguishes between "failing work" and "failure to try." Failing work is work of such poor quality that it should receive a failing grade (i.e., F) based on its merits. Failure to try is when the student, for some reason, simply does not do the work. Should students who fail to try receive a failing grade? What about students who habitually turn in their assignments late? Should they be punished by lowering their grades? What about students who are caught cheating? Should they be given a zero? These are difficult questions that don't have simple answers.
 
@@ -6568,7 +6604,7 @@ also referred to as "grading on the curve." Although the reference group varies,
 |------|---------------------------------------|
 | A    | 10%                                   |
 | B    | 20%                                   |
-| cS   | 40%                                   |
+| C    | 40%                                   |
 | D    | 20%                                   |
 | F    | 10%                                   |
 
@@ -6584,7 +6620,7 @@ Gronlund (1998) provides another approach to reducing the effect of variability 
 |------|---------------------------------------|
 | A    | 10-20%                                |
 | B    | 20-30%                                |
-| is   | 40-50%                                |
+| C    | 40-50%                                |
 | D    | 10-20%                                |
 | F    | 0-10%                                 |
 
@@ -6606,29 +6642,26 @@ nonmastery), this approach can also reflect a continuum of achievement. One of t
 | B    | 80-89%                       |
 | c    | 70-79%                       |
 | D    | 60-69%                       |
-| i    | <60%                         |
+| F    | <60%                         |
 
 Many schools list such bands as formal criteria even though they are often modified in actual practice. An advantage of this grading approach is that the marks directly describe the performance of students without reference to other students. As a result, there is no limit on the number of students that receive any specific grade. For example, in a high-achieving class all students could conceivably receive As. Although such an extreme outcome is not likely in most schools, the issue is that there is no predetermined percentage of students that must receive each grade. Another advantage is that this system, like the norm-referenced approach, is fairly straightforward and easy to apply.
 
 The major limitation of criterion-referenced or absolute grading is that there is considerable variability in the level of difficulty among tests and other academic assignments assigned by teachers. Some teachers create tests that are extremely difficult and others write relatively easy tests. Some teachers are consistently more rigorous in their grading than others. As a result, a rigorous teacher might have a class average of only 60% or 70%, whereas a more lenient teacher might have a class average of 80% or 90%. This inherent variability in difficulty level across courses makes it difficult to interpret or compare the meaning of scores based on an absolute standard in a consistent manner.
 
-# Achievement in Relation to Improvement or Effort
+#### Achievement in Relation to Improvement or Effort
 
 Some teachers feel students should be graded based on the amount of progress they demonstrate during the course of instruction. For example, if students with very poor skills at the beginning of instruction achieve a moderate level of achievement, they should re ceive a better grade than high-achieving students who have demonstrated only small gains. There are numerous problems with this approach. Examine the data listed in Table 11.2. If one takes the position that effort as measured by improvement should be the basis for grades, Joe's improvement, in number and percentage of words gained, is much greater than Mary's improvement. In contrast if the teacher bases grades on achievement, Joe's performance is far short of Mary's and she would receive the higher grade. To reward Joe more highly than Mary can be a risky procedure. What if Joe, knowing the basis for grad ing, deliberately scored low on the initial test in order to ensure a large gain? Should such actions be rewarded?
-
+**TABLE-11.2  Examples of Grading Based on Effort versus Achievement**
+|----------------------------------------------------------------------------------------------|
 |                                                              | Joe                 | Mary |  |
 |--------------------------------------------------------------|---------------------|------|--|
-| Score on spelling pretest                                    | Ny                  | 62   |  |
+| Score on spelling pretest                                    | 17                  | 62   |  |
 | Score on spelling posttest                                   | 43                  | 80   |  |
 | Gain                                                         | 26                  | op   |  |
 | Percentage gain                                              | 153%                | 35%  |  |
 | Grade based on effort                                        | A                   | C    |  |
-| Grade based on achievement                                   | (€                  | A    |  |
-| re Cah te OS LCR Eo SURGE SSS ORR EESTI CRCS AEP GOGAT | ee GU BARE Cae gS a |      |  |
-
-| TABLE 11.2 |  |  | Examples of Grading Based on Effort versus Achievement |
-|------------|--|--|--------------------------------------------------------|
-|------------|--|--|--------------------------------------------------------|
+| Grade based on achievement                                   | c                   | A    |  |
+|----------------------------------------------------------------------------------------------|
 
 There are other problems associated with basing grades on effort or improvement. For example, the measurement of improvement or change is plagued with numerous technical problems (Cronbach & Furby, 1970). Additionally, you have the mixing of achievement with another factor, in this instance effort or improvement. As we suggested before, if you
 
@@ -6636,11 +6669,11 @@ want to recognize effort or improvement, it is more defensible to If you want to
 
 > ment over achievement except in special situations. One situation in which the reward of effort may be justified is in the evaluation of students with severe disabilities for whom grades may appropriately be used to reinforce effort.
 
-# Achievement Relative to Ability
+### Achievement Relative to Ability
 
 Although some teachers have tried to base grades on effort/improvement, others have attempted to base grades on achievement relative to ability or aptitude. In this context, ability or aptitude is usually based on performance on an intelligence test. For example, a student with average intelligence who scores above average on tests of achievement is considered an overachiever and receives good grades. Accordingly, an underachiever is a student whose achievement is considered low in relation to his or her level of intelligence. Like attempts to base grades on effort/improvement, there are numerous problems associated with this approach, including (1) technical problems (e.g., unreliable comparisons), (2) inconsistency in the way IQ is measured, and (3) teachers typically not being given the advanced training necessary to interpret intelligence or aptitude tests. These problems all argue against basing grades on a comparison of achievement and aptitude.
 
-# Recommendation
+### Recommendation
 
 Although we recommend against using achievement relative to aptitude, effort, or improvement as a frame of reference for assigning grades, we believe both absolute and relative Both norm-referenced (i.e., relative) and criterionreferenced (i.e., absolute) grading systems can be used successfully.
 
@@ -6648,7 +6681,7 @@ grading systems can be used successfully. They both have advantages and limitati
 
 would serve to reduce the differences in grading across schools. For example, a student might have a grade point average (GPA) of 3.0 but a percentile rank of 20. Although the GPA is adequate, the percentile rank of 20 (i.e., indicating the student scored better than only 20% of the other students) suggests that this school gives a high percentage of high grades.
 
-# Combining Grades into a Composite
+### Combining Grades into a Composite
 
 When it is time to assign grades at the end of a six-week period, semester, or some other grading period, teachers typically combine results from a variety of assessments. This can
 
@@ -6668,7 +6701,7 @@ Consider the following data illustrating a simple situation. Here we have two as
 
 Johnny had a perfect score on the test but the lowest grade on the homework assignment. Sally had the opposite results, a perfect score on the homework assignment and the lowest score on the test. If the summed scores were actually reflecting equal weighting as the
 
-# SPECIAL INTEREST ToPic 11.4 Some Thoughts on Weighting Assessment Procedures
+**SPECIAL INTEREST ToPic 11.4 Some Thoughts on Weighting Assessment Procedures**
 
 The decision regarding how to weight different assessment procedures is a personal decision based on a number of factors. Some teachers emphasize homework, some tests, some term papers, and some performance assessments. No specific practice is clearly right or wrong, but an understanding of psychometric principles may offer some guidance. First, as we have stated numerous times, it is desirable to provide multiple assessment opportunities. Instead of relying on only a midterm and a final, it is best to provide numerous assessment opportunities spread over the grading period. Second, when possible it is desirable to incorporate different types of assessment procedures. Instead of relying exclusively on any one type of assessment, when feasible try to incorporate a variety. Finally, when determining weights, consider the psychometric properties of the different assessment procedures. For example, we often weight the assessments that produce the most reliable scores and valid interpretations more heavily than those with less sound psychometric properties. Table 11.2 provides one of our weighting procedures for an introductory psychology course in tests and measurement. All of the tests are composed of multiple-choice and short-answer items and make up 90% of the final grade. We include a term paper, but we are aware that its scores are less reliable and valid so we count it for only 10% of the total grade.
 
@@ -6721,8 +6754,7 @@ increasingly available, more teachers will have access to computerized or electr
 
 Table 11.3 provides an expanded example of how this procedure can be used to calculate grades. As computers become increasingly avail- As computers become able, more teachers will have access to computerized or electronic grade books. These grade books can greatly simplify the process of recording scores and computing grades. Table 11.4 provides some information on a few of the computerized grade books that are available commercially to help teachers record scores and calculate grades. Many textbook publishers and other educational suppliers provide similar grade book software to schools and teachers. These commercial grade books can simplify the process of recording scores and computing grades greatly.
 
-### TABLE 11.3 Example of Weighting Different Assessment Procedures
-
+**TABLE-11.3 Example of Weighting Different Assessment Procedures**
 | Assessment Procedure |       | Value |
 |----------------------|-------|-------|
 | Test 1               |       | 20%   |
@@ -6747,16 +6779,15 @@ The scores reported for each assessment procedure will be percent correct. As no
 
 As illustrated here, Julie's composite score is 94.4, Tommy's is 78.9, and Stacey's is 65.6. Using these fairly simple procedures, a teacher can weight any number of different assessment procedures in any desired manner.
 
-### TABLE 11.4 Commercially Available Grade Book Programs
+**TABLE-11.4 Commercially Available Grade Book Programs**
 
 As we indicated, there are a number of commercially available grade book programs. There are programs for both Mac and PC users and many of these programs reside completely on your computer. A new trend is Web-based applications that in addition to recording scores and calcu lating grades allow students and parents to check on their progress. Clearly with technological advances these programs will become more sophisticated and more widely available. Here are just a few of the many grade book programs available and their Web addresses:
+-  ClassAction Gradebook = www.classactiongradebook.com
+-  Jackson GradeQuick www.jacksoncorp.com
+-  MyGrade Book www.my gradebook.com
+-  ThinkWare Educator www.thinkware.com
 
-- m ClassAction Gradebook = www.classactiongradebook.com
-- a Jackson GradeQuick www.jacksoncorp.com
-- m MyGrade Book www.my gradebook.com
-- a ThinkWare Educator www.thinkware.com
-
-# Informing Students of the Grading System and Grades Received
+### Informing Students of the Grading System and Grades Received
 
 Students clearly have a right to know the procedures that will be used to determine their grades. This information should be given to the students early in a course and well before any assessment procedures are administered that are included in the grading process. A common question is "How old should students be before they can benefit from this information?" We believe any students who are old enough to be administered a test or given an assignment are also old enough to know how their grades will be determined. Parents should also be informed in a note or in person during conferences or visits what is expected of
 
@@ -6766,12 +6797,12 @@ Students and parents should be informed of the grades obtained know how their gr
 
 > performance. A federal law, the Family Educational Rights and Privacy Act (FERPA; also know as Public Law 93-380 or the Buckley Amendment) governs the maintenance and release of educational records, including grades, test scores, and related evaluative material. Special Interest Topic 11.5 provides information on this law from the Department of Education's FERPA compliance home page.
 
-# Parent Conferences
+### Parent Conferences
 
 Most school systems try to promote parent-teacher communication, often in the form of parent conferences. Typically conferences serve to inform parents of all aspects of their child's progress, so preparation for a parent conference should result in a file folder containing a record of the child's performance in all areas. This may include information on social and behavioral development as well as academic progress. Conferences should be conducted as
 
-TABLE 11.5 Example of Grading Requirements Presented to Students at the Beginning of a Test and Measurement Course
-
+**TABLE-11.5 Example of Grading Requirements Presented to Students at the Beginning of a Test and Measurement Course**
+|--------------------------------------|
 | Assessment Procedure |       | Value |
 |----------------------|-------|-------|
 | Test 1               |       | 20%   |
@@ -6780,8 +6811,9 @@ TABLE 11.5 Example of Grading Requirements Presented to Students at the Beginnin
 | Term paper           |       | 10%   |
 | Final examination    |       | 30%   |
 |                      | Total | 100%  |
+|--------------------------------------|
 
-# SPECIAL INTEREST TOPIC 11.5 The Family Educational Rights and Privacy Act of 1974
+**SPECIAL INTEREST TOPIC 11.5 The Family Educational Rights and Privacy Act of 1974**
 
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.
 
@@ -6833,7 +6865,7 @@ Source: United States Department of Education, www.ed.gov/policy/gen/guid/fpco/f
 
 confidential, professional sessions. The teacher should focus on the individual student and avoid discussions of other students, teachers, or administrators. The teacher should present samples of students' work and other evidence of their performance as the central aspect of the conference, explaining how each item fits into the grading system. If standardized test results are relevant to the proceedings, the teacher should carefully review the tests and their scoring procedures beforehand in order to present a summary of the results in language clearly understandable to the parents. In subsequent chapters we will address the use and interpretation of standardized tests in school settings.
 
-# Summary
+### Summary
 
 In this chapter we focused on the issue of assigning grades based on the performance of students on tests and other assessment procedures. We started by discussing some of the different ways assessment procedures are used in the schools. Formative evaluation involves providing feedback to students whereas summative evaluation involves making evaluative judgments regarding their progress and achievement. We also discussed the advantages and disadvantages of assigning cumulative grades or marks. On the positive side, grades generally represent a fair system for comparing students that minimizes irrelevant characteristics such as gender or race. Additionally, because most people are familiar with grades and their meaning, grades provide an effective and efficient means of providing information about student achievement. On the down side, a grade is only a brief summary of a student's performance and does not convey detailed information about specific strengths and weaknesses. Additionally, although most people understand the general meaning of grades, there is variability in what grades actually mean in different classes and schools. Finally, student competition for grades may become more important than actual achievement, and students may have difficulty separating their personal worth from their grades, both undesirable situations.
 
@@ -6841,13 +6873,13 @@ Next we discussed some of the more practical aspects of assigning grades. For ex
 
 We also provided a discussion with illustrations of how to combine grades into a composite or cumulative grade. When assigning grades, teachers typically wish to take a number of assessment procedures into consideration. Although this process may appear fairly simple, it is often more complicated than first assumed. We demonstrated that when forming composites it is necessary to equate scores by correcting for differences in the variance or range of the scores. In addition to equating scores for differences in variability, we also demonstrated how teachers can apply different weights to different assessment procedures. For example, a teacher may want a test to count two or three times as much as a homework assignment. We also provided examples of how these procedures can be applied in the classroom with relative ease. In closing, we presented some suggestions on presenting information about grades to students and parents.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Formative evaluation, p. 278 Numerical grades, p. 283
 
 Absolute grading, p. 287 Frame of reference, p. 285 Pass—fail grades, p. 283 Basis for grades, p. 284 Grades, p. 278 Relative grading, p. 285 Composite scores, p. 290 Informal evaluation, p. 281 Score, p. 278 Criterion-referenced grading, Letter grades, p. 282 Summative evaluation, p. 279 p. 287 Marks, p. 278 Verbal descriptors, p. 283 Formal evaluation, p. 281 Norm-referenced grading, p. 285
 
-# RECOMMENDED READING
+### RECOMMENDED READING
 
 Brookhart, S. M. (2004). Grading. Upper Saddle River, NJ: Pearson Merrill Prentice Hall. This provides a good discussion of issues related to grading practices.
 
@@ -6855,15 +6887,15 @@ Brookhart, S. M. (2004). Grading. Upper Saddle River, NJ: Pearson Merrill Prenti
 
 RAE oe ee ei SVE ROS
 
-# ree \*\*\*\* Standardized Achievement Tests in the Era of High-Stakes Assessment
+## CHAPTER 12 Standardized Achievement Tests in the Era of High-Stakes Assessment
 
 Depending on your perspective, standardized achievement tests are either a bane or boon to public schools. Many politicians and ordinary citizens see them as a way of holding educators accountable and ensuring students are really learning. On the other hand, many educators feel standardized tests are often misused and detract from their primary job of educating students.
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 The Era of High-Stakes Assessment Individual Achievement Tests Group-Administered Achievement Tests Selecting an Achievement Battery
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -6912,7 +6944,7 @@ m Standardized achievement tests are increasingly being used in high-stakes deci
 
 = A final major use of standard achievement tests is the identification of students with special educational requirements. For example, achievement tests might be used in assessing children to determine whether they qualify for special education services.
 
-# The Era of High-Stakes Assessments
+### The Era of High-Stakes Assessments
 
 The current trend is toward more, rather than less, standardized testing in public schools. This trend is largely attributed to the increasing emphasis on educational accountability and high-stakes testing programs. Popham (2000) notes that while there have always been critics of public schools, calls for increased accountability became more strident and widespread in the 1970s. During this period news reports began to surface publicizing incidences of
 
@@ -6924,13 +6956,13 @@ of the National Assessment of Educational Progress (NAEP) that has been used for
 
 Subsequent legislation and reports continued to focus attention on the quality of our educational system, promoting increased levels of accountability, which translated into more testing. In recent years, the No Child Left Behind Act of 2001 required that each state develop high academic standards and implement annual assessments to monitor the performance of states, districts, and schools. It requires that state assessments meet professional standards for reliability and validity and that states achieve academic proficiency for all
 
-# The No Child Left Behind Act
+#### The No Child Left Behind Act
 
 students within 12 years. As this text goes to print Congress is beginning to debate the reauthorization of NCLB. It is likely that there will be significant changes to the act in the next years, but in our opinion requires states to test students it is likely that standardized achievement tests will continue to see annually in grades 3 through 8. extensive use in our public schools.
 
 > In the remainder of this chapter we will introduce a number of standardized achievement tests. First we will provide brief descriptions of some major group achievement tests and discuss their applications in schools. We will then briefly describe a number of individual achievement tests that are commonly used in schools. The goal of this chapter is to familiarize you with some of the prominent characteristics of these tests and how they are used in schools.
 
-# Group-Administered Achievement Tests
+### Group-Administered Achievement Tests
 
 Achievement tests can be classified as either individual or group tests. Individual tests are administered in a one-to-one testing situation. One testing professional (i.e., the examiner) administers the test to one individual (i.e., the examinee) at a time. In contrast, groupadministered tests are those that can be administered to more than one examinee at a time. The main attraction of group administration 1s that it is an efficient way to collect information
 
@@ -6944,13 +6976,13 @@ about students or other examinees. By efficient, we mean a large number of stude
 
 See
 
-# The "'Nation's Report Card"
+#### The "'Nation's Report Card"
 
 The National Assessment of Educational Progress (NAEP), also referred to as the "Nation's Report Card," is the only ongoing nationally administered assessment of academic achievement in the United States. NAEP provides a comprehensive assessment of our students' achievement at critical periods in their academic experience (i.e., grades 4, 8, and 12). NAEP assesses performance in mathematics, science, reading, writing, world geography, U.S. history, civics, and the arts. New assessments in world history, economics, and foreign language are currently being developed. NAEP has been administered regularly since 1969. It does not provide information on the performance of individual students or schools, but presents aggregated data reflecting achievement in specific academic areas, instructional practices, and academic environments for broad samples of students and specific subgroups. The NAEP has an excellent Web site that can be accessed at http://nces.ed.gov/nationsreportcard. Of particular interest to teachers is the NAEP Questions Tool. This tool provides access to NAEP questions, student responses, and scoring guides that have been released to the public. This tool can be accessed at http://nces.ed.gov/nationsreportcard/itmrls. The table below contains 4th-grade reading scores for the states, Department of Defense Education Agency, and the District of Columbia.
 
-# State Score State Score 1 Massachusetts 231.28 27 Maryland 220.03 2 New Hampshire 227.44 28 Kentucky 29°93 3 Vermont 226.89 29 Florida 219.47 4 Departmentof Defense 226.13 30 Texas 218.73 Education Agency 31 Michigan 218.26 5 Delaware 225.84 32 Indiana 218.07 6 Virginia 225.81 National Public Average 217.30 7 Connecticut 2251) 33 North Carolina 217.13 8 Minnesota 2258 34 Arkansas 217.07 9 North Dakota 224.81 35 Oregon 216.90 10 Maine 224.58 36 Illinois 216.49 11 Montana 224.55 37 Rhode Island 216.44 12 Colorado 223.66 38 West Virginia 214.77 13. Washington 223.49 39 Georgia 214.43 14 New Jersey 223.30 40 Tennessee 214.22 15 Wyoming 223.26 41 Oklahoma 213.86 16 Pennsylvania 222.11 42 South Carolina 213.20 17 New York 222.70 43 Alaska 211.06 18 Ohio ViB is) 44 Hawaii 209.58 19 South Dakota 222.40 45 Louisiana 209.17 20 Idaho 221.86 46 Alabama 207.75 21 Nebraska 221.38 47 Nevada 207.19 22 Utah PY eH| 48 Arizona 207.14 23. Missouri 221.17 49 New Mexico 206.79 24 Wisconsin 221.16 50 California 206.51 25 Iowa 220.81 51 Mississippi 204.39 26 Kansas 220.47 52 District of Columbia 190.79
+State Score State Score 1 Massachusetts 231.28 27 Maryland 220.03 2 New Hampshire 227.44 28 Kentucky 29°93 3 Vermont 226.89 29 Florida 219.47 4 Departmentof Defense 226.13 30 Texas 218.73 Education Agency 31 Michigan 218.26 5 Delaware 225.84 32 Indiana 218.07 6 Virginia 225.81 National Public Average 217.30 7 Connecticut 2251) 33 North Carolina 217.13 8 Minnesota 2258 34 Arkansas 217.07 9 North Dakota 224.81 35 Oregon 216.90 10 Maine 224.58 36 Illinois 216.49 11 Montana 224.55 37 Rhode Island 216.44 12 Colorado 223.66 38 West Virginia 214.77 13. Washington 223.49 39 Georgia 214.43 14 New Jersey 223.30 40 Tennessee 214.22 15 Wyoming 223.26 41 Oklahoma 213.86 16 Pennsylvania 222.11 42 South Carolina 213.20 17 New York 222.70 43 Alaska 211.06 18 Ohio ViB is) 44 Hawaii 209.58 19 South Dakota 222.40 45 Louisiana 209.17 20 Idaho 221.86 46 Alabama 207.75 21 Nebraska 221.38 47 Nevada 207.19 22 Utah PY eH| 48 Arizona 207.14 23. Missouri 221.17 49 New Mexico 206.79 24 Wisconsin 221.16 50 California 206.51 25 Iowa 220.81 51 Mississippi 204.39 26 Kansas 220.47 52 District of Columbia 190.79
 
-## NAEP Results: 2005 4th-Grade Average Reading Scores
+NAEP Results: 2005 4th-Grade Average Reading Scores
 
 Note: Data retrieved July 19, 2007, from http://nces.ed.gov/nationsreportcard.
 
@@ -6960,7 +6992,7 @@ Naturally, group tests have some limitations. For example, in a group-testing si
 
 In this section we will be discussing a number of standardized group achievement tests. Many of these tests are developed by large test publishing companies and are commercially available to all qualified buyers (e.g., legitimate educational institutions). In addition to these commercially available tests, many states have started developing their own achievement tests that are specifically tailored to assess the state curriculum. These are often standards-based assessments used in high-stakes testing programs. We will start by briefly introducing some of the major commercially available achievement tests.
 
-# Commercially Developed Group Achievement Tests
+#### Commercially Developed Group Achievement Tests
 
 Commercially developed group achievement tests are test batteries developed for use in public schools around the nation and available for purchase by qualified professionals or institutions. The most popular tests are comprehensive batteries designed to assess achievement in multiple academic areas such as reading, language arts, mathematics, science, and social studies. These comprehensive tests are often referred to as survey batteries. As noted,
 
@@ -7022,7 +7054,7 @@ academic areas. Although these batteries do a good job in this context, they typ
 
 Obviously these have been very brief descriptions of these major test batteries. These summaries were based on information current at the time of this writing. However, these tests are continuously being revised to reflect curricular changes and to update normative data. For the most current information, interested readers should access the Internet sites for the publishing companies (see Table 12.1) or refer to the current edition of the Mental Measurements Yearbook or other reference resources. See Special Interest Topic 12.2 for information on these resources.
 
-# State-Developed Achievement Tests
+#### State-Developed Achievement Tests
 
 As we noted earlier, standardized achievement tests are increasingly being used in making high-stakes decisions at the state level (e.g., which students are promoted or graduate; rating teachers, administrators, schools, and school districts). While all states now have
 
@@ -7034,7 +7066,7 @@ statewide testing programs, different states have adopted different approaches. 
 
 LUCA
 
-### TABLE 12.1 Major Publishers of Standardized Group Achievement Tests
+**TABLE-12.1 Major Publishers of Standardized Group Achievement Tests**
 
 CTB McGraw-Hill Web site: http://tctb.com California Achievement Tests, Fifth Edition (CAT/5) TerraNova CTBS TerraNova The Second Edition (CAT/6)
 
@@ -7042,12 +7074,7 @@ Harcourt Assessment, Inc. Web site: http://harcourtassessment.com Stanford Achie
 
 Riverside Publishing Web site: www.riverpub.com Iowa Tests of Basic Skills (ITBS) Iowa Tests of Educational Development (ITED) Tests of Achievement and Proficiency (TAP)
 
-#### SPECIAL INTEREST TOPIC 12:2
-
-#### Finding Information on Standardized Tests
-
-ERS RRS Bn eae
-
+**SPECIAL INTEREST TOPIC 12.2 Finding Information on Standardized Tests**
 When you want to locate information on a standardized test, it is reasonable to begin by examining information provided by the test publishers. This can include their Internet sites, catalogs, test manuals, specimen test sets, score reports, and other supporting documentation. However, you should also seek out resources that provide independent evaluations and reviews of the tests you are researching. The Testing Office of the American Psychological Association Science Directorate (American Psychological Association, 2008) provides the following description of the four most popular resources:
 
 - = Mental Measurements Yearbook (MMY). MMY, published by the Buros Institute for Mental Measurements, lists tests alphabetically by title. Each listing provides basic descriptive information about the test (e.g., author, date of publication) plus information about the availability of technical information and scoring and reporting services. Most listings also include one or more critical reviews by qualified assessment experts.
@@ -7065,9 +7092,7 @@ information on state standards). One significant limitation of using a commercia
 
 To address this limitation, many states have developed their own achievement batteries that are designed to closely match the state's curriculum. In contrast to the commercial tests that typically report normative scores, state-developed tests often emphasize criterionreferenced score interpretations. In Texas there is a statewide program that includes the Texas Assessment of Knowledge and Skills (TAKS). The TAKS measures the success of students in the state's curriculum in reading (grades 3 through 9), mathematics (grades 3 through 11), writing (grades 4 and 7), English language arts (grades 10 and 11), science
 
-# SPECIAL INTEREST TOPIC 12.3
-
-# Standards-Based Assessments
+**SPECIAL INTEREST TOPIC 12.3 Standards-Based Assessments**
 
 AERA et al. (1999) defines standards-based assessments as tests that are designed to measure clearly defined content and performance standards. In this context, content standards are statements that specify what students are expected to achieve in a given subject matter at a specific grade (e.g., Mathematics, Grade 5). In other words, content standards specify the skills and knowledge we want our students to master. Performance standards specify a level of performance, typically in the form of a cut score or a range of scores that indicates achievement levels. That is, performance standards specify what constitutes acceptable performance. National and state educational standards have been developed and can be easily accessed via the Internet. Below are a few examples of state educational Internet sites that specify the state standards. a
 
@@ -7084,7 +7109,9 @@ The site for national standards is www.education-world.com/standards/national.
 
 Some states have developed hybrid assessment strategies to assess student performance and meet accountability requirements. For example, some states use a combination of statedeveloped tests and commercial off-the-shelf tests, using different tests at different grade levels. Another approach, commonly referred to as augmented testing, involves the use of a commercial test that is administered along with test sections that address any misalignment
 
-|                      | State-Developed Tests (Criterion-Referenced) | Augmented/Hybrid Tests | Off-the-Shelf Tests (Norm-Referenced) |
+**TABLE-12.2 State Assessment Practices—2007**
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | State-Developed Tests (Criterion-Referenced)    | Augmented/Hybrid Tests    | Off-the-Shelf Tests (Norm-Referenced)    |
 |----------------------|-------------------------------------------------|---------------------------|------------------------------------------|
 | Alabama              | Yes                                             | No                        | Yes                                      |
 | Alaska               | Yes                                             | No                        | Yes                                      |
@@ -7107,12 +7134,11 @@ Some states have developed hybrid assessment strategies to assess student perfor
 | Louisiana            | Yes                                             | Yes                       | No                                       |
 | Maine                | Yes                                             | No                        | Yes                                      |
 | Maryland             | nes                                             | Yes                       | No                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
 
-### TABLE 12.2 State Assessment Practices—2007
-
-(continued)
-
-|                | State-Developed Tests (Criterion-Referenced) | Augmented/Hybrid Tests | Off-the-Shelf Tests (Norm-Referenced) |
+**TABLE-12.2 State Assessment Practices—2007 (continues)**
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+|                | State-Developed Tests (Criterion-Referenced)    | Augmented/Hybrid Tests    | Off-the-Shelf Tests (Norm-Referenced)    |
 |----------------|-------------------------------------------------|---------------------------|------------------------------------------|
 | Massachusetts  | Yes                                             | No                        | No                                       |
 | Michigan       | Yes                                             | No                        | Yes                                      |
@@ -7137,16 +7163,16 @@ Some states have developed hybrid assessment strategies to assess student perfor
 | South Dakota   | No                                              | Yes                       | Yes                                      |
 | Tennessee      | Yes                                             | No                        | No                                       |
 | Texas          | Yes                                             | No                        | No                                       |
-| Utah           | Yes F                                        | No                        | Yes                                      |
+| Utah           | Yes F                                           | No                        | Yes                                      |
 | Vermont        | Yes                                             | No                        | No                                       |
 | Virginia       | Yes                                             | No                        | No                                       |
 | Washington     | Yes                                             | No                        | No                                       |
 | West Virginia  | Yes                                             | No                        | Yes                                      |
 | Wisconsin      | No                                              | Yes                       | No                                       |
 | Wyoming        | Yes                                             | No                        | No                                       |
-| ki Totals   | 45 eR                                        | ee 10                  | 18                                       |
+| ki Totals      | 45 eR                                           | ee 10                     | 18                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-### TABLE 12.2 Continued
 
 Note: Data provided by Education Week, accessed August 9, 2007, at www.edcounts.org/createtable/step 1 .php ?clear=1. State Developed Test (Criterion-Referenced): defined as tests that are custom-made to correspond to state content standards. Augmented/Hybrid Test: defined as tests that incorporate aspects of both commercially developed norm-referenced and state-developed criterion-referenced tests (includes commercial tests augmented or customized to match state standards). Off-the-Shelf Test (Norm-Referenced): defined as commercially devel oped norm-referenced tests that have not been modified to specifically reflect state standards.
 
@@ -7162,7 +7188,7 @@ There is considerable controversy concerning statewide testing programs. Propone
 
 the foreseeable future, but in the meantime these tests will continue to play an important role in public schools.
 
-# Value-Added Assessment: A New Approach to Educational Accountability
+#### Value-Added Assessment: A New Approach to Educational Accountability
 
 The term value-added has been used in business and industry to mean the economic value gain that occurs when material is changed through manufacturing or manipulation.iijga@u-
 
@@ -7176,9 +7202,7 @@ Consider students who attend Washington School in East Bunslip, New Jersey, in M
 
 SL RO I
 
-# SPECIAL INTEREST TOPIC 12.4
-
-# American Educational Research Association (AERA) Position Statement on High-Stakes Testing
+**SPECIAL INTEREST TOPIC 12.4 American Educational Research Association (AERA) Position Statement on High-Stakes Testing**
 
 The American Educational Research Association (AERA) is a leading organization that studies educational issues. The AERA (2000) presented a position statement regarding high-stakes testing programs employed in many states and school districts. Its position is summarized in the following points:
 
@@ -7199,9 +7223,7 @@ These guidelines may be useful when trying to evaluate the testing programs your
 
 at the end of the year. For this example, let's assume that statewide testing begins in grade 3. The results of the state test, student by student, are used to build a model of performance for each student, for Ms. Jones, for Washington School, and for the East Bunslip school district. One year's data are inadequate to do more than simply mark the levels of performance of each focus for achievement: student, teacher, school, and district,
 
-# SPECIAL INTEREST TOPIC 125
-
-# Why Standardized Tests Should Not Be Used to Evaluate Educational Quality
+**SPECIAL INTEREST TOPIC 12.5 Why Standardized Tests Should Not Be Used to Evaluate Educational Quality**
 
 W. James Popham (2000) provided three reasons why he feels standardized achievement tests should not be used to evaluate educational effectiveness or quality:
 
@@ -7215,7 +7237,7 @@ The actual value-added component is not estimated as a gain, but as the differen
 
 . The system is intended to (1) guide instructional change through inspection of the teacher and grade-level estimates of average performance and (2) evaluate teachers and administrators by examining consistency of performance averages across years. The second purpose is certainly controversial and has its detractors. In particular, teacher evaluation based on state assessments has been criticized due to the limited coverage of the state tests. This, it is argued, has resulted in reduced coverage of content, focus on low-level conceptual understanding, and overemphasis on "teaching to the test" at the expense of content instruction. Nevertheless, there is continued interest in the valueadded models and their use will likely increase.
 
-# Best Practices in Using Standardized Achievement Tests in Schools
+#### Best Practices in Using Standardized Achievement Tests in Schools
 
 As you can see from our discussion of standardized achievement tests to this point, these tests have widespread applications in schools today. As a result, modern teachers are often asked to prepare students for these tests as well as to administer and interpret them. In this section we will briefly discuss some guidelines for completing these tasks. We will start by discussing how teachers can prepare students to take standardized tests. This discussion will focus on group-administered achievement tests, but can actually be generalized to many of the other standardized tests we will be discussing in this and later chapters.
 
@@ -7235,19 +7257,19 @@ Preparation Using Practice Forms of the Test. Many states and commercial test pu
 
 Preparation Emphasizing Test-Specific Item Formats. Here teachers provide instruction and assignments that prepare students to deal exclusively with the specific item formats used on the standardized test. For example, teachers might use classroom tests and
 
-### TABLE 12.3 Important Test-Taking Skills to Teach Students
-
-- 1. Carefully listen to or read the instructions.
-- 2. Carefully listen to or read the test items.
-- 3. Establish an appropriate pace. Do not rush carelessly through the test, but do not proceed so slowly you will not be able to finish.
-- 4. If you find an item to be extremely difficult, do not spend an inordinate amount of time on it. Skip it and come back if time allows.
-- 5. On selected-response items, make informed guesses by eliminating alternatives that are clearly wrong.
-- 6. Unless there is a penalty for guessing, make an effort to complete every item. It is better to try to guess the correct answer than simply leave it blank.
-- 7. Ensure that you carefully mark the answer sheet. For example, on computer-scored answer sheets, make sure the entire space is darkened and avoid extraneous marks.
-- 8. During the test periodically verify that the item numbers and answer numbers match.
-- 9. If time permits, go back and check your answers.
-
-Sources: Based on Linn & Gronlund (2000) and Sarnacki (1979).
+**TABLE-12.3 Important Test-Taking Skills to Teach Students**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - 1. Carefully listen to or read the instructions.                                                                                                                      |
+| - 2. Carefully listen to or read the test items.                                                                                                                        |
+| - 3. Establish an appropriate pace. Do not rush carelessly through the test, but do not proceed so slowly you will not be able to finish.                               |    
+| - 4. If you find an item to be extremely difficult, do not spend an inordinate amount of time on it. Skip it and come back if time allows.                              |
+| - 5. On selected-response items, make informed guesses by eliminating alternatives that are clearly wrong.                                                              |
+| - 6. Unless there is a penalty for guessing, make an effort to complete every item. It is better to try to guess the correct answer than simply leave it blank.         |
+| - 7. Ensure that you carefully mark the answer sheet. For example, on computer-scored answer sheets, make sure the entire space is darkened and avoid extraneous marks. |
+| - 8. During the test periodically verify that the item numbers and answer numbers match.                                                                                |
+| - 9. If time permits, go back and check your answers.                                                                                                                   |
+|Sources: Based on Linn & Gronlund (2000) and Sarnacki (1979).                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 homework assignments that resemble actual items on the test (Kober, 2002). If the writing section of a test requires single-paragraph responses, teachers will restrict their writing assignments to a single paragraph. If a test uses only multiple-choice items, the teachers will limit their classroom tests to multiple-choice items. The key feature is that students are given instruction exposing them only to the material as presented and measured on the test. With this approach students will be limited in their ability to generalize acquired skills and knowledge to novel situations (Popham, 1999). Test scores may increase, but the students' mastery of the underlying domain is limited. As a result, this practice should be avoided.
 
@@ -7291,15 +7313,13 @@ The key factor in accurately interpreting the results of stan dardized tests is 
 
 Before leaving our discussion of the use of standardized achievement tests in schools, it is appropriate to discuss some factors other than academic achievement that may influence test performance. As we have emphasized in this textbook, it is extremely important to select and use tests that produce reliable and valid scores. It is also important to understand that even with the most psychometrically sound tests, factors other than those we are attempting to measure may influence test performance. Achievement tests are an attempt to measure students' academic achievement in specific content areas. An example of an extraneous factor that might influence performance on a standardized test is the emotional state or mood of the student. If a student is emotionally upset the day of a test, his or her performance will likely be impacted (see Special Interest Topic 12.6 for
 
-# SPECIAL INTEREST TOPIC 12.6
-
-# Deciding Not to Test an Upset Student
+**SPECIAL INTEREST TOPIC 12.6 Deciding Not to Test an Upset Student**
 
 A number of years ago when one of our colleagues was working with a private agency, a mother and her young son (approximately 9 or 10 years of age) came in for their appointment. Although he does not remember the specifics of the referral, the primary issue was that the child was having difficulty at school and there was concern that he might have a learning disability. To determine the basis of his school problems, he was scheduled to receive a battery of individual standardized tests. On greeting them it was obvious that the child was upset. He sat quietly crying in the waiting room with his head down. Our colleague asked the mother what was wrong and she indicated his pet cat had died that morning. She was clearly sensitive to her son's grief, but was concerned that it would takes months to get another appointment (this agency was typically booked for months in advance). Our colleague explained to her that he was much too upset to complete the assessment on this day and that any results would be invalid. To ensure that her son received the help he needed in a timely manner, they were able to schedule an appointment in a few weeks. Although teachers may not have this much discretion when scheduling or administering standardized tests, they should be observant and sensitive to the effects of emotional state on test performance.
 
 a personal example). If you can see that a student is upset while taking a test, make a note of this as it might be useful later in understanding his or her performance. Accordingly, a student's level of motivation will also influence performance. Students who do not see the test as important may demonstrate a lackadaisical approach to it. If you notice that a student is not completing the test or is completing it in a haphazard manner, this should also be documented.
 
-# Individual Achievement Tests
+### Individual Achievement Tests
 
 As we noted, standardized achievement tests are also used in the identification, diagnosis, and classification of students with special learning needs. Although some group-adminis-
 
@@ -7351,7 +7371,7 @@ Gray Oral Reading Test—Fourth Edition (GORT-4). The GORT-4 is a measure of ora
 
 KeyMath—Revised/NU: A Diagnostic Inventory of Essential Mathematics—Normative Update (KeyMath R/NU). The KeyMath R/NU, published by American Guidance Services, measures mathematics skills in the following areas: Basic Concepts (numeration, rational numbers, and geometry), Operations (addition, subtraction, multiplication, division, and mental computations), and Applications (measurement, time and money, estimation, interpreting data, and problem solving). The KeyMath R/NU is available in two parallel forms.
 
-# Selecting an Achievement Battery
+### Selecting an Achievement Battery
 
 Numerous factors should be considered when selecting a standardized achievement battery. If you are selecting a test for administration to a large number of students, you will more than likely need a group achievement test. Nitko and Lane (1990) and Nitko (2001) provide some suggestions for selecting a group achievement battery. He notes that although most survey batteries assess the common educational objectives covered in most curricula, there are some potentially important differences in the content covered. In some instructional areas such as reading and mathematics, there is considerable consistency in the cur-
 
@@ -7363,7 +7383,7 @@ sues such as cost, testing time required, availability of scoring services, and 
 
 Many of the same factors should be considered when selecting an individual achievement test. You should select a test that adequately assesses the specific content areas you are interested in. For example, although a test such as the WRAT3 might be sufficient for screening purposes, it is not adequate for in-depth diagnostic purposes. In testing students to determine whether they have a specific learning disability, it would be important to use a battery such as the WIAT-II, which covers all recognized areas of learning disability.
 
-# Summary
+### Summary
 
 In this chapter we focused on standardized achievement tests and their applications in the schools. These tests are designed to be administered, scored, and interpreted in a standard manner. The goal of standardization is to ensure that testing conditions are the same for all individuals taking the test. If this is accomplished, no examinee will have an advantage over
 
@@ -7391,13 +7411,13 @@ We also provided some guidelines to help teachers prepare their students for the
 
 We concluded the chapter by briefly describing some popular individual achievement tests used in schools. Although teachers are not called on to routinely administer and inter pret these individual tests, they often do attend committee meetings at which the results of these tests are discussed and used in making eligibility and placement decisions.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Achievement test, p. 300 Individually administered tests, Teaching to the test, p. 318 Appropriate preparation practice, p. 304 Test preparation practices, p. 318 Diagnostic achievement tests, p. 310 Standardized test, p. 300 Group-administered tests, p. 302 Standardized test administration, Inappropriate preparation practices, p. 321 p. 318 Statewide testing programs, p. 310
 
 p. 319 Standardized scores, p. 321 Value-added assessment, p. 315
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 issues related to the use of standardized achievement tests in and who's responsible. Test Talk for Leaders. (Issue 1). the schools: Washington, DC: Center on Education Policy.
 
@@ -7426,7 +7446,7 @@ NE
 
 ENE
 
-# The Use of Aptitude Tests in the Schools
+## CHAPTER 13 The Use of Aptitude Tests in the Schools
 
 Conventional intelligence tests and even the entire concept of intelligence testing are perennially the focus of considerable controversy and strong emotion. —Reynolds & Kaufman, 1990
 
@@ -7442,7 +7462,7 @@ Major
 
 College
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 A Brief History of Intelligence Tests
 
@@ -7451,7 +7471,7 @@ CHAPTER
 - The Use of Aptitude and Intelligence Tests in Schools
 - A New Assessment Strategy for Specific Learning Disabilities: Response to Intervention (RTI
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to:
 
@@ -7489,7 +7509,7 @@ Both achievement and aptitude These introductory comments might lead you to beli
 |-------------------------------------------|---------------------------------------------|----------------------------------------------------|-----------------------------------------|
 | Teacher-Constructed Classroom Tests | Survey Broad Achievement Batteries | Verbal Intelligence Tests and Aptitude | Cross-Cultural Intelligence Tests |
 
-### FIGURE 13.1 A Continuum of General Abilities
+FIGURE 13.1 A Continuum of General Abilities
 
 Note: Modeled after Anastasi & Urbina (1997), Cronbach (1990), and others.
 
@@ -7503,7 +7523,7 @@ Although we feel it is important to recognize that the distinction between achie
 
 Although many sources use the terms aptitude and intelligence interchangeably, gen eral intelligence tests are not the only type of aptitude test in use today. In addition to intel ligence tests, special aptitude tests and multiple aptitude batteries frequently are used in many educational and other settings. Special aptitude tests were developed originally in the context of employment settings to help employers select job applicants based on their aptitudes in specific areas such as mechanical or clerical ability. Subsequently, test developers developed multiple-aptitude batteries to measure a number of distinct abilities.
 
-# A Brief History of Intelligence Tests
+### A Brief History of Intelligence Tests
 
 General intelligence tests historically have been the most popular and widely used aptitude tests in school settings. While practically everyone is familiar with the concept of intelligence and uses the term in everyday conversations, it is not easy to develop a definition of intelligence on which everyone agrees. In fact, the concept of intelligence probably has generated more controversy than any other topic in the area of tests and measurement (see
 
@@ -7521,11 +7541,7 @@ on verbal items assessing comprehension, reasoning, and judgment. Subsequent rev
 
 > The development and success of the Binet-Simon Scale, and subsequently the Stanford-Binet Intelligence Test, ushered in the era of widespread intelligence testing in the United States. Following Terman's lead, other assessment experts developed and released their own intelligence tests. Some of the tests were designed for individual administration (like the Stanford-Binet Intelligence Test) whereas others were designed for group administration.
 
-#### SPECIAL IN TEREST TOPIC 13.1
-
-### SESS The Controversial IQ: Knowns and Unknowns
-
-ee SERS Ets RET
+**SPECIAL IN TEREST TOPIC 13.1 SESS The Controversial IQ: Knowns and Unknowns**
 
 A task force established by the American Psychological Association produced a report titled "Intelligence: Knowns and Unknowns" (Neisser et al., 1996). Its authors summarize the state of knowledge about intelligence and conclude by identifying seven critical questions about intelligence that have yet to be answered. These issues are summarized here and remain unconquered.
 
@@ -7545,25 +7561,21 @@ Due to the often emotional debate over the meaning of intelligence, many test pu
 
 Some of these tests placed more emphasis on verbal and quantitative abilities whereas others focused more on visual—spatial and abstract problem-solving abilities. As a general rule, research has shown with considerable consistency that contemporary intelligence tests are good predictors of academic success. This is to be expected considering this was the precise purpose for which they were initially developed over 100 years ago. In addition to being good predictors of school perfor mance, research has shown that IQs are fairly stable over time. Never theless, these tests have become controversial themselves as a result of
 
-# SPECIAL INTEREST TOPIC 13.2 The Controversial IQ: Schools and IQ Tests
+**SPECIAL INTEREST TOPIC 13.2 The Controversial IQ: Schools and IQ Tests**
 
 Although IQ tests had their origin in the schools, they have been the source of considerable controversy essentially since their introduction. Opponents of IQ tests often argue IQ tests should be banned from schools altogether whereas proponents can hardly envision the schools without them. Many enduring issues contribute to this controversy, and we will mention only the most prominent ones. These include the following.
 
-# Mean IQ Differences among Ethnic Groups
+ Mean IQ Differences among Ethnic Groups
 
 There is considerable research that documents mean IQ differences among various ethnic groups, and this has often been the source of considerable controversy. Although the basis for these differences has not been identified, there is ample evidence the differences cannot be attributed merely to test bias (something we address in more detail in Chapter 16). Nevertheless, because mean group differences in IQ may result in differential educational treatment and placement, there continues to be the appearance of test bias, and this appearance promulgates the controversy regarding the use of IQ tests in schools (Canter, 1997). For example, because of the perception of test bias the state of California has prohibited the use of a number of popular IQ tests for making placement decisions with certain ethnic minorities. This is not based on the psychometric properties of the IQ tests, but on public perception and legal cases. Other states have examined the same tests and concluded that the tests are not biased and supported their use with minorities.
 
-#### Can IQ Be Increased?
+ Can IQ Be Increased?
 
 Given the importance society places on intelligence and a desire to help children excel, it is reasonable to ask how much IQ can be improved. Hereditarians, those who see genetics as playing the primary role in influencing IQ, hold that efforts to improve it are doomed to failure. In contrast, environmentalists, who see environmental influences as primary, see IQ as being highly malleable. So who is right? In summary, the research suggests that IQ can be improved to some degree, but the improvement is rather limited. For example, adoption studies indicate that lasting gains of approximately 10 to 12 IQ points are the most that can be accomplished through even the most pervasive environmental interventions. The results of preschool intervention programs such as Head Start are much less impressive. These programs may result in modest increases in IQ, but even these gains are typically lost in a few years (Kranzler, 1997). These programs do have other benefits to children, however, and should not be judged only on their impact on IQ.
 
-### Do We Really Need IQ Tests in Schools?
+ Do We Really Need IQ Tests in Schools?
 
 Although public debate over the use of IQ tests in schools typically has focused on ethnic differences and the malleability of intelligence, professional educators and psychologists also have debated the usefulness of IQ tests in educational settings. Different terms have been applied to this question over the years. For example, Wigdor and Garner (1982) framed it as the instructional validity of IQ test results, Hilliard (1989) referred to it as the pedagogical utility question, and Gresham and Witt (1997) indicated it was essentially an issue of treatment validity. Whatever label you use, the question is "Does the use of IQ tests result in educational benefits for students?" Proponents of IQ tests highlight evidence that intelligence plays a key role in success in many areas of life, including school achievement. As an extension they argue that information garnered from IQ tests allows educators to tailor instruction so that it meets the specific needs of their students. As a result more students are able to succeed academically. Opponents of IQ tests argue that there is little evidence that the use of IQ tests results in any real improvement in the education of students.
-
-(continued)
-
-# SPECIAL INTEREST TOPIC Ve bp. Continued
 
 A contemporary debate involves the use of IQ tests in the identification of students with learning disabilities. Historically the diagnosis of learning disabilities has been based on a discrepancy model in which students' level of achievement is compared to their overall level of intelligence. If students' achievement in reading, mathematics, or some other specific achievement area is significantly below that expected based on their IQ, they may be diagnosed as having a learning disability (actually the diagnosis of learning disabilities is more complicated than this, but this explanation is sufficient in this context). Currently some researchers are presenting arguments that IQs need not play a role in the diagnosis of learning disabilities and are calling for dropping the use of a discrepancy model, and the 2004 federal law governing special education eligibility (the Individuals with Disabilities Education Act of 2004) no longer requires such a discrepancy, but does allow its use in diagnosing disabilities.
 
@@ -7575,7 +7587,7 @@ At the same time we recognize that on occasion IQ tests (and other tests) have b
 
 the often emotional debate over the meaning of intelligence. To try and avoid this association and possible misinterpretations, many test publishers have adopted more neutral names such as academic potential, scholastic ability, school ability, mental ability, and simply ability to designate essentially the same construct.
 
-# The Use of Aptitude and Intelligence Tests in Schools
+### The Use of Aptitude and Intelligence Tests in Schools
 
 As you can see from the previous discussion, aptitude and intelligence tests have a long history of use in the schools. Their widespread use continues to this day, with major applications including
 
@@ -7588,7 +7600,7 @@ As you can see from the previous discussion, aptitude and intelligence tests hav
 
 Although we have identified the most common uses of aptitude/intelligence tests in the schools, the list clearly is not exhaustive. Classroom teachers are involved to varying degrees with these applications. For example, teachers are frequently called on to administer and interpret many of the group aptitude tests for their own students. School psychologists or other professionals with specific training in administering and interpreting clinical and diagnostic tests typically administer and interpret the individual intelligence and aptitude tests. Even though they are not directly involved in administering individual intelligence tests, it is important for teachers to be familiar with these individual tests. Teachers frequently need to read and understand psychological reports describing student performances on these tests. Additionally, teachers are often on committees that plan and develop educational programs for students with disabilities based on information derived from these tests. In a later section we present an example of a report of the intellectual assessment of a high school student.
 
-# Aptitude—Achievement Discrepancies
+#### Aptitude—Achievement Discrepancies
 
 referred to as aptitude— achievement discrepancy analysis.
 
@@ -7610,7 +7622,7 @@ Before proceeding, we should note that although it is common for educators and c
 
 noncognitive factors are more difficult to control. Also, as we noted, there is considerable debate about relying on ability—achievement discrepancies to diagnose learning disabilities. Our position can probably be best described as middle of the road. Analysis of ability—achieve ment discrepancies may help identify children who are experiencing some academic prob lems, but they should be interpreted cautiously. That is, interpret such discrepancies in the context of other information you have about the student (e. g., school grades, classroom behayior), and if there is reason for concern, pursue additional assessment or consider a referral to a school psychologist or other assessment professional.
 
-#### A New Assessment Strategy for Specific Learning Disabilities: Response to Intervention (RTI)
+### A New Assessment Strategy for Specific Learning Disabilities: Response to Intervention (RTI)
 
 As we noted, there has been growing criticism of reliance on aptitude—achievement discrepancies for diagnosing learning disabilities. If the profession is going to move away from the use of aptitude—achievement discrepancies, the natural question is "What is the best way to identify students with learning disabilities?" The approach that has garnered the most attention and enthusiasm in recent years is referred to as response to intervention (RTI). RTI has been defined and applied in a number of different ways, but Fuchs, Mock, Morgan, and Young (2003) provided a broad but succinct definition, when they described it as follows:
 
@@ -7626,9 +7638,9 @@ While RTI appears to hold promise in the identification of students with learnin
 
 At this point, we view RTI as a useful process that can help identify struggling students and ensure that they receive early attention and more intensive instructional interventions. We also feel that students that do not respond to more intensive instruction should receive a formal psychological assessment that includes, among other techniques, standardized cognitive tests (i.e., aptitude, achievement, and possibly neuropsychological tests). We do not agree with those that support RTI as a "stand-alone" process for identifying students with LD. This position excludes the use of standardized tests and essentially ignores 100 years of empirical research supporting the use of psychometric procedures in identifying and treating psychological and learning problems. A more moderate and measured approach that incorporates the best of RTI and psychometric assessment practices seems most reasonable at this time. If future research demonstrates that RTI can be used independently to identify and develop interventions for students with learning disabilities, we will re-evaluate our position.
 
-# Major Aptitude/Intelligence Tests
+### Major Aptitude/Intelligence Tests
 
-# Group Aptitude/Intelligence Tests
+#### Group Aptitude/Intelligence Tests
 
 As with the standardized achievement tests discussed in the previous chapter, it is common for schools routinely to administer standardized aptitude/intelligence tests to a large number of students. Also as with standardized achievement tests, the most commonly used aptitude tests are also group administered, largely due to the efficiency of these tests. Finally, similar to group achievement tests, teachers are often called on to help administer and interpret the results of these tests. The guidelines presented in the previous chapter for administering and interpreting standardized tests apply equally well to both achievement and aptitude tests. Currently, the most widely used group aptitude/intelligence tests are produced and distributed by
 
@@ -7650,9 +7662,7 @@ Otis-Lennon School Ability Test, 8th Edition (OLSAT-8). The Otis-Lennon School A
 
 Cognitive Abilities Test (CogAT), Form 6. The Cognitive Abilities Test (CogAT), distributed by Riverside Publishing, is designed for use with students from kindergarten through grade 12. It provides information about the development of verbal, quantitative, and nonverbal reasoning abilities that are related to school success. Students in kindergarten through grade 2 are given the following subtests: Oral Vocabulary, Verbal Reasoning, Relational Concepts, Quantitative Concepts, Figure Classification, and Matrices. Students in grades 3 through 12 undergo the following subtests: Verbal Classification, Sentence Completion, Verbal Analogies, Quantitative Relations, Number Series, Equation Building, Figure Classification, Figure Analogies, and Figure Analysis. Verbal, quantitative, and nonverbal battery scores are provided along with an overall composite score. The publishers encourage educators to focus on an analysis of the profile of the three battery scores rather than the overall composite score. They feel this approach provides the most useful information to teachers regarding how they can tailor instruction to meet the specific needs of students (see Special Interest Topic 13.3 for examples). When given with the Iowa Tests of Basic Skills or lowa Tests of Educational Development, the CogAT provides predicted achievement scores to help identify students whose level of achievement is significantly higher or lower than expected. Figures 13.2, 13.3, and 13.4 provide examples of CogAT score reports. Table 13.1 illustrates the organization of the major group aptitude/intelligence tests.
 
-# SPECIAL INTEREST TOPIC 13.3
-
-# Ability Profiles on the CogAT
+**SPECIAL INTEREST TOPIC 13.3 Ability Profiles on the CogAT**
 
 The Cognitive Abilities Test (CogAT) is an aptitude test that measures the level and pattern of a student's cognitive abilities. When interpreting the CogAT, Riverside Publishing (2002) encourages teachers to focus on the student's performance profile on the three CogAT batteries: Verbal Reasoning, Quantitative Reasoning, and Nonverbal Reasoning. To facilitate interpretation of scores, the profiles are classified as A, B, C, or E profiles, described next.
 
@@ -7672,17 +7682,17 @@ Riverside Publishing (2002) delineates a number of general principles for tailor
 
 ![](_page_366_Figure_1.jpeg)
 
-### FIGURE 13.2 Profile Narrative for the Cognitive Abilities Test (CogAT) This figure illustrates one of the report formats available from Riverside Publishing for the CogAT. This format provides numerical scores and graphs in the left column and a narrative description of the student's performance in the right column. Note that the profile depicted in this figure is identified as 5B (Q+). Please refer to Special Interest Topic 13.3 for information on how Cog AT score profiles are coded and how teachers can use this information to customize instruction to meet the needs of individual students.
+FIGURE 13.2 Profile Narrative for the Cognitive Abilities Test (CogAT) This figure illustrates one of the report formats available from Riverside Publishing for the CogAT. This format provides numerical scores and graphs in the left column and a narrative description of the student's performance in the right column. Note that the profile depicted in this figure is identified as 5B (Q+). Please refer to Special Interest Topic 13.3 for information on how Cog AT score profiles are coded and how teachers can use this information to customize instruction to meet the needs of individual students.
 
 Source: Reproduced by permission of the publisher, Riverside Publishing Company. Copyright 2001 The Riverside Publishing Company. All rights reserved.
 
-# Individual Aptitude/Intelligence Tests
+#### Individual Aptitude/Intelligence Tests
 
 As with achievement tests, both group and individual intelligence tests are commonly used in schools. Although teachers are often asked to help administer and interpret the group aptitude tests, school psychologists and other professionals with special training in administering and interpreting clinical and diagnostic tests usually administer and interpret the individual tests. This is not to suggest, however, that teachers do not need to be familiar with
 
 ![](_page_367_Picture_1.jpeg)
 
-## FIGURE 13.3. Combined Profile Narrative for the Iowa Tests of Basic Skills (TBS) and the Cognitive Abilities Test (CogAT) This figure illustrates a Profile Narrative depicting a student's performance on both the Iowa Tests of Basic Skills (ITBS) and the Cognitive Abilities Test (CogAT). This format provides numerical scores and graphs in the left column and a narrative description of the student's performance in the right column.
+FIGURE 13.3. Combined Profile Narrative for the Iowa Tests of Basic Skills (TBS) and the Cognitive Abilities Test (CogAT) This figure illustrates a Profile Narrative depicting a student's performance on both the Iowa Tests of Basic Skills (ITBS) and the Cognitive Abilities Test (CogAT). This format provides numerical scores and graphs in the left column and a narrative description of the student's performance in the right column.
 
 Source: Reproduced by permission of the publisher, Riverside Publishing Company. Copyright 2001 The Riverside Publishing Company. All rights reserved.
 
@@ -7699,24 +7709,23 @@ FIGURE 13.4 Achievement—Ability Graphic Comparison of the Iowa Tests of Basic 
 Source: Reproduced by permission of the publisher, Riverside Publishing Company. Copyright 2001 The Riverside Publishing Company. All rights reserved.
 
 > Fourth Edition (WISC-IV) is the fourth edition of the most popular individual test of intellectual ability for children. Empirical surveys of school psychologists and other assessment personnel have consistently shown that the Wechsler scales are the most popular individual intelligence test used in clinical and school settings with children (e.g., Livingston, Eglsaer, Dickson, & Harvey-Livingston, 2003). The WISC-IV, which takes approximately 2 to 3 hours to administer and score, must be administered by professionals with extensive training in psychological assessment. Here are brief descriptions of the subtests (Wechsler, 2003):
-
-| Aptitude Test                                                            | Subtests                                                                                                                 | Composite Scores                                                                            |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Tests of Cognitive Skills, Second Edition (TCS/2)                     | Sequences Analogies Verbal Reasoning Memory                                                                     | Verbal ability Nonverbal ability Memory ability                                       |
-| Primary Test of Cognitive Skills (PTCS)                               | Verbal Spatial Memory Concepts                                                                                  | Cognitive Skills Index (CSI)                                                                |
-| InView                                                                   | Verbal Reasoning—Words Verbal Reasoning—Context Sequences Analogies Quantitative Reasoning                   | Verbal reasoning Nonverbal reasoning Quantitative reasoning                           |
-| Otis-Lennon School Ability Test, 8th Edition (OLSAT-8)             | Verbal Comprehension Verbal Reasoning Pictorial Reasoning Figural Reasoning Quantitative Reasoning           | Verbal School Ability Index Nonverbal School Ability Index Total School Ability Index |
-| Cognitive Abilities Test (CogAT), Form 6 (Levels K, 1, and 2)      | Oral Vocabulary Verbal Reasoning Relational Concepts Quantitative Concepts Figure Classification Matrices | Verbal battery score Quantitative score Nonverbal score                               |
-|                                                                          |                                                                                                                          | Overall composite score                                                                     |
-| Cognitive Abilities Test (CogAT), Form 6 (Levels A-H: Grades 3-12) | Verbal Classification Sentence Completion Verbal Analogies                                                         | Verbal battery score                                                                        |
-|                                                                          | Quantitative Relations Number Series Equation Building                                                             | Quantitative score                                                                          |
-|                                                                          | Figure Classification Figure Analogies Figure Analysis                                                             | Nonverbal score                                                                             |
-|                                                                          |                                                                                                                          | SES Overall composite score                                                              |
-
-| TABLE 13.1 |  |  | Organization of Major Group Aptitude/Intelligence Tests |
-|------------|--|--|---------------------------------------------------------|
-|------------|--|--|---------------------------------------------------------|
-
+**TABLE-13.1 Organization of Major Group Aptitude/Intelligence Tests**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aptitude Test                                                | Subtests                                                                           | Composite Scores                                              |
+| Tests of Cognitive Skills, Second Edition (TCS/2)            | Sequences Analogies Verbal Reasoning Memory                                        | Verbal ability Nonverbal ability Memory ability               |
+| Primary Test of Cognitive Skills (PTCS)                      | Verbal Spatial Memory Concepts                                                     | Cognitive Skills Index (CSI)                                  |
+| InView                                                       | Verbal Reasoning—Words Verbal Reasoning—Context Sequences Analogies Quantitative   | Verbal reasoning Nonverbal reasoning Quantitative reasoning   |
+|                                                              |  Reasoning                                                                         |                                                               |
+| Otis-Lennon School Ability Test, 8th Edition (OLSAT-8)       | Verbal Comprehension Verbal Reasoning Pictorial Reasoning Figural Reasoning        | Verbal School Ability Index Nonverbal School Ability Index    |
+|                                                              | Quantitative Reasoning                                                             | Total School Ability Index                                    |
+| Cognitive Abilities Test (CogAT), Form 6 (Levels K, 1, and 2)| Oral Vocabulary Verbal Reasoning Relational Concepts Quantitative Concepts Figure  | Verbal battery score Quantitative score Nonverbal score       |
+|                                                              | Classification Matrices                                                            |                                                               |
+|                                                              |                                                                                    | Overall composite score                                       |
+| Cognitive Abilities Test(CogAT),Form 6(Levels A-H:Grades3-12)| Verbal Classification Sentence Completion Verbal Analogies                         | Verbal battery score                                          |
+|                                                              | Quantitative Relations Number Series Equation Building                             | Quantitative score                                            |
+|                                                              | Figure Classification Figure Analogies Figure Analysis                             | Nonverbal score                                               |
+|                                                              |                                                                                    | SES Overall composite score                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 The Use of Aptitude Tests in the Schools 347
 
 m Arithmetic. The student is presented a set of arithmetic problems to solve mentally (i.e., no pencil and paper) and answer orally. This subtest involves numerical reasoning ability, mental manipulation, concentration, and auditory memory.
@@ -7764,15 +7773,16 @@ m Processing Speed Index (PSI). The PSlis a composite of Coding and Symbol Searc
 This four-index framework is based on factor analytic and clinical research (Wechsler, 2003). Similar index scores have a rich history of clinical use and have been found to provide reliable information about the student's abilities in specific areas (Kaufman, 1994; Kaufman & Lichtenberger, 1999; Wechsler, 2003). Whereas previous Wechsler scales have produced a Verbal IQ, Performance IQ, and Full Scale IQ, the WISC-IV reports only a Full Scale IQ (FSIQ), which reflects the student's general level of intelligence. The organization of the WISC-IV is depicted in Table 13.2. To facilitate the calculation of aptitude—achievement discrepancies, the WISC-IV is statistically linked to the Wechsler Individual Achievement Test—Second Edition (WIAT-II), which was described in the previous chapter on standardized achievement tests.
 
 The WISC-IV and its predecessors are designed for use with children between the ages of 6 and 16. For early childhood assessment the Wechsler Preschool and Primary Scale of Intelligence—Third Edition (WPPSI-III) is available and is appropriate for children between
-
+**TABLE-13.2 Organization of the Wechsler Intelligence Scale for Children—Fourth Edition (WISC-IV)**
+|---------------------------------------------------------------------------------------------------------------------|
 | Subtests                                                                     | Index Scores         | IQs           |
 |------------------------------------------------------------------------------|----------------------|---------------|
-| Information Vocabulary Similarities Comprehension Word Reasoning | Verbal Comprehension |               |
-| Block Design Picture Completion Matrix Reasoning Picture Concepts   | Perceptual Reasoning | Full Scale IQ |
-| Coding Symbol Search Cancellation                                      | Processing Speed     |               |
-| Digit Span Arithmetic Letter-Number Sequencing                         | Working Memory       |               |
+| Information Vocabulary Similarities Comprehension Word Reasoning             | Verbal Comprehension |               |
+| Block Design Picture Completion Matrix Reasoning Picture Concepts            | Perceptual Reasoning | Full Scale IQ |
+| Coding Symbol Search Cancellation                                            | Processing Speed     |               |
+| Digit Span Arithmetic Letter-Number Sequencing                               | Working Memory       |               |
+|---------------------------------------------------------------------------------------------------------------------|
 
-TABLE 13.2 Organization of the Wechsler Intelligence Scale for Children—Fourth Edition (WISC-IV)
 
 2 years 6 months and 7 years 3 months. The Wechsler Adult Intelligence Scale—Third Edition (WAIS-IID) is appropriate for individuals between the ages of 16 and 89 years of age.
 
@@ -7784,17 +7794,17 @@ An appealing aspect of the Stanford-Binet Intelligence Scales, Fifth Edition is 
 
 > Woodcock-Johnson III (WJ II) Tests of Cognitive Abilities. The Woodcock-Johnson III (WJ Il) Tests of Cognitive Abilities has gained a loyal following and has some unique qualities that warrant mentioning. The battery is designed for use with individuals 2 to 90 years of age. The WJ III Tests of Cognitive Abilities is based on the Cattell-Horn-Carroll
 
+**TABLE-13.3 Organization of the Stanford-Binet Intelligence Scales, 5th Edition (SB5)**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Subtests                                                                | Factor Scores                  | IQs                                                    |
 |-------------------------------------------------------------------------|--------------------------------|--------------------------------------------------------|
-| Verbal Fluid Reasoning Nonverbal Fluid Reasoning                     | Fluid Reasoning (FR)           | Verbal IQ (composite of                             |
-| Verbal Knowledge Nonverbal Knowledge                                 | Knowledge (KN)                 | 5 verbal subtests)                                     |
-| Verbal Quantitative Reasoning Nonverbal Quantitative Reasoning       | Quantitative Reasoning (QR)    | Nonverbal IQ (composite of 5 nonverbal subtests) |
-| Verbal Visual—Spatial Processing Nonverbal Visual—Spatial Processing | Visual—Spatial Processing (VS) | Full Scale 1Q                                          |
-| Verbal Working Memory Nonverbal Working Memory                       | Working Memory (WM)            | (composite of all 10 subtests)                      |
+| Verbal Fluid Reasoning Nonverbal Fluid Reasoning                        | Fluid Reasoning (FR)           | Verbal IQ (composite of                                |
+| Verbal Knowledge Nonverbal Knowledge                                    | Knowledge (KN)                 | 5 verbal subtests)                                     |
+| Verbal Quantitative Reasoning Nonverbal Quantitative Reasoning          | Quantitative Reasoning (QR)    | Nonverbal IQ (composite of 5 nonverbal subtests)       |
+| Verbal Visual—Spatial Processing Nonverbal Visual—Spatial Processing    | Visual—Spatial Processing (VS) | Full Scale 1Q                                          |
+| Verbal Working Memory Nonverbal Working Memory                          | Working Memory (WM)            | (composite of all 10 subtests)                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| TABLE 13.3 |  | Organization of the Stanford-Binet Intelligence Scales, 5th Edition (SB5) |  |
-|------------|--|---------------------------------------------------------------------------|--|
-|------------|--|---------------------------------------------------------------------------|--|
 
 (CHC) theory of cognitive abilities, which incorporates Cattell's and Horn's Gf-Gc theory and Carroll's three-stratum theory. The CHC theory provides a comprehensive model for assessing a broad range of cognitive abilities, and many clinicians like this battery because it measures such a broad range of abilities. The organization of the WJ III Tests of Cognitive Abilities is depicted in Table 13.4 (Riverside, 2003). The WJ III Tests of Cognitive Abilities is co-normed with the WJ III Tests of Achievement described in the chapter on standardized achievement tests.
 
@@ -7804,29 +7814,34 @@ One particularly desirable aspect of the Reynolds Intellectual Assessment Scales
 
 for use with individuals between 3 and 94 years of age and incorporates a co-normed supplemental memory scale. One particularly desirable aspect of the RIAS is the ability to obtain a reliable, valid measure of intellectual ability that incorporates both verbal and nonverbal abilities in a relatively brief period (i.e., 20 to 25 minutes). Most other tests that assess verbal and nonverbal cognitive abilities require considerably more time. The supplemental memory tests require about ten minutes for administration, so a clinician can assess both memory and intelligence in approxi mately 35 minutes. The organization of the RIAS is depicted in Table 13.5.
 
-## Selecting Aptitude/Intelligence Tests
+#### Selecting Aptitude/Intelligence Tests
 
 A natural question at this point is "Which of these tests should I use?" There are numerous factors to consider when selecting an aptitude or intelligence test..An initial consideration
-
-| Subtests                                                                                              | Factor Scores                           | IQs                                      |
+**TABLE-13.4 Organization of the Woodcock-Johnson III (WJ III) Tests of Cognitive Abilities**
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Subtests                                                                                              | Factor Scores                              | IQs                                      |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------|
-| Verbal Comprehension General Information                                                           | Comprehension/Knowledge (Gc)               |                                          |
-| Visual—Auditory Learning Retrieval Fluency Visual—Auditory Learning: Delayed                 | Long-Term Retrieval (Gir)                  |                                          |
-| Spatial Relations Picture Recognition Planning (Gv/Gf)                                          | Visual—Spatial Thinking (Gy)               |                                          |
-| Sound Blending Auditory Attention Incomplete Words                                              | Auditory Processing (Ga)                   | General Intellectual Ability (GIA) |
-| Concept Formation Analysis—Synthesis Planning (Gv/Gf)                                           | Fluid Reasoning (Gf)                       |                                          |
-| Visual Matching Decision Speed Rapid Picture Naming Pair Cancellation                        | Processing Speed (Gs)                      |                                          |
-| Numbers Reversed Memory for Words Memory Working Auditory EEA EERE eke Set a aes | Short-Term Memory (Gsm) PR a eT a | EI I                                  |
-
-TABLE 13.4 Organization of the Woodcock-Johnson III (WJ III) Tests of Cognitive Abilities
-
+| Verbal Comprehension General Information                                                              | Comprehension/Knowledge (Gc)               |                                          |
+| Visual—Auditory Learning Retrieval Fluency Visual—Auditory Learning: Delayed                          | Long-Term Retrieval (Gir)                  |                                          |
+| Spatial Relations Picture Recognition Planning (Gv/Gf)                                                | Visual—Spatial Thinking (Gy)               |                                          |
+| Sound Blending Auditory Attention Incomplete Words                                                    | Auditory Processing (Ga)                   | General Intellectual Ability (GIA)       |
+| Concept Formation Analysis—Synthesis Planning (Gv/Gf)                                                 | Fluid Reasoning (Gf)                       |                                          |
+| Visual Matching Decision Speed Rapid Picture Naming Pair Cancellation                                 | Processing Speed (Gs)                      |                                          |
+| Numbers Reversed Memory for Words Memory Working Auditory EEA EERE eke Set a aes                      | Short-Term Memory (Gsm) PR a eT a          | EI I                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 Subtests Factor Scores IQs Verbal Reasoning Verbal Intelligence Index (VIX) Guess What Odd-Item Out Nonverbal Intelligence Index (NIX) Composite Intelligence What's Missing Index (CIX)
 
-TABLE 13.5 Organization of the Reynolds Intellectual Assessment Scales (RIAS)
-
-| Verbal Memory | Composite Memory Index (CMX) |  |
-|---------------|------------------------------|--|
-|               |                              |  |
+**TABLE-13.5 Organization of the Reynolds Intellectual Assessment Scales (RIAS)**
+|------------------------------------------------------------------------------------------------|
+| Subtests             | Factor Scores                      | IQs                                |
+|----------------------|------------------------------------|---------------------------------  -|
+| Verbal Reasoning     | Verbal Intelligence Index (VIX)    |                                    |
+| Guess What           |                                    |                                    |
+| Odd-Item Out         | Nonverbal Intelligence Index (NIX) | Composite Intelligence Index (CIX) |
+| What's Missing       |                                    |                                    |
+| Verbal Memory        | Composite Memory Index (CMX)       |                                    |
+| Nonverbal Memory     |                                    |                                    |
+|------------------------------------------------------------------------------------------------|
 
 Nonverbal Memory
 
@@ -7844,7 +7859,7 @@ If you are interested in making aptitude—achievement comparisons, ideally you 
 
 Another important question involves the population you will use the test with. For example, if you will be working with children with speech, language, or hearing impairments or diverse cultural/language backgrounds, you may want to select a test that emphasizes nonver bal abilities and minimizes cultural influences. Finally, as when selecting any test, you want to examine the psychometric properties of the test. You should select a test that produces reli able scores and has been validated for your specific purposes. All of the aptitude/intelligence tests we have discussed have good psychometric properties, but it is the test user's responsibility to ensure that the selected test has been validated for the intended purposes.
 
-# Understanding the Report of an Intellectual Assessment
+#### Understanding the Report of an Intellectual Assessment
 
 Whether you take a professional position in regular education or special education within the schools, you will often have the opportunity to read or listen to the report of the results of an intellectual assessment of a student. Special Interest Topic 13.4 on pages 354-365 presents an unedited computer-generated report of the intellectual assessment of a 17-yearold female student suspected of having a learning disability. Typically, you will not encounter an unedited computer-generated report. Such reports are, however, used by a school, clinical, and other psychologists as the foundation for their own individualized reporting on students. We thought it would be instructive for you to have the opportunity to read such a report in its raw state.
 
@@ -7858,11 +7873,7 @@ Once the more global indexes of intellectual function have been reviewed, the re
 
 (Text continued on page 366)
 
-# SPECIAL INTEREST TOPIC 13.4 Example of a Computer-Generated Report of an Individually Administered Intelligence Test
-
-a
-
-# RIAS™ Interpretive Report
+**SPECIAL INTEREST TOPIC 13.4 Example of a Computer-Generated Report of an Individually Administered Intelligence Test RIAS™ Interpretive Report
 
 Cecil R. Reynolds, PhD and Randy W. Kamphaus, PhD
 
@@ -7876,7 +7887,7 @@ Cecil R. Reynolds, PhD and Randy W. Kamphaus, PhD
 | Reason for referral: | Referral source: |                     |      |       |     |
 |                      |                  | Age                 |      |       |     |
 
-# RIAS Subtest Scores/Index Summary Age-Adjusted 7 Scores
+RIAS Subtest Scores/Index Summary Age-Adjusted 7 Scores
 
 |                           | Raw Scores |  |  |
 |---------------------------|---------------|--|--|
@@ -7921,17 +7932,16 @@ Client ID: SC123 Page 1 of 10
 
 Client: Becky J. Gibson Test Date: 01/09/2007
 
-# Background Information
+ Background Information
 
 Becky J. Gibson is a 17-year-old female. She was referred by her guidance counselor for an initial learning disability evaluation. Becky is currently in the 11th grade. The name of Becky's school was reported as "Lincoln High School." Becky's parental educational attainment was reported as: "College.'The primary language spoken in Becky's home is English.
 
 Becky identified the following vision, hearing, language, and/or motor problems: "Requires prescription glasses for reading." Becky further identified the following learning problems: "None. Finally, Becky identified the following medical/neurological problems: "None"
 
-### Behavioral Observations
+ Behavioral Observations
 
 Becky arrived more than 15 minutes early. She was accompanied to the session by her legal guardian. During testing the following behavioral observations were made: "Client appeared easily distracted and was very fidgety.'
-
-# Caveat and Descriptive Text
+#### Caveat and Descriptive Text
 
 The test scores, descriptions of performance, and other interpretive information provided in this computer report are predicated on the following assumptions. First, it is assumed that the various subtests were administered and scored correctly in adherence with the general and specific administration and scoring guidelines provided in Chapter 2 of the RIAS/RIST Professional Manual (Reynolds & Kamphaus, 2003). Second, it also is assumed that the examinee was determined to be appropriately eligible for testing by the examiner according to the guidelines for testing eligibility provided in Chapter 2 of the RIAS Professional Manual and that the examiner was appropriately qualified to administer and score the RIAS/RIST.
 
@@ -7949,7 +7959,7 @@ The RIAS also contains subtests designed to assess verbal memory and nonverbal m
 
 For reasons described in the RIAS/RIST Professional Manual (Reynolds & Kamphaus, 2003), it is recommended that the RIAS subtests be assigned to the indices described above (e.g., VIX, NIX, CIX, and CMX). For those who do not wish to consider the memory scales as a separate entity and prefer to divide the subtests strictly according to verbal and nonverbal domains, the RIAS subtests can be combined to form a Total Verbal Battery (TVB) score and a Total Nonverbal Battery (TNB) score. The subtests that compose the Total Verbal Battery score assess verbal reasoning ability, verbal memory, and the ability to access and apply prior learning in solving languagerelated tasks. Although labeled the Total Verbal Battery score, the TVB also is a reasonable approximation of measures of crystallized intelligence. The TNB comprises subtests that assess nonverbal reasoning, spatial ability, and nonverbal memory. Although labeled the Total Nonverbal Battery score, the TNB also provides a reasonable approximation of fluid intelligence. These two indexes of intellectual functioning are then combined to form an overall Total Test Battery (TTB) score. By combining the TVB and the TNB to form the TTB, a stronger, more reliable assessment of general intelligence (g) is obtained. The TTB measures the two most important aspects of general intelligence according to recent theories and research findings: reasoning, or fluid, abilities and verbal, or crystallized, abilities. Each of these scores is expressed as an age-corrected standard score that is scaled to a mean of 100 and a standard deviation of 15. These scores are normally distributed and can be converted to a variety of other metrics if desired.
 
-# Composite Norm-Referenced Interpretations
+#### Composite Norm-Referenced Interpretations
 
 On testing with the RIAS, Becky earned a Composite Intelligence Index or CIX of 71. On the RIAS, this level of performance falls within the range of scores designated as moderately below average and exceeds the performance of 3% of individuals at Becky's age. The chances are 90 out of 100 that Becky's true CIX falls within the range of scores from 67 to 77.
 
@@ -7969,7 +7979,7 @@ Becky's Total Verbal Battery (TVB) score of 68 falls within the range of scores 
 
 Becky's Total Nonverbal Battery (TNB) score of 100 falls within the range of scores designated as average and exceeds the performance of 50% of individuals her age. The chances are 90 out of 100 that Becky's true TNB falls within the range of scores from 95 to 105.
 
-# Subtest Norm-Referenced Interpretations
+#### Subtest Norm-Referenced Interpretations
 
 The Guess What subtest measures vocabulary knowledge in combination with reasoning skills that are predicated on language development and acquired knowledge. On testing with the RIAS, Becky earned aT score of 9 on Guess What.
 
@@ -7991,7 +8001,7 @@ Test Date: 01/09/2007 Page 4 of 10
 
 RIAS Discrepancy Score Summary Table
 
-| Discrepancy Score                                         | Score Difference | Statistically Significant? | Prevalence in Standardization Sample |
+| Discrepancy Score                                            | Score Difference | Statistically Significant? | Prevalence in Standardization Sample |
 |--------------------------------------------------------------|---------------------|-------------------------------|-----------------------------------------|
 | VIX < NIX                                                    | 36                  | yes                           | 1.20%                                   |
 | CIX < CMX                                                    | 43                  | yes                           | 1.30%                                   |
@@ -8000,7 +8010,7 @@ RIAS Discrepancy Score Summary Table
 
 VIX is the Verbal Intelligence Index, NIX is the Nonverbal Intelligence Index, CIX is the Composite Intelligence Index, CMX is the Composite Memory Index, VRM is the Verbal Memory Subtest, NVM is the Nonverbal Memory Subtest, TVB is the Total Verbal Battery Index, and TNB is the Total Nonverbal Battery Index.
 
-# Discrepancy Norm-Referenced Interpretations
+#### Discrepancy Norm-Referenced Interpretations
 
 Although the CIX is a good estimate of Becky's general intelligence, a statistically significant discrepancy exists between her NIX of 92 and her VIX of 56, demonstrating better developed nonverbal intelligence or spatial abilities. The magnitude of the difference observed between these two scores is potentially important and should be considered when drawing conclusions about Becky's current status. A difference of this size is relatively uncommon, occurring in only one percent of cases in the general population. In such cases, interpretation of the CIX or general intelligence score may be of less value than viewing Becky's verbal and nonverbal abilities separately.
 
@@ -8018,11 +8028,11 @@ nonverbal intelligence or spatial abilities. The magnitude of the difference obs
 
 If interested in comparing the TTB and CIX scores or the TTB and CMX scores, it is better to compare the CIX and CMX directly. As noted in the RIAS/RIST Professional Manual (Reynolds & Kamphaus, 2003), the TTB is simply a reflection of the sum of the T scores of the subtests that compose the CIX and CMxX. Thus, it is more appropriate to make a direct comparison of the CMX and CIX because any apparent discrepancy between the TTB and the CIX or the TTB and the CMX will in fact be a reflection of discrepancies between the CIX and the CMx, so this value is best examined directly. To compare the CMX or CIX to the TTB may exaggerate some differences inappropriately.
 
-### General Interpretive Caveats
+#### General Interpretive Caveats
 
 Examiners should be familiar with Becky's cultural and linguistic background (which may radically alter the suggestions contained herein) and be certain to consider these factors before arriving at a final decision regarding any diagnosis, classification, or related decision and before making any form of recommendations.
 
-# School Feedback and Recommendations
+#### School Feedback and Recommendations
 
 Composite Score Feedback and Recommendations
 
@@ -8052,7 +8062,7 @@ Client: Becky J. Gibson Test Date: 01/09/2007 Client ID: SC123 Page 7 of 10
 
 In addition, teachers should rely more heavily on placing learning into the student's experiential context, giving it meaning and enabling Becky to visualize incorporating each newly learned task or skill into her life experience. The use of visual aids should be encouraged and made available to Becky whenever possible. Academic difficulties are most likely to occur in languagerelated areas (e.g., the acquisition of reading), especially early phonics training. The acquisition of comprehension skills also is aided when the verbal ability falls into this level by the use of language experience approaches to reading, in particular. Frequent formal and informal assessment of Becky's reading skills, as well as learning and study strategies (the latter with an instrument, e.g., the School Motivation and Learning Strategies Inventory; SMALSI; Stroud & Reynolds, 2006) is recommended. This should be followed by careful direct instruction in areas of specific skill weaknesses and the use of high interest, relevant materials. It also will be important to assist Becky in developing strategies for learning and studying. Although it is important for all students to know how to learn and not just what to learn, low scores within the verbal intelligence domains make the development of learning and study strategies through direct instruction even more important.
 
-# Discrepancy Feedback and Recommendations
+#### Discrepancy Feedback and Recommendations
 
 The magnitude of discrepancy between Becky's VIX score of 56 and NIX score of 92 as well as the magnitude of the discrepancy between her TVB score of 68 and TNB score of 100 is relatively unusual within the normal population. Although this is the most common pattern within referral populations, the magnitude of the discrepancy occurring for Becky makes the difference noteworthy. In general, this pattern represents substantially disparate skills in the general domains of verbal and nonverbal reasoning, with clear superiority evident in the nonverbal domain. Relative to their verbal reasoning and general language skills, individuals who display this pattern will experience greater success in tasks involving spatial reasoning, visualization skills, the use of mental rotation, reading of nonverbal cues, and related aspects of nonverbal reasoning and communication usually including nonverbal and visual memory skills. Nonverbal ability is less influential in other's appraisal of general intellectual functioning. Because NIX and TNB are greater than VIX and TVB, Becky's general intellectual functioning may appear lower than is reflected by her CIX and TTB scores. Whenever possible, one should take advantage of Becky's relatively higher levels of performance in the nonverbal domain by always providing visual cues and explanations of tasks, expectations, or demonstrations of what is expected to be learned. Experiential learning is typically superior to traditional lecture and related pedagogical methods for individuals with this score pattern. Synthesis of information as opposed to analysis is often a relative strength, as well.
 
@@ -8070,7 +8080,7 @@ The magnitude of discrepancy between Becky's CMX score of 114 and CIX score of 7
 
 Students with this profile may experience problems with inferential reasoning, logic, the comprehension of new concepts, and the acquisition of new knowledge. As such, participation in school or intervention programs is often more successful if lessons are of longer duration, information is provided in multiple modalities, opportunities to practice newly acquired skills are provided frequently, and repetition and review is emphasized.
 
-# Recommendations for Additional Testing
+#### Recommendations for Additional Testing
 
 Becky's NIX score of 92 and her TNB score of 100 are significantly higher than her VIX score of 56 and her TVB score of 68. Although this is the most common pattern in referral populations, additional information is almost always helpful in making a diagnosis, in treatment planning, and/ or in making vocational recommendations. Evaluations that consider disturbances in language and verbal functions in general (including receptive and expressive language) and other left hemisphere related tasks may prove helpful. Although empirical research at this point is lacking, clinical experience with the RIAS indicates that when the VIX score is significantly below the NIX score and the absolute value of the VIX is less than 90, there is a high probability of the presence of alanguage disorder that may have an adverse impact on academic attainment or success in any academically related vocational training program. When this pattern occurs, as in the case of Becky, screening for alanguage disorder is recommended at a minimum anda more comprehensive language assessment should be considered. Evaluation of language skills with measures such as the Clinical Evaluation of Language Fundamentals 4 (CELF-4; Semel, Wiig, & Secord, 2004), age appropriate language tasks from the Halstead-Reitan Neuropsychological Test Battery (e.g., the Speech Sounds Perception Test, Aphasia Screening Test; Reitan & Wolfson, 1993), the Comprehensive Receptive and Expressive Vocabulary Test (CREVT-2; Wallace & Hammill, 2002), and the Developmental Test of Auditory Perception (DTAP; Reynolds, Voress, & Pierson, 2007), may be particularly useful. Other tests of specific cognitive-processing functions should be considered. Research suggests that cognitive processing is measured well with little confounding by level of
 
@@ -8080,23 +8090,22 @@ Client ID: SC123 Page 9 of 10
 
 Client: Becky J. Gibson Test Date: 01/09/2007
 
-| RIAS Extended Score Summary Table |  |  |  |  |  |
-|-----------------------------------|--|--|--|--|--|
-|-----------------------------------|--|--|--|--|--|
-
-| Score                                       | GWH   | OIO  | VRZ   | WHM    | VRM | NVM _ VIX   |       | NIX   | CIX        | CMX                 | TVB        | TNB    | TTB   |
-|---------------------------------------------|-------|------|-------|--------|-----|-------------|-------|-------|------------|---------------------|------------|--------|-------|
-| Raw score                                   | 22    | 40   | 21    | 70     | 38  | 90          |       |       |            |                     |            |        |       |
-| T score (Mean = 50, SD = 10)             | ©)    | 29   | 33    | 60     | 50  | 64          | 21    | 45    | 31         | Be,                 | 29         | 50     | 39    |
-| z score (Mean = 0, SD = 1)               | 4 OOM | 2 LO | 1 70n | a1 00m |     | 0:00 sn 405 | 2.935 |       | 0:53.01 93 |                     | O05 ee. 13 | 0.00)  | mais  |
-| Subtest scaled score (Mean = 10, SD = 3) | <1    | 4    | 5     | 13     | 10  | 14          |       |       |            |                     |            |        |       |
-| Sum of subtest T scores                  |       |      |       |        |     |             | 42    | 89    | 131        | 114                 | 92         | 153    | 245   |
-| Index score (Mean = 100, SD = 15)        |       |      |       |        |     |             | 56    | 92    | 71         | 114                 | 68         | 100    | 83    |
-| Percentile rank                             |       |      |       |        |     |             | 0.17  | 30    | i}         | 82                  | 2          | 50     | 13    |
-| 95% confidence interval                  |       |      |       |        |     |             | 52-65 | 86-99 |            | 67-78 107-120 64-75 |            | 94-106 | 79-88 |
-| 90% confidence interval                  |       |      |       |        |     |             | 53-64 | 87-98 |            | 67-77 108-119 65-74 |            | 95-105 | 79-88 |
-| NCE (Mean = 50, SD = 21.06)              |       |      |       |        |     |             | 1     | 39    | 9          | 70                  | 5          | 50     | 26    |
-| Stanine (Mean = 5, SD = 2)            |       |      |       |        |     |             | 1     | 4     | 1          | 7                   | 1          | 5      | 3     |
+**TABLE-RIAS Extended Score Summary Table**
+|----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Score                                 | GWH    | OIO   | VRZ   | WHM  | VRM  | NVM  | VIX   | NIX   | CIX   | CMX     | TVB   | TNB    | TTB   |
+|---------------------------------------|--------|-------|-------|------|------|------|-------|-------|-------|---------|-------|--------|-------|
+| **Raw score**                         | 22     | 40    | 21    | 70   | 38   | 90   |       |       |       |         |       |        |       |
+| **T score**                           | 29     | 33    | 23    | 60   | 60   | 64   | 21    | 45    | 31    | 59      | 29    | 50     | 39    |
+| **Z score**                           | ≤-4.00 | -2.10 | -1.70 | 1.00 | 1.00 | 1.40 | -2.93 | -0.53 | -1.93 | 0.93    | -2.13 | 0.00   | -1.13 |
+| **Subtest scaled score**              | ≤1     | 4     | 5     | 13   | 10   | 14   |       |       |       |         |       |        |       |
+| **Sum of subtest T scores**           |        |       |       |      |      |      | 42    | 89    | 131   | 114     | 92    | 153    | 245   |
+| **Index score** (Mean = 100, SD = 15) |        |       |       |      |      |      | 56    | 92    | 71    | 114     | 68    | 100    | 83    |
+| **Percentile rank**                   |        |       |       |      |      |      | 0.17  | 30    | 3     | 82      | 2     | 50     | 13    |
+| **95% confidence interval**           |        |       |       |      |      |      | 52–65 | 86–99 | 67–78 | 107–120 | 64–75 | 94–106 | 79–88 |
+| **90% confidence interval**           |        |       |       |      |      |      | 53–64 | 87–98 | 67–77 | 108–119 | 65–74 | 95–105 | 79–88 |
+| **NCE** (Mean = 50, SD = 21.06)       |        |       |       |      |      |      | 1     | 39    | 9     | 70      | 5     | 50     | 26    |
+| **Stanine** (Mean = 5, SD = 2)        |        |       |       |      |      |      | 1     | 4     | 1     | 7       | 1     | 5      | 3     |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
 
 general intelligence through the use of comprehensive measures of memory functions including the WRAML-2 (Sheslow & Adams, 2003) and the TOMAL-2 (Reynolds & Voress, 2007). Subtests of the Neuropsychological Assessment (NAB; Stern & White, 2003), and other related tests of verbal skills with which you are familiar and skilled may well be useful adjuncts to the assessment process in Becky's case. Students with this pattern often exhibit inadequate levels of study skills development and learning strategies and, thus, may become discouraged in school or vocationaltraining programs. Assessment and targeted remediation of such deficits can be undertaken for ages 8 through 18 years with assessments such as the School Motivation and Learning Strategies Inventory (Stroud & Reynolds, 2006).
 
@@ -8108,7 +8117,7 @@ Client: Becky J. Gibson Test Date: 01/09/2007 Client ID: SC123 Page 10 of 10
 
 evaluation of academic achievement is necessary to gauge the impact of any impairment and make plans to remediate educational weaknesses.
 
-### References
+#### References
 
 - Hammill, D., & Bryant, B. (2005). Detroit Tests of Learning Aptitude-Primary (DTLA-P-3) (3rd ed.). Austin, TX: PRO-ED.
 - Hammill, D., Pearson, N. A., & Voress, J. K. (1993). Developmental Test of Visual Perception-2 (DTVP-2). Austin, TX: PRO-ED.
@@ -8134,7 +8143,7 @@ The purpose of all of the commentary in this report is ultimately to achieve an 
 
 The sample report is restricted to recommendations for school or other formal instructional settings. Other specialized reports can be generated separately for specialized clinical settings that make quite different recommendations and even provide provisional diagnoses that should be considered by the professional psychologist administering and interpreting the intellectual assessment. The reader should be aware that it is rare for a report to be based only on an intellectual assessment, and we doubt you will ever see such a report based on a singular instrument. Typically, reports of the assessment of a student conducted by a diagnostic professional will include not only a thorough assessment of intellectual functions, such as reported in Special Interest Topic 13.4, but also will include evaluations of academic skills and status, personality, and behavior that may affect academic performance, specialized areas of development such as auditory perceptual skills, visual perceptual skills, visual motor integration, attention, concentration, and memory skills, among other important aspects of the student's development, that are dictated by the nature of the referral and information gathered during the ongoing assessment process.
 
-# College Admission Tests
+### College Admission Tests
 
 A final type of aptitude test that is often used in schools includes those used to make admission decisions at colleges and universities. College admission tests were specifically designed to predict academic performance in college, and although they are less clearly linked to a specific educational curriculum than most standard achievement tests, they do focus on abilities and skills that are highly academic in nature. Higher education admission decisions are typically based on a number of factors including high school GPA,
 
@@ -8148,7 +8157,7 @@ universities with a valid measure of students' academic abilities. Its efforts r
 
 American College Test. The American College Testing Program (ACT) was initiated in 1959 and is the major competitor of the SAT. The American College Test (ACT) is designed to assess the academic development of high school students and predict their ability to complete college work. The test covers four skill areas—English, Mathematics, Reading, and Science Reasoning—and includes 215 multiple-choice questions. When describing the ACT, the producers emphasize that it is not an aptitude or IQ test, but an achievement test that reflects the typical high school curriculum in English, mathematics, and science. In addition to the four subtests, the ACT also incorporates an interest inventory that provides information that may be useful for educational and career planning. Beginning in the 2004—2005 academic year, the ACT included an optional 30-minute writing test that assesses an actual sample of students' writing. More information about the ACT can be assessed at the ACT's Web site: www.act.org.
 
-# Summary
+### Summary
 
 In this chapter we discussed the use of standardized intelligence and aptitude tests in the schools. We started by noting that aptitude/intelligence tests are designed to assess the cognitive skills, abilities, and knowledge that are acquired as the result of broad, cumulative life experiences. We compared aptitude/intelligence tests with achievement tests that are designed to assess skills and knowledge in areas in which specific instruction has been provided. We noted that this distinction is not absolute, but rather one of degree. Both aptitude and achievement tests measure developed cognitive abilities. The distinction lies with the degree to which the cognitive abilities are dependent on or linked to formal learning experiences. Achievement tests should measure abilities that are developed as the direct result of formal instruction and training whereas aptitude tests should measure abilities acquired from all life experiences, not only formal schooling. In addition to this distinction, achievement tests are usually used to measure what has been learned or achieved at a fixed point in time, whereas aptitude tests are often used to predict future performance. Although the distinction between aptitude and achievement tests is not as clear as one might expect, the two types of tests do differ in their focus and are used for different purposes.
 
@@ -8160,7 +8169,7 @@ One common practice when interpreting intelligence tests is referred to as aptit
 
 The chapter concluded with an examination of a number of the popular group and individual aptitude tests. Finally, a number of factors were discussed that should be considered when selecting an aptitude test. These included deciding between a group and individual test, determining what type of information is needed (e.g., overall IQ versus multiple factors scores), determining what students the test will be used with, and evaluating the psychometric properties (e.g., reliability and validity) of the test.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Achievement tests, p. 331 Alfred Binet and Theodore Simon, American College Test (ACT), Otis-Lennon School Ability Test, Edition, p. 340 Aptitude—achievement discrepancy, Primary Test of Cognitive Children—Fourth Edition Aptitude tests, p. 331 Binet-Simon Scale, p. 333 Cognitive Abilities Test (CogAT), Scales (RIAS), p. 350 p. 349 p. 341 College admission tests, p. 366 Intelligence, p. 333
 
@@ -8168,7 +8177,7 @@ Intelligence quotient (IQ), P3333 passe InView, p. 341 Tests of Cognitive Skills
 
 Stanford-Binet Intelligence Scales, Fifth Edition (SB5), p. 349 Woodcock-Johnson III (WJ III) Tests of Cognitive Abilities,
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 - Cronbach, L. J. (1975). Five decades of public controversy over mental testing. American Psychologist, 36, 1-14. An interesting and readable chronicle of the controversy surrounding mental testing during much of the twentieth century.
 - Fletcher-Janzen, E., & Reynolds, C. R. (Eds.). (in press). Neuroscientific and clinical perspectives on the RTI initiative in learning disabilities diagnosis and intervention.
@@ -8179,15 +8188,15 @@ Kamphaus, R. W. (2001). Clinical assessment of child and adolescent intelligence
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter. ERE eR Se A IETS RE AE IR SD ECCS ee ee ae Ge
 
-# | CHAPTER Assessment of Behavior and Personality
+## CHAPTER 14  Assessment of Behavior and Personality
 
 Although educators have typically focused primarily on cognitive abilities, federal laws mandate that schools provide special education and related services to students with emotional disorders. Before these services can be provided, the schools must be able to identify children with these disorders. The process of identifying these children often involves a psychological evaluation completed by a school psychologist or other clinician. Teachers often play an important role in this assessment process.
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Assessing Behavior and Personality Self-Report Measures Behavior Rating Scales Projective Techniques
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -8219,13 +8228,13 @@ Before proceeding, it is beneficial to clarify how assessment Personality can be
 
 personality and behavior in children demonstrate less stability than comparable measures in adults. This is not particularly surprising given the rapid developmental changes characteristic of children and adolescents. As a result, when using the term personality in the context of child and adolescent assessment, it is best to interpret it cautiously and understand that it does not necessarily reflect a fixed construct, but one that is subject to development and change.
 
-# Assessing Behavior and Personality
+### Assessing Behavior and Personality
 
 Even though we might not consciously be aware of it, we all engage in the assessment of personality and behavior on a regular basis. When you note that "Johnny has a good personality," "Tommy is a difficult child," or "Tamiqua is extroverted," you are making a judgment about personality. We use these informal evaluations to determine whom we want to associate with and whom we want to avoid, among many other ways.
 
 The development of the first formal instrument for assessing personality is typically traced to the efforts of Robert Woodworth. In 1918, he developed the Woodworth Personal Data Sheet, which was designed to help collect personal information about military recruits. Much as the development of the Binet scales ushered in the era of intelligence testing, the introduction of the Woodworth Personal Data Sheet ushered in the era of personality assessment. Subsequent instruments for assessing personality and behavior took on a variety of forms, but they all had the same basic purpose of helping us to understand the behavior and personal characteristics of ourselves and others. Special Interest Topic 14.1 provides a brief description of an early test of personality.
 
-# Response Sets
+#### Response Sets
 
 A response set is present when test takers respond in a manner that misrepresents their true characteristics.
 
@@ -8237,7 +8246,7 @@ Response sets are a ubiquitous problem in personality assessment.
 
 of the constructs measured by typical performance tests (e.g., per sonality, behavior, attitudes, beliefs) have dimensions that may be seen as either socially "desirable" or "undesirable," the tendency to employ a response set is heightened. When response sets are pres-
 
-# SPECIAL INTEREST Topic 14.1 The Handsome and the Deformed Leg
+**SPECIAL INTEREST Topic 14.1 The Handsome and the Deformed Leg**
 
 Sir Francis Galton (1884) related a tale attributed to Benjamin Franklin about a crude personality test. Franklin describes two types of people, those who are optimistic and focus on the positive and those who are pessimistic and focus on the negative. Franklin reported that one of his philosophical friends desired a test to help him identify and avoid people who were pessimistic, offensive, and prone to acrimony.
 
@@ -8251,11 +8260,11 @@ accurately reflect the construct the test was designed to measure. To Validity s
 
 > accurate manner. Special Interest Topic 14.2 provides an example of a "fake good" response set. In the last several decades, personality scale authors have devised many types of so-called validity scales to detect a dozen or more response sets.
 
-# Assessment of Behavior and Personality in the Schools
+#### Assessment of Behavior and Personality in the Schools
 
 The instruments used to assess behavior and personality in the schools can usually be classified as behavior rating scales, self-report measures, or projective techniques. The results of a recent national survey of school psychologists indicated that five of the top ten instruments were behavior rating scales, four were projective techniques, and one was a selfreport measure (Livingston, Eglsaer, Dickson, & Harvey-Livingston, 2003; see Table 14.1 for a listing of these assessment instruments). These are representative of the instruments school psychologists use to assess children suspected of having an emotional, behavioral, or other type of disorder. These are not the only types of typical performance tests used in the schools. For example, school guidance counselors often use interest inventories to assess
 
-# SPECIAL INTEREST Topic 14,2 An Example of a "Fake Good" Response Set
+**SPECIAL INTEREST Topic 14,2 An Example of a "Fake Good" Response Set**
 
 Self-report inventories, despite the efforts of test developers, always remain susceptible to response sets. The following case is an authentic example. In this case the Behavior Assessment System for Children, Self-Report of Personality (BASC-SRP) was utilized.
 
@@ -8269,6 +8278,8 @@ Maury's SRP results show evidence of a social desirability or fake good response
 
 Maury's response set , however, was identified by the Lie scale of the SRP, where she obtained a score of 9, which is on the border of the caution and extreme caution ranges. The following table shows her full complement of SRP scores.
 
+**TABLE-Clinical Scales/Adaptive Scales**
+|--------------------------------------------------------------------------------|
 | Clinical Scales      |         | Adaptive Scales         |         |  |  |  |  |
 |----------------------|---------|-------------------------|---------|--|--|--|--|
 | Scale                | T-Score | Scale                   | T-Score |  |  |  |  |
@@ -8282,9 +8293,13 @@ Maury's response set , however, was identified by the Lie scale of the SRP, wher
 | Anxiety              | 34      |                         |         |  |  |  |  |
 | Depression           | 43      |                         |         |  |  |  |  |
 | Sense of Inadequacy  | 41      |                         |         |  |  |  |  |
+| Source: Clinical Assessment of Child and Adolescent Personality and Behavior   |
+| (2nd ed.) (Box 6.1, p. 99), by R. W. Kamphaus and P. J. Frick, 2002, Boston:   |
+| Allyn & Bacon. Copyright 2002 by Pearson Education. Reprinted with permission. |
+|--------------------------------------------------------------------------------|
 
-Source: Clinical Assessment of Child and Adolescent Personality and Behavior (2nd ed.) (Box 6.1, p. 99), by R. W. Kamphaus and P. J. Frick, 2002, Boston: Allyn & Bacon. Copyright 2002 by Pearson Education. Reprinted with permission.
-
+**TABLE-Name/Source of Test**
+|-------------------------------------------------------------------|
 | Name of Test                              | Type of Test          |
 |-------------------------------------------|-----------------------|
 | 1. BASC Teacher Rating Scale              | Behavior rating scale |
@@ -8298,29 +8313,30 @@ Source: Clinical Assessment of Child and Adolescent Personality and Behavior (2n
 | 9. Teacher Report Form (Achenbach)        | Behavior rating scale |
 | 10 . Child Behavior Checklist (Achenbach) | Behavior rating scale |
 |                                           |                       |
-
-Note: BASC = Behavior Assessment System for Children. The Conners Rating Scales— Revised and Sentence Completion Tests actually were tied. Based on a national sample of school psychologists (Livingston et al., 2003).
+| Note: BASC = Behavior Assessment System for Children. The Conners |
+| Rating Scales— Revised and Sentence Completion Tests actually were|
+| tied. Based on a national sample of school psychologists          |
+| (Livingston et al., 2003).                                        |
+|-------------------------------------------------------------------|
 
 a student's interest in different career options. However, we will be limiting our discussion primarily to tests used in assessing children and adolescents with emotional and behavioral disorders. To this end, we will briefly describe behavior rating scales, self-report measures, and projective techniques in the following sections.
 
-# Behavior Rating Scales
+### Behavior Rating Scales
 
 informant to rate a child on a number of dimensions.
 
 A behavior rating scale is A behavior rating scale is essentially an inventory that asks an inan inventory that asks an formant, usually a parent or teacher, to rate a child on a number of dimensions. For example, the instructions might ask an informant to rate a child according to the following guidelines:
 
-0 = rarely or never
-
+- 0 = rarely or never
 - 1 = occasionally
 - 2 = often or almost always
 
 The scale will then present a series of item stems for which the informant rates the child. For example:
 
-| Has difficulty paying attention:    | 0 |   |       |   |
-|-------------------------------------|---|---|-------|---|
-| Lies:                               | 0 |   |       |   |
-| Plays well with peers:              | 0 |   | Se    | w |
-| oS Contributes to class discussion: | 0 | — | NY WH |   |
+| Has difficulty paying attention:    | 0 | 1  |  2 |   
+| Lies:                               | 0 | 1  |  2 |   
+| Plays well with peers:              | 0 | 1  |  2 |
+| oS Contributes to class discussion: | 0 | 1  |  2 | 
 
 Behavior rating scales have a number of positive characteristics (e.g., Kamphaus & Frick, 2002; Piacentini, 1993; Ramsay, Reynolds, & Kamphaus, 2002; Witt, Heffer, & Pfeiffer, 1990). For example, children may have difficulty accurately reporting their own feelings and behaviors due to a number of factors such as limited insight or verbal abilities or, in the context of self-report tests, limited reading ability. However, when using behavior rating scales, information is solicited from the important adults in a child's life. Ideally these adult informants will have had adequate opportunities to observe the child in a variety of settings over an extended period of time. Behavior rating scales also represent a cost-effective and time-efficient method of collecting assessment information. For example, a clinician may be able to collect information from both parents and one or more teachers with a minimal investment of time. Most popular behavior rating scales have separate inventories for parents and teachers. This allows the clinician to collect information from multiple informants who observe the child from different perspectives and in various settings. Behavior rating scales can also help clinicians assess the presence of rare behaviors. Although any responsible clinician will interview the child, parents, and hopefully teachers, it is still possible to miss important indicators of behavioral problems. The use of well-designed behavior rating scales may help detect the presence of rare behaviors, such as fire setting and animal cruelty, that might be missed in a clinical interview.
 
@@ -8336,7 +8352,7 @@ the assessment process. As a result, school psychologists will frequently ask cl
 
 The Behavior Assessment System for Children (BASC) is an integrated set of instruments that includes a Teacher Rating Scale (TRS), a Parent Rating Scale (PRS), self-report scales, a classroom observation system, and a structured developmental history (Reynolds & Kamphaus, 1992). Although the BASC is a relatively new set of instruments, a 2003 na tional survey of school psychologists indicates that the TRS and PRS are the most frequently
 
-#### Assessment of Behavior and Personality
+##### Assessment of Behavior and Personality
 
 used behavior rating scales in the public schools today (Livingston et al., 2003). Information obtained from the publisher estimates the BASC was used with more than 1 million children in the United States alone in 2003. By 2006, this estimate had grown to 2 million children per year. The TRS and PRS are appropriate for children from 2 to 21 years. Both the TRS and PRS provide item stems to which the informant responds Never, Sometimes, Often, or Almost Always. The TRS is designed to provide a thorough examination of school-related behavior whereas the PRS is aimed at the home and community environment (Ramsay, Reynolds, & Kamphaus, 2002). In 2004, Reynolds and Kamphaus released the second edition of the BASC, known as the BASC-2, with updated scales and normative samples. Table 14.2 depicts the 5 composite scales, 16 primary scales, and 7 content scales for all the preschool, child, and adolescent versions of both instruments. Reynolds and Kamphaus (2004) describe the individual primary subscales of the TRS and PRS as follows:
 
@@ -8361,55 +8377,46 @@ New to the BASC-2 are the content scales, so called because their interpretation
 
 In addition to these individual scales, the TRS and PRS provide several different composite scores. The authors recommend that interpretation follow a "top-down" approach, by which the clinician starts at the most global level and progresses to more specific levels (e.g., Reynolds & Kamphaus, 2004). The most global measure is the Behavioral Symptoms Index (BSI), which is a composite of the Aggression, Attention Problems, Anxiety, Atypicality, Depression, and Somatization scales. The BSI reflects the overall level of
 
-|                                                          | Teacher Rating Scales |           |                                                                    |    | Parent Rating Scales |              |            |  |
-|----------------------------------------------------------|-----------------------|-----------|--------------------------------------------------------------------|----|----------------------|--------------|------------|--|
-|                                                          | gy                    | (e        | TN                                                                 |    | le                   | Gs           | A          |  |
-|                                                          | 2-5                   | 6-11      | 12-2]                                                              | ~  | 2-5                  | 6-I1         | = 12-21    |  |
-| Composite                                                |                       |           |                                                                    |    |                      |              |            |  |
-| Adaptive Skills                                          |                       |           |                                                                    |    |                      |              |            |  |
-| Behavioral Symptoms Index                                |                       |           |                                                                    |    |                      |              |            |  |
-| Externalizing Problems                                   |                       |           |                                                                    |    |                      |              |            |  |
-| Internalizing Problems                                   | See Ce (SR scot    |           |                                                                    |    | &£ * &               | re Ee ORSe:  | Oe e aTHE. |  |
-| School Problems                                          |                       | ae kT     | ermine <a ee<="" td=""><td></td><td></td><td></td><td></td></a> |    |                      |              |            |  |
-| Primary Scale                                            |                       |           |                                                                    |    |                      |              |            |  |
-| Adaptability                                             |                       | *         |                                                                    |    |                      |              |            |  |
-| Activities of Daily Living                               |                       |           |                                                                    |    |                      |              |            |  |
-| Aggression                                               |                       |           | *                                                                  |    |                      |              | *          |  |
-| Anxiety                                                  |                       |           | *                                                                  |    |                      |              | *          |  |
-| Attention Problems                                       |                       |           | *                                                                  |    |                      |              | *          |  |
-| Atypicality                                              | TS se ehss            |           | *                                                                  |    |                      |              | *          |  |
-| Conduct Problems                                         |                       |           | ee *                                                            |    |                      |              | *          |  |
-| Depression                                               |                       | eGg       | *                                                                  |    |                      |              | *          |  |
-| Functional Communication                                 | :                     |           |                                                                    |    |                      |              |            |  |
-| Hyperactivity                                            | %                     |           |                                                                    |    |                      |              |            |  |
-| Leadership                                               |                       |           |                                                                    |    |                      |              |            |  |
-| Learning Problems                                        |                       |           |                                                                    |    |                      |              |            |  |
-| Social Skills                                            | *                     |           |                                                                    |    |                      |              |            |  |
-| Somatization                                             | #*                    |           |                                                                    |    |                      |              |            |  |
-| Study Skills                                             |                       |           |                                                                    |    |                      |              |            |  |
-| Withdrawal                                               | *                     |           | Bee x *&%                                                          |    |                      |              |            |  |
-| Content Scale                                            |                       |           |                                                                    |    |                      |              |            |  |
-| Anger Control                                            |                       |           |                                                                    |    |                      |              |            |  |
-| Bullying                                                 |                       |           |                                                                    |    |                      |              |            |  |
-| Developmental Social Disorders                           |                       |           |                                                                    |    |                      |              |            |  |
-| Emotional Self-Control                                   |                       |           |                                                                    |    |                      |              |            |  |
-| Executive Functioning                                    |                       |           |                                                                    |    |                      |              |            |  |
-| Negative Emotionality                                    |                       |           |                                                                    |    |                      |              |            |  |
-| Resiliency                                               |                       |           |                                                                    |    |                      |              |            |  |
-| Number of Items EES E INSURE CAR EU | 100 ESSA           | 139 TU | 139                                                                | aR | 134 er            | 160 ARERR | 150        |  |
+**TABLE-14.2 Composites, Primary Scales, and Content Scales in the TRS and PRS**
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Scale Type         | Scale                             | Teacher Rating Scales (TRS)               | Parent Rating Scales (PRS)                |
+|--------------------|-----------------------------------|-------------------------------------------|-------------------------------------------|
+|                    |                                   | P (2–5) | C (6–11) | A (12–21)            | P (2–5) | C (6–11) | A (12–21)            |
+| **Composite**      | Adaptive Skills                   | *       | *        | *                    | *       | *        | *                    |
+|                    | Behavioral Symptoms Index         | *       | *        | *                    | *       | *        | *                    |
+|                    | Externalizing Problems            | *       | *        | *                    | *       | *        | *                    |
+|                    | Internalizing Problems            | *       | *        | *                    | *       | *        | *                    |
+|                    | School Problems                   | *       | *        | *                    |         |          |                      |
+| **Primary Scale**  | Adaptability                      | *       | *        |                      | *       | *        | *                    |
+|                    | Activities of Daily Living        |         |          |                      | *       | *        | *                    |
+|                    | Aggression                        | *       | *        | *                    | *       | *        | *                    |
+|                    | Anxiety                           | *       | *        | *                    | *       | *        | *                    |
+|                    | Attention Problems                | *       | *        | *                    | *       | *        | *                    |
+|                    | Atypicality                       | *       | *        | *                    | *       | *        | *                    |
+|                    | Conduct Problems                  | *       | *        | *                    | *       | *        | *                    |
+|                    | Depression                        | *       | *        | *                    | *       | *        | *                    |
+|                    | Functional Communication          | *       | *        | *                    | *       | *        | *                    |
+|                    | Hyperactivity                     | *       | *        | *                    | *       | *        | *                    |
+|                    | Leadership                        | *       | *        | *                    |         |          |                      |
+|                    | Learning Problems                 | *       | *        | *                    |         |          |                      |
+|                    | Social Skills                     | *       | *        | *                    |         |          |                      |
+|                    | Somatization                      |         | *        | *                    | *       | *        | *                    |
+|                    | Study Skills                      | *       | *        | *                    |         |          |                      |
+|                    | Withdrawal                        | *       | *        | *                    | *       | *        | *                    |
+| **Content Scale**  | Anger Control                     |         |          |                      | *       | *        | *                    |
+|                    | Bullying                          |         |          |                      | *       | *        | *                    |
+|                    | Developmental Social Disorders    |         |          |                      | *       | *        | *                    |
+|                    | Emotional Self-Control            |         |          |                      | *       | *        | *                    |
+|                    | Executive Functioning             |         |          |                      | *       | *        | *                    |
+|                    | Negative Emotionality             |         |          |                      | *       | *        | *                    |
+|                    | Resiliency                        |         |          |                      | *       | *        | *                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
 
-TABLE 14.2 Composites, Primary Scales, and Content Scales in the TRS and PRS
+**Number of Items**  
+- TRS: P = 100, C = 139, A = 139  
+- PRS: P = 134, C = 160, A = 150  
 
 Notes: Shaded cells represent new scales added to the BASC-2. P = preschool version; C = child version; A = ad olescent version.
-
-aR
-
-er
-
-ARERR
-
-RNR
-
 Source: Behavior Assessment System for Children (BASC-2): Manual, Table 1.1, p. 3, by Cecil R. Reynolds and Randy W. Kamphaus, 2004. Copyright © 2004. All rights reserved. Published and distributed exclusively by NCS Pearson, Inc. P. O. Box 1416, Minneapolis, MN 55440, Reproduced with permission by NCS Pearson, Inc.
 
 behavioral problems and provides the clinician with a reliable but nonspecific index of pathology. For more specific information about the nature of the problem behavior, the clinician proceeds to the four lower-order composite scores:
@@ -8428,7 +8435,7 @@ When interpreting the Clinical Composites and Scale scores, high scores reflect 
 
 The TRS and PRS have several unique features that promote their use. First, they contain a validity scale that helps the clinician detect the presence of response sets. As noted previously, validity scales are specially developed and incorporated in the test for the purpose of detecting response sets. Both the parent and teacher scales contain a "fake bad" (F)
 
-## FIGURE 14.1 Completed Clinical and Adaptive Profile Sections of a TRS
+FIGURE 14.1 Completed Clinical and Adaptive Profile Sections of a TRS
 
 Source: Behavior Assessment System for Children (BASC-2): Manual, Figure 3.9, by Cecil R. Reynolds and Randy W. Kamphaus, 2004. Copyright © 2004. All rights reserved. Published and distributed exclusively by NCS Pearson, Inc. P.O. Box 1416, Minneapolis, MN 55440. Reproduced with permission by NCS Pearson, Inc.
 
@@ -8436,7 +8443,7 @@ Source: Behavior Assessment System for Children (BASC-2): Manual, Figure 3.9, by
 
 BASC-2 PRS and BASC-2 TRS are psychometrically sound instruments that have gained considerable support in recent years.
 
-# Conners' Rating Scales—Revised (CRS-R)
+### Conners' Rating Scales—Revised (CRS-R)
 
 The Conners' Rating Scales—Revised (CRS-R) (Conners, 1997) have a rich history of use in the assessment of children and adolescents, dating back to the late 1960s when the early version of the scales was developed to measure the effectiveness of medication in the treatment of hyperactive children (Kamphaus & Frick, 2002). The current revised version includes teacher and parent inventories and is appropriate for children from 3 through 17 years. There are both long forms (e.g., 59 or 80 items) and short forms (27 or 28 items) available. Conners (1997) describes the subscales of the long forms as follows:
 
@@ -8450,11 +8457,9 @@ The Conners' Rating Scales—Revised (CRS-R) (Conners, 1997) have a rich history
 
 The CRS-R produces two index scores, the ADHD Index and the Conners Global Index (CGI). The ADHD Index is a combination of items that has been found to be useful in identifying children who have attention deficit/hyperactivity disorder (ADHD). The CGI, a more general index, is sensitive to a variety of behavioral and emotional problems. The CGI (formerly the Hyperactivity Index) has been shown to be a sensitive measure of medication (e.g., psychostimulants such as Ritalin) treatment effects with children with ADHD. Computer-scoring software is available for the CRS-R to facilitate scoring and interpretation. Specific strengths of the CRS-R include its rich clinical history and the availability of short forms that may be used for screening purposes or situations in which repeated administrations are necessary (e.g., measuring treatment effects; Kamphaus & Frick, 2002).
 
-# Child Behavior Checklist and Teacher Report Form (CBCL and TRF)
+### Child Behavior Checklist and Teacher Report Form (CBCL and TRF)
 
 The Child Behavior Checklist (CBCL) and the Teacher Report Form (TRF) (Achenbach, 1991a, 1991b) are two components of an integrated system that also includes a self-report scale and a direct observation system. There are two forms of the CBCL, one for children 2 to 3 years and one for children 4 to 18 years. The TRF is appropriate for children from 5 to 18 years. The CBCL and TRF have long played an important role in the assessment of children and adolescents and continue to be among the most frequently used psychological tests in schools today. The scales contain two basic sections. The first section collects information
-
-# <sup>382</sup>CHAPTER 14
 
 about the child's activities and competencies in areas such as recreation (e.g., hobbies and sports), social functioning (e.g., clubs and organizations), and schooling (e.g., grades). The second section assesses problem behaviors and contains item stems describing problem behaviors. On these items the informant records a response of Not true, Somewhat true/Sometimes true, or Very true/Often true. The clinical subscales of the CBCL and TRF are
 
@@ -8481,7 +8486,7 @@ an inaccurate or incomplete diagnosis. Inaccurate diagnosis typically leads to i
 
 Although omnibus rating scales play a central role in the assessment of childhood psychopathology, there are a number of single-domain or syndrome-specific rating scales. These single-domain rating scales resemble the omnibus scales in format, but they focus on a single disorder (e.g., ADHD) or behavioral dimension (e.g., social skills). Although they are limited in scope, they often provide a more thorough assessment of the specific domain they are designed to assess than the omnibus scales. As a result, they can be useful in supple menting more comprehensive assessment techniques (e.g., Kamphaus & Frick, 2002). Ex amples of single-domain rating scales are the Teacher Monitor Ratings (TMR) and Parent Monitor Ratings (PMR), which are components of the BASC Monitor for ADHD (Kam phaus & Reynolds, 1998). Although these behavior rating scales do contain items related to internalizing disorders, the focus is clearly on behaviors related to ADHD. The BASC Mon itor is designed to help parents, teachers, and physicians determine whether medical, behav ioral, and educational treatments for ADHD are working (Kamphaus & Frick, 2002).
 
-# Self-Report Measures
+### Self-Report Measures
 
 individuals that allows them to describe their own subjective experiences, including emotional, motivational, interpersonal, and attitudinal characteristics (Anastasi & Urbina, 1997).
 
@@ -8489,7 +8494,7 @@ A self-report measure is an A self-report measure is an instrument completed by 
 
 > ous self-report measures have been developed and used successfully with children and adolescents. Although insufficient reading skills do make these instruments impractical with very young children, these new self-report measures are being used with older children (e.g., >7years) and adolescents with considerable success. Self-report measures have proven to be particularly useful in the assessment of internalizing disorders such as depression and anxiety that have symptoms that are not always readily apparent to observers. The development and use of self-report measures with children are still at a relatively early stage, but several instruments are gaining widespread acceptance. We will now briefly describe some of the most popular child and adolescent self-report measures.
 
-# Behavior Assessment System for Children, Second Edition—Self-Report of Personality (SRP)
+#### Behavior Assessment System for Children, Second Edition—Self-Report of Personality (SRP)
 
 The Behavior Assessment System for Children—Self-Report of Personality (SRP) (Reynolds & Kamphaus, 2004) is a component of the Behavioral Assessment System for Children (BASC-2) we introduced earlier, and recent research suggests it is the most popular self-report measure among school psychologists. There are three forms of the SRP, one for children 8 to 11 years and one for adolescents 12 to 18 years. A third version, the SRP-I (for interview) is standardized as an interview version for ages 6 and 7 years. The SRP has an estimated 3rdgrade reading level, and if there is concern about the student's ability to read and comprehend the material, the instructions and items can be presented using audio. The SRP contains brief descriptive statements that children or adolescents mark as true or false to some questions, or never, sometimes, often, or almost always to other questions, as it applies to them. Table 14.3 depicts the 5 composites along with the 10 primary and content scales available for children and adolescents. Reynolds and Kamphaus (1992) describe the subscales as follows:
 
@@ -8516,15 +8521,17 @@ The SRP produces five composite scores. The most global composite is the Emotion
 
 a Internalizing Problems. This is a combination of the Anxiety, Atypicality, Locus of Control, Social Stress, and Somatization scales. This scale reflects the magnitude of internalizing problems, and clinically significant scores (i.e., T-scores > 70) suggest significant problems.
 
-| Scale                          | C 8-11 | A 12-21 |
+**TABLE-14.3 Composites, Primary Scales, and Content eee Scales in the SRP**
+|---------------------------------------------------------|
+| Scale                          | C 8-11    | A 12-21    |
 |--------------------------------|-----------|------------|
 | Composite                      |           |            |
 |                                |           |            |
-| Emotional Symptoms Index |           | *          |
+| Emotional Symptoms Index       |           | *          |
 | Inattention/Hyperactivity      | M3        | *          |
-| Internalizing Problems      | *         | *          |
-| Personal Adjustment         | *         | i          |
-| School Problems             | =         | -          |
+| Internalizing Problems         | *         | *          |
+| Personal Adjustment            | *         | i          |
+| School Problems                | =         | -          |
 | Primary Scale                  |           |            |
 | Anxiety                        |           |            |
 | Attention Problems             |           |            |
@@ -8548,8 +8555,7 @@ a Internalizing Problems. This is a combination of the Anxiety, Atypicality, Loc
 | Mania                          |           |            |
 | Test Anxiety                   |           |            |
 | Number of Items                | 139       | 176        |
-
-#### TABLE 14.3 Composites, Primary Scales, and Content eee Scales in the SRP
+|---------------------------------------------------------|
 
 Note: Shaded cells represent new scales added to the BASC-2. Source: Behavior Assessment System for Children (BASC-2): Manual, Table 1.2, p. 5, by Cecil R. Reynolds and Randy W. Kamphaus, 2004. Copyright © 2004. All rights reserved. Published and distributed exclusively by NCS Pearson, Inc. P.O. Box 1416, Minneapolis, MN 55440. Re-
 
@@ -8571,43 +8577,13 @@ The F index is composed of items that are "infrequently" endorsed in a specific 
 
 > Another positive feature of the SRP is its coverage of a relatively broad age range. While most other omnibus self-report measures developed for children were limited to examinees 11 years or older, the SRP extended the age range down to 8 years. The interview version of the SRP developed for 6 and 7-year-olds extends the age range even further. With the SRP—Interview (SRP-I), the clinician reads the items to the child. Items are phrased
 
-|          |                                |  |  |  |  |  | Note: High scores on the adaptive scales indicate |
-|----------|--------------------------------|--|--|--|--|--|---------------------------------------------------|
-|          |                                |  |  |  |  |  | high levels of adaptive skills.                   |
-|          |                                |  |  |  |  |  | ADAPTIVE PROFILE                                  |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-| terpeens |                                |  |  |  |  |  |                                                   |
-| tpeure   |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-|          |                                |  |  |  |  |  |                                                   |
-| ee       |                                |  |  |  |  |  |                                                   |
-|          | Joti prcaafin Jobe pepeapoetes |  |  |  |  |  |                                                   |
-
-### FIGURE 14.2 Completed Clinical and Adaptive Profile Sections of an SRP
+FIGURE 14.2 Completed Clinical and Adaptive Profile Sections of an SRP
 
 Source: Behavior Assessment System for Children (BASC-2): Manual, Figure 4.7, by Cecil R. Reynolds and Randy W. Kamphaus, 2004. Copyright © 2004. All rights reserved. Published and distributed exclusively by NCS Pearson, Inc. P.O. Box 1416, Minneapolis, MN 55440. Reproduced with permission by NCS Pearson, Inc.
 
 > appropriately to make them sound as though they are simply part of an interview. The child's responses are then scored according to objective criteria. Another positive aspect of the SRP is that it covers several dimensions or areas that are important to children and adolescents, but have been neglected in other child self-report measures (e.g., attitude toward teachers and school). Finally, the SRP assesses both clinical and adaptive dimensions. This allows the clinician to identify not only problem areas but also areas of strength to build on.
 
-# Youth Self-Report (YSR)
+#### Youth Self-Report (YSR)
 
 The Youth Self-Report (YSR) (Achenbach, 1991c) is a component of Achenbach's assessment system that includes the CBCL and TRF described earlier. The YSR can be used with children from 11 to 18 years and closely parallels the format and content of the CBCL and TRE. In fact, it produces the same scales (i.e., Withdrawn, Somatic Complaints, Anxious/ Depressed, Social Problems, Thought Problems, Attention Problems, Delinquent Behavior, and Aggressive Behavior) and composite scores (Externalizing, Internalizing, and Total
 
@@ -8615,7 +8591,7 @@ Problems). This close correspondence with the CBCL and TRF is one of the strengt
 
 As with behavior rating scales, self-report measures come in omnibus and singledomain formats. Both the SRP and YSR are omnibus self-report measures. An example of a single-domain self-report measure is the Children's Depression Inventory (CDI; Kovacs, 1991). The CDI is a brief, 27-item self-report inventory designed for use with children between 7 and 17 years. It presents a total score as well as five factor scores: Negative Mood, Interpersonal Problems, Ineffectiveness, Anhedonia (loss of pleasure from activities that previously brought pleasure), and Negative Self-Esteem. The CDI is easily administered and scored, is time efficient and inexpensive, and has an extensive research database. As with the other single-domain measures, the CDI does not provide coverage of a broad range of psychological disorders or personality characteristics, but it does give a fairly in-depth assessment of depressive symptoms.
 
-# Projective Techniques
+### Projective Techniques
 
 Projective techniques involve the presentation of unstructured or ambiguous stimuli that allows an almost infinite range
 
@@ -8631,7 +8607,7 @@ The debate over the use of projective techniques has been going on for decades. 
 
 tives will continue to play a prominent role in the assessment of children and adolescents for the foreseeable future. Next we will briefly describe a few of the major projective techniques used with children and adolescents.
 
-# Projective Drawings
+#### Projective Drawings
 
 Some of the most popular projective techniques used with children and adolescents involve the interpretation of projective drawings. This popularity is usually attributed to two fac tors. First, young children with limited verbal abilities are hampered in their ability to re spond to clinical interviews, objective self-report measures, and even most other projective techniques. However, these young children can produce drawings because this activity is largely nonverbal. Second, because children are usually familiar with and enjoy drawing, this technique provides a nonthreatening "child-friendly" approach to assessment (Finch & Belter, 1993; Kamphaus & Frick, 2002). There are several different projective drawing techniques in use today.
 
@@ -8641,8 +8617,8 @@ House-Tree-Person (H-T-P). With the House-Tree-Person (H-T-P), the child is give
 
 Kinetic Family Drawing (KFD). With the Kinetic Family Drawing (KFD), children are given paper and pencil and asked to draw a picture of everyone in their family, including themselves, doing something (hence the term kinetic). After completing the drawing the children are asked to identify each figure and describe what each one is doing. The KFD is thought to provide information regarding the children's view of their family and their interactions (Finch & Belter, 1993).
 
-### TABLE 14.4 The Projective Debate
-
+**TABLE-14.4 The Projective Debate**
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pro                                                                      | Con                                                                                                                               |
 |--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Less structured format allows clinician greater                          | The reliability of many techniques is questionable. As                                                                            |
@@ -8655,27 +8631,28 @@ Kinetic Family Drawing (KFD). With the Kinetic Family Drawing (KFD), children ar
 | Provides a deeper understanding of a person than                         | Although we can at times predict things we cannot                                                                                 |
 | would be obtained by simply describing behavioral                        | understand, it is rarely the case that understanding                                                                              |
 | patterns.                                                                | does not enhance prediction (Gittelman-Klein, 1986).                                                                              |
-| Adds to an overall assessment picture.                                   | Adding an unreliable piece of information to an assessment battery simply decreases the overall reliability of the battery. |
+| Adds to an overall assessment picture.                                   | Adding an unreliable piece of information to an assessment battery simply decreases the overall reliability of the battery.       |
 | Helps to generate hypotheses regarding a person's                        | Leads one to pursue erroneous avenues in testing or                                                                               |
 | functioning.                                                             | to place undue confidence in a finding.                                                                                           |
-| Nonthreatening and good for rapport building.                            | Detracts from the time an assessor could better spend collecting more detailed, objective information.                         |
-| Many techniques have a long and rich clinical RA tradition. OOS | Assessment techniques are based on an evolving knowledge base and must continually evolve to reflect this knowledge.        |
+| Nonthreatening and good for rapport building.                            | Detracts from the time an assessor could better spend collecting more detailed, objective information.                            |
+| Many techniques have a long and rich clinical RA tradition. OOS | Assessment techniques are based on an evolving knowledge base and must continually evolve to reflect this knowledge.                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Source: Clinical Assessment dts Child and Adolescent Personality and Behavior (2nd ed.) (Table 11.1, p. 231) by R. W. Kamphaus and P. J. Frick, 2002, Boston: Allyn & Bacon. Copyright 2002 by Pearson Education. Adapted with permission.
 
 > Despite their popularity and appeal to clinicians, little empirical data support the use of projective drawings as a means of predicting behavior or classifying children by diagnostic type (e.g., depressed, anxious, conduct disordered, etc.). These techniques may provide a nonthreatening way to initiate the assessment process and an opportunity to develop rapport, but otherwise they should be used with considerable caution and an understanding of their technical limitations (Finch & Belter, 1993; Kamphaus & Frick, 2002).
 
-# Sentence Completion Tests
+#### Sentence Completion Tests
 
 Sentence completion tests are another popular projective approach used with children and adolescents. These tests typically present incomplete-sentence stems that are completed by the child. The sentence completion forms either can be given to the child to complete independently or can be read aloud to the child and the responses recorded. Examples of possible incomplete sentence stems include "I really enjoy . . ." and "My greatest fear is..." Numerous sentence completion forms are available, and as with the projective drawings,
 
 there are different ways of interpreting the results. Because incomplete-sentence stems pro vide more structure than most projective tasks (e.g., drawings or inkblots), some have ar gued that they are not actually "projective" in nature, but are more or less a type of structured interview. As a result, some prefer the term semiprojective to characterize these tests. Re gardless of the classification, relatively little empirical evidence documents the psycho metric properties of these tests (Kamphaus & Frick, 2002). Nevertheless, they remain popular, are nonthreatening to children, and in the hands of skilled clinicians may provide an opportunity to enhance their understanding of their clients.
 
-# Apperception Tests
+#### Apperception Tests
 
 Another type of projective technique used with children is apperception tests. With this technique the child is given a picture and asked to make up a story about it. Figure 14.3 depicts a picture similar to those in some apperception tests used with older children and adolescents. These techniques are also sometimes referred to as thematic or storytelling techniques. Like other projective techniques, children generally find apperception tests inviting and enjoyable. Two early apperception tests, the Thematic Apperception Test (TAT) and the Children's Apperception Test (CAT), have received fairly widespread use with children and adolescents. Like other projective techniques, limited empirical evidence supports the use of the TAT or CAT. A more recently developed apperception test is the Roberts Apperception Test for Children (RATC; McArthur & Roberts, 1982), which uniquely features the inclusion of a standardized scoring system and normative data. The standardized scoring approach results in increased reliability relative to previous apperception tests. However, the normative data are inadequate and there is little validity evidence available (Kamphaus & Frick, 2002). Nevertheless, the RATC is a step in the right direction in terms of enhancing the technical qualities of projective techniques.
 
-# Inkblot Techniques
+#### Inkblot Techniques
 
 The final projective approach we will discuss is the inkblot technique. With this technique the child is presented an ambiguous inkblot and asked to interpret it in some manner, typically by asking: "What might this be?" Figure 14.4 presents an example of an inkblot similar to those used on inkblot tests. Of all the inkblot techniques, the Rorschach is the most widely used. Different interpretative approaches have been developed for the Rorschach, but the Exner Comprehensive System (Exner, 1974, 1978) has received the most attention by clinicians and researchers in recent years. The Exner Comprehensive System provides an elaborate standardized scoring system that produces approximately 90 possible scores. Relative to other Rorschach interpretive systems, the Exner system produces more reliable measurement and
 
@@ -8687,7 +8664,7 @@ has reasonably adequate normative data. However, evidence of validity Because th
 
 ![](_page_415_Picture_1.jpeg)
 
-### FIGURE 14.3 A Picture Similar to Those FIGURE 14.4 An Inkblot Similar to Those Used on Apperception Tests Used on Inkblot Tests
+FIGURE 14.3 A Picture Similar to Those FIGURE 14.4 An Inkblot Similar to Those Used on Apperception Tests Used on Inkblot Tests
 
 Source: From Robert J. Gregory, Psychological Testing: His- Source: From Robert J. Gregory, Psychological Testing: His-Bacon, Boston, MA. Copyright © 2004 by Pearson Educa- Bacon, Boston, MA. Copyright © 2004 by Pearson Education. Reprinted by permission of the publisher. tion. Reprinted by permission of the publisher.
 
@@ -8697,7 +8674,7 @@ tory, Principles, and Applications, 3/e. Published by Allyn & tory, Principles, 
 
 instruments cautiously. They should not be used for making important educational, clinical, and diagnostic decisions, but they may have merit in introducing the child to the assessment process, establishing rapport, and developing hypotheses that can be pursued with more technically adequate assessment techniques.
 
-# Summary
+### Summary
 
 In this chapter we focused on tests of behavior and personality and their applications in the schools. We noted that Public Law 94-142 and subsequent legislation require that public schools provide special education and related services to students with emotional disorders. Before these services can be provided, the schools must be able to identify children with these disorders. The process of identifying these children often involves a psychological evaluation completed by a school psychologist or other clinician. Teachers often play an important role in this assessment process. For example, teachers often complete rating scales that describe the behavior of students in their class. Teachers are also often involved in the development and implementation of educational programs for these special needs students. As a result, it is beneficial for teachers to be familiar with the types of instruments used to identify students with emotional and behavioral problems..
 
@@ -8711,7 +8688,7 @@ m Projective techniques. Projective techniques involve the presentation of an am
 
 literature, they continue to be among the most popular approaches to assessing the personality of children and adolescents. Our position is that although projective techniques should not be used as the basis for making important educational, clinical, or diagnostic decisions, they may have merit in developing rapport with clients and in generating hypotheses that can be pursued using technically superior assessment techniques.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Apperception tests, p. 391 Behavior Assessment System for Children—Parent Rating Scale (PRS), p. 376 Behavior Assessment System for Children—Self-Report of Personality (SRP), p. 383 Behavior Assessment System for Children—Teacher Rating Scale (TRS), p. 376 Behavior rating scale, p. 375
 
@@ -8719,7 +8696,7 @@ Child Behavior Checklist (CBCL), p. 381 Conners Rating Scales—Revised (CRS-R),
 
 Projective techniques, p. 388 Public Law 94-142 / IDEA, p. 371 Response sets, p. 372 Self-report measure, p. 383 Sentence completion tests, p. 390 Teacher Report Form (TRF), p. 381 Typical response tests, p. 371 Validity scale, p. 373 Youth Self-Report (YSR), p. 387
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 Kamphaus, R. W., & Frick, P. J. (2002). Clinical assessment of child and adolescent personality and behavior. Boston: Allyn & Bacon. This text provides comprehensive coverage of the major personality and behavioral assessment techniques used with children and adolescents. It also provides a good discussion of the history and current use of projective techniques.
 
@@ -8729,19 +8706,17 @@ Personality, behavior, and context. New York: Guilford Press. This is another ex
 
 Go to dive dipeareduihtonereal Aneanewalteee to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter.
 
-# CHAPTER
-
-# Assessment Accommodations
+## CHAPTER 15 Assessment Accommodations
 
 Assessment accommodations help students show what they know without being placed at a disadvantage by their disability. —U.S. Department of Education, 2001, p. 8
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Major Legislation That Affects the Strategies for Accommodations Assessment of Students with Disabilities Determining What Accommodations to Provide Individuals with Disabilities Education Act (IDEA) Assessment of English Language Learners (ELL Section 504 Reporting Results of Modified Assessments The Rationale for Assessment Accommodations When Are Accommodations Not Appropriate or Necessary?
 
 S)
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -8774,13 +8749,13 @@ dures that are implemented in order to minimize the impact of student characteri
 
 reliability of test scores and the inferences about the meaning of performance on the test (U.S. Department of Education, 1997).
 
-# Major Legislation That Affects the Assessment of Students with Disabilities
+### Major Legislation That Affects the Assessment of Students with Disabilities
 
 More and more often, teachers More and more often, lawmakers are writing laws that mandate asare being called on to modify sessment accommodations for students with disabilities. As a result, their assessments in order to more and more often, teachers are being called on to modify their accommodate the special needs assessments in order to accommodate the special needs of students bP students with disabilities' with disabilities. Major laws that address assessment accommodations include Section 504 of the Rehabilitation Act of 1973 (Section 504), The Americans with Disabilities Act (ADA), The No Child
 
 > Left Behind Act of 2001 (NCLB), and the Individuals with Disabilities Education Improvement Act (IDEA 2004). In the next section we will focus on IDEA and Section 504 and their impact on the assessment of students with disabilities.
 
-# Individuals with Disabilities Education Act (IDEA)
+### Individuals with Disabilities Education Act (IDEA)
 
 In 1975, Congress passed Public Law 94-142, the Education of All Handicapped Children Act (EAHCA). This law required that public schools provide students with disabilities a free, appropriate public education (FAPE). Prior to the passage of this law, it was estimated that as many as one million children with disabilities were being denied a FAPE (e.g., Turnbull, Turnbull, Shank, Smith, & Leal, 2002). In 1986, Public Law 99-457, the Infants and Toddlers with Disabilities Act, was passed to ensure that preschool children with disabilities also received appropriate services. In 1990, the EAHCA was reauthorized and the name was changed to the Individuals with Disabilities Education Act (IDEA).
 
@@ -8808,7 +8783,7 @@ As we noted, regular education teachers are becoming increasingly involved in te
 
 The involvement of regular education teachers does not stop simply with planning. They are also primarily responsible for implementing the IEP in the classroom. It should be noted that the services and accommodations stipulated in the IEP are not merely suggestions but legally commit the school to provide the stated modifications, accommodations, services, and so forth.
 
-# IDEA Categories of Disabilities
+#### IDEA Categories of Disabilities
 
 The Individuals with Disabilities Education Act of 2004 (IDEA 2004) designates 13 disability categories. Teachers play important roles in identifying children with disabilities. In many cases teachers may be the first to recognize that a student is having difficulties that warrant referral for evaluation for special education services. They may also be involved in different aspects of the evaluation process. The assessment of these disorders involves a wide range of assessment activities including interviews with students, parents, and teachers; standardized tests; reviews of existing educational records; reviews of classroom work samples; observations; and reviewing results of medical examinations. Here are brief descriptions of the IDEA categories of disabilities.
 
@@ -8862,11 +8837,11 @@ Traumatic Brain Injury. IDEA defines traumatic brain injury as an acquired brain
 
 Developmental Delay. Kubiszyn and Borich (2003) note that early versions of IDEA required fairly rigid adherence to categorical eligibility procedures that identified and la beled students before special education services could be provided. While the intention of these requirements was to provide appropriate oversight, it had the unintentional effect of hampering efforts at prevention and early intervention. Before students qualified for special education services, their problems had to be fairly severe and chronic. To address this problem, IDEA 97 continued to recognize the traditional categories of disabilities (i.e., those listed above) and expanded eligibility to children with developmental delays. This provision allows states to provide special education services to students between the ages of 3 and 9 with delays in physical, cognitive, communication, social/emotional, and adap tive development. Additionally, IDEA gave the states considerable freedom in how they define developmental delays, requiring only that the delays be identified using appropriate assessment instruments and procedures. The goal of this more flexible approach to eligi bility is to encourage early identification and intervention. No longer do educators have to
 
-# Section 504
+### Section 504
 
 Section 504 of the Rehabilitation Act of 1973 is another law that had a significant impact on the instruction and assessment of students with disabilities. Section 504 (often referred to simply as 504) prohibits any discrimination against an individual with a disability in any agency or program that receives federal funds. Because state and local education agencies receive federal funds, Section 504 applies. Although IDEA requires that a student meet specific eligibility requirements in order to receive special education services, Section 504 established a much broader standard of eligibility. Under Section 504, an individual with a disability is defined as anyone with a physical or mental disability that substantially limits one or more life activities. As a result, it is possible that a student may not qualify for special education services under IDEA, but still qualify for assistance under Section 504 (this is often referred to as "504 only"). Section 504 requires that public schools offer students with disabilities reasonable accommodations to meet their specific educational needs. To meet this mandate, schools develop "504 Plans" that specify the instructional and assessment accommodations the student should receive. Parents, teachers, and other school personnel typically develop these 504 Plans. Regular education teachers are involved in the development of these plans and are responsible for ensuring that the modifications and accommodations are implemented in the classroom.
 
-# The Rationale for Assessment Accommodations
+### The Rationale for Assessment Accommodations
 
 As we noted earlier, standard assessment procedures may not be appropriate for students with a disability if the assessment requires the students to use some ability that is affected by their disability but is irrelevant to the construct being measured. Assessment accommodations are modifications to standard assessment procedures that are granted in an effort to minimize the impact of student characteristics that are irrelevant to the construct being measured. If this is accomplished the assessment will provide a more valid and accurate measurement of the student's true standing on the construct (AERA et al., 1999). The goal is not simply to allow the student to obtain a higher score; the goal is to obtain more valid score interpretations. Assessment accommodations should increase the validity of the score interpretations so they more accurately reflect the student's true standing on the construct being measured.
 
@@ -8880,7 +8855,7 @@ fairly lengthy testing sessions, the student's susceptibility to fatigue, Fairne
 
 > Fairness to all parties is a central issue when considering assessment accommodations. For students with disabilities, fairness requires that they not be penalized as the result of disability-related characteristics that are irrelevant to the construct being measured by the assessment. For students without disabilities, fairness requires that those receiving accommodations not be given an unjust advantage over those being tested under standard conditions. As you can see, these serious issues deserve careful consideration.
 
-# When Are Accommodations Not Appropriate or Necessary?
+### When Are Accommodations Not Appropriate or Necessary?
 
 The Standards (AERA et al., 1999) specify the following three situations in which accommodations should not be provided or are not necessary.
 
@@ -8896,11 +8871,11 @@ Accommodations Are Not Necessary for All Students with Dis abilities. Not all st
 
 tions on all tests. As we will discuss in more detail later, assessment accommodations should be individualized to meet the specific needs of each student with a disability. There is no spe cific accommodation that is appropriate, necessary, or adequate for all students with a given disability. As an example, consider students with learning disabilities. Learning disabilities are a heterogeneous group of disabilities that can impact an individual in a multitude of ways. One student with a learning disability may require extended time whereas this accommodation may not be necessary for another student with the same diagnosis.
 
-# Strategies for Accommodations
+### Strategies for Accommodations
 
 A variety of assessment accommodations have been proposed and implemented to meet the needs of individuals with disabilities. A brief description follows of some of the most widely used accommodations compiled from a number of sources (AERA et al., 1999; King, Baker, & Jarrow, 1995; Mastergeorge & Miyoshi, 1999; Northeast Technical Assistance Center, 1999; U.S. Department of Education, 1997). To facilitate our presentation, we divided these accommodations into major categories. However, these categories are not mutually exclusive and some accommodations may be accurately classified into more than one category.
 
-# Modifications of Presentation Format
+#### Modifications of Presentation Format
 
 Modifications of presentation format involve modifying or chang-Modifications of presentation ing the medium or format used to present the directions, items, format involve modifying the or tasks to the student. An example would be the use of Braille medium or format used to or large-print editions for students with visual handicaps (which present the directions, items, can be supplemented with large-print or Braille figures). Closed or tasks to the student. circuit television (CCTV) is an adaptive device that enlarges text and other materials and magnifies them onto a screen (see www
 
@@ -8908,87 +8883,90 @@ Modifications of presentation format involve modifying or chang-Modifications of
 
 Modifications of response format allow students to respond with their preferred method of communication.
 
-# Modifications of Response Format
+#### Modifications of Response Format
 
 Modifications of response format allow students to respond with their preferred method of communication. For example, if students are unable to write due to a physical impairment, you can allow
 
-### TABLE 15.1 Accommodations Involving Modifications of Presentation Format
+**TABLE-15.1 Accommodations Involving Modifications of Presentation Format**
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Braille format                                                                                                                                    |
+| Large-print editions                                                                                                                              |
+| Large-print figure supplements                                                                                                                    |
+| Braille figure supplement                                                                                                                         |
+| CCTV to magnify text and materials                                                                                                                |
+| For computer-administered tests, devices such as ZoomText Magnifier and ScreenReader to magnify material on the screen or read text on the screen |
+| Reader services (read directions and questions, describe visual material)                                                                         |
+| Sign language                                                                                                                                     |
+| Audiotaped administration                                                                                                                         |
+| Videotaped administration                                                                                                                         |
+| Alternative background and foreground colors                                                                                                      |
+| Increasing the spacing between items                                                                                                              |
+| Reducing the number of items per page                                                                                                             |
+| Using raised line drawings                                                                                                                        |
+| Using language-simplified questions                                                                                                               |
+| Converting written exams to oral exams; oral exams to written format                                                                              |
+| Defining words                                                                                                                                    |
+| Providing additional examples                                                                                                                     |
+| Clarifying and helping students understand directions, questions, and tasks                                                                       |
+| Highlighting key words or phrases                                                                                                                 |
+| Providing cues (e.g., bullets, stop signs) on the test booklet                                                                                    |
+| Rephrasing or restating directions and questions                                                                                                  |
+| Simplifying or clarifying language                                                                                                                |
+| Using templates to limit the amount of print visible at one time                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- Braille format
-- Large-print editions
-- Large-print figure supplements
-- Braille figure supplement
-- CCTV to magnify text and materials
-- For computer-administered tests, devices such as ZoomText Magnifier and ScreenReader to magnify material on the screen or read text on the screen
-- Reader services (read directions and questions, describe visual material)
-- Sign language
-- Audiotaped administration
-- Videotaped administration
-- Alternative background and foreground colors
-- Increasing the spacing between items
-- Reducing the number of items per page
-- Using raised line drawings
-- Using language-simplified questions
-- Converting written exams to oral exams; oral exams to written format
-- Defining words
-
-S 2
-
-- Providing additional examples
-- Clarifying and helping students understand directions, questions, and tasks
-- Highlighting key words or phrases
-- Providing cues (e.g., bullets, stop signs) on the test booklet
-- Rephrasing or restating directions and questions
-- Simplifying or clarifying language
-- Using templates to limit the amount of print visible at one time
 
 them to take the exam orally or provide access to a scribe to write down their responses. A student whose preferred method of communication is sign language could respond in sign language and responses could subsequently be translated for grading. Other common modifications to the response format include allowing the student to point to the correct response; having an aide mark the answers; using a tape recorder to record responses; using a computer or Braillewriter to record responses; using voice-activated computer software; providing increased spacing between lines on the answer sheet; using graph paper for math problems; and allowing the student to mark responses in the test booklet rather than on a computer answer sheet. Table 15.2 provides a summary listing of these and related accommodations.
 
-# Modifications of Timing
+#### Modifications of Timing
 
 Extended time is probably the most frequent accommodation provided. Extended time is appropriate for any student who may be slowed down due to reduced processing speed, reading speed, or writing speed. Modifications of timing are also appropriate for students
 
-# TABLE 15.2 Accommodations Involving Modifications of Response Format
-
-- Oral examinations
-- Scribe services (student dictates response to scribe, who creates written response)
-- Allowing a student to respond in sign language
-- Allowing a student to point to the correct response
-- Having an aide mark the answers
-- Using a tape recorder to record responses
-- Using a computer with read-back capability to record responses
-- Using a Braillewriter to record responses
-- Using voice-activated computer software
-- Providing increased spacing between lines on the answer sheet
-- Using graph paper for math problems
-- Allowing students to mark responses in the test booklet rather than on a computer answer sheet (e.g., Scantron forms)
-- m Using a ruler for visual tracking
+**TABLE-15.2 Accommodations Involving Modifications of Response Format**
+|-------------------------------------------------------------------------------------|
+| Oral examinations                                                                   |
+| Scribe services (student dictates response to scribe, who creates written response) |
+| Allowing a student to respond in sign language                                      |
+| Allowing a student to point to the correct response                                 |
+| Having an aide mark the answers                                                     |
+| Using a tape recorder to record responses                                           |
+| Using a computer with read-back capability to record responses                      |
+| Using a Braillewriter to record responses                                           |
+| Using voice-activated computer software                                             |
+| Providing increased spacing between lines on the answer sheet                       |
+| Using graph paper for math problems                                                 |
+| Allowing students to mark responses in the test booklet rather than on a computer   |
+| answer sheet (e.g., Scantron forms)                                                 |
+| Using a ruler for visual tracking                                                   |
+|-------------------------------------------------------------------------------------|
 
 who use other accommodations such as the use of a scribe or some form of adaptive equipment, because these often require more time. Determining how much time to allow is a complex consideration. Research suggests that 50% additional time is adequate for most students with disabilities (Northeast Technical Assistance Center, 1999). Although this is probably a good rule of thumb, be sensitive to special conditions that might demand extra time. Nevertheless, most assessment professionals do not recommend "unlimited time" as an accommodation. It is not necessary, can complicate the scheduling of assessments, and can be seen as unreasonable and undermine the credibility of the accommodation process in the eyes of some educators. Other time-related modifications include providing more frequent breaks or administering the test in sections, possibly spread over several days. For some students it may be beneficial to change the time of day the test is administered to accommodate their medication schedule or fluctuations in their energy levels. Table 15.3 provides a summary listing of these and related accommodations.
 
-# Modifications of Setting
+#### Modifications of Setting
 
 Modifications of setting allow students to be tested in a setting that will enable them to perform at their best. For example, for students who are highly distractible this may
 
-#### TABLE 15.3 Accommodations Involving Modifications of Timing
+**TABLE 15.3 Accommodations Involving Modifications of Timing**
+|----------------------------------------------------|
+| Extended time                                      |
+| More frequent breaks                               |
+| Administering the test in sections                 |
+| Spreading the testing over several days            |
+| Changing the time of day the test is administered  |
+|----------------------------------------------------|
 
-- Extended time
-- More frequent breaks
-- Administering the test in sections
-- Spreading the testing over several days
-- Changing the time of day the test is administered
-
-### TABLE 15.4 Accommodations Involving Modifications of Setting
-
-- Individual test administration
-- Administration in a small group setting
-- Preferential seating
-- Space or accessibility considerations
-- Avoidance of extraneous noise/distractions
-- Special lighting
-- Special acoustics
-- Study carrel to minimize distractions
-- Alternate sitting and standing
+**TABLE 15.4 Accommodations Involving Modifications of Setting**
+|--------------------------------------------|
+| Individual test administration             |
+| Administration in a small group setting    |
+| Preferential seating                       |
+| Space or accessibility considerations      |
+| Avoidance of extraneous noise/distractions |
+| Special lighting                           |
+| Special acoustics                          |
+| Study carrel to minimize distractions      |
+| Alternate sitting and standing             |
+|--------------------------------------------|
 
 setting that will enable them to perform their best.
 
@@ -8996,7 +8974,7 @@ Modifications of setting allow include administering the test individually or in
 
 > special acoustics, or the use of a study carrel to minimize distractions. Table 15.4 provides a summary listing of these and related accommodations.
 
-# Adaptive Devices and Supports
+#### Adaptive Devices and Supports
 
 There are many adaptive devices and supports that may be useful when testing students with disabilities.
 
@@ -9004,36 +8982,38 @@ There are many adaptive devices and supports that may be useful when testing stu
 
 devices to systems that automatically enlarge the size of print viewed on a computer screen (e.g., ZoomText Magnifier and ScreenReader, ClearView, Optelec, and Visualtek). There are voice recognition computer programs that allow students to dictate their responses and print out a document containing their text (e.g., Dragon Dictate). Also available are a number of adaptive keyboards and trackball devices (e.g., Intellikeys keyboard, Kensington Trackball mouse, HeadMaster Plus mouse). Auditory amplification devices as well as audiotape and videotape players and recorders may be appropriate accommodations. On the low-tech side, students may benefit from special chairs and large surface desks, earplugs/earphones, col ored templates, markers to maintain place, securing the paper to the desk with tape, dark, heavy, or raised lines of pencil grips. It may be appropriate to provide an abacus, math tables, or calculators to facilitate math calculations. Accordingly, in some situations it may be appro priate to provide reference materials such as a dictionary or thesaurus. In many situations the use of aids such as calculators, spell check, and reference materials have become so common, they are being made available to students without disabilities. Table 15.5 provides a summary listing of these and related accommodations.
 
-# TABLE 15.5 Accommodations Involving Adaptive Devices and Supports
+**TABLE-15.5 Accommodations Involving Adaptive Devices and Supports**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Handheld magnification devices and CCTV                                                                                                                  |
+| Systems that enlarge print (e.g., ZoomText Magnifier and ScreenReader, ClearView, Optelec, and Visualtek)                                                |
+| Systems that read text on the screen (ZoomText Magnifier and ScreenReader)                                                                               |
+| Voice recognition computer programs that allow students to dictate their responses and print out a document containing their text (e.g., Dragon Dictate) |
+| Adaptive keyboards and trackball devices (e.g., HeadMaster Plus mouse, Intellikeys keyboard, Kensington Trackball mouse)                                 |
+| Auditory amplification devices                                                                                                                           |
+| Audiotape and videotape players and recorders                                                                                                            |
+| Special chairs and large surface desks                                                                                                                   |
+| Earplugs/earphones                                                                                                                                       |
+| Colored templates or transparencies                                                                                                                      |
+| Markers to maintain place, highlighters                                                                                                                  |
+| Securing paper to desk with tape                                                                                                                         |
+| Dark, heavy, or raised lines of pencil grips                                                                                                             |
+| Abacus, math tables, or calculators (or talking calculators)                                                                                             |
+| Reference materials such as a dictionary or thesaurus, spell checkers CAE                                                                                |
+| Watches or clocks with reminder alarms                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- m= Handheld magnification devices and CCTV
-- m Systems that enlarge print (e.g., ZoomText Magnifier and ScreenReader, ClearView, Optelec, and Visualtek)
-- m Systems that read text on the screen (ZoomText Magnifier and ScreenReader)
-- m Voice recognition computer programs that allow students to dictate their responses and print out a document containing their text (e.g., Dragon Dictate)
-- Adaptive keyboards and trackball devices (e.g., HeadMaster Plus mouse, Intellikeys keyboard, Kensington Trackball mouse)
-- Auditory amplification devices
-- Audiotape and videotape players and recorders
-- Special chairs and large surface desks
-- Earplugs/earphones
-- Colored templates or transparencies
-- Markers to maintain place, highlighters
-- Securing paper to desk with tape
-- Dark, heavy, or raised lines of pencil grips
-- Abacus, math tables, or calculators (or talking calculators)
-- Reference materials such as a dictionary or thesaurus, spell checkers CAE
-- Watches or clocks with reminder alarms
 
-# Using Only a Portion of a Test
+#### Using Only a Portion of a Test
 
 In some situations it may be appropriate to use only a portion of a test for a student with a disability. In clinical settings clinicians might delete certain subtests of a test battery that are deemed inappropriate for an individual with a disability. For example, when testing a student with a severe visual impairment, a psychologist administering the WISC-IV (see Chapter 13) might delete subtests that require vision (e.g., Block Design, Matrix Reasoning, Picture Concepts) and use only subtests presented and responded to orally (e.g., Vocabulary, Information, Similarities). The same principle can be applied to classroom assessments. That is, a teacher might decide to delete certain items that are deemed inappropriate for certain students with disabilities. Along the same lines, in some situations items will be deleted simply to reduce the length of the test (e.g., to accommodate a student who is easily fatigued). These may be acceptable accommodations in some situations, but it is also possible that using only portions of an assessment will significantly alter the nature of the construct being measured (AERA et al., 1999). As a result, teachers should use this approach with considerable caution.
 
-# Using Alternate Assessments
+#### Using Alternate Assessments
 
 A final category of accommodations involves replacing the standard test with one that has been specifically developed for students with a disability (AERA et al., 1999). Using alternate assessments is often appropriate for students with severe disabilities that prevent them from participating in the standard assessments, even with the use of more common
 
 accommodations (U.S. Department of Education, 1997). The use of alternative assessments may be an appealing accommodation because, with careful planning and development, they can produce reliable and valid results. The major limitation with this approach is that it may be difficult to find satisfactory alternate assessments that measure the same construct as the standard assessment (AERA et al., 1999).
 
-# Determining What Accommodations to Provide
+### Determining What Accommodations to Provide
 
 Determining whether a student needs assessment accommodations and which accommodations are appropriate is not an easy decision. In terms of making this decision, the Standards
 
@@ -9053,17 +9033,14 @@ Periodically Reevaluate the Needs of the Student. Over time, the needs of a stud
 
 Typically the determination of assessment accommodations is the responsibility of the IEP committee, and they are specified in the IEP (or with students who are 504 only, in the 504 Plan). Teachers, as members of these committees, will have a key role in determining the accommodations necessary for the student. Again, we emphasize that when determining which accommodations to provide you always want to assure that the reliability and validity of the assessment results are maintained. As noted, we do not always have welldeveloped research-based information to help us make these decisions, and often we have to base them on professional judgment. In other words, you will have to carefully examine the needs of the student and the intended use of the assessment and make a decision about which accommodations are needed and appropriate. As an example, reading the test items to a student would clearly invalidate an assessment of reading comprehension. In contrast, administering the assessment in a quiet setting would not undermine the validity of the results (U.S. Department of Education, 1997). Table 15.6 provides a summary of factors to consider when selecting assessment accommodations for students. Table 15.7 provides information on how to locate information on the accommodation policies of major test publishers. Special Interest Topic 15.1 illustrates the assessment accommodations allowed on one statewide assessment.
 
-### TABLE 15.6 Determining Which Accommodations to Provide
-
+**TABLE-15.6 Determining Which Accommodations to Provide**
 - m Tailor the modifications to meet the specific needs of the individual student (i.e., no one-sizefits-all accommodations).
 - a Ifastudent routinely receives an accommodation in classroom instruction, that accommodation is usually appropriate for assessments.
 - ma When possible, select accommodations that will promote independent functioning.
 - m Periodically reevaluate the needs of the students (e.g., Do they still need the accommodation? Do they need additional accommodations').
 
-## TABLE 15.7 Assessment Accommodations and Major Test Publishers
-
+**TABLE-15.7 Assessment Accommodations and Major Test Publishers**
 Major test publishers typically provide accommodation guidelines for the assessments they publish. The easiest way to access up-to-date information on these accommodation policies is by accessing the publishers' Web sites. These accommodation policies include both the types of accommodations allowed and the process examinees must go through in order to qualify for and request accommodations. Below are some Web sites where you can find accommodation policies for some major test publishers.
-
 - a Educational Testing Service (ETS): www.ets.org
 - a College Board: www.collegeboard.com/ssd/student
 - = America College Testing Program (ACT): www.act.org/aap/disab/index.htm
@@ -9071,15 +9048,13 @@ Major test publishers typically provide accommodation guidelines for the assessm
 - = Harcourt Assessment: http://harcourtassessment.com
 - = Riverside Publishing: www.riverpub.com
 
-# Assessment of English Language Learners (ELLs)
+### Assessment of English Language Learners (ELLs)
 
 The Standards (AERA et al., 1999) note that "any test that employs language is, in part, a measure of language skills. This is of particular concern for test takers whose first language is not the language of the test (p. 91). Accordingly, both IDEA and NCLB require that when assessing students with limited English proficiency, educators must ensure that they are actually assessing the students' knowledge and skills and not their proficiency in English. For example, if a bilingual student with limited English proficiency is unable to correctly answer a mathematics word problem presented in English, one must question whether the student's failure reflects inadequate mathematical reasoning and computation skills or in sufficient proficiency in English. If the goal is to assess the student's English proficiency, it is appropriate to test an ELL student in English. However, if the goal is to assess achieve ment in an area other than English, you need to carefully consider the type of assessment or set of accommodations needed to ensure a valid assessment. This often requires testing students in their primary language.
 
 There are a number of factors that need to be considered when assessing ELL stu dents. First, when working with students with diverse linguistic backgrounds it is important for educators to carefully assess the student's level of acculturation, language dominance, and language proficiency before initiating the formal assessment (Jacob & Hartshorne,
 
-#### SPECIAL INTEREST TOPIC: 15.1
-
-# Allowable Accommodations in a Statewide Assessment Program
+**SPECIAL INTEREST TOPIC: 15.1 Allowable Accommodations in a Statewide Assessment Program**
 
 The Texas Student Assessment Program includes a number of assessments, the most widely administered being the Texas Assessment of Knowledge and Skills (TAKS). The manual (Texas Education Agency, 2003) notes that accommodations that do not compromise the validity of the test results may be provided. Decisions about what accommodations to provide should be based on the individual needs of the student and take into consideration whether the student regularly receives the accommodation in the classroom. For students receiving special education services, the requested accommodations must be noted on their IEP. The manual identifies the following as allowable accommodations:
 
@@ -9131,7 +9106,7 @@ u If it is not possible to locate a suitable translated test or a nonverbal test
 
 Salvia and Ysseldyke (2007) provide suggestions for assessing students with limited English proficiency in terms of classroom achievement. First, they encourage teachers to ensure that they assess what is actually taught in class, not related content that relies on incidental learning. Students with different cultural and language backgrounds might not have had the same opportunities for incidental learning as native English speakers. Second, give ELL students extra time to process their responses. They note that for a variety of reasons, students with limited English proficiency may require additional time to process information and formulate a response. Finally, they suggest that teachers provide ELL students with opportunities to demonstrate achievement in ways that do not rely exclusively on language.
 
-# Reporting Results of Modified Assessments
+### Reporting Results of Modified Assessments
 
 When clinical and school psychologists modify an individually administered standardized test to accommodate the needs of a student with a disability, they typically document this in the psychological or educational assessment report. This is standard practice and is not the focus of serious debate. In contrast, the way scores of students receiving accommodations on large-scale standardized tests are reported has been the focus of considerable debate. Some assessment organizations will use an asterisk or some other "flag" to denote a score resulting from a nonstandard administration. The Standards (AERA et al., 1999) note that this practice
 
@@ -9143,7 +9118,7 @@ is promoted by some but seen as discriminatory by others. Proponents Some profes
 
 > Different agencies providing professional assessment services handle this issue differently. Educational Testing Service (ETS) indicates that when an approved assessment accommodation is thought to possibly affect the construct being measured, it includes a statement indicating that the assessment was taken under nonstandard testing conditions. However, if only minor accommodations are required, the administration can be considered standard and the scores are not flagged. Minor accommodations include providing wheelchair access, the use of a sign language interpreter, or large-print test material. Special Interest Topic 15.2 addresses "flagging" and other legal issues related to the assessment of students with disabilities.
 
-# SPECIAL INTEREST TOPIC 15.2 Assessment of Students with Disabilities—Selected Legal Issues
+**SPECIAL INTEREST TOPIC 15.2 Assessment of Students with Disabilities—Selected Legal Issues**
 
 [A]n otherwise qualified student who is unable to disclose the degree of learning he actually possesses because of the test format or environment would be the object of discrimination solely on the basis of his handicap.
 
@@ -9163,7 +9138,7 @@ Students should be given adequate notice when they will be required to engage in
 
 If a state is going to implement a high-stakes assessment, it must be able to show that students have had adequate opportunities to acquire the knowledge and skills measured by the assessment (Debra P. v. Turlington).? This includes students with disabilities. One way to address this is to include the learning objectives measured by the assessment in the student's Individual Education Program (IEP). One court ruled that parents and educators could decide not to include the skills and knowledge assessed by a mandatory graduation test on a student's IEP, but only if there were adequate time for the parents to evaluate the consequences of their child receiving a certificate of completion in lieu of a high school diploma (Brookhart).
 
-### Accommodations Must Be Individualized
+#### Accommodations Must Be Individualized
 
 Both IDEA and Section 504 require that educational programs and assessment accommodations be tailored to meet the unique needs of the individual student. For example, it is not acceptable for educators to decide that all students with a specific disability (e.g., learning disability) will receive the same assessment accommodations. Rulings by the federal Office of Civil Rights (OCR) maintain that decisions to provide specific assessment accommodations must be made on a case-by-case basis.
 
@@ -9171,7 +9146,7 @@ Both IDEA and Section 504 require that educational programs and assessment accom
 
 #### Assessment Accommodations
 
-## Invalid Accommodations
+##### Invalid Accommodations
 
 Courts have ruled that test administrators are not required to grant assessment accommodations that "substantially modify" a test or that "pervert" the purpose of the test (Brookhart). In psychometric terms, the accommodations should not invalidate the interpretation of test scores. Phillips (1994) suggests the following questions should be asked when considering a given accommodation:
 
@@ -9183,7 +9158,7 @@ Courts have ruled that test administrators are not required to grant assessment 
 
 If the answer to any of these questions is "yes," Phillips suggests the accommodations are likely not appropriate.
 
-#### Flagging
+##### Flagging
 
 "Flagging" refers to administrators adding notations on score reports, transcripts, or diplomas indicating that assessment accommodations were provided (and in some cases what the accommodations were). Proponents of flagging hold that it protects the users of assessment information from making inaccurate interpretations of the results. Opponents of flagging hold that it unfairly labels and stigmatizes students with disabilities, breaches their confidentiality, and potentially puts them at a disadvantage. If there is substantial evidence that the accommodation does not detract from the validity of the interpretation of scores, flagging is not necessary. However, flagging may be indicated when there is incomplete evidence regarding the comparability of test scores. Phillips (1994) describes a process labeled "self-selection with informed disclosure." Here administrators grant essentially any reasonable accommodation that is requested, even if it might invalidate the assessment results. Then, to protect users of assessment results, they add notations specifying what accommodations were provided. An essential element is that the examinee requesting the accommodations must be adequately informed that the assessment reports will contain information regarding any accommodations provided and the potential advantages and disadvantages of taking the test with accommodations. However, even when administrators get informed consent, disclosure of assessment accommodations may result in legal action.
 
@@ -9191,7 +9166,7 @@ Phillips (1993) notes that at times the goal of promoting valid and comparable t
 
 To protect the rights of both the public and individuals in a testing program, it will be necessary to balance the policy goal of maximum participation by the disabled against the need to provide valid and interpretable student test scores. (p. 32)
 
-# Summary
+### Summary
 
 In this chapter we focused on the use of assessment accommodations for students with disabilities. We noted that standard assessment procedures might not be appropriate for a student with a disability if the assessment requires the students to use an ability that is affected by their disability but is irrelevant to the construct being measured. In these situations it may be necessary for teachers to modify the standard assessment procedures. We gave the example of students with visual handicaps taking a written test of world history. Although the students could not read the material in its standard format, if they could read Braille an appropriate accommodation would be to convert the test to the Braille format. Because the test is designed to measure knowledge of world history, not the ability to read standard print, this would be an appropriate accommodation. The goal of assessment accommodations is not simply to allow the student to obtain a better grade, but to provide the most reliable and valid assessment of the construct of interest. To this end, assessment accommodations should always increase the validity of the score interpretations so they more accurately reflect the student's true standing on the construct being measured.
 
@@ -9222,7 +9197,7 @@ In addition to students with disabilities, it may be appropriate to make assessm
 
 The final topic we address concerned reporting the results of modified assessments. In the context of individual psychological and educational assessments, it is common for the clinician to report any modifications to the standardized assessment procedures. However, in the context of large-scale standardized assessments, there is considerable debate. Some experts recommend the use of flags to denote a score resulting from a modified administration of a test. Proponents of this practice suggest that without the use of flags, individuals interpreting the assessment results will assume that there was a standard administration and interpret the scores accordingly. Opponents of the practice feel that it unfairly labels and stigmatizes students with disabilities and may put them at a disadvantage.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Adaptive devices and supports, p. 408 Alternate assessments, p. 409 Assessment accommodations, p. 396 Autism, p. 401 Developmental delays, p. 402 Emotional disturbance, p. 400
 
@@ -9236,7 +9211,7 @@ Orthopedic impairments, p. 401 Other Health Impaired (OHD), p. Speech disorders,
 
 Traumatic brain injury, p. 402 Visual impairment, p. 402
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 - American Educational Research Association, American Psychological Association, & National Council on Measurement in Education (1999). Standards for educational and psychological testing. Washington, DC: AERA. The Standards provide an excellent discussion of assessment accommodations.
 - Mastergeorge, A. M., & Miyoshi, J. N. (1999). Accommodations for students with disabilities: A teacher's guide (CSE Technical Report 508). Los Angeles: National Center for Research on Evaluation, Standards, and Student Testing. This guide provides some useful information on assessment accommodations specifically aimed toward teachers.
@@ -9251,11 +9226,11 @@ A
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™
 
-# The Problem of Bias in Educational Assessment
+## CHAPTER 16 The Problem of Bias in Educational Assessment
 
 Test bias: In God we trust; all others must have data. —Reynolds (1983)
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 What Do We Mean by Bias? Past and Present Concerns: A Brief Look
 
@@ -9267,17 +9242,17 @@ Objections to the Use of Educational and Psychological Tests with Minority Stude
 
 The Problem of Definition in Test Bias Research: Differential Validity Cultural Loading, Cultural Bias, and Culture-Free Tests Inappropriate Indicators of Bias: Mean Differences and Equivalent Distributions Bias in Test Content Bias in Other Internal Features of Tests Bias in Prediction and in Relation to Variables External to the Test
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
-- 1., Explain the cultural test bias hypothesis.
+- 1. Explain the cultural test bias hypothesis.
 - 2. Describe alternative explanations for observed group differences in performance on aptitude and other standardized tests.
-- Describe the relationship between bias and reliability.
-- Describe the major objections regarding the use of standardized tests with minority students.
-- Describe what is meant by cultural loading, cultural bias, and culture-free tests.
-- Describe the mean difference definition of test bias and its current status.
-- IAM Sw psychological tests. Describe the results of research on the presence of bias in the content of educational and
+- 3. Describe the relationship between bias and reliability.
+- 4. Describe the major objections regarding the use of standardized tests with minority students.
+- 5. Describe what is meant by cultural loading, cultural bias, and culture-free tests.
+- 6. Describe the mean difference definition of test bias and its current status.
+- 7. IAM Sw psychological tests. Describe the results of research on the presence of bias in the content of educational and
 - 8. Describe the results of research on the presence of bias in other internal features of educational and psychological tests.
 - 9. Describe the results of research on bias in prediction and in relation to variables that are external to the test.
 - 10. Explain what is implied by homogeneity of regression and describe the conditions that may result when it is not present.
@@ -9300,28 +9275,31 @@ Bias in mental tests has many implications for individuals including the misplac
 
 Teachers, be they in the elementary and secondary schools or colleges and universi ties, assign grades on the basis of tests or other more subjective evaluations of learning, and Ba Se nae Ce cere ier ate ay
 
-# SPECIAL INTEREST Topic. 16.1 Sex Differences in Intelligence
+**SPECIAL INTEREST Topic. 16.1 Sex Differences in Intelligence**
 
 Research has shown that although there are no significant sex differences in overall intelligence scores, substantial differences exist with regard to specific cognitive abilities. Females typically score higher on a number of verbal abilities whereas males perform better on visual-spatial and (starting in middle childhood) mathematical skills. It is believed that sex hormone levels and social factors both influence the development of these differences. As is typical of group differences in intellectual abilities, the variability in performance within groups (i.e., males and females) is much larger than the mean difference between groups (Neisser et al., 1996). Diane Halpern (1997) has written extensively on gender differences in cognitive abilities. This table briefly summarizes some of her findings.
 
+**TABLE-Selected Abilities on Which Women Obtain Higher Average Scores**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Type of Ability                                                             | Examples                                                                      |
 |-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Rapid access and use of verbal and other information in long-term memory | Verbal fluency, synonym generation, associative memory, spelling, anagrams |
+| Rapid access and use of verbal and other information in long-term memory    | Verbal fluency, synonym generation, associative memory, spelling, anagrams    |
 | Specific knowledge areas                                                    | Literature and foreign languages                                              |
 | Production and comprehension of prose                                       | Writing and reading comprehension                                             |
-| Fine motor tasks                                                            | Matching and coding tasks, pegboard, mirror tracing                        |
+| Fine motor tasks                                                            | Matching and coding tasks, pegboard, mirror tracing                           |
 | School performance                                                          | Most subjects                                                                 |
 |                                                                             |                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-# Selected Abilities on Which Women Obtain Higher Average Scores
 
-### Selected Abilities on Which Men Obtain Higher Average Scores
-
+**TABLE-Selected Abilities on Which Men Obtain Higher Average Scores**
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Type of Ability                                                         | Examples                                                                             |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Transformations of visual working memory, moving objects, and aiming | Mental rotations, dynamic spatiotemporal tasks, accuracy in throwing              |
-| Specific knowledge areas                                                | General knowledge, mathematics, science, and geography                            |
-| Fluid reasoning                                                         | Proportional, mechanical, and scientific reasoning; SAT Math and GRE Quantitative |
+| Transformations of visual working memory, moving objects, and aiming    | Mental rotations, dynamic spatiotemporal tasks, accuracy in throwing                 |
+| Specific knowledge areas                                                | General knowledge, mathematics, science, and geography                               |
+| Fluid reasoning                                                         | Proportional, mechanical, and scientific reasoning; SAT Math and GRE Quantitative    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Note: This table was adopted from Halpern (1997), Appendix (p. 1102).
 
@@ -9333,7 +9311,7 @@ procedure goes down, the likelihood of bias goes up, the two being inversely rel
 
 The purpose of this chapter is to address the issues and findings surrounding the cultural test bias hypothesis in a rational manner and evaluate the validity of the hypothesis, as far as possible, on the basis of existing empirical research. This will not be an easy task because of the controversial nature of the topic and strong emotional overtones. Prior to turning to the reasons that test bias generates highly charged emotions and reviewing some of the history of these issues, it is proper to engage in a discussion of just what we mean by the term bias.
 
-# What Do We Mean by Bias?
+### What Do We Mean by Bias?
 
 Bias carries many different connotations for the lay public and for professionals in a number of disciplines.
 
@@ -9347,17 +9325,17 @@ Other uses of the term bias in research on the cultural test bias hypothesis or 
 
 that are the subject of intense polemic, emotional debate without a mechanism for rational resolution. It is imperative that.the evaluation of bias in tests be undertaken from the standpoint of scholarly inquiry and debate. Emotional appeals, legal—adversarial approaches, and political remedies of scientific issues appear to us to be inherently unacceptable.
 
-# Past and Present Concerns: A Brief Look
+### Past and Present Concerns: A Brief Look
 
 Concern about cultural bias in mental testing has been a recurring issue since the beginning of the use of assessment in education. From Alfred Binet in the 1800s to Arthur Jensen over the last 50 years, many scientists have addressed this controversial problem, with varying, inconsistent outcomes. In the last few decades, the issue of cultural bias has come forth as a major contemporary problem far exceeding the bounds of purely academic debate and professional rhetoric. The debate over the cultural test bias hypothesis has become entangled and sometimes confused within the larger issues of individual liberties, civil rights, and social justice, becoming a focal point for psychologists, sociologists, educators, politicians, minority activists, and the lay public. The issues increasingly have become legal and political. Numerous court cases have been brought and New York state even passed "truth-in-testing" legislation that is being considered in other states and in the federal legislature. Such attempts at solutions are difficult if not impossible. Take for example the legal response to the question "Are intelligence tests used to diagnose mental retardation biased against cultural and ethnic minorities?" In California in 1979 (Larry P. v. Riles) the answer was "'yes" but in Illinois in 1980 (PASE v. Hannon) the response was "no." Thus two federal district courts of equivalent standing have heard nearly identical cases, with many of the same witnesses espousing much the same testimony, and reached precisely opposite conclusions. See Special Interest Topic 16.2 for more information on legal issues surrounding assessment bias.
 
 Though current opinion on the cultural test bias hypothesis is quite divergent, ranging from those who consider it to be for the most part unresearchable (e.g., Schoenfeld, 1974) to those who considered the issue settled decades ago (e.g., Jensen, 1980), it seems clear that empirical analysis of the hypothesis should continue to be undertaken. However difficult full objectivity may be in science, we must make every attempt to view all socially, politically, and emotionally charged issues from the perspective of rational scientific inquiry. We must also be prepared to accept scientifically valid findings as real, whether we like them or not.
 
-#### The Controversy over Bias in Testing: Its Origin, What It Is, and What It Is Not
+### The Controversy over Bias in Testing: Its Origin, What It Is, and What It Is Not
 
 Systematic group differences on standardized intelligence and aptitude tests may occur as a function of socioeconomic level, race or ethnic background, and other demographic variables. Black—white differences on IQ measures have received extensive investigation over the past 50 or 60 years. Although results occasionally differ slightly depending on the age groups under consideration, random samples of blacks and whites show a mean difference
 
-# SPECIAL INTEREST ToPIc 16.2 Courtroom Controversy over IQ Testing in the Public Schools
+**SPECIAL INTEREST ToPIc 16.2 Courtroom Controversy over IQ Testing in the Public Schools**
 
 Largely due to overall mean differences in the performance of various ethnic groups on IQ tests, the use of intelligence tests in the public schools has been the subject of courtroom battles around the United States. Typically such lawsuits argue that the use of intelligence tests as part of the determination of eligibility for special education programs leads to overidentification of certain minorities (traditionally African American and Hispanic children). A necessary corollary to this argument is that the resultant overidentification is inappropriate because the intelligence tests in use are biased, underestimating the intelligence of minority students, and that there is in fact no greater need for special education placement among these ethnic minorities than for other ethnic groups in the population.
 
@@ -9420,7 +9398,7 @@ The controversy over test Test Bias and Etiology. The controversy over test bias
 
 se ee
 
-# SPECIAL INTEREST ToPIc 16.3 Fairness and Bias—A Complex Relationship
+**SPECIAL INTEREST ToPIc 16.3 Fairness and Bias—A Complex Relationship**
 
 The Standards (AERA et al., 1999) present four different ways that fairness is typically used in the context of assessment.
 
@@ -9441,7 +9419,7 @@ Itis unlikely that consensus in society at large or within the measurement commu
 
 Bias and Extraneous Factors. The controversy over the use of mental tests is complicated further by the fact that resolution of the cultural test bias question in either direction will not resolve the problem of the role of nonintellective factors that may influence the test scores of individuals from any group, minority or majority. Regardless of any group differences, it is individuals who are tested and whose scores may or may not be accurate. Similarly, it is individuals who are assigned to classes and accepted or rejected for employment or college admission. Most assessment professionals acknowledge that a number of emotional and motivational factors may impact performance on intelligence tests. The extent to which these factors influence individuals as opposed to group performance is difficult to determine.
 
-# Cultural Bias and the Nature of Psychological Testing
+### Cultural Bias and the Nature of Psychological Testing
 
 The question of cultural bias in testing arises from and is continuously fueled by the very nature of psychological and educational processes and how we measure those processes. Psychological processes are by definition internal to the organism and not subject to direct observation and measurement but must instead be inferred from behavior. It is difficult to determine one-to-one relationships between observable events in the environment, the behavior of an organism, and hypothesized underlying mediational processes. Many classic controversies over theories of learning revolved around constructs such as expectancy, habit, and inhibition. Disputes among different camps in learning were polemical and of long duration. Indeed, there are still disputes as to the nature and number of processes such as emotion and motivation. One of the major areas of disagreement has been over the measurement of psychological processes. It should be expected that intelligence, as one of the most complex psychological processes, would involve definitional and measurement disputes that prove difficult to resolve.
 
@@ -9451,7 +9429,7 @@ The issue of cultural bias arises because of the procedures involved in psycholo
 
 The question of bias must eventually be answered on a virtually test-by-test basis. tests or intelligence tests. Professional opinions of mental tests vary considerably, and some of the most widely used tests are not well respected by psychometricians. Thus, unfortunately, the question of bias must eventually be answered on a virtually test-by-test basis.
 
-# Objections to the Use of Educational and Psychological Tests with Minority Students
+### Objections to the Use of Educational and Psychological Tests with Minority Students
 
 In 1969, the Association of Black Psychologists (ABP) adopted the following official policy on educational and psychological testing (Williams, Dotson, Dow, & Williams, 1980):
 
@@ -9463,27 +9441,27 @@ Subsequent to the ABP's policy statement, other groups adopted similarly stated 
 
 Many potentially legitimate objections to the use of educational and psychological tests with minorities have been raised by black and other minority psychologists. Unfor tunately, these objections are frequently stated as facts on rational rather than empirical grounds. The most frequently stated problems fall into one of the following categories (Reynolds, 2000; Reynolds, Lowe, & Saenz, 1999; Reynolds & Ramsay, 2003).
 
-# Inappropriate Content
+#### Inappropriate Content
 
 Black and other minority children have not been exposed to the material involved in the test questions or other stimulus materials. The tests are geared primarily toward white middle class homes, vocabulary, knowledge, and values. As a result of inappropriate content, the tests are unsuitable for use with minority children.
 
-# Inappropriate Standardization Samples
+#### Inappropriate Standardization Samples
 
 Ethnic minorities are underrepresented in standardization samples used in the collection of normative reference data. As a result of the inappropriate standardization samples, the tests are unsuitable for use with minority children.
 
-# Examiner and Language Bias
+#### Examiner and Language Bias
 
 Because most psychologists are white and speak only standard English, they may intimidate black and other ethnic minorities and so examiner and language bias result. They are also unable accurately to communicate with minority children—to the point of being insensitive to ethnic pronunciation of words on the test. Lower test scores for minorities, then, may reflect only this intimidation and difficulty in the communication process, not lower ability.
 
-# Inequitable Social Consequences
+#### Inequitable Social Consequences
 
 As aresult of bias in educational and psychological tests, minority group members, already at a disadvantage in the educational and vocational markets because of past discrimination, are thought to be unable to learn and are disproportionately assigned to dead-end educational tracks. This represents inequitable social consequences. Labeling effects also fall under this category.
 
-# Measurement of Different Constructs
+#### Measurement of Different Constructs
 
 Related to inappropriate test content mentioned earlier, this position asserts that the tests measure different constructs when used with children from other than the middle-class culture on which the tests are largely based, and thus do not measure minority intelligence validly.
 
-# Differential Predictive Validity
+#### Differential Predictive Validity
 
 Although tests may accurately predict a variety of outcomes for middle-class children, they do not predict successfully any relevant behavior for minority group members. In other words, test usage might result in valid predictions for one group, but invalid predictions in another. This is referred to as differential predictive validity. Further, there are objections to the use of the standard criteria against which tests are validated with minority cultural groups. That is, scholastic or academic attainment levels in white middle-class schools are themselves considered by a variety of black psychologists to be biased as criteria.
 
@@ -9493,9 +9471,7 @@ Minority and majority groups possess aptitude and personality characteristics th
 
 The early actions of the ABP were most instrumental in bringing forward these objections into greater public and professional awareness and subsequently prompted a considerable
 
-# SPECIAL INTEREST TOPIC 16.4
-
-# Stereotype Threat—An Emerging but Controversial Explanation of Group Differences on Various Tests of Mental Abilities
+**SPECIAL INTEREST TOPIC 16.4 Stereotype Threat—An Emerging but Controversial Explanation of Group Differences on Various Tests of Mental Abilities**
 
 pcos EES Steele and Aronson in 1995 posited a unique explanation for group differences on mental test scores. They argued that such differences were created by a variable they deemed "Stereotype Threat." More recently, they defined stereotype threat as follows: "When a negative stereotype about a group that one is part of becomes relevant, usually as an interpretation of one's behavior or an experience one is having, stereotype threat is the resulting sense that one can then be judged or treated in terms of the stereotype or that one might do something that would inadvertently confirm it" (Steele, Spencer, & Aronson, 2002, p. 389). While we find this explanation somewhat vague and lacking specificity for research purposes, in experimental research regarding mental testing outcomes, stereotype threat is most often operationalized as being given a test that is described as diagnostic of one's ability and/or being asked to report one's race prior to testing. Therefore we see two components to the threat—being told one's ability is to be judged on a test of mental ability and secondly, being asked to report one's racial identification, or at least believing it to be relevant in some way to the evaluation of examination results (although some argue either component is sufficient to achieve the effect). Stereotype threat research then goes on to argue, as one example, that if one takes a test of mental ability, but the examinee is told it is not for evaluating the test taker, but to examine the test itself and no racial identifier is requested, then racial group differences in performance on the test will disappear.
 
@@ -9514,7 +9490,7 @@ promoted a considerable amount of research. bringing these issues into greater p
 
 The early actions of the ABP amount of research. When the objections were first raised, very little were most instrumental in data existed to answer these charges. Contrary to the situation decades ago when the current controversy began, research now exists that examines many of these concerns. There is still relatively little research regarding labeling and the long-term social consequences awareness and subsequently bh of testing, and these areas should be investigated using diverse samples and numerous statistical techniques (Reynolds, Lowe, & Saenz, 1999).
 
-# The Problem of Definition in Test Bias Research: Differential Validity
+### The Problem of Definition in Test Bias Research: Differential Validity
 
 Arriving at a consensual definition of test bias has produced considerable as yet unresolved debate among many measurement professionals. Although the resulting debate has generated a number of models from which to examine bias, these models usually focus on the decision-making system and not on the test itself. The concept of test bias per se then resolves to a question of the validity of the proposed interpretation of performance on a test and the estimation of that performance level, that is, the test score. Test bias refers to systematic error in the estimation of some "true" value for a group of individuals. As we noted previously, differential validity is present when a test measures a construct differently for one group than for another. As stated in the Standards (AERA et al., 1999), bias
 
@@ -9524,7 +9500,7 @@ As we discussed in previous chapters, evidence for the validity of test score in
 
 evidence on the cultural test bias hypothesis, the concept of culture-free testing and the definition of mean differences in test scores as test bias merit attention.
 
-# Cultural Loading, Cultural Bias, and Culture-Free Tests
+### Cultural Loading, Cultural Bias, and Culture-Free Tests
 
 Cultural loading and cultural bias are not synonymous terms, though the concepts are frequently confused even in the professional literature. A test or test item can be cultur-
 
@@ -9534,7 +9510,7 @@ ally loaded without being culturally biased. Cultural loading refers Cultural lo
 
 > A number of attempts have been made to develop a culture-free (sometimes referred to as culture fair) intelligence test. However, culture-free tests are generally inadequate from a statistical or psychometric perspective (e.g., Anastasi & Urbina, 1997). It may be that because intelligence is often defined in large part on the basis of behavior judged to be of value to the survival and improvement of the culture and the individuals within that culture, a truly culture-free test would be a poor predictor of intelligent behavior within the cultural setting. Once a test has been developed within a culture (a culture loaded test) its generalizability to other cultures or subcultures within the dominant societal framework becomes a matter for empirical investigation.
 
-# Inappropriate Indicators of Bias: Mean Differences and Equivalent Distributions
+### Inappropriate Indicators of Bias: Mean Differences and Equivalent Distributions
 
 Differences in mean levels of performance on cognitive tasks between two groups historically (and mistakenly) are believed to constitute test bias by a number of writers (e.g., Alley & Foster, 1978; Chinn, 1979; Hilliard, 1979). Those who support mean differences as an indication of test bias state correctly that there is no valid a priori scientific reason to believe that intellectual or other cognitive performance levels should differ across race. It is the inference that tests demonstrating such differences are inherently biased that is faulty. Just as there is no a priori basis for deciding that differences exist, there is no a priori basis for deciding that differences do not exist. From the standpoint of the objective methods of science, a priori or premature acceptance of either hypothesis (differences exist versus differences do not exist) is untenable. As stated in the Standards (AERA et al., 1999):
 
@@ -9550,7 +9526,7 @@ Jensen (1980) discusses the mean differences as bias definition in terms of the 
 
 The belief of many people in the mean differences as bias definition is quite likely related to the nature—nurture controversy at some level. Certainly data reflecting racial differences on various aptitude measures have been interpreted to indicate support for a hypothesis of genetic differences in intelligence and implicating one group as superior to another. Such interpretations understandably call for a strong emotional response and are not defensible from a scientific perspective. Although IQ and other aptitude test score differences undoubtedly occur, the differences do not indicate deficits or superiority by any group, especially in relation to the personal worth of any individual member of a given group or culture.
 
-# Bias in Test Content
+### Bias in Test Content
 
 educational tests has been a popular topic of critics of testing.
 
@@ -9594,7 +9570,7 @@ After identifying the 8 most racially discriminating and 8 least racially discri
 
 From a large number of studies employing a wide range of methodology a relatively clear picture emerges. Content bias in well-prepared standardized tests is irregular in its occurrence, and no common characteristics of items that are found to be biased can be ascertained by expert judges (minority or nonminority). The variance in group score differences on mental tests associated with ethnic group membership when content bias has been found is relatively small (typically ranging from 2% to 5%). Although the search for common biased item characteristics will continue, cultural bias in aptitude tests has found no consistent empirical support in a large number of actuarial studies contrasting the performance of a variety of ethnic and gender groups on items of the most widely employed intelligence scales in the United States. Most major test publishing companies do an adequate job of reviewing their assessments for the presence of content bias. Nevertheless, certain standardized tests have not been examined for the presence of content bias, and research with these tests should continue regarding potential content bias with different ethnic groups (Reynolds & Ramsay, 2003).
 
-# Bias in Other Internal Features of Tests
+### Bias in Other Internal Features of Tests
 
 There is no single method for the accurate determination of the degree to which educational and psychological tests measure a distinct construct. The defining of bias in construct measurement then requires a general statement that can be researched from a variety of viewpoints with a broad range of methodology. The following rather parsimonious definition is proffered:
 
@@ -9624,7 +9600,7 @@ Single-group or differential validity has not been found and likely is not an ex
 
 ing the same construct with equivalent accuracy for blacks, whites, Hispanic, and other American minorities for both sexes. Differential validity or single-group validity has not been found and likely is not an existing phenomenon with regard to well-constructed standardized psychological and educational tests. These tests appear to be reasonably unbiased for the groups investigated, and mean score differences do not appear to be an artifact of test bias (Reynolds & Ramsay, 2003).
 
-# Bias in Prediction and in Relation to Variables External to the Test
+### Bias in Prediction and in Relation to Variables External to the Test
 
 Internal analyses of bias (such as with item content and construct measurement) are less confounded than analyses of bias in prediction due to the potential problems of bias in the criterion measure. Prediction is also strongly influenced by the reliability of criterion measures, which frequently is poor. (The degree of relation between a predictor and a criterion is restricted as a function of the square root of the product of the reliabilities of the two variables.) Arriving at a consensual definition of bias in prediction is also a difficult task. Yet, from the standpoint of the traditional practical applications of aptitude and intelligence tests in forecasting probabilities of future performance levels, prediction is the most crucial use
 
@@ -9642,7 +9618,7 @@ regression is illustrated in Figure 16.1, in which the regression line shown is 
 
 ![](_page_466_Figure_5.jpeg)
 
-### FIGURE 16.1 Equal Slopes and Intercepts
+ FIGURE 16.1 Equal Slopes and Intercepts
 
 Note: Equal slopes and intercepts result in homogeneity of regression in which the regression lines for different groups are the same.
 
@@ -9660,7 +9636,7 @@ Note: Equal slopes with differing intercepts result in parallel regression lines
 
 ![](_page_468_Figure_1.jpeg)
 
-### FIGURE 16.3 Equal Intercepts and Differing Slopes
+FIGURE 16.3 Equal Intercepts and Differing Slopes
 
 Note: Equal intercepts and differing slopes result in nonparallel regression lines, with the degree of bias depending on the distance of an individual's score from the origin.
 
@@ -9698,7 +9674,7 @@ guidelines to follow in order to ensure nonbiased assessment: (1) Assessment sho
 
 Without question, scholars have not conducted all the research that needs to be done to test the cultural test bias hypothesis and its alternatives. A number and variety of criteria need to be explored further before the question of bias is empirically resolved. Many different achievement tests and teacher-made, classroom-specific tests need to be employed in future studies of predictive bias. The entire area of differential validity of tests in the affective domain is in need of greater exploration. A variety of views toward bias have been expressed in many sources; many with differing opinions offer scholarly, nonpolemical attempts directed toward a resolution of the issue. Obviously, the fact that such different views are still held indicates resolution lies in the future. As far as the present situation is concerned, clearly all the evidence is not in. With regard to a resolution of bias, we believe that were a scholarly trial to be held, with a charge of cultural bias brought against mental tests, the jury would likely return the verdict other than guilty or not guilty that is allowed in British law—"not proven." Until such time as a true resolution of the issues can take place, we believe the evidence and positions taken in this chapter accurately reflect the state of our empirical knowledge concerning bias in mental tests.
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Comparative factor analysis, p. 441 Content bias, p. 438 Cultural bias, p. 424 Cultural loading, p. 436 Cultural test bias hypothesis, p. 422 Culture-free tests, p. 436 Differential predictive validity, p. 433 bias, p. 437
 
@@ -9706,7 +9682,7 @@ Examiner and language bias, p. 433 Homogeneity of regression, p. 443 Inappropria
 
 Prediction bias, p. 442 Regression intercepts, p. 444 Regression slopes, p. 444 Test bias, p. 424
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 Cleary, T. A., Humphreys, L. G., Kendrick, S. A., & Wesman, A. (1975). American Psychologist, 30, 15-41. This is the report of a group appointed by the APA's Board of Scientific Affairs to study the use of psychological and
 
@@ -9727,17 +9703,17 @@ Policy, and Law, 6, 144-150. This article provides a particularly good discussio
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter.
 
-# CHAPTER Best Practices in Educational Assessment
+## CHAPTER 17 Best Practices in Educational Assessment
 
 With power comes responsibility!
 
-# CHAPTER HIGHLIGHTS
+### CHAPTER HIGHLIGHTS
 
 Guidelines for Developing Assessments Guidelines for Interpreting, Using, and Guidelines for Selecting Published Assessments Guidelines for Administering Assessments Guidelines for Scoring Assessments
 
 Communicating Assessment Results Responsibilities of Test Takers
 
-# LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 After reading and studying this chapter, students should be able to
 
@@ -9771,7 +9747,7 @@ Although these expectations are explicitly directed toward NCME members, all edu
 
 The Code of Professional Responsibilities in Educational Measurement (NCME, 1995) delineates eight major areas of assessment activity, five of which are most applicable to teachers. These are (1) Developing Assessments; (2) Selecting Assessments; (3) Administering Assessments; (4) Scoring Assessments; and (5) Interpreting, Using, and Communicating Assessment Results. We will use these categories to organize our discussion of best practices in educational assessment, and we will add an additional section, Responsibilities of Test Takers. In addition to the Code of Professional Responsibilities in Educational Measurement (NCME, 1995), the following guidelines reflect a compilation of principles presented in the Standards for Educational and Psychological Testing (AERA et al., 1999), The Student Evaluation Standards (Joint Committee on Standards for Educational Evaluation, 2003), Code of Fair Testing Practices in Education (Joint Committee on Testing Practices, 1988), and the Rights and Responsibilities of Test Takers: Guidelines and Expectations (JCTP, 1998).
 
-# Guidelines for Developing Assessments
+### Guidelines for Developing Assessments
 
 standards and that are valid for the intended purposes (JCTP, 1998).
 
@@ -9805,21 +9781,20 @@ their assessments (discussed in Chapter 6). Teachers should also perform prelimi
 
 procedures outlined in the appropriate chapters. Table 17.1 presents a summary of these guidelines for developing assessments.
 
-#### Guidelines for Selecting Published Assessments
+### Guidelines for Selecting Published Assessments
 
 Although teachers develop the majority of the tests administered in schools, professionally developed standardized assessments are playing an increasingly important role in today's schools. Some of these standardized tests are developed by the state and their administration
 
-### TABLE 17.1 Checklist for Developing Assessments
-
+**TABLE-17.1 Checklist for Developing Assessments**
+|----------------------------------------------------------------------------------------------------------------------------|
 | 1. Have the educational objectives been clearly specified and a table of specifications developed?        |                |
-|--------------------------------------------------------------------------------------------------------------|----------------|
 | 2. Are the assessment procedures appropriate for measuring the learning outcomes?                         |                |
-| 3. Have explicit scoring criteria been developed?                                                            |                |
-| 4, Have clear guidelines for test administration been developed?                                             |                |
+| 3. Have explicit scoring criteria been developed?                                                         |                |
+| 4, Have clear guidelines for test administration been developed?                                          |                |
 | 5. Have accommodations for test takers with disabilities and other special needs been planned?            |                |
 | 6. Has the assessment been reviewed for technical accuracy and potentially insensitive or biased content? |                |
-| SR 7. Have the technical properties of the assessment been evaluated?                                     |                |
-| a                                                                                                            | NIRS HS ERS as |
+| 7. Have the technical properties of the assessment been evaluated?                                        |                |
+|----------------------------------------------------------------------------------------------------------------------------|
 
 is mandated. However, teachers are often involved in the selection and administration of other standardized assessment instruments. As a result, they incur numerous responsibilities associated with this role. The guiding principle, as when developing assessments, is to ensure that the assessments meet high professional standards and are valid for the intended purposes. Here are a few guidelines for selecting assessments that meet professional standards.
 
@@ -9869,24 +9844,23 @@ For example, The Psychological Corporation (2003) includes the following princip
 
 a qualified representative of the organization conducting the assessment; and (e) any request to copy materials must be approved in writing. Examples of breaches in the security of standardized tests include allowing students to examine the test before taking it, using actual items from a test for preparation purposes, making and distributing copies of a test, and allowing test takers to take the test outside of a controlled environment (e.g., allowing them to take the test home to complete it). Table 17.2 provides a summary of these guidelines for selecting published assessments. Special Interest Topic 17.1 provides information about educators who have engaged in unethical and sometimes criminal practices when using standardized assessments.
 
-# Guidelines for Administering Assessments
+### Guidelines for Administering Assessments
 
 So far we have discussed your professional responsibilities related to developing and selecting tests. Clearly, your professional responsibilities do not stop there. Every step of the assessment process has its own important responsibilities, and now we turn to those associated with the administration of assessments. Subsequently we will address responsibilities related to the scoring, interpreting, using, and communicating assessment results. The following guidelines involve your responsibilities when administering assessments.
 
-## TABLE 17.2 Checklist for Selecting Published Assessments
-
+**TABLE 17.2 Checklist for Selecting Published Assessments**
+|----------------------------------------------------------------------------------------------------------------------------|
 | 1. Have the desired interpretations of performance on the selected assessments been validated for the intended purpose? |  |
-|----------------------------------------------------------------------------------------------------------------------------|--|
 | 2. Do the selected assessments have normative data that are representative of the target population?                    |  |
-| 3. Do selected assessments produce reliable results?                                                                       |  |
-| 4. Are interpretations of the selected assessments fair?                                                                   |  |
+| 3. Do selected assessments produce reliable results?                                                                    |  |
+| 4. Are interpretations of the selected assessments fair?                                                                |  |
 | 5. Was the selection process based on a thorough review of the available literature?                                    |  |
 | 6. Are you qualified to administer, score, and interpret the selected assessments?                                      |  |
 | 7. Have you screened assessments for likely misuses and misinterpretations?                                             |  |
-| 8. Have steps been taken to maintain test security?                                                                        |  |
+| 8. Have steps been taken to maintain test security?                                                                     |  |
+|----------------------------------------------------------------------------------------------------------------------------|
 
-# SPECIAL INTEREST ToPIc 17.1 Teachers Cheating?
-
+**SPECIAL INTEREST ToPIc 17.1 Teachers Cheating?**
 Over 50 New York City educators may lose their jobs after an independent auditor produced evidence that they helped students cheat on state tests.
 
 (Hoff, 1999)
@@ -9923,22 +9897,23 @@ process. is reproduced in Appendix D.
 
 this information so they can decide whether they want to take the assessment. If alternative assessments are available, they should also Students and parents should be informed of this. An excellent resource for all test takers is Rights have an opportunity to voice and Responsibilities of Tests Takers: Guidelines and Expectations concerns about the testing developed by the Joint Committee on Testing Practices (1998). This
 
-### TABLE 17.3 Checklist for Administering Assessments
-
+**TABLE 17.3 Checklist for Administering Assessments**
+|----------------------------------------------------------------------------------------------------------------|
 | 1. Did you provide information on the assessment before administering it?                                   |  |
-|----------------------------------------------------------------------------------------------------------------|--|
 | 2. Was the assessment administered in a standardized and fair manner?                                       |  |
 | 3. When appropriate, was the assessment modified to accommodate the needs of test takers with disabilities? |  |
 | 4. Was information provided to students and parents about the rights of test takers?                        |  |
-| 5. Are you qualified and prepared to administer the assessments?                                               |  |
-| 6. Are proper test security measures being followed?                                                           |  |
-|                                                                                                                |  |
+| 5. Are you qualified and prepared to administer the assessments?                                            |  |
+| 6. Are proper test security measures being followed?                                                        |  |
+|                                                                                                             |  |
+|----------------------------------------------------------------------------------------------------------------|
+
 
 Administer Only Those Assessments for Which You Are Qualified by Education and Training. As noted previously, it is important to only select and use tests that you are qualified to use as a result of your education and training. Some assessments require extensive training and supervision before being able to administer them independently.
 
 Maintain Test Security. As noted previously, it is important for individuals selecting, purchasing, and using standardized assessments to maintain the security of the assessments. Table 17.3 provides guidelines for administering assessments.
 
-# Guidelines for Scoring Assessments
+### Guidelines for Scoring Assessments
 
 Make Sure Assessments Are Scored Properly and the Results Are Reported Accurately. It is a teacher's professional responsibility to develop reasonable quality control procedures to ensure that the scoring is accurate. With selected-response items this may
 
@@ -9964,18 +9939,19 @@ can approach the teacher and attempt to address any concerns. This option may pr
 
 Keep Assessment Results Confidential. It is the responsibility of teachers and others who score assessments to keep the results confidential. Although different standards of confidentiality and privacy exist in different settings, it is a teacher's professional and ethical responsibility to take reasonable steps to maintain the confidentiality of assessment results. Table 17.4 provides a summary of the guidelines for scoring assessments.
 
-# TABLE 17.4 Checklist for Scoring Assessments
-
+**TABLE-17.4 Checklist for Scoring Assessments**
+|-----------------------------------------------------------------------------------------------------------------------|
 | 1. Are procedures in place to ensure that assessments are scored properly and the results are reported accurately? |  |
-|-----------------------------------------------------------------------------------------------------------------------|--|
-| 2. Are procedures in place to ensure the scoring is fair?                                                             |  |
-| 3. Are scores reported in a timely manner?                                                                            |  |
+| 2. Are procedures in place to ensure the scoring is fair?                                                          |  |
+| 3. Are scores reported in a timely manner?                                                                         |  |
 | 4. If scoring errors are detected, are the errors corrected and the corrected results provided in a timely manner? |  |
-| 5. Is a reasonable and fair process for appeals in place?                                                             |  |
-| 6. Are assessment results kept confidential?                                                                          |  |
-|                                                                                                                       |  |
+| 5. Is a reasonable and fair process for appeals in place?                                                          |  |
+| 6. Are assessment results kept confidential?                                                                       |  |
+|                                                                                                                    |  |
+|-----------------------------------------------------------------------------------------------------------------------|
 
-# Guidelines for Interpreting, Using, and Communicating Assessment Results
+
+### Guidelines for Interpreting, Using, and Communicating Assessment Results
 
 Use assessment results only for Use Assessment Results Only for the Purposes for Which They the purposes for which they Have Been Validated. When interpreting assessment results, have been validated. the issue of validity is an overriding concern. A primary consideration when interpreting and using assessment results is to determine
 
@@ -9999,7 +9975,7 @@ Explain to Students and Parents How They Are Likely to Be Im-Explain to students
 
 > Develop Procedures so Test Takers Can File Complaints and Have Their Concerns Addressed. Teachers and school administrators should develop procedures whereby students and their parents can file complaints about assessment practices. As we suggested earlier, it is usually desirable to try to address these concerns in an informal manner as opposed to allowing the problem to escalate into a legal challenge. Table 17.5 provides a summary of these guidelines for interpreting, using, and communicating assessment results.
 
-# Responsibilities of Test Takers
+### Responsibilities of Test Takers
 
 So far we have emphasized the rights of students and other test takers and the responsibilities of teachers and other assessment professionals. However, the Standards (AERA et al., 1999) note that students and other test takers also have responsibilities. These responsibilities include the following.
 
@@ -10007,10 +9983,9 @@ Students Are Responsible for Preparing for the Assessment. Students have the rig
 
 Students Are Responsible for Following the Directions of the Individual Administering the Assessment. Students are expected to follow the instructions provided by the individual administering the test or assessment. This includes behaviors such as showing
 
-### TABLE 17.5 Checklist for Interpreting, Using, and Communicating Assessment Results
-
+**TABLE-17.5 Checklist for Interpreting, Using, and Communicating Assessment Results**
+|---------------------------------------------------------------------------------------------------------------------------|
 | 1. Are assessment results used only for purposes for which they have been validated?                                   |  |
-|---------------------------------------------------------------------------------------------------------------------------|--|
 | 2. Did you take into consideration the limitations of the assessment results?                                          |  |
 | 3. Were multiple sources and types of assessment information used when making high-stakes educational decisions?       |  |
 | 4. Have you considered personal factors or extraneous events that might have influenced test performance?              |  |
@@ -10018,7 +9993,8 @@ Students Are Responsible for Following the Directions of the Individual Administ
 | 6. Are results communicated in an easily understandable and timely manner?                                             |  |
 | 7. Have you explained to students and parents how they are likely to be impacted by assessment results?                |  |
 | 8. Have you informed students and parents how long the scores will be retained and who will have access to the scores? |  |
-| a 9. Have you developed procedures so test takers can file complaints and have their concerns addressed?         |  |
+| a 9. Have you developed procedures so test takers can file complaints and have their concerns addressed?               |  |
+|---------------------------------------------------------------------------------------------------------------------------|
 
 up on time for the assessment, starting and stopping when instructed to do so, and recording responses as requested.
 
@@ -10032,21 +10008,19 @@ Students are responsible for Students Are Responsible for Behaving in an Academi
 
 > Students Should Respect the Copyright Rights of Test Publishers. Students should not make copies or in any other way reproduce assessment materials.
 
-# TABLE 17.6 Responsibilities of Test Takers
+**TABLE-17.6 Responsibilities of Test Takers**
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Students are responsible for preparing for the assessment.                                                                                                          |
+| 2. Students are responsible for following the directions of the individual administering the assessment.                                                               |
+| 3. Students are responsible for acting in an academically honest manner.                                                                                               |
+| 4. Students are responsible for not interfering with the performance of other students.                                                                                |
+| 5. Students are responsible for informing the teacher or another professional if they believe the assessment results do not adequately represent their true abilities. |
+| 6. Students should respect the copyright rights of test publishers.                                                                                                    |
+| 7. Students should not disclose information about the contents of a test.                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-- 1. Students are responsible for preparing for the assessment.
-- 2. Students are responsible for following the directions of the individual administering the assessment.
-- 3. Students are responsible for acting is an academically honest manner.
-- 4. Students are responsible for not interfering with the performance of other students.
-- 5. Students are responsible for informing the teacher or another professional if they believe the assessment results do not adequately represent their true abilities. QL NS a I IS
-- 6. Students should respect the copyright rights of test publishers.
-- 7. Students should not disclose information about the contents of a test.
 
-# SPECIAL INTEREST TOPIC. 17.2
-
-# Steps to Prevent Student Cheating
-
-REE
+**SPECIAL INTEREST TOPIC. 17.2 Steps to Prevent Student Cheating**
 
 Linn and Gronlund (2000) provide the following suggestions to help prevent cheating in your classroom.
 
@@ -10061,7 +10035,7 @@ Linn and Gronlund (2000) provide the following suggestions to help prevent cheat
 
 Students Should Not Disclose Information about the Contents of a Test. In addition to not making copies of an assessment, students should refrain from divulging in any other manner information about the contents of a test. For example, they should not give other students information about what to expect on a test. This is tantamount to cheating. Table 17.6 provides a summary of the responsibilities of test takers.
 
-#### Summary and Top 12 Assessment-Related Behaviors to Avoid
+### Summary and Top 12 Assessment-Related Behaviors to Avoid
 
 In this chapter we discussed the teacher's responsibility to ensure that the assessments they use, whether professional tests or teacher constructed, are developed, administered, scored, and interpreted in a technically, ethically, and legally sound manner. We are sometimes
 
@@ -10082,7 +10056,7 @@ asked , 'Now that you have told us we should do, what things should we avoid?" T
 
 In closing, we hope you enjoy a successful and rewarding career as an educational professional. Remember, "Our children are our future!"
 
-# KEY TERMS AND CONCEPTS
+### KEY TERMS AND CONCEPTS
 
 Academic honesty, p. 464 Code of Fair Testing Practices in Education (JCTP, 1988), p. 451 Code of Professional Responsibilities in Educational Measurement (NCME, 1995), p. 451 Education Week, p. 456 etal., 1999), p. 451
 
@@ -10090,7 +10064,7 @@ Mental Measurements Yearbook (MMY), p. 455 Rights and Responsibilities of Test T
 
 The Student Evaluation Standards (JCSEE, 2003), p. 451 Test Critiques, p. 456 Test Reviews Online, p. 456 Tests, p. 455 Test security, p. 456 Tests in Print (TIP), p. 455
 
-# RECOMMENDED READINGS
+### RECOMMENDED READINGS
 
 American Educational Research Association, American Psychological Association, & National Council on Measurement in Education (1999). Standards for edu cational and psychological testing. Washington, DC:
 
@@ -10110,11 +10084,10 @@ Educational Assessment of Students (AFT, NCME, & NEA, 1990)
 
 Go to www.pearsonhighered.com/reynolds2e to view a PowerPoint™ presentation and to listen to an audio lecture about this chapter.
 
-# APPENDIX A
+## APPENDIX A
+### Summary Statements of The Student Evaluation Standards
 
-# Summary Statements of The Student Evaluation Standards
-
-# Propriety Standards
+#### Propriety Standards
 
 The propriety standards help ensure that student evaluations will be conducted legally, ethically, and with due regard for the well-being of the students being evaluated and other people affected by the evaluation results. These standards are as follows:
 
@@ -10132,7 +10105,7 @@ P6. Balanced Evaluation: Evaluations of students should provide information that
 
 P7. Conflict of Interest: Conflicts of interest should be avoided, but if present should be dealt with openly and honestly, so that they do not compromise evaluation processes and results.
 
-# Utility Standards
+#### Utility Standards
 
 The utility standards help ensure that student evaluations are useful. Useful student evaluations are in formative, timely, and influential. Standards that support usefulness are as follows:
 
@@ -10150,7 +10123,7 @@ U6. Effective Reporting: Student evaluation reports should be clear, timely, acc
 
 U7. Follow-Up: Student evaluations should include procedures for follow-up, so that students, parents/guardians, and other legitimate users can understand the information and take appropriate follow-up actions.
 
-# Feasibility Standards
+#### Feasibility Standards
 
 The feasibility standards help ensure that student evaluations can be implemented as planned. Feasible evaluations are practical, diplomatic, and adequately supported. These standards are as follows:
 
@@ -10160,7 +10133,7 @@ F2. Political Viability: Student evaluations should be planned and conducted wit
 
 F3. Evaluation Support: Adequate time and resources should be provided for student evaluations, so that evaluations can be effectively planned and implemented, their results fully communicated, and appropriate follow-up activities identified.
 
-# Accuracy Standards
+#### Accuracy Standards
 
 The accuracy standards help ensure that a student evaluation will produce sound information about a student's learning and performance. Sound information leads to valid interpretations, justifiable conclusions, and appropriate follow-up. These standards are as follows:
 
@@ -10188,9 +10161,9 @@ All. Metaevaluation: Student evaluation procedures should be examined periodical
 
 Source: Joint Committee on Standards for Educational Evaluation (2003). The student evaluation standards. Thousand Oaks, CA: Corwin Press. ;
 
-# APPENDIX B
+## APPENDIX B
 
-# Code of Professional Responsibilities in Educational Measurement
+### Code of Professional Responsibilities in Educational Measurement
 
 As an organization dedicated to the improvement of measurement and evaluation practice in education, the National Council on Measurement in Education (NCME) has adopted this Code to promote professionally responsible practice in educational measurement. Professionally responsible practice is conduct that arises from either the professional standards of the field, general ethical principles, or both.
 
@@ -10215,7 +10188,7 @@ The Code enumerates professional responsibilities in eight major areas of assess
 
 Although the organization of the Code is based on the differentiation of these activities, they are viewed as highly interrelated, and those who use this Code are urged to consider the Code in its entirety. The index following this Code provides a listing of some of the critical interest topics within educational measurement that focus on one or more of the assessment activities.
 
-# General Responsibilities
+### General Responsibilities
 
 The professional responsibilities promulgated in this Code in eight major areas of assessment activity are based on expectations that NCME members involved in educational assessment will:
 
@@ -10233,7 +10206,7 @@ It is not the intention of NCME to enforce the professional responsibilities sta
 
 Since the Code provides a frame of reference for the evaluation of the appropriateness of behavior, NCME recognizes that the Code may be used in legal or other similar proceedings.
 
-# Section 1: Responsibilities of Those Who Develop Assessment Products and Services
+#### Section 1: Responsibilities of Those Who Develop Assessment Products and Services
 
 Those who develop assessment products and services, such as classroom teachers and other assessment specialists, have a professional responsibility to strive to produce assessments that are of the highest quality. Persons who develop assessments have a professional responsibility to:
 
@@ -10249,7 +10222,7 @@ Those who develop assessment products and services, such as classroom teachers a
 - 1.10 Correct any substantive inaccuracies in assessments or their support materials as soon as feasible.
 - 1.11 Develop score reports and support materials that promote the understanding of assessment results.
 
-# Section 2: Responsibilities of Those Who Market and Sell Assessment Products and Services
+#### Section 2: Responsibilities of Those Who Market and Sell Assessment Products and Services
 
 The marketing of assessment products and services, such as tests and other instruments, scoring services, test preparation services, consulting, and test interpretive services, should be based on information that is accurate, complete, and relevant to those considering their use. Persons who market and sell assessment products and services have a professional responsibility to:
 
@@ -10267,7 +10240,7 @@ The marketing of assessment products and services, such as tests and other instr
 - 2.12 Avoid making claims that assessment products and services have been endorsed by another organization unless an official endorsement has been obtained.
 - 2.13 Avoid marketing test preparation products and services that may cause individuals to receive scores that misrepresent their actual levels of attainment.
 
-# Section 3: Responsibilities of Those Who Select Assessment Products and Services
+#### Section 3: Responsibilities of Those Who Select Assessment Products and Services
 
 Those who select assessment products and services for use in educational settings, or help others do so, have important professional responsibilities to make sure that the assessments are appropriate for their intended use. Persons who select assessment products and services have a professional responsibility to:
 
@@ -10280,7 +10253,7 @@ Those who select assessment products and services for use in educational setting
 - SPY Immediately disclose any attempts by others to exert undue influence on the assessment selec tion process.
 - 3.8 Avoid recommending, purchasing, or using test preparation products and services that may cause individuals to receive scores that misrepresent their actual levels of attainment.
 
-# Section 4: Responsibilities of Those Who Administer Assessments
+#### Section 4: Responsibilities of Those Who Administer Assessments
 
 Those who prepare individuals to take assessments and those who are directly or indirectly involved in the administration of assessments as part of the educational process, including teachers, administrators, and assessment personnel, have an important role in making sure that the assessments are administered in a fair and accurate manner. Persons who prepare others for, and those who administer, assessments have a professional responsibility to:
 
@@ -10296,7 +10269,7 @@ Those who prepare individuals to take assessments and those who are directly or 
 - 4.10 Protect the rights to privacy and due process of those who are assessed.
 - 4.11 Avoid actions or conditions that would permit or encourage individuals or groups to receive scores that misrepresent their actual levels of attainment.
 
-# Section 5: Responsibilities of Those Who Score Assessments
+#### Section 5: Responsibilities of Those Who Score Assessments
 
 The scoring of educational assessments should be conducted properly and efficiently so that the results are reported accurately and in a timely manner. Persons who score and prepare reports of assessments have a professional responsibility to:
 
@@ -10309,7 +10282,7 @@ The scoring of educational assessments should be conducted properly and efficien
 - Bhi Release summary results of the assessment only to those persons entitled to such information by state or federal law or those who are designated by the party contracting for the scoring services.
 - 5.8 Establish, where feasible, a fair and reasonable process for appeal and rescoring the assessment.
 
-# Section 6: Responsibilities of Those Who Interpret, Use, and Communicate Assessment Results
+#### Section 6: Responsibilities of Those Who Interpret, Use, and Communicate Assessment Results
 
 The interpretation, use, and communication of assessment results should promote valid inferences and minimize invalid ones. Persons who interpret, use, and communicate assessment results have a professional responsibility to:
 
@@ -10325,7 +10298,7 @@ The interpretation, use, and communication of assessment results should promote 
 - 6.10 Report any apparent misuses of assessment information to those responsible for the assessment process.
 - 6.11 Protect the rights to privacy of individuals and institutions involved in the assessment process.
 
-# Section 7: Responsibilities of Those Who Educate Others about Assessment
+#### Section 7: Responsibilities of Those Who Educate Others about Assessment
 
 The process of educating others about educational assessment, whether as part of higher education, professional development, public policy discussions, or job training, should prepare individuals to understand and engage in sound measurement practice and to become discerning users of tests and test results. Persons who educate or inform others about assessment have a professional responsibility to:
 
@@ -10339,7 +10312,7 @@ The process of educating others about educational assessment, whether as part of
 - 7.8 Model responsible assessment practice and help those receiving instruction to learn about their professional responsibilities in educational measurement.
 - 7.9 Provide fair and balanced perspectives on assessment issues being discussed by policymakers, parents, and other citizens.
 
-# Section 8: Responsibilities of Those Who Evaluate Educational Programs and Conduct Research on Assessments
+#### Section 8: Responsibilities of Those Who Evaluate Educational Programs and Conduct Research on Assessments
 
 Conducting research on or about assessments or educational programs is a key activity in helping to improve the understanding and use of assessments and educational programs. Persons who engage in the evaluation of educational programs or conduct research on assessments have a professional responsibility to:
 
@@ -10353,13 +10326,13 @@ Conducting research on or about assessments or educational programs is a key act
 - 8.8 Use multiple sources of relevant information in conducting evaluation and research activities whenever possible.
 - 8.9 Comply with applicable standards for protecting the rights of participants in an evaluation or research study, including the rights to privacy and informed consent.
 
-# Afterword
+### Afterword
 
 As stated at the outset, the purpose of the Code of Professional Responsibilities in Educational Measurement is to serve as a guide to the conduct of NCME members who are engaged in any type of assessment activity in education. Given the broad scope of the field of educational assessment as well as the variety of activities in which professionals may engage, it is unlikely that any code will cover the professional responsibilities involved in every situation or activity in which assessment is used in education. Ultimately, it is hoped that this Code will serve as the basis for ongoing discussions about
 
 what constitutes professionally responsible practice. Moreover, these discussions will undoubtedly identify areas of practice that need further analysis and clarification in subsequent editions of the Code. To the extent that these discussions occur, the Code will have served its purpose.
 
-# Index to the Code of Professional Responsibilities in Educational Measurement
+### Index to the Code of Professional Responsibilities in Educational Measurement
 
 This index provides a list of major topics and issues addressed by the responsibilities in each of the eight sections of the Code. Although this list is not intended to be exhaustive, it is intended to serve as a reference source for those who use this Code.
 
@@ -10367,9 +10340,9 @@ Advertising: 1.9, 1.10, 2.3, 2.11, 2.12 Bias: 1.2, 3.5, 4.5, 4.7, 5.3, 8.4 Cheat
 
 Source: Code of professional responsibilities in educational measurement. Prepared by the NCME Ad Hoc Com mittee on the Development of a Code of Ethics: Cynthia B. Schmeiser, ACT—Chair; Kurt F. Geisinger, State University of New York; Sharon Johnson-Lewis, Detroit Public Schools; Edward D. Roeber, Council of Chief State School Officers; William D. Schafer, University of Maryland. Copyright 1995 National Council on Measurement in Education. Any portion of this Code may be reproduced and disseminated for educational purposes.
 
-# | APPENDIX C
+## APPENDIX C
 
-# Code of Fair Testing Practices in Education
+### Code of Fair Testing Practices in Education
 
 The Code of Fair Testing Practices in Education states the major obligations to test takers of professionals who develop or use educational tests. The Code is meant to apply broadly to the use of tests in education (admissions, educational assessment, educational diagnosis, and student placement). The Code is not designed to cover employment testing, licensure or certification testing, or other types of testing. Although the Code has relevance to many types of educational tests, it is directed primarily at professionally developed tests such as those sold by commercial test publishers or used in formally administered testing programs. The Code is not intended to cover tests made by individual teachers for use in their own classrooms.
 
@@ -10386,11 +10359,11 @@ The Code presents standards for educational test developers and users in four ar
 
 Organizations, institutions, and individual professionals who endorse the Code commit themselves to safeguarding the rights of test takers by following the principles listed. The Code is intended to be consistent with the relevant parts of the Standards for Educational and Psychological Testing (AERA, APA, NCME, 1985). However, the Code differs from the Standards in both audience and purpose. The Code is meant to be understood by the general public; it is limited to educational tests; and the primary focus is on those issues that affect the proper use of tests. The Code is not meant to add new principles over and above those in the Standards or to change the meaning of the Standards. The goal is rather to represent the spirit of a selected portion of the Standards in a way that is meaningful to test takers and/or their parents or guardians. It is the hope of the Joint Committee that the Code will also be judged to be consistent with existing codes of conduct and standards of other professional groups who use educational tests.
 
-# A. Developing/Selecting Appropriate Tests\*
+### A. Developing/Selecting Appropriate Tests\*
 
 Test developers should provide the information that test users need to select appropriate tests.
 
-### Test Developers Should:
+#### Test Developers Should:
 
 1. Define what each test measures and what the test should be used for. Describe the population(s) for which the test is appropriate.
 
@@ -10408,11 +10381,11 @@ Test developers should provide the information that test users need to select ap
 
 8. Identify and publish any specialized skills needed to administer each test and to interpret scores correctly.
 
-# B. Interpreting Scores
+### B. Interpreting Scores
 
 Test developers should help users interpret scores correctly.
 
-### Test Developers Should:
+#### Test Developers Should:
 
 9. Provide timely and easily understood score reports that describe test performance clearly and accurately. Also, explain the meaning and limitations of reported scores.
 
@@ -10438,8 +10411,6 @@ Test users should select tests that meet the purpose for which they are to be us
 
 Test users should interpret scores correctly.
 
-### Test Users Should:
-
 9. Obtain information about the scale used for reporting scores, the characteristics of any norms or comparison group(s), and the limitations of the scores.
 
 \*Many of the statements in the Code refer to the selection of existing tests. However, in customized testing pro grams test developers are engaged to construct new tests. In those situations, the test development process should be designed to help ensure that the completed tests will be in compliance with the Code.
@@ -10460,7 +10431,7 @@ Test users should interpret scores correctly.
 
 13. Obtain evidence to help show that the test is meeting its intended purpose(s).
 
-# C. Striving for Fairness
+### C. Striving for Fairness
 
 Test developers should strive to make tests that are as fair as possible for test takers of different races, gender, ethnic backgrounds, or different handicapping conditions.
 
@@ -10474,7 +10445,7 @@ Test developers should strive to make tests that are as fair as possible for tes
 
 Test users should select tests that have been developed in ways that attempt to make them as fair as possible for test takers of different races, gender, ethnic backgrounds, or handicapping conditions.
 
-### Test Users Should:
+#### Test Users Should:
 
 14. Evaluate the procedures used by test developers to avoid potentially insensitive content or language.
 
@@ -10482,11 +10453,11 @@ Test users should select tests that have been developed in ways that attempt to 
 
 16. When necessary and feasible, use appropriately modified forms or administration procedures for test takers with handicapping conditions. Interpret standard norms with care in the light of the modifications that were made.
 
-# D. Informing Test Takers
+### D. Informing Test Takers
 
 Under some circumstances, test developers have direct communication with test takers. Under other circumstances, test users communicate directly with test takers. Whichever group communicates directly with test takers should provide the information described below.
 
-### Test Developers or Test Users Should:
+#### Test Developers or Test Users Should:
 
 17. When atest is optional, provide test takers or their parents/guardians with information to help them judge whether the test should be taken, or if an available alternative to the test should be used.
 
@@ -10506,11 +10477,11 @@ Whichever group has direct control of tests and test scores should take the step
 
 Source: Code of fair testing practices in education. (1988). Washington, DC: Joint Committee on Testing Prac tices. (Mailing address: Joint Committee on Testing Practices, American Psychological Association, 1200 17th Street NW, Washington, DC 20036.) '
 
-# APPENDIX D ne
+## APPENDIX D ne
 
-# Rights and Responsibilities of Test Takers: Guidelines and Expectations
+### Rights and Responsibilities of Test Takers: Guidelines and Expectations
 
-# Preamble
+#### Preamble
 
 &
 
@@ -10535,9 +10506,9 @@ Testing (American Educational Research Association, American Psychological Assoc
 - National Association of School Psychologists. (1992). Standards for the provision of school psychological services. Author: Silver Springs, MD.
 - National Council on Measurement in Education. (1995). Code of professional responsibilities in educational measurement. Washington, DC: Author.
 
-# Rights and Responsibilities of Test Takers
+### Rights and Responsibilities of Test Takers
 
-### As a Test Taker, You Have the Right To:
+#### As a Test Taker, You Have the Right To:
 
 - 1. Be informed of your rights and responsibilities as a test taker.
 - 2. Be treated with courtesy, respect, and impartiality, regardless of your age, disability, ethnicity, gender, national origin, religion, sexual orientation or other personal characteristics.
@@ -10562,8 +10533,7 @@ Testing (American Educational Research Association, American Psychological Assoc
 - Inform appropriate person(s), as specified to you by the organization responsible for testing, if you believe that testing conditions affected your results.
 - Ask about the confidentiality of your test results, if this aspect concerns you.
 - 10. Present concerns about the testing process or results in a timely, respectful way, if you have any.
-
-# The Rights of Test Takers: Guidelines for Testing Professionals
+#### The Rights of Test Takers: Guidelines for Testing Professionals
 
 Test takers have the rights described below. It is the responsibility of the professionals involved in the testing process to ensure that test takers receive these rights.
 
@@ -10624,7 +10594,7 @@ Test takers have the rights described below. It is the responsibility of the pro
 - c. Inform test takers if their test results are under investigation and may be canceled, invalidated, or not released for normal use. In such an event, that investigation should be performed in a timely manner. The investigation should use all available information that addresses the reason(s) for the investigation, and the test taker should also be informed of the information that he/she may need to provide to assist with the investigation.
 - d. Inform the test taker, if that test taker's test results are canceled or not released for normal use, why that action was taken. The test taker is entitled to request and receive information on the types of evidence and procedures that have been used to make that determination.
 
-# The Responsibilities of Test Takers: Guidelines for Testing Professionals
+#### The Responsibilities of Test Takers: Guidelines for Testing Professionals
 
 Testing professionals should take steps to ensure that test takers know that they have specific responsibilities in addition to their rights described above.
 
@@ -10658,9 +10628,9 @@ Testing professionals should take steps to ensure that test takers know that the
 
 Source: Test Taker Rights and Responsibilities Working Group of the Joint Committee on Testing Practices. (1998, August). The rights and responsibilities of test takers: Guidelines and expectations. Washington, DC: As sociation Psychological Association.
 
-# APPENDIX E
+## APPENDIX E
 
-# Standards for Teacher Competence in Educational Assessment of Students
+### Standards for Teacher Competence in Educational Assessment of Students
 
 The professional education associations began working in 1987 to develop standards for teacher competence in student assessment out of concern that the potential educational benefits of student assessments be fully realized. The Committee appointed to this project completed its work in 1990, following reviews of earlier drafts by members of the measurement, teaching, and teacher preparation and certification communities. Parallel committees of affected associations are encouraged to develop similar statements of qualifications for school administrators, counselors, testing directors, supervisors, and other educators in the near future. These statements are intended to guide the preservice and inservice preparation of educators, the accreditation of preparation programs, and the future certification of all educators.
 
@@ -10675,13 +10645,13 @@ By establishing standards for teacher competence in student assessment, the asso
 
 The standards should be incorporated into future teacher training and certification programs. Teachers who have not had the preparation these standards imply should have the opportunity and support to develop these competencies before the standards enter into the evaluation of these teachers.
 
-# The Approach Used to Develop the Standards
+#### The Approach Used to Develop the Standards
 
 The members of the associations that supported this work are professional educators involved in teaching, teacher education, and student assessment. Members of these associations are concerned about the inadequacy with which teachers are prepared for assessing the educational progress of their students, and thus sought to address this concern effectively. A committee named by the associations first met in September 1987 and affirmed its commitment to defining standards for teacher preparation in student assessment. The committee then undertook a review of the research literature to identify needs in student assessment, current levels of teacher training in student assessment, areas of teacher activities requiring competence in using assessments, and current levels of teacher competence in student assessment.
 
 The members of the committee used their collective experience and expertise to formulate and then revise statements of important assessment competencies. Drafts of these competencies went through several revisions by the Committee before the standards were released for public review. Comments by reviewers from each of the associations were then used to prepare a final statement.
 
-# The Scope of a Teacher's Professional Role and Responsibilities for Student Assessment
+#### The Scope of a Teacher's Professional Role and Responsibilities for Student Assessment
 
 There are seven standards in this document. In recognizing the critical need to revitalize classroom assessment, some standards focus on classroom-based competencies. Because of teachers' growing roles in education and policy decisions beyond the classroom, other standards address assessment competencies underlying teacher participation in decisions related to assessment at the school, district, state, and national levels.
 
@@ -10703,7 +10673,7 @@ The scope of a teacher's professional role and responsibilities for student asse
 - (e) Motivating students to learn; and
 - (f) Judging the extent of pupil attainment of instructional outcomes.
 
-### Activities Occurring after the Appropriate Instructional Segment (e.g., lesson, class, semester, grade)
+#### Activities Occurring after the Appropriate Instructional Segment (e.g., lesson, class, semester, grade)
 
 - (a) Describing the extent to which each pupil has attained both short and long-term instructional goals;
 - (b) Communicating strengths and weaknesses based on assessment results to students, and parents or guardians;
@@ -10712,14 +10682,14 @@ The scope of a teacher's professional role and responsibilities for student asse
 - (e) Evaluating the effectiveness of instruction; and
 - (f) Evaluating the effectiveness of the curriculum and materials in use.
 
-## Activities Associated with a Teacher's Involvement in School Building and School District Decision Making
+#### Activities Associated with a Teacher's Involvement in School Building and School District Decision Making
 
 - (a) Serving on a school or district committee examining the school's and district's strengths and weaknesses in the development of its students;
 - (b) Working on the development or selection of assessment methods for school building or school district use;
 - (c) Evaluating school district curriculum; and
 - (d) Other related activities.
 
-### Activities Associated with a Teacher's Involvement in a Wider Community of Educators
+#### Activities Associated with a Teacher's Involvement in a Wider Community of Educators
 
 - (a) Serving on a state committee asked to develop learning goals and associated assessment methods;
 - (b) Participating in reviews of the appropriateness of district, state, or national student goals and associated assessment methods; and
@@ -10729,7 +10699,7 @@ Each standard that follows is an expectation for assessment knowledge or skill t
 
 The standards represent a conceptual framework or scaffolding from which specific skills can be derived. Work to make these standards operational will be needed even after they have been published. It is also expected that experience in the application of these standards should lead to their improvement and further development.
 
-# Standards for Teacher Competence in Educational Assessment of Students
+### Standards for Teacher Competence in Educational Assessment of Students
 
 1. Teachers should be skilled in choosing assessment methods appropriate for instructional decisions. Skills in choosing appropriate, useful, administratively convenient, technically adequate, and fair assessment methods are prerequisite to good use of information to support instructional decisions. Teachers need to be well-acquainted with the kinds of information provided by a broad range of assessment alternatives and their strengths and weaknesses. In particular, they should be familiar with criteria for evaluating and selecting assessment methods in light of instructional plans.
 
@@ -10773,7 +10743,7 @@ Source: Standards for teacher competence in educational assessment of students. 
 
 e
 
-#### = | UO Y "S = © © N Z. Y Sa ———) S i SS
+= | UO Y "S = © © N Z. Y Sa ———) S i SS
 
 ![](_page_520_Figure_2.jpeg)
 
@@ -10814,11 +10784,11 @@ e
 | (q)              | Zi)     FA               | =   - | C86v" OR ZS | C867" COT        | v86r" £867" v67 67 | v86r" S6T | S867 96°C | S867 LOT | 9867" 86°C | 9867 66° | L86v" 00°€ | L86v"  | L86v" COE | 8867 £0°€ | 8867 vO'E | 6867   | 6867 6867" 90'E LOE | 0667" 80°€  | 0667" 60°€ | 0667" Ore | 1667" | 1667" | 1667" | C66"  | C66"  | c66r OTE |                            |  |
 | (e) TH ATavVL | ie ane jo penunuo) a, | Za          | 167               |                     |                             |              |              |             |               |             |               | 10'€   |              |              |              | SOE    |                              |                |               |              | Tie   | cle   | ele   | ve    | Sve   |             | £000" 8°we Lo6v C66v" LIES |  |
 
-# APPENDIX G
+## APPENDIX G
 
-# Answers to Practice Problems
+### Answers to Practice Problems
 
-# Chapter 2
+#### Chapter 2
 
 1. Calculate the mean, variance, and standard deviation for the following score distributions.
 
@@ -10829,8 +10799,7 @@ e
 | SD = 1.8427    | SDi=32.276       | SD = 2.104       |
 
 2. Calculate the Pearson Correlation Coefficient for the following pairs of scores. Sample 1: r = 0.631 Sample 2: r = 0.886 Sample 3: r = 0.26
-
-# Chapter 3
+#### Chapter 3
 
 1. Transform the following raw scores to the specified standard score formats. The raw score distribution has a mean of 70 and a standard deviation of 10.
 
@@ -10841,7 +10810,7 @@ e
 |    | d. Raw score = 95 |  | z-score =      | 2.5 | T-score = 75 |
 | e. | Raw score = 75    |  | z-score =      | 0.5 | T-score = 55 |
 
-### 2. Convert the following z-scores to T-scores and CEEB scores.
+ 2. Convert the following z-scores to T-scores and CEEB scores.
 
 | a. z-score =      | 1.5 | T-score = 65 | CEEB score = 650 |  |
 |-------------------|-----|--------------|------------------|--|
@@ -10850,7 +10819,7 @@ e
 | d. z-score = —2.0 |     | T-score = 30 | CEEB score = 300 |  |
 | e. z-score = —1.7 |     | T-score = 33 | CEEB score = 330 |  |
 
-# Chapter 4
+#### Chapter 4
 
 1. Calculating KR 20:
 
@@ -10896,7 +10865,7 @@ $$
 =  $1.25 \times (0.7568)$   
 = 0.946
 
-# REFERENCES
+## REFERENCES
 
 - Achenbach, T. M. (1991a). Manual for the Child Behavior Checklists/4—18 and 1991 profile. Burlington: University of Vermont, Department of Psychiatry.
 - Achenbach, T. M. (1991b). Manual for the Teacher's Report Form and 1991 profile. Burlington: University of Vermont, Department of Psychiatry.
@@ -11203,13 +11172,10 @@ Linear regression, 54, 135 Linear transformation, 69 Mainstreaming, 17 Marks, 27
 
 Naglieri Nonverbal Ability Test— Multilevel Form (NNAT— Multilevel Form), 332 Nation Under Risk: The Imperative for Educational Reform, 301 National Assessment of Educational Progress (NAEP), 302-303 National Commission on Excellence in Education, 301 National Council on Measurement in Education, 22, 451 National Education Association, 22 National testing programs, 304 "Nation's Report Card,' 303
 
-# 516 INDEX
-
 Nature—nurture controversy, 437 Negative discrimination values, 152 Negative suggestion effect, 215 No Child Left Behind Act, 15-17, 302 support and criticism, 17 Nonstandard administration flags, 415, 417 Nontest behaviors, 11, 13 Normal curve, 116 Normal curve equivalent (NCE), 76 Normative data, 62-63 Norms, 63-64 "Norms tables," 64
 
 Objectives affective, 175 behavioral, 177 cognitive, 172 nonbehavioral, 177 psychomotor, 176 Odd-even approach, 99 Optimal item difficulty level, 149 Oral testing, 223 Orthopedic impairments, 401 Other Health Impaired (OHD), 401 Otis-Lennon School Ability Test, 8th Edition (OLSAT 8), 332, 341
 
-#### p, 149
 
 PASE vy. Hannon, 425-427 Parent conferences, 295 Parent Monitor Ratings, 383 Pearson, Karl, 51 Percentile rank, 77 Performance Assessments for ITBS, ITED, and TAP, 309 Performance-based standards, 81 Performance tasks, 252 Personality, 4, 6, 371-372 assessment in schools, 373 Placement decisions, 21 Policy decisions, 21 Population parameters, 44 Portfolio(s), 185, 268-273 assessments, 268-273 guidelines for developing, 269-271 strengths and weaknesses of, 271-272 best work, 269 evaluation, 270 growth, 270
 
@@ -11217,7 +11183,6 @@ learning-progress, 270 representative, 269 Prediction, 54 Predictive studies, 13
 
 Qualitative approach, 164 Qualitative descriptions, 85-86 Quantitative approach, 164
 
-### re52
 
 Range restriction, 111 Rating scales, 258 behavior, 375 omnibus, 382 single-domain, 383 syndrome-specific, 383 strengths and limitations, 375-376 Ratio IQ, 72 Reading First Initiative, 16 Reading Proficiency Test in English (RPTE) 313 Reducing test anxiety, 190 Referenced groups, 63 Regression equation, 136 intercepts, 444 linear, 54 slopes, 444 Reliability, 4, 91 alternate form, 96, 98 coefficient, 95 evaluating, 107-109 selecting, 105-106
 
@@ -11225,7 +11190,6 @@ decay, 262 improving, 109-111 internal consistency, 96, 98-101 inter-rater, 101 
 
 interpretations, types of, 8—9 normalized standard, 73-76 norm-referenced, 8, 62, 182 obtained, 92 raw, 62 scaled, 69 standard, 69 standardized, 321 stanine, 76 T-, 71 true, 92 variance, 95 Wechsler IQ, 71 Wechsler scaled, 76 z-, 70 Section 504 of the Rehabilitation Act (504) of 1973, 17-19, 397, 403 decline in number of students, 18 Selection decisions, 20 Selection ratio, 135 Self-report measures, 383-388 Severity error, 261 Sigma, 49 Simon, Theodore, 72, 333 Spearman-Brown formula, 99 Speech disorders, 400 Standard deviation of a percent, 263 Standard error of estimate, 135 Standard error of kappa, 265 Standard error of measurement, 112-117 evaluating the, 112-117 Standardization, inappropriate, 433 Standardization sample, 7, 64 Standardized administration, 65-66 Standardized test administration, 321 Standard score formula, 69-70 Standards-based interpretation, 80-83 Standards for Education and Psychological Testing (AERA et al., 1999), 14, 91, 124, 126-127, 140-141, 246, 396, 412, 414-415, 424, 435-437, 451-452, 463 Standards for Teacher Competence in Educational Assessment of Students, 22 Stanford Achievement Test Series, Tenth Edition (Stanford 10), 306 Stanford-Binet intelligence scales, 71, 333 Stanford-Binet Intelligence Scales, Fifth Edition (SB5), 85, 332, 349
 
-# 518 INDEX
 
 Stanford Diagnostic Mathematics Test, Fourth Edition (SDMT 4), 310 Stanford Diagnostic Reading Test, Fourth Edition (SDRT 4), 310 State Developed Alternative Assessment (SDAA), 313, 413 Statewide testing programs, 310-315 Statistical significance, 52 Stems, 196 Storytelling techniques, 391 Student cheating, 192, 465 Student Evaluation Standards (JCSEE, 2003), 451 Students with disabilities, 397-403 Synthesis, 174 Table of specifications, 129 development of, 179-181 implementation of, 181-189 Teacher cheating, 458 Teacher Monitor Ratings (TMR), 383 Teacher Report Form (TRF), 381-382 Teaching to the test, 16-17, 27, 318 Technology and assessment, 25-26 Terman, Louis, 333 TerraNova Comprehensive Tests of Basic Skills (CTBS), 305 TerraNova The Second Edition (CAT/6), 305 Testing Office of the American Psychological
 
@@ -11249,7 +11213,6 @@ Youth Self-Report (YSR), 387-388
 
 es viniosten eae F925. ote wat ae et Se ee ee ee . ci Atl "APA ae eis Grr 's 1. alee balan vittanr etd : CEA RE Dih ort SOhuraps cages Ss
 
-#### elie betia oa
 
 vr 41) eet eheeanal Bb atnuns bole wahntaais ALLS Jdaeresat olesatieers brea) anit E seal soewiconentig ARE i'0 es ili shower ie ne bsnl a ° as ee a i aes ae
 
@@ -11263,7 +11226,6 @@ be . \_ iy Pieane
 
 Measurement and Assessment in Education, Second Edition, employs a pragmatic approach to the study of educational tests and measurement so that teachers will understand essential psychometric concepts and be able to apply them in the classroom.
 
-# The principles that guide this text are:
 
 - : / : What essential knowledge and skills do classroom teachers need to conduct student assessments in a professional manner?
 - maa YAV/ a¥elime (OLo tpl rectors] cel amelamsvelUlerelulelarlmetssetscantclalan (eli MUlsr4
@@ -11272,7 +11234,6 @@ i Malis coretelcmar-tacct0l ico Maire MU aye [0(<1 Narel o)elcer-(oarele)(em-Tar
 
 While providing a slightly more technical presentation of measurement and assessment than more basic texts, this text is both approachable and comprehensive. The text includes an introduction to the basic mathematics of measurement, and expands traditional coverage to include a thorough discussion of performance and portfolio assessments, a complete presentation of assessment accommodations for students with disabilities, and a practical discussion of professional best practices in educational measurement.
 
-# HIGHLIGHTS OF THIS TEXT
 
 - ¢ This text is very user friendly, helping students to master the more technical aspects of educational assessment and gain a good understanding of the mathematical concepts needed to master measurement and assessment (Chapters 2-6).
 - Ethical principles, legal standards thoroughly professional (throughout but specifically Chapter
