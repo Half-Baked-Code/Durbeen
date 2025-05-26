@@ -55,6 +55,3 @@ def get_all_course_chunks():
     else:
         print("⚠️ No chunks found.")
     return all_chunks
-
-
-get_all_books_chunks()
