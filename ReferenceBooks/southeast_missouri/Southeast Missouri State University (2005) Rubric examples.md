@@ -1,11 +1,7 @@
 # Southeast Massouri State University Rubric Examples
 
 ## **Rubric Examples\***
-<<<<<<< HEAD
-
-=======
 **TABLE-Content**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Writing Rubric (Johnson Community College)                          | 2  |
 |---------------------------------------------------------------------|----|
 | Subject A Scoring Guide (University of CA)                          | 3  |
@@ -47,10 +43,6 @@
 | Critical Thinking (CA State University, Fresno)                     | 56 |
 | Information Competence (CA State University)                        | 57 |
 | A Rubric for Rubrics (Monmouth University)                          | 58 |
-<<<<<<< HEAD
-
-=======
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 \*Rubrics were taken *verbatim* from campus websites and were sometimes lightly reformatted to fit the printed page.
 
 ## **Writing Rubric**
@@ -86,12 +78,7 @@ http://www.sdcoe.k12.ca.us/score/actbank/subja.htm
 
 ## **California State University, Fresno**
 ### **Scoring Guide for Writing**
-<<<<<<< HEAD
-**TABLE - Scoring Guide for Writing**
-
-=======
 **TABLE-Scoring Guide for Writing**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | **Scoring Level**    | **Knowledge of Conventions**                              | **Clarity and Coherence**                               |   **Rhetorical Choices**                             |
 |------------------    |-----------------------------                          -   |--------------------------|-------------------------     |                    
 | **4 - Accomplished** | In addition to meeting the requirements for a “3,” the    | In addition to meeting the requirements for a 3, writing| In addition to meeting the requirements for a “3,”   |
@@ -116,11 +103,7 @@ http://www.sdcoe.k12.ca.us/score/actbank/subja.htm
 |                      | and/or sentence structure which interfere with comprehens-| and/or sequencing of ideas make reading and             | style/tone, and/or content interfere with            |
 |                      | ion. Style and/or format are inappropriate for the        | understanding difficult.                                | communication. The purpose of the writing is not     |
 |                      | assignment. Fails to demonstrate thoroughness and         |                                                         | achieved Requirements of the assignment have         |
-<<<<<<< HEAD
-|                      | competence in documentation.                              |                                                         | not been fulfilled.                                  |
-=======
 |                      | competence in documentation.                              |                                                         | not been fulfilled.                                  |This Scoring Guide for Writing table outlines a rubric used to evaluate student writing across three key dimensions: Knowledge of Conventions, Clarity and Coherence, and Rhetorical Choices. Each category is assessed on a 4-point scale (1 = Beginning to 4 = Accomplished), with detailed descriptors at each level. The rubric helps educators consistently assess writing quality by identifying strengths and areas for improvement in grammar and mechanics, idea organization, and effectiveness of communication strategie
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 *Date: June 6, 2002*  
 [Source](http://www.csufresno.edu/cetl/assessment/)
@@ -133,12 +116,7 @@ http://www.csufresno.edu/cetl/assessment/ (click on WritingScoring.doc)
 
 ## **California State University, Fresno General Education Scoring Guide for Integrative Science**
 ### Science Assessment Rubric
-<<<<<<< HEAD
-**TABLE - Science Assessment Rubric**
-
-=======
 **TABLE-Science Assessment Rubric**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | **Scoring Level**        | **Science and Society**         | **Basic Concepts and Fundamental Principles** | **Scientific Approach**               |      **Nature of Science**            |
 |--------------------------|---------------------------------|-----------------------------------------------|-------------------------------- ------|----------------------------------     |
 | **4 - Accomplished**     | Develops and defends an informed| Integrates and applies basic scientific       | Demonstrates comprehension of the     | Demonstrates scientific reasoning     | 
@@ -152,11 +130,7 @@ http://www.csufresno.edu/cetl/assessment/ (click on WritingScoring.doc)
 |                          | to communicate its roles.       |                                               | simple conceptualization.             |                                       |
 | **1 - Beginning**        | Does not visualize a role or    | Lacks understanding of basic scientific       | Shows minimal understanding of        | Does not distinguish between          |
 |                          | need for science in human       | concepts and principles.                      | scientific methods.                   | scientific, political, religious, or  | 
-<<<<<<< HEAD
-|                          | affairs.                        |                                               |                                       | ethical statements.                   |
-=======
 |                          | affairs.                        |                                               |                                       | ethical statements.                   |   This Science Assessment Rubric provides a structured framework for evaluating student understanding of science across four key domains: Science and Society, Basic Concepts and Fundamental Principles, Scientific Approach, and Nature of Science. Scored on a 4-point scale (1 = Beginning to 4 = Accomplished), the rubric assesses a student’s ability to connect scientific knowledge with societal contexts, grasp core scientific principles, apply scientific thinking, and reflect on the nature of science. It supports consistent, holistic assessment of scientific literacy and critical reasoning.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 http://www.csufresno.edu/cetl/assessment/ (click on IBScoring.doc)
 
@@ -167,12 +141,7 @@ This table is a Science Assessment Rubric from California State University, Fres
 
 (adapted from: Barbara Walvoord, Winthrop Univ., Virginia Community College System, Univ. of Washington)
 ### Writing Assessment Rubric 
-<<<<<<< HEAD
-**TABLE -  Writing Assessment Rubric**
-
-=======
 **TABLE-Writing Assessment Rubric**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | **Quality Criteria**       | **No/Limited Proficiency**    | **Some Proficiency**                    | **Proficiency**               | **High Proficiency**               | **(Rating)** |
 | **1. Thesis/Focus:**       | Thesis is missing             | Thesis may be obvious or unimaginative  | Thesis is somewhat original   | Develops fresh insight that        |              |
 |     (a) Originality        |                               |                                         |                               | challenges the reader’s thinking;  |              |
@@ -194,11 +163,7 @@ This table is a Science Assessment Rubric from California State University, Fres
 |                            | own ideas. (Possibly uses     | paraphrases may be too long and/or      | idea. Doesn’t overuse quotes, | Combines material from a variety   |              |
 |                            | source material without       |  inconsistently referenced              | but may not always conform to | of sources, incl. pers. observation|              |
 |                            | acknowledgement.)             |                                         | required style manual         | scientific data, authoritative     |              |
-<<<<<<< HEAD
-|                            |                               |                                         |                               | testimony. Doesn’t overuse quotes. |              |
-=======
 |                            |                               |                                         |                               | testimony. Doesn’t overuse quotes. |              |     This Writing Assessment Rubric outlines a comprehensive framework for evaluating student writing across five core quality criteria: Thesis/Focus (Originality and Clarity), Organization, Support/Reasoning (Ideas and Details), and Use of Sources/Documentation. Each criterion is assessed across four proficiency levels—from No/Limited Proficiency to High Proficiency—providing detailed descriptors that reflect a progression from underdeveloped to sophisticated writing. The rubric is designed to guide both instruction and evaluation by emphasizing clarity of purpose, logical structure, depth of reasoning, and ethical integration of sources
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 http://www.neiu.edu/~neassess/gened.htm#rubric
 This table is a writing assessment rubric used to evaluate the quality of a student’s written work across several important criteria. It assesses five main areas: originality and clarity of the thesis or focus, organization of ideas, quality of support and reasoning (including both ideas and details), and the use and documentation of sources. For each of these areas, the rubric outlines four levels of proficiency—No/Limited Proficiency, Some Proficiency, Proficiency, and High Proficiency—each with specific descriptions to guide evaluation. These levels help determine how effectively a student presents a clear and original thesis, organizes their content, supports their arguments with logical and relevant reasoning, and uses sources to enhance their writing without relying too heavily on quotations. The rubric is intended to promote consistent, objective grading and to help students understand the expectations for high-quality academic writing.
@@ -267,11 +232,7 @@ Designates a speech that has clearly not been developed on the assigned topic or
 This rubric is based upon the scoring rubric used by the Writing Outcomes Program at Southeast Missouri State University.
 
 ## **Holistic Critical Thinking Scoring Rubric Facione and Facione**
-<<<<<<< HEAD
-**TABLE - Holistic Critical Thinking Scoring**
-=======
 **TABLE-Holistic Critical Thinking Scoring**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 |   | Consistently does all or almost all of the following:                       |
 |---|-----------------------------------------------------------------------------|
 |   | Accurately interprets evidence, statements, graphics, questions, etc.       |
@@ -305,10 +266,7 @@ This rubric is based upon the scoring rubric used by the Writing Outcomes Progra
 |   | Regardless of the evidence or reasons, maintains or defends views based on  |
 |   | self-interest or preconceptions.                                            |
 |   | Exhibits close-mindedness or hostility to reason.                           |
-<<<<<<< HEAD
-=======
 The Holistic Critical Thinking Scoring Rubric provides a structured framework for assessing the depth and quality of critical thinking. It defines four performance levels—4 (highest) to 1 (lowest)—based on students’ ability to interpret information accurately, evaluate arguments, consider alternative perspectives, draw logical conclusions, and justify reasoning. High scorers demonstrate nuanced analysis, fair-mindedness, and strong justification of conclusions, while lower scorers show bias, weak reasoning, and resistance to evidence. This rubric supports comprehensive evaluation of critical thinking in written, verbal, or interdisciplinary tasks
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 (c) 1994, Peter A. Facione, Noreen C. Facione, and The California Academic Press. 217 La Cruz Ave., Millbrae, CA 94030.
 
@@ -501,30 +459,15 @@ All of the positive features of proficient investigation, plus:
 
 http://www.csulb.edu/divisions/aa/personnel/fcpd/resources/ge/
 
-<<<<<<< HEAD
-| This rubric is designed to make clear the grading process for  written communication by informing you, the writer, what key  elements are expected by the university in a "good" piece of  written work.  Your written work will be evaluated by the criteria below in order  to give you specific feedback to help guide your development as a  writer. Your writing will not be graded point by point by these  items; it will be graded for its overall quality.
-
-![](_page_16_Picture_1.jpeg)
- **Overall Evaluation**
-Excellent Competent Not Acceptable
-
-=======
 ![](_page_16_Picture_1.jpeg), This rubric is designed to make clear the grading process for  written communication by informing you, the writer, what key  elements are expected by the university in a "good" piece of  written work.  Your written work will be evaluated by the criteria below in order  to give you specific feedback to help guide your development as a  writer. Your writing will not be graded point by point by these  items; it will be graded for its overall quality.
  **Overall Evaluation**
 Excellent Competent Not Acceptable
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 **Grade \_\_\_\_\_\_** 
 **Comments**
 
 ## **SUNY Geneseo General Education Rubrics http://gened.geneseo.edu/pdfs/assess\_tools\_revised.pdf**
-<<<<<<< HEAD
-
-### **Social Science Rubric**
-
-=======
 ### **Social Science Rubric**
 **TABLE-Social Science Rubric**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 |               | METHODS OF SOCIAL          | KNOWLEDGE OF                | KNOWLEDGE OF            |
 |---------------|----------------------------|-----------------------------|-------------------------|
 |               | SCIENCE                    | SOCIAL SCIENCE              | PUBLIC ISSUES           |
@@ -562,11 +505,6 @@ Excellent Competent Not Acceptable
 |               | distinguish between the    | distinguish between the     | express the social,     |
 |               | methods of social science  | concepts of social          | political, economic,    |
 |               | and other liberal arts     | science and other liberal   | or moral aspects of a   |
-<<<<<<< HEAD
-|               | disciplines.               | arts disciplines.           | public issue.           |
-
-
-=======
 |               | disciplines.               | arts disciplines.           | public issue.           |                                                                                              The Social Science Rubric evaluates student proficiency across three critical domains: Methods of Social Science, Knowledge of Social Science Concepts, and Understanding of Public Issues. Performance is rated on a 4-point scale:
 Level 4 (Exceeding Expectations) reflects a deep understanding of multiple social science methods, models, and public issues.
 Level 3 (Meeting Expectations) indicates a solid grasp of at least one method, concept, and issue.
@@ -575,7 +513,6 @@ Level 1 (Not Meeting Expectations) represents a lack of fundamental differentiat
 The rubric supports educators in assessing analytical skills, conceptual knowledge, and real-world application of social science principles.
 
 **TABLE-Fine Arts Rubric**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 |             | Portfolio/ Performance      | Craftsmanship             | Interpretation /       |
 |-------------|-----------------------------|---------------------------|------------------------|
 |             |                             |                           | Analysis               |
@@ -633,16 +570,12 @@ The rubric supports educators in assessing analytical skills, conceptual knowled
 |             | work produced will be of    | knowledge of the uses     | form at any level.     |
 |             | sub-standard quality,       | and development of the    |                        |
 |             | and be presented in a       | medium chosen.            |                        |
-<<<<<<< HEAD
-|             | nonprofessional manner.     |                           |                        |
-=======
 |             | nonprofessional manner.     |                           |                        |                                                                                                   The Fine Arts Rubric evaluates student performance in three core dimensions—Portfolio/Performance, Craftsmanship, and Interpretation/Analysis—using a four-level scale:
 Level 4 (Exceeding Expectations): Demonstrates professional-quality work, deep creative insight, mastery of diverse techniques, and high-level analytical interpretation of the art form.
 Level 3 (Meeting Expectations): Shows proficient understanding and execution, solid technical skills, and competent analysis appropriate to the medium.
 Level 2 (Approaching Expectations): Exhibits developing skill and creativity, emerging technical knowledge, and beginning ability to interpret and analyze.
 Level 1 (Not Meeting Expectations): Reflects inconsistent or deficient understanding, poor technical execution, and limited or inaccurate interpretive analysis.
 This rubric guides instructors in assessing artistic creativity, technical proficiency, and critical engagement with fine arts work.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 
 ## **Palomar College Benchmarks for Core Skills – First Draft**
 
@@ -1683,11 +1616,7 @@ This rubric evaluates a student's level of critical thinking based on five key d
 
 Downloaded 3/2/05 from http://www.csufresno.edu/cetl/assessment/CTScoring.doc 
 
-<<<<<<< HEAD
-**TABLE - Scoring Guide for Critical Thinking**
-=======
 **TABLE-Scoring Guide for Critical Thinking**
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 | Scoring Level        | Interpretation                                     | Analysis & Evaluation                                            | Presentation                                 |
 |----------------------|----------------------------------------------------|------------------------------------------------------------------|----------------------------------------------|
 | **4 - Accomplished** | Analyzes insightful questions                      | Examines conclusions                                             | Argues succinctly 
@@ -1710,23 +1639,6 @@ Downloaded 3/2/05 from http://www.csufresno.edu/cetl/assessment/CTScoring.doc
 |                      | Misses major content areas                         | Overlooks differences                                            | Excludes data
 |                      | Detects no inconsistencies                         | Repeats data                                                     | Draws faulty conclusions
 |                      | Chooses biased sources                             | Omits research                                                   | Shows intellectual dishonesty |
-<<<<<<< HEAD
-
-This scoring guide provides a framework for assessing students' critical thinking abilities across three major skill areas: Interpretation, Analysis & Evaluation, and Presentation. It uses four levels of performance—Beginning, Developing, Competent, and Accomplished—to describe how effectively a student interprets information, evaluates arguments, and presents their ideas. The guide is designed to promote intellectual honesty, coherence, and depth in student work.
-
-### Rubrics for Assessing Information Competence in the California State University
-![](_page_57_Picture_1.jpeg)
-This rubric evaluates students’ information literacy across five core competencies, based on the ACRL (Association of College & Research Libraries) standards. These competencies include the ability to determine the extent of information needed, access it effectively, evaluate sources critically, use information for a specific purpose, and understand legal, ethical, and societal issues in using information. The rubric classifies performance into three levels: Beginner, Proficient, and Advanced, to help educators assess students' research skills and responsible information usage.
-\*Prepared by the CSU Information Competence Initiative, October 2002, based on the 2000 ACRL *Information Literacy Competency Standards For Higher Education.* For more information, see http://www.calstate.edu/LS/1\_rubric.doc.
-
-### **A Rubric for Rubrics:** *A Tool for Assessing the Quality and Use of Rubrics in Education*
-
-Downloaded July 9, 2005 from http://its.monmouth.edu/facultyresourcecenter/Rubrics/A%20Rubric%20for%20Rubrics.htm 
-
-![](_page_58_Picture_1.jpeg)                                                                                                  |
-This meta-rubric, developed by Dr. Bonnie B. Mullinix, is a tool for evaluating the effectiveness and implementation of rubrics in educational settings. It includes seven criteria: clarity of criteria, distinction between levels, reliability of scoring, clarity of expectations, support for metacognition, and learner engagement in rubric development. Each criterion is rated on a four-level scale from Unacceptable to Exemplary, helping instructors reflect on how rubrics guide learning, scoring consistency, and student involvement.
-
-=======
 This scoring guide provides a framework for assessing students' critical thinking abilities across three major skill areas: Interpretation, Analysis & Evaluation, and Presentation. It uses four levels of performance—Beginning, Developing, Competent, and Accomplished—to describe how effectively a student interprets information, evaluates arguments, and presents their ideas. The guide is designed to promote intellectual honesty, coherence, and depth in student work.
 
 ### Rubrics for Assessing Information Competence in the California State University
@@ -1736,5 +1648,4 @@ This scoring guide provides a framework for assessing students' critical thinkin
 ### **A Rubric for Rubrics:** *A Tool for Assessing the Quality and Use of Rubrics in Education*
 Downloaded July 9, 2005 from http://its.monmouth.edu/facultyresourcecenter/Rubrics/A%20Rubric%20for%20Rubrics.htm 
 ![](_page_58_Picture_1.jpeg),This meta-rubric, developed by Dr. Bonnie B. Mullinix, is a tool for evaluating the effectiveness and implementation of rubrics in educational settings. It includes seven criteria: clarity of criteria, distinction between levels, reliability of scoring, clarity of expectations, support for metacognition, and learner engagement in rubric development. Each criterion is rated on a four-level scale from Unacceptable to Exemplary, helping instructors reflect on how rubrics guide learning, scoring consistency, and student involvement.
->>>>>>> e1ece1f80731feb293b2bed48a936256ffac8d00
 *Dr. Bonnie B. Mullinix © Monmouth University December 2003*

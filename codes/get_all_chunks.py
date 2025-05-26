@@ -28,13 +28,13 @@ def get_all_books_chunks():
     all_chunks = []
 
     researcharticle_chunks = load_chunks_from_folder(
-        r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\ResearchArticles\chunks"
+        r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\chunks"
     )
     referencebook_chunks = load_chunks_from_folder(
-        r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\ReferenceBooks\chunks"
+        r"C:\Users\user\Desktop\Tasks\Durbeen\ReferenceBooks\chunks"
     )
     corebook_chunks = load_chunks_from_folder(
-        r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\CoreTextbooks\chunks"
+        r"C:\Users\user\Desktop\Tasks\Durbeen\ResearchArticles\chunks"
     )
 
     # Combine all chunks
@@ -43,7 +43,18 @@ def get_all_books_chunks():
     all_chunks.extend(corebook_chunks)
 
     print(f"Total chunks combined: {len(all_chunks)}")
+
+    if all_chunks:
+        print("\n🔝 Top 5 chunks:")
+        for i, chunk in enumerate(all_chunks[:5], start=1):
+            print(f"{i}. {chunk}")
+
+        print("\n🔚 Last 5 chunks:")
+        for i, chunk in enumerate(all_chunks[-5:], start=len(all_chunks) - 4):
+            print(f"{i}. {chunk}")
+    else:
+        print("⚠️ No chunks found.")
     return all_chunks
 
 
-# get_all_books_chunks()
+get_all_books_chunks()
