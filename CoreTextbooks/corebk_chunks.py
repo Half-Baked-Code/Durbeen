@@ -3,7 +3,7 @@ import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 with open(
-    r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\CoreTextbooks\measure_and_assess_teaching\measurement_and_assement_in_teaching.MD",
+    r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\measure_and_asess_education\Cecil Reynolds Ronald Livingston Victor Willson - Measurement and Assessment in Education-Pearson (2008).md",
     "r",
     encoding="utf-8",
 ) as f:
@@ -158,7 +158,7 @@ while i < len(lines):
 flush_current_text()
 
 # Save to JSON
-with open("measure_assess_teaching.json", "w", encoding="utf-8") as f:
+with open("measure_assess_education.json", "w", encoding="utf-8") as f:
     json.dump(chunks, f, indent=2, ensure_ascii=False)
 
 print(f"✅ {len(chunks)} chunks saved to clay_and_root_chunks.json.")
