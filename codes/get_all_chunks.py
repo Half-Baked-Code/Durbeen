@@ -28,19 +28,19 @@ def get_all_course_chunks():
     all_chunks = []
 
     researcharticle_chunks = load_chunks_from_folder(
-        r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\chunks"
-    )
-    referencebook_chunks = load_chunks_from_folder(
-        r"C:\Users\user\Desktop\Tasks\Durbeen\ReferenceBooks\chunks"
-    )
-    corebook_chunks = load_chunks_from_folder(
         r"C:\Users\user\Desktop\Tasks\Durbeen\ResearchArticles\chunks"
     )
+    # referencebook_chunks = load_chunks_from_folder(
+    #     r"C:\Users\user\Desktop\Tasks\Durbeen\ReferenceBooks\chunks"
+    # )
+    # corebook_chunks = load_chunks_from_folder(
+    #   r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\chunks"
+    # )
 
     # Combine all chunks
     all_chunks.extend(researcharticle_chunks)
-    all_chunks.extend(referencebook_chunks)
-    all_chunks.extend(corebook_chunks)
+    # all_chunks.extend(referencebook_chunks)
+    # all_chunks.extend(corebook_chunks)
 
     print(f"Total chunks combined: {len(all_chunks)}")
 
@@ -55,3 +55,6 @@ def get_all_course_chunks():
     else:
         print("⚠️ No chunks found.")
     return all_chunks
+
+
+get_all_course_chunks()
