@@ -44,17 +44,14 @@ def get_all_course_chunks():
 
     print(f"Total chunks combined: {len(all_chunks)}")
 
-    if all_chunks:
-        print("\n🔝 Top 5 chunks:")
-        for i, chunk in enumerate(all_chunks[:5], start=1):
-            print(f"{i}. {chunk}")
+    # if all_chunks:
+    #     print("\n🔝 Top 5 chunks:")
+    #     for i, chunk in enumerate(all_chunks[:5], start=1):
+    #         print(f"{i}. {chunk}")
 
-        print("\n🔚 Last 5 chunks:")
-        for i, chunk in enumerate(all_chunks[-5:], start=len(all_chunks) - 4):
-            print(f"{i}. {chunk}")
-    else:
-        print("⚠️ No chunks found.")
+    #     print("\n🔚 Last 5 chunks:")
+    #     for i, chunk in enumerate(all_chunks[-5:], start=len(all_chunks) - 4):
+    #         print(f"{i}. {chunk}")
+    # else:
+    #     print("⚠️ No chunks found.")
     return all_chunks
-
-
-get_all_course_chunks()
