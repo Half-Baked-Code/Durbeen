@@ -20,5 +20,5 @@ def add_chunks_to_db(api_url):
             print(f"Error: {e}")
 
 
-api_endpoint = "http://192.168.1.9:7077/durbeen_bot/add"
+api_endpoint = "http://192.168.1.9:7077/database/add"
 add_chunks_to_db(api_endpoint)
