@@ -29,5 +29,3 @@ def query_database(query, limit=10):
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
         return None
-
-
