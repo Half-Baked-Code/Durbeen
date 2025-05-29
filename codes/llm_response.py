@@ -5,13 +5,11 @@ import openai
 from retrieve_chunks import query_database
 
 
-def get_response():
+def get_response(question):
     load_dotenv()
     openai_api_key = os.getenv("OPENAI_API_KEY")
 
-    chunks, query = query_database(
-        query="What is a potential pitfall of including superfluous images in exam questions?"
-    )
+    chunks = query_database(query=question)
 
     # Define system and user prompts
     system_prompt = """You are an intelligent academic assistant. Your goal is to:
@@ -31,7 +29,7 @@ Chunks:
 {chunks}
 
 User's Question:
-{query}
+{question}
 """
 
     client = openai.OpenAI(api_key=openai_api_key)

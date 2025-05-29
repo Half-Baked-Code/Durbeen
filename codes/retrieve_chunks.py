@@ -20,12 +20,12 @@ def query_database(query, limit=10):
             print(
                 f"\nTime taken to retrieve chunks: {end_time - start_time:.2f} seconds"
             )
-            return retrieved_chunks, query
+            return retrieved_chunks
         else:
             print(
                 f"Failed to retrieve chunks. Status: {response.status_code}, Response: {response.text}"
             )
-            return None, query
+            return None
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
         return None

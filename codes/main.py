@@ -30,7 +30,9 @@ class BotResponse(BaseModel):
 async def ask_question(payload: QuestionRequest):
     print(f"Received question: {payload.question}")
     print(f"Timestamp: {payload.timestamp}")
-    llmreply = get_response()  # Assuming this function is defined elsewhere
+    llmreply = get_response(
+        question=payload.question
+    )  # Assuming this function is defined elsewhere
     return BotResponse(
         # reply=f"Thanks for your question: '{payload.question}'. I'm processing it!",
         reply=llmreply,
