@@ -2,6 +2,9 @@ from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from datetime import datetime
 from fastapi.middleware.cors import CORSMiddleware
+from mindmap import generate_mind_map
+from faq import generate_faq
+from studyguide import generate_studyguide
 from llm_response import get_response
 
 app = FastAPI()
@@ -47,19 +50,19 @@ class DocumentRequest(BaseModel):
 @app.post("/study-guide")
 async def generate_study_guide(payload: DocumentRequest):
     print(f"Generating study guide for: {payload.document_path}")
-    response = get_response(document_path=payload.document_path, task="study_guide")
+    response = generate_studyguide(doc_path=payload.document_path)
     return {"result": response}
 
 
 @app.post("/faq")
-async def generate_faq(payload: DocumentRequest):
+async def generatefaq(payload: DocumentRequest):
     print(f"Generating FAQ for: {payload.document_path}")
-    response = get_response(document_path=payload.document_path, task="faq")
+    response = generate_faq(doc_path=payload.document_path)
     return {"result": response}
 
 
-@app.post("/briefing-doc")
+@app.post("/mind-map")
 async def generate_briefing_doc(payload: DocumentRequest):
     print(f"Generating briefing doc for: {payload.document_path}")
-    response = get_response(document_path=payload.document_path, task="briefing_doc")
+    response = generate_mind_map(doc_path=payload.document_path)
     return {"result": response}

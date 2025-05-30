@@ -1,6 +1,11 @@
+import os
 from docx import Document as DocxDocument
 from PyPDF2 import PdfReader
+from dotenv import load_dotenv
 import openai
+
+load_dotenv()
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
 def extract_text_from_doc(doc_path):
@@ -27,9 +32,16 @@ Content:
 
 Return only the list of FAQs in this format:
 Q: ...
+\n
 A: ...
 """
-    response = openai.ChatCompletion.create(
-        model="gpt-4", messages=[{"role": "user", "content": prompt}], temperature=0.6
+    client = openai.OpenAI(api_key=openai_api_key)
+    response = client.chat.completions.create(
+        model="gpt-4.1",
+        messages=[
+            {"role": "system", "content": prompt},
+        ],
+        temperature=0.3,
     )
-    return response["choices"][0]["message"]["content"]
+    print(response.choices[0].message.content)
+    return response.choices[0].message.content

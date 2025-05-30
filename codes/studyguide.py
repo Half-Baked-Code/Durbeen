@@ -1,6 +1,12 @@
+import os
 from docx import Document as DocxDocument
 from PyPDF2 import PdfReader
 import openai
+
+from dotenv import load_dotenv
+
+load_dotenv()
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
 def extract_text_from_doc(doc_path):
@@ -17,7 +23,7 @@ def extract_text_from_doc(doc_path):
         raise ValueError("Unsupported file type")
 
 
-def generate_study_guide(doc_path):
+def generate_studyguide(doc_path):
     content = extract_text_from_doc(doc_path)
     prompt = f"""
 You are a study assistant. Read the following content and create a comprehensive study guide that includes:
@@ -33,7 +39,13 @@ Content:
 
 Return only the study guide.
 """
-    response = openai.ChatCompletion.create(
-        model="gpt-4", messages=[{"role": "user", "content": prompt}], temperature=0.5
+    client = openai.OpenAI(api_key=openai_api_key)
+    response = client.chat.completions.create(
+        model="gpt-4.1",
+        messages=[
+            {"role": "system", "content": prompt},
+        ],
+        temperature=0.3,
     )
-    return response["choices"][0]["message"]["content"]
+    print(response.choices[0].message.content)
+    return response.choices[0].message.content
