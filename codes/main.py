@@ -38,3 +38,28 @@ async def ask_question(payload: QuestionRequest):
         reply=llmreply,
         received_at=datetime.utcnow().isoformat(),
     )
+
+
+class DocumentRequest(BaseModel):
+    document_path: str
+
+
+@app.post("/study-guide")
+async def generate_study_guide(payload: DocumentRequest):
+    print(f"Generating study guide for: {payload.document_path}")
+    response = get_response(document_path=payload.document_path, task="study_guide")
+    return {"result": response}
+
+
+@app.post("/faq")
+async def generate_faq(payload: DocumentRequest):
+    print(f"Generating FAQ for: {payload.document_path}")
+    response = get_response(document_path=payload.document_path, task="faq")
+    return {"result": response}
+
+
+@app.post("/briefing-doc")
+async def generate_briefing_doc(payload: DocumentRequest):
+    print(f"Generating briefing doc for: {payload.document_path}")
+    response = get_response(document_path=payload.document_path, task="briefing_doc")
+    return {"result": response}
