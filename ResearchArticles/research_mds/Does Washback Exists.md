@@ -1,9 +1,5 @@
-
-
 **Page 1**
-
-
-## Does Washback Exist?
+# Does Washback Exist?
 J. CHARLES ALDERSON and DIANNE WALL Lancaster University The notion of 'washback' is common in the language teaching and testing literature, and tests are held to be powerful determiners of what happens in classrooms. Claims are made for both negative and positive washback, and some writers go so far as to claim that a test's validity should be measured by the degree to which it has a beneficial effect on teaching. However, very little evidence has been presented to support the argument that tests influence teaching, and what evidence has appeared tends to be based on teachers' accounts of what happens in the classroom rather than on observations of teaching and learning. This article explores the notion of washback and advances a series of possible Washback Hypotheses. It then reviews the empirical research in general education and in language education to see what insights can be gained into whether washback actually exists, how it can be measured, and what accounts for the form it takes. The article concludes with a series of proposals for further research into a phenomenon on whose import- ance all seem to be agreed, but whose nature and presence have been little studied. 
 ## INTRODUCTION 
 The notion that testing influences teaching is commonplace in the educational and applied linguistics literature. This phenomenon is referred to as 'backwash' in general education circles, but it has come to be known as 'washback' in British applied linguistics. We will use the term 'washback', as this is the tradition in our field, but we see no reason, semantic or pragmatic, for preferring either label. 

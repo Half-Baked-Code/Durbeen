@@ -195,6 +195,7 @@ class StudyGuide:
             For `note_type = "FAQ"`:
                 - Docs: ["Property Tax FAQs"] → Title: Frequently Asked Questions on Property Tax
                 - Docs: ["Filing Rules", "Digital Receipts", "Taxpayer Rights"] → Title: Top Taxpayer Questions: Filing, Digital Receipts & Rights
+                - Donot give like this:  FAQs from Documents F, A, and Q
             Now generate the title accordingly.
 """
 

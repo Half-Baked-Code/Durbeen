@@ -3,7 +3,7 @@ import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 with open(
-    r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\measure_and_asess_education\Cecil Reynolds Ronald Livingston Victor Willson - Measurement and Assessment in Education-Pearson (2008).md",
+    r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\CoreTextbooks\measure_and_asess_education\Cecil Reynolds Ronald Livingston Victor Willson - Measurement and Assessment in Education-Pearson (2008).md",
     "r",
     encoding="utf-8",
 ) as f:
@@ -17,10 +17,10 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 
 source_pattern = r"^# (.+)"
-book_section_pattern = r"^## (.+)"
-chapter_pattern = r"^### (.+)"
-section_pattern = r"^#### (.+)"
-subsection_pattern = r"^##### (.+)"
+# book_section_pattern = r"^## (.+)"
+chapter_pattern = r"^## (.+)"
+section_pattern = r"^### (.+)"
+subsection_pattern = r"^#### (.+)"
 page_pattern = r"\*\*Page (\d+)\*\*"
 table_pattern = r"\*\*TABLE-[^\*]+\*\*"
 
@@ -28,7 +28,7 @@ chunks = []
 chunk_id_counter = 1
 current_source = None
 current_page = None
-current_book_section = None
+# current_book_section = None
 current_chapter = None
 current_section = None
 current_subsection = None
@@ -78,7 +78,7 @@ def flush_current_text():
             {
                 "source": current_source or "Unspecified",
                 "page": current_page or "Unspecified",
-                "book_section": current_book_section or "Null",
+                # "book_section": current_book_section or "Null",
                 "chapter": current_chapter or "Null",
                 "section": current_section or "Null",
                 "subsection": current_subsection or "Null",
@@ -96,12 +96,12 @@ while i < len(lines):
         flush_current_text()
         current_source = re.match(source_pattern, line).group(1)
 
-    elif re.match(book_section_pattern, line):
-        flush_current_text()
-        current_book_section = re.match(book_section_pattern, line).group(1)
-        current_chapter = None
-        current_section = None
-        current_subsection = None
+    # elif re.match(book_section_pattern, line):
+    #     flush_current_text()
+    #     current_book_section = re.match(book_section_pattern, line).group(1)
+    #     current_chapter = None
+    #     current_section = None
+    #     current_subsection = None
 
     elif re.match(chapter_pattern, line):
         flush_current_text()
@@ -141,7 +141,7 @@ while i < len(lines):
             {
                 "source": current_source or "Unspecified",
                 "page": current_page or "Unspecified",
-                "book_section": current_book_section or "Null",
+                # "book_section": current_book_section or "Null",
                 "chapter": current_chapter or "Null",
                 "section": current_section or "Null",
                 "subsection": current_subsection or "Null",

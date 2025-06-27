@@ -3,3 +3,6 @@ CoreTextbooks/measure_and_assess_teaching/M. David Miller, Robert L. Linn, Norma
 CoreTextbooks/measure_and_asess_education/Cecil Reynolds, Ronald Livingston, Victor Willson - Measurement and Assessment in Education-Pearson (2008).pdf
 .env
 codes/__pycache__/
+audio-files/
+static/
+DockerFile
