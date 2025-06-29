@@ -2,6 +2,7 @@ import time
 import requests
 
 
+# this function retrieves chunks from the API based on a source name and chunk ID, used to fetch content relevant to highlighting text when user clicks on the hyperlink
 def get_chunk(source, chunkid):
     params = {"source_name": source, "chunkid": chunkid}
     api_url = f"http://rag-api.ai-iscp.com//durbeen_bot/get_chunk"

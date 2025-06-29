@@ -25,20 +25,13 @@ def load_chunks_from_folder(folder_path):
 
 def get_all_course_chunks():
     all_chunks = []
-
-    researcharticle_chunks = load_chunks_from_folder(
-        r"C:\Users\user\Desktop\Tasks\Durbeen\ResearchArticles\chunks"
-    )
-    # referencebook_chunks = load_chunks_from_folder(
-    #     r"C:\Users\user\Desktop\Tasks\Durbeen\ReferenceBooks\chunks"
-    # )
-    # corebook_chunks = load_chunks_from_folder(
-    #   r"C:\Users\user\Desktop\Tasks\Durbeen\CoreTextbooks\chunks"
-    # )
+    researcharticle_chunks = load_chunks_from_folder(r"..\ResearchArticles\chunks")
+    referencebook_chunks = load_chunks_from_folder(r"..\ReferenceBooks\chunks")
+    corebook_chunks = load_chunks_from_folder(r"..\CoreTextbooks\chunks")
 
     all_chunks.extend(researcharticle_chunks)
-    # all_chunks.extend(referencebook_chunks)
-    # all_chunks.extend(corebook_chunks)
+    all_chunks.extend(referencebook_chunks)
+    all_chunks.extend(corebook_chunks)
 
     print(f"Total chunks combined: {len(all_chunks)}")
     return all_chunks
@@ -79,3 +72,12 @@ add_chunks_to_db(api_endpoint)
 # Loaded 61 chunks from ongoing_issues_chunks.json.
 # Loaded 51 chunks from portfolio_purposes_chunks.json.
 # Loaded 55 chunks from threats_to_valid_use_chunks.json.
+
+# Loaded 746 chunks from classroom_assessment_for_student_learning_chunks.json.
+# Loaded 177 chunks from clay_and_root_chunks.json.
+# Loaded 336 chunks from scoring_rubrics_in_classroom.json.
+# Loaded 157 chunks from southeast_missouri_chunks.json.
+# Loaded 662 chunks from standards_for_edu_psysch_testing_chunks.json.
+
+# Loaded 1209 chunks from measure_assess_education.json.
+# Loaded 1189 chunks from measure_assess_teaching.json.

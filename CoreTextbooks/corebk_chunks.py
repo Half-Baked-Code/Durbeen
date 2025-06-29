@@ -3,7 +3,7 @@ import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 with open(
-    r"C:\Users\Maham Jafri\Documents\Office Tasks\Durbeen\CoreTextbooks\measure_and_asess_education\Cecil Reynolds Ronald Livingston Victor Willson - Measurement and Assessment in Education-Pearson (2008).md",
+    r"measure_and_asess_education\Cecil Reynolds Ronald Livingston Victor Willson - Measurement and Assessment in Education-Pearson (2008).md",
     "r",
     encoding="utf-8",
 ) as f:
