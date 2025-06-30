@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
+ 
 class Podcast:
     speaker_voice_map = {"David": "ash", "Marina": "nova"}
 
