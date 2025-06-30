@@ -77,6 +77,18 @@ class ChunkRequest(BaseModel):
     chunkid: str
 
 
+class FilterDocument(BaseModel):
+    source: str
+    chapter: Optional[str] = None
+
+
+class QueryWithFilterRequest(BaseModel):
+    question: str
+    timestamp: str
+    conversation: List[QAItem] = []
+    selectedDocs: List[FilterDocument] = []
+
+
 # ==== ENDPOINTS ====
 
 
@@ -90,6 +102,31 @@ async def ask_question(payload: QuestionRequest):
     llmreply = await run_in_threadpool(
         chatbot.get_response, payload.question, payload.conversation
     )
+    return BotResponse(reply=llmreply, received_at=datetime.utcnow().isoformat())
+
+
+@app.post("/query_with_filter", response_model=BotResponse)
+async def query_with_filter(payload: QueryWithFilterRequest):
+    print(payload.selectedDocs)
+
+    source_chapter_list = [
+        {"source": doc.source, "chapter": doc.chapter} for doc in payload.selectedDocs
+    ]
+
+    print(f"Question: {payload.question}")
+    print(f"Source-Chapter List: {source_chapter_list}")
+    print(
+        f"Conversation History: {[(i.question, i.answer) for i in payload.conversation]}"
+    )
+
+    # ✅ Pass source_chapter_list as third argument directly
+    llmreply = await run_in_threadpool(
+        chatbot.get_response_with_docs,
+        payload.question,
+        payload.conversation,
+        source_chapter_list,
+    )
+
     return BotResponse(reply=llmreply, received_at=datetime.utcnow().isoformat())
 
 
