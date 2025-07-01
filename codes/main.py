@@ -135,6 +135,7 @@ async def get_relevant_chunk(payload: ChunkRequest):
     print(f"Received source: {payload.source}")
     print(f"Received chunk: {payload.chunkid}")
     chunk = await run_in_threadpool(get_chunk, payload.source, payload.chunkid)
+    print(chunk)
     return chunk
 
 

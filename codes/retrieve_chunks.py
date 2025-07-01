@@ -15,13 +15,13 @@ def get_chunk(source, chunkid):
             print(
                 f"\nTime taken to retrieve chunks: {end_time - start_time:.2f} seconds"
             )
-            print(data)
+            # print(data)
             return data
         else:
             print(
                 f"Failed to retrieve chunks. Status: {response.status_code}, Response: {response.text}"
             )
-            print(data)
+            # print(data)
             return None
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
