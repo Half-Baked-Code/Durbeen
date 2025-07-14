@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
- 
+
 class Podcast:
     speaker_voice_map = {"David": "ash", "Marina": "nova"}
 
@@ -195,7 +195,10 @@ Do not include any commentary, titles, explanations, or markdown. Only return th
         self.merge_audios("audio-files", output_path)
 
         # Return path for frontend (URL)
-        return f"/static/audio/{output_filename}"
+        # return f"/static/audio/{output_filename}"
+        with open(output_path, "rb") as audio_file:
+            audio_bytes = audio_file.read()
+        return audio_bytes
 
     def generate_podcast(self, language="punjabi", md_file_paths=None):
         if md_file_paths is None or not md_file_paths:
@@ -208,6 +211,7 @@ Do not include any commentary, titles, explanations, or markdown. Only return th
             return
 
         conversation = self.generate_conversation(article_text, language)
-        outputfilepath = self.generate_audio(conversation, language, md_file_paths)
-
-        return outputfilepath
+        # outputfilepath = self.generate_audio(conversation, language, md_file_paths)
+        # return outputfilepath
+        audio_content = self.generate_audio(conversation, language, md_file_paths)
+        return audio_content

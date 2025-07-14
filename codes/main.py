@@ -1,7 +1,9 @@
+from io import BytesIO
 import os
 import tempfile
 from typing import List, Optional, Dict
 from fastapi import FastAPI, File, UploadFile, Response
+from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.concurrency import run_in_threadpool
@@ -56,6 +58,7 @@ class SelectedDocument(BaseModel):
     id: int
     name: str
     path: str
+    source: str
 
 
 class DocumentRequest(BaseModel):
@@ -96,6 +99,7 @@ class QueryWithFilterRequest(BaseModel):
 async def ask_question(payload: QuestionRequest):
     print(f"Received question: {payload.question}")
     print("Conversation history:")
+    print(payload.conversation)
     for item in payload.conversation:
         print(f"Q: {item.question}\nA: {item.answer}")
 
@@ -157,6 +161,7 @@ async def generate_study_guide(payload: DocumentRequest):
 
 @app.post("/faq")
 async def generate_faq_endpoint(payload: DocumentRequest):
+    print(payload)
     doc_paths = [doc.path for doc in payload.selectedDocs]
     print("Generating FAQ for:", doc_paths)
     response = await run_in_threadpool(study_tool.generate_faq, doc_paths)
@@ -186,13 +191,29 @@ async def transcribe_audio(audio: UploadFile = File(...)):
     return {"transcription": transcription}
 
 
+# @app.post("/podcast")
+# async def set_language(payload: PodcastRequest):
+#     language = payload.language
+#     doc_paths = [doc.path for doc in payload.selectedDocs]
+#     print(f"Generating podcast in {language} for:", doc_paths)
+#     audiopath = await run_in_threadpool(podcast.generate_podcast, language, doc_paths)
+#     print(audiopath)
+#     return {"audio_url": f"http://127.0.0.1:8000{audiopath}"}
+
+
 @app.post("/podcast")
 async def set_language(payload: PodcastRequest):
     language = payload.language
     doc_paths = [doc.path for doc in payload.selectedDocs]
     print(f"Generating podcast in {language} for:", doc_paths)
-    audiopath = await run_in_threadpool(podcast.generate_podcast, language, doc_paths)
-    return {"audio_url": f"http://127.0.0.1:8000{audiopath}"}
+
+    # Directly get audio bytes from generate_podcast
+    audio_bytes = await run_in_threadpool(podcast.generate_podcast, language, doc_paths)
+
+    if not audio_bytes:
+        return {"error": "Failed to generate audio"}
+
+    return StreamingResponse(BytesIO(audio_bytes), media_type="audio/mpeg")
 
 
 @app.post("/generate-audio/")
